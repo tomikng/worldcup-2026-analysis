@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-11",
+  "collected_at": "2026-06-10T10:53:00Z",
+  "matches": [
+    {
+      "match_id": "wc-001",
+      "h2h": {"home": 1.50, "draw": 4.33, "away": 7.50},
+      "totals": {"line": 2.5, "over": 2.00, "under": 1.85},
+      "btts": {"yes": 2.15, "no": 1.70},
+      "sources": [
+        "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
+        "https://www.espn.com/soccer/odds/_/gameId/760415"
+      ]
+    },
+    {
+      "match_id": "wc-002",
+      "h2h": {"home": 2.70, "draw": 3.25, "away": 3.00},
+      "totals": {"line": 2.5, "over": 2.30, "under": 1.67},
+      "btts": {"yes": 2.00, "no": 1.91},
+      "sources": [
+        "https://www.oddschecker.com/football/world-cup/south-korea-v-czech-republic/winner",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_kor_cze",
+        "https://www.sportinglife.com/free-bets/news/south-korea-vs-czechia-world-cup-2026/698"
+      ]
+    }
+  ]
+}

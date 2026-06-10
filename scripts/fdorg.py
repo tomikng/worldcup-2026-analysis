@@ -5,7 +5,7 @@ import os
 import sys
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 API_BASE = "https://api.football-data.org/v4"
@@ -20,6 +20,15 @@ EXIT_NO_TOKEN = 2
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def in_matchday_window(kickoff_iso: str, date: str) -> bool:
+    """A matchday YYYY-MM-DD covers kickoffs from 06:00 UTC that day until
+    05:59 UTC the next day, so North-America evening games (00:00-05:59 UTC)
+    count toward the previous local matchday."""
+    kickoff = datetime.fromisoformat(kickoff_iso.replace("Z", "+00:00"))
+    start = datetime.fromisoformat(f"{date}T06:00:00+00:00")
+    return start <= kickoff < start + timedelta(days=1)
 
 
 def load_token() -> str | None:
@@ -39,8 +48,12 @@ def load_token() -> str | None:
 
 
 def fetch_matches(date: str, token: str) -> list[dict]:
-    """All WC matches with kickoff on the given UTC date (YYYY-MM-DD)."""
-    url = f"{API_BASE}/competitions/{COMPETITION}/matches?dateFrom={date}&dateTo={date}"
+    """All WC matches in the matchday window for the given date (06:00 UTC
+    that day to 05:59 UTC the next), so evening games in North America that
+    cross UTC midnight stay on their local matchday."""
+    next_day = (datetime.fromisoformat(date) + timedelta(days=1)).strftime("%Y-%m-%d")
+    url = (f"{API_BASE}/competitions/{COMPETITION}/matches"
+           f"?dateFrom={date}&dateTo={next_day}")
     req = urllib.request.Request(url, headers={"X-Auth-Token": token})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
@@ -52,7 +65,8 @@ def fetch_matches(date: str, token: str) -> list[dict]:
     except urllib.error.URLError as e:
         print(f"football-data.org unreachable: {e.reason}", file=sys.stderr)
         sys.exit(EXIT_ERROR)
-    return payload.get("matches", [])
+    return [m for m in payload.get("matches", [])
+            if in_matchday_window(m["utcDate"], date)]
 
 
 def write_json(path: Path, obj: dict) -> None:

@@ -1,0 +1,49 @@
+{
+  "match_id": "wc-002",
+  "date": "2026-06-11",
+  "home": "South Korea",
+  "away": "Czechia",
+  "kickoff_utc": "2026-06-12T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_A",
+  "venue": "Estadio Akron, Guadalajara",
+  "analysis": {
+    "summary": "Opening Group A fixture between an in-form, settled South Korea and a Czechia side at their first World Cup since 2006 under Miroslav Koubek, who has coached only two competitive matches. Korea were AFC's only unbeaten qualifier and won both US warm-ups; Czechia reached the finals via back-to-back playoff penalty shootouts and rely heavily on set pieces and crosses to Patrik Schick. Altitude in Guadalajara (~1,560 m) is expected to favour Korea, who have been training at altitude while Czechia prepared in Dallas. A tight, low-scoring game is the most likely shape, with Korea's superior attacking talent against Czechia's dead-ball threat.",
+    "home_form": "Unbeaten through AFC qualifying (topped groups in Rounds Two and Three, AFC's only undefeated side). Pre-tournament friendlies: 5-0 v Trinidad and Tobago (May 30, Son and Cho Gue-sung 2 each) and 1-0 v El Salvador (Jun 3, Lee Dong-gyeong free kick). Caveat: zero open-play goals across the March friendlies v Ivory Coast and Austria.",
+    "away_form": "First World Cup since 2006. Qualified via UEFA playoffs, beating Republic of Ireland 4-3 and Denmark 3-1 on penalties. New coach Miroslav Koubek (appointed Dec 2025) has only two competitive matches in charge. June warm-ups: beat Kosovo 2-1 and Guatemala 3-1. Eight qualifying goals from set pieces, the most of any European nation.",
+    "h2h": "Three previous meetings, all friendlies: Czechia won 5-0 in 2001; South Korea won the most recent meeting 2-1 on June 5, 2016. Never met at a World Cup.",
+    "injuries_news": [
+      "South Korea: Cho Yu-min injured pre-camp, replaced by uncapped Cho Wi-je; Bae Jun-ho (ankle) questionable but not expected to start; Hwang In-beom was managing an ankle issue when called up (fitness unconfirmed).",
+      "Czechia: Jan Kuchta (ankle) may be limited to substitute duty; Adam Hlozek returning from a largely lost injury season; otherwise squad reported healthy.",
+      "Probable shapes: South Korea 3-4-2-1 with Son Heung-min, Lee Kang-in, Kim Min-jae; Czechia 3-4-3 with Matej Kovar in goal, Schick up front, Soucek and Krejci as set-piece threats."
+    ],
+    "key_factors": [
+      "Altitude (~1,560 m): Korea trained at altitude in Guadalajara; Czechia arrive from Dallas at sea level — late-game fitness could favour Korea.",
+      "Czechia's set-piece and crossing game (Schick, Chory, Soucek) targets Korea's main vulnerability in defending dead balls.",
+      "Managerial mismatch: Hong Myung-bo's settled, long-prepared side versus Koubek with two competitive games in charge.",
+      "Likely final World Cup for Son Heung-min (33); Lee Kang-in is Korea's main creator.",
+      "Winner takes early control of Group A behind favourites Mexico, raising stakes for both sides; cagey opener likely."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.41,
+      "draw": 0.29,
+      "away": 0.30
+    },
+    "predicted_score": "1-0",
+    "confidence": 0.5
+  },
+  "value_notes": "Market implied (h2h 2.70/3.25/3.00, normalized for 1.1% overround): home 0.366, draw 0.304, away 0.330. Model: home 0.41 (+0.044 vs normalized, +0.040 vs raw 1/odds), draw 0.29 (-0.014), away 0.30 (-0.030) — a home lean on Korea's form, settled coaching and altitude prep, but the edge is below the 0.05 threshold; no qualifying h2h edge. Totals (line 2.5, over 2.30/under 1.67): market under ~0.58 normalized; model leans under (~0.60, predicted 1-0) — edge ~0.02, not qualifying. BTTS (yes 2.00/no 1.91): market no ~0.51; model no ~0.55 — edge ~0.03, not qualifying. No selection reaches the 0.05 edge threshold.",
+  "sources": [
+    "https://www.rotowire.com/soccer/article/south-korea-vs-czechia-preview-prediction-lineups-odds-2026-world-cup-group-a-117538",
+    "https://www.espn.com/soccer/story/_/id/49009977/fifa-world-cup-2026-south-korea-vs-czechia-kickoff-how-watch-stats-team-news",
+    "https://www.espn.com/soccer/match/_/gameId/401871496/el-salvador-south-korea",
+    "https://www.asiae.co.kr/en/article/2026053112144615880",
+    "https://www.beinsports.com/en-mena/football/fifa-world-cup-2026/articles-video/leverkusen-striker-schick-to-lead-czech-attack-at-world-cup-2026-05-31",
+    "https://www.espn.com/soccer/story/_/id/48788433/son-heung-min-south-korea-world-cup-squad-lee-kang-kim-min-jae",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A"
+  ],
+  "generated_at": "2026-06-10T10:56:00Z"
+}

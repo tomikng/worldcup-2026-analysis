@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-06-10T10:47:07Z",
-  "fixtures": [],
+  "generated_at": "2026-06-10T10:57:27Z",
+  "fixtures": [
+    "2026-06-11"
+  ],
   "results": [],
-  "odds": [],
-  "betslips": [],
-  "tickets": {},
-  "has_ledger": false
+  "odds": [
+    "2026-06-11"
+  ],
+  "betslips": [
+    "2026-06-11"
+  ],
+  "tickets": {
+    "2026-06-11": [
+      "wc-001",
+      "wc-002"
+    ]
+  },
+  "has_ledger": true
 }

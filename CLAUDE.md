@@ -7,7 +7,7 @@ An automated agent team that analyzes every 2026 FIFA World Cup match (June 11 â
 - **Never place, automate, or facilitate real-money bets.** All stakes are virtual units against a simulated bankroll. Recommendations are analysis, not financial advice.
 - **Never invent data.** Every odds value must come from a fetched source recorded in `sources`. If odds can't be found for a market, omit that market.
 - **The ledger is append-only truth.** Never hand-edit `data/ledger.json`; it is rebuilt by `scripts/settle.py`.
-- Timestamps are always UTC ISO-8601 (`2026-06-11T19:00:00Z`). Dates (`YYYY-MM-DD`) refer to the match's **local-calendar UTC date** of kickoff.
+- Timestamps are always UTC ISO-8601 (`2026-06-11T19:00:00Z`). A **matchday** `YYYY-MM-DD` covers kickoffs from 06:00 UTC that day to 05:59 UTC the next day â€” North-America evening games that cross UTC midnight belong to the previous (local) matchday.
 
 ## Pipeline (what /daily-run does)
 

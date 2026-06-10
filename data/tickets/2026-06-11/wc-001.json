@@ -1,0 +1,53 @@
+{
+  "match_id": "wc-001",
+  "date": "2026-06-11",
+  "home": "Mexico",
+  "away": "South Africa",
+  "kickoff_utc": "2026-06-11T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_A",
+  "venue": "Estadio Azteca, Mexico City",
+  "analysis": {
+    "summary": "Tournament opener and a rematch of the 2010 opening game (1-1 in Johannesburg, with Javier Aguirre then and now in charge of Mexico). Mexico arrive on an eight-game unbeaten run capped by a 5-1 demolition of Serbia, playing at a sold-out Azteca at 2,200m altitude; South Africa are winless in five and laboured to a 1-1 draw with Jamaica in their final warm-up. Mexico are strong favourites, though opening-match nerves and South Africa's altitude acclimatization camp in Pachuca temper the blowout case.",
+    "home_form": "Unbeaten in 8 (all of 2026): won all three pre-tournament friendlies including Serbia 5-1, Australia 1-0 and Ghana 2-0, plus draws with Portugal (0-0) and Belgium (1-1). Scored 9 and conceded 2 across the last 5.",
+    "away_form": "Winless in last 5: AFCON round-of-16 exit vs Cameroon (1-2), 1-1 and 1-2 vs Panama, 0-0 vs Nicaragua, 1-1 vs Jamaica in Pachuca on June 7 (Lyle Foster scored); coach Hugo Broos publicly unhappy with that performance.",
+    "h2h": "Four prior meetings: Mexico 2 wins, South Africa 1, 1 draw. The draw was the 2010 World Cup opener (1-1, Tshabalala/Marquez) — the only previous World Cup meeting.",
+    "injuries_news": [
+      "Mexico: GK Luis Angel Malagon out of the World Cup (torn Achilles); first-choice keeper duties expected to go to Raul Rangel, with 40-year-old Guillermo Ochoa in the squad chasing a record sixth World Cup.",
+      "Mexico: midfielder Marcel Ruiz out of the tournament (torn ACL suffered vs San Diego FC in Concacaf Champions Cup).",
+      "Mexico: several internationals (Edson Alvarez, Rodrigo Huescas, Cesar Montes, Mateo Chavez, Gilberto Mora, Cesar Huerta) reported as recovering from short-term knocks — fitness for the opener unconfirmed.",
+      "South Africa: left-back Aubrey Modiba back in training after injury and expected to feature.",
+      "South Africa: wingers Thapelo Morena and Mohau Nkota out injured and not in the squad."
+    ],
+    "key_factors": [
+      "Estadio Azteca altitude (~2,200m) and a sold-out partisan crowd strongly favour Mexico, though South Africa held their pre-tournament camp at altitude in Pachuca to acclimatize.",
+      "Stark form gap: Mexico unbeaten in 8 vs South Africa winless in 5.",
+      "Opening matches of World Cups are historically cagey and lower-scoring; host nerves possible.",
+      "Mexico's attacking depth (Raul Jimenez, Julian Quinones — Saudi Pro League top scorer with 33 goals) vs South Africa's reliance on an out-of-form Lyle Foster.",
+      "South Africa's losses of Morena and Nkota strip pace from their counter-attacking wide play."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.66,
+      "draw": 0.22,
+      "away": 0.12
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.6
+  },
+  "value_notes": "Market implied (overround removed) from h2h 1.50/4.33/7.50: home 0.647, draw 0.224, away 0.129. My probs 0.66/0.22/0.12 sit within 0.02 of the market on every h2h selection — no edge >= 0.05. Totals (over 2.00 / under 1.85, line 2.5) imply over 0.481 / under 0.520; I lean under at ~0.55 given opening-game caginess and South Africa's low-block, but the edge (~0.03) is below threshold. BTTS (yes 2.15 / no 1.70) implies no 0.559; my ~0.58 for 'no' is also a sub-threshold edge (~0.02). No selection qualifies at the 0.05 edge bar.",
+  "sources": [
+    "https://www.espn.com/espn/story/_/id/48998339/mexico-vs-south-africa-kick-team-news-how-watch-fifa-world-cup-opener",
+    "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-africa-prediction-team-news-lineups_598869.html",
+    "https://africa.espn.com/football/story/_/id/48199145/mexico-marcel-ruiz-2026-world-cup-injury-torn-acl",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/marcel-ruiz-mexico-injured-ruled-out",
+    "https://www.si.com/soccer/three-takeaways-mexico-pre-world-cup-friendlies",
+    "https://www.goal.com/en-za/lists/jamaica-1-1-south-africa-confusion-reigns-after-bafana-bafana-s-behind-closed-doors-fifa-world-cup-warm-up/blt5b925bdb40e375d3",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-south-africa-opening-game-2010",
+    "https://khelnow.com/football/world-football-mexico-vs-south-africa-head-to-head-record-202606",
+    "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
+    "https://www.espn.com/soccer/odds/_/gameId/760415"
+  ],
+  "generated_at": "2026-06-10T10:55:08Z"
+}
