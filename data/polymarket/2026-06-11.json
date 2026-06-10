@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-11",
+  "source": "polymarket gamma API",
+  "collected_at": "2026-06-10T11:11:05Z",
+  "matches": [
+    {
+      "match_id": "wc-001",
+      "home": "Mexico",
+      "away": "South Africa",
+      "listed": true,
+      "event_slug": "fifwc-mex-rsa-2026-06-11",
+      "url": "https://polymarket.com/event/fifwc-mex-rsa-2026-06-11",
+      "markets": [
+        {
+          "question": "Will Mexico win on 2026-06-11?",
+          "group_item": "Mexico",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            0.695,
+            0.305
+          ]
+        },
+        {
+          "question": "Will Mexico vs. South Africa end in a draw?",
+          "group_item": "Draw (Mexico vs. South Africa)",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            0.205,
+            0.795
+          ]
+        },
+        {
+          "question": "Will South Africa win on 2026-06-11?",
+          "group_item": "South Africa",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            0.105,
+            0.895
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "wc-002",
+      "home": "South Korea",
+      "away": "Czechia",
+      "listed": true,
+      "event_slug": "fifwc-kr-cze-2026-06-11",
+      "url": "https://polymarket.com/event/fifwc-kr-cze-2026-06-11",
+      "markets": [
+        {
+          "question": "Will Korea Republic vs. Czechia end in a draw?",
+          "group_item": "Draw (Korea Republic vs. Czechia)",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            0.315,
+            0.685
+          ]
+        },
+        {
+          "question": "Will Czechia win on 2026-06-11?",
+          "group_item": "Czechia",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            0.325,
+            0.675
+          ]
+        },
+        {
+          "question": "Will Korea Republic win on 2026-06-11?",
+          "group_item": "Korea Republic",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            0.365,
+            0.635
+          ]
+        }
+      ]
+    }
+  ]
+}

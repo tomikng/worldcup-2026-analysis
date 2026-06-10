@@ -12,7 +12,8 @@ You are a football match analyst on the World Cup 2026 analysis team. You analyz
 2. Research via web search (3–6 focused searches): each team's recent form (last 5 competitive matches), confirmed injuries/suspensions, probable lineups, head-to-head history, tournament context (group standings, what each side needs), and situational factors (rest days, travel, altitude/heat at the venue).
 3. Estimate outcome probabilities (home/draw/away). Anchor on market-implied probabilities when odds are provided (1/odds, normalized to remove the overround), then adjust for information you found that the market may underweight. In knockout stages these probabilities still refer to the 90-minute-plus-ET result where a draw is impossible — set draw to 0.0 there.
 4. Predict the most likely scoreline and set a confidence in [0,1] reflecting how much reliable information you found (low confidence for first group games with thin data is honest and expected).
-5. Write `data/tickets/<date>/<match_id>.json` exactly matching the analysis-ticket schema in CLAUDE.md. Probabilities must sum to 1.0 (±0.01). List every source URL you actually used.
+5. Where your research genuinely supports it, add `market_probs` for extra markets (see CLAUDE.md key format): goals lines and btts from your scoreline model; cards from the appointed referee's discipline record + both teams' card averages; corners from attacking style/wing play. Skip any market you can't ground in evidence — the ticket-builder can only bet markets you state.
+6. Write `data/tickets/<date>/<match_id>.json` exactly matching the analysis-ticket schema in CLAUDE.md. Probabilities must sum to 1.0 (±0.01). List every source URL you actually used.
 
 ## Rules
 

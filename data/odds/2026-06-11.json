@@ -1,26 +1,42 @@
 {
   "date": "2026-06-11",
-  "collected_at": "2026-06-10T10:53:00Z",
+  "collected_at": "2026-06-10T11:45:00Z",
   "matches": [
     {
       "match_id": "wc-001",
       "h2h": {"home": 1.50, "draw": 4.33, "away": 7.50},
+      "double_chance": {"1x": 1.08, "12": 1.18, "x2": 2.75},
+      "dnb": {"home": 1.14, "away": 7.00},
       "totals": {"line": 2.5, "over": 2.00, "under": 1.85},
+      "totals_alt": [{"line": 1.5, "over": 1.40, "under": 3.00},
+                     {"line": 3.5, "over": 4.00, "under": 1.25}],
       "btts": {"yes": 2.15, "no": 1.70},
+      "correct_score": {"1-0": 5.50, "2-0": 6.00, "0-0": 8.50, "1-1": 9.00, "3-0": 9.00},
       "sources": [
         "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
-        "https://www.espn.com/soccer/odds/_/gameId/760415"
+        "https://www.espn.com/soccer/odds/_/gameId/760415",
+        "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/mexico-vs-south-africa/",
+        "https://www.squawka.com/en/match-centre/mexico-vs-south-africa-fifa-world-cup-11-06-2026/",
+        "https://tips.gg/article/mexico-vs-south-africa-world-cup-2026-odds-preview-wc2026/"
       ]
     },
     {
       "match_id": "wc-002",
       "h2h": {"home": 2.70, "draw": 3.25, "away": 3.00},
+      "double_chance": {"1x": 1.40, "12": 1.36, "x2": 1.44},
+      "dnb": {"home": 1.80, "away": 1.95},
       "totals": {"line": 2.5, "over": 2.30, "under": 1.67},
+      "totals_alt": [{"line": 1.5, "over": 1.40, "under": 3.00},
+                     {"line": 3.5, "over": 4.33, "under": 1.22}],
       "btts": {"yes": 2.00, "no": 1.91},
+      "correct_score": {"1-1": 6.00, "1-0": 8.00, "0-0": 8.00, "0-1": 8.50},
       "sources": [
         "https://www.oddschecker.com/football/world-cup/south-korea-v-czech-republic/winner",
         "https://www.dimers.com/bet-hub/swc/schedule/2026_1_kor_cze",
-        "https://www.sportinglife.com/free-bets/news/south-korea-vs-czechia-world-cup-2026/698"
+        "https://www.sportinglife.com/free-bets/news/south-korea-vs-czechia-world-cup-2026/698",
+        "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/south-korea-vs-czech-rep/",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/south-korea-vs-czech-republic-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aLfLg0I6etoI/",
+        "https://www.squawka.com/us/news/world-cup/match-preview-south-korea-vs-czech-republic-06-11-26-world-cup-2026/"
       ]
     }
   ]

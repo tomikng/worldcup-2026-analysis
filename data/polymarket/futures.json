@@ -1,0 +1,1786 @@
+{
+  "source": "polymarket gamma API",
+  "collected_at": "2026-06-10T11:26:33Z",
+  "events": [
+    {
+      "title": "World Cup Group A Winner",
+      "slug": "world-cup-group-a-winner",
+      "url": "https://polymarket.com/event/world-cup-group-a-winner",
+      "volume": 563345.6990019991,
+      "outcomes": [
+        {
+          "name": "Mexico",
+          "price": 0.565
+        },
+        {
+          "name": "South Korea",
+          "price": 0.21
+        },
+        {
+          "name": "Czechia",
+          "price": 0.185
+        },
+        {
+          "name": "South Africa",
+          "price": 0.0635
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group C Winner",
+      "slug": "world-cup-group-c-winner",
+      "url": "https://polymarket.com/event/world-cup-group-c-winner",
+      "volume": 524381.9860410009,
+      "outcomes": [
+        {
+          "name": "Brazil",
+          "price": 0.715
+        },
+        {
+          "name": "Morocco",
+          "price": 0.21
+        },
+        {
+          "name": "Scotland",
+          "price": 0.0815
+        },
+        {
+          "name": "Haiti",
+          "price": 0.0065
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group I Winner",
+      "slug": "world-cup-group-i-winner",
+      "url": "https://polymarket.com/event/world-cup-group-i-winner",
+      "volume": 357396.46300900006,
+      "outcomes": [
+        {
+          "name": "France",
+          "price": 0.645
+        },
+        {
+          "name": "Norway",
+          "price": 0.255
+        },
+        {
+          "name": "Senegal",
+          "price": 0.115
+        },
+        {
+          "name": "Iraq",
+          "price": 0.008
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Nation To Reach Round of 16",
+      "slug": "world-cup-nation-to-reach-round-of-16",
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "volume": 346124.586144,
+      "outcomes": [
+        {
+          "name": "France",
+          "price": 0.785
+        },
+        {
+          "name": "Spain",
+          "price": 0.775
+        },
+        {
+          "name": "England",
+          "price": 0.735
+        },
+        {
+          "name": "Portugal",
+          "price": 0.695
+        },
+        {
+          "name": "Brazil",
+          "price": 0.695
+        },
+        {
+          "name": "Argentina",
+          "price": 0.695
+        },
+        {
+          "name": "Germany",
+          "price": 0.685
+        },
+        {
+          "name": "Belgium",
+          "price": 0.625
+        },
+        {
+          "name": "Switzerland",
+          "price": 0.565
+        },
+        {
+          "name": "Norway",
+          "price": 0.54
+        },
+        {
+          "name": "Mexico",
+          "price": 0.535
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.535
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group D Winner",
+      "slug": "world-cup-group-d-winner",
+      "url": "https://polymarket.com/event/world-cup-group-d-winner",
+      "volume": 326006.6180319993,
+      "outcomes": [
+        {
+          "name": "USA",
+          "price": 0.385
+        },
+        {
+          "name": "Türkiye",
+          "price": 0.345
+        },
+        {
+          "name": "Paraguay",
+          "price": 0.175
+        },
+        {
+          "name": "Australia",
+          "price": 0.0945
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group F Winner",
+      "slug": "world-cup-group-f-winner",
+      "url": "https://polymarket.com/event/world-cup-group-f-winner",
+      "volume": 314489.35481699876,
+      "outcomes": [
+        {
+          "name": "Netherlands",
+          "price": 0.535
+        },
+        {
+          "name": "Japan",
+          "price": 0.275
+        },
+        {
+          "name": "Sweden",
+          "price": 0.155
+        },
+        {
+          "name": "Tunisia",
+          "price": 0.0605
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group B Winner",
+      "slug": "world-cup-group-b-winner",
+      "url": "https://polymarket.com/event/world-cup-group-b-winner",
+      "volume": 304641.37540799985,
+      "outcomes": [
+        {
+          "name": "Switzerland",
+          "price": 0.565
+        },
+        {
+          "name": "Canada",
+          "price": 0.305
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "price": 0.125
+        },
+        {
+          "name": "Qatar",
+          "price": 0.0255
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group H Winner",
+      "slug": "world-cup-group-h-winner",
+      "url": "https://polymarket.com/event/world-cup-group-h-winner",
+      "volume": 263821.193869,
+      "outcomes": [
+        {
+          "name": "Spain",
+          "price": 0.785
+        },
+        {
+          "name": "Uruguay",
+          "price": 0.205
+        },
+        {
+          "name": "Saudi Arabia",
+          "price": 0.02
+        },
+        {
+          "name": "Cape Verde",
+          "price": 0.009
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group J Winner",
+      "slug": "world-cup-group-j-winner",
+      "url": "https://polymarket.com/event/world-cup-group-j-winner",
+      "volume": 261705.23736999938,
+      "outcomes": [
+        {
+          "name": "Argentina",
+          "price": 0.715
+        },
+        {
+          "name": "Austria",
+          "price": 0.185
+        },
+        {
+          "name": "Algeria",
+          "price": 0.0985
+        },
+        {
+          "name": "Jordan",
+          "price": 0.0155
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Nation To Reach Quarterfinals",
+      "slug": "world-cup-nation-to-reach-quarterfinals",
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-quarterfinals",
+      "volume": 259379.876592,
+      "outcomes": [
+        {
+          "name": "Spain",
+          "price": 0.595
+        },
+        {
+          "name": "France",
+          "price": 0.575
+        },
+        {
+          "name": "England",
+          "price": 0.545
+        },
+        {
+          "name": "Argentina",
+          "price": 0.515
+        },
+        {
+          "name": "Portugal",
+          "price": 0.515
+        },
+        {
+          "name": "Brazil",
+          "price": 0.475
+        },
+        {
+          "name": "Germany",
+          "price": 0.38
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.375
+        },
+        {
+          "name": "Belgium",
+          "price": 0.375
+        },
+        {
+          "name": "Norway",
+          "price": 0.32
+        },
+        {
+          "name": "Colombia",
+          "price": 0.295
+        },
+        {
+          "name": "Mexico",
+          "price": 0.25
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group K Winner",
+      "slug": "world-cup-group-k-winner",
+      "url": "https://polymarket.com/event/world-cup-group-k-winner",
+      "volume": 200710.8440159995,
+      "outcomes": [
+        {
+          "name": "Portugal",
+          "price": 0.625
+        },
+        {
+          "name": "Colombia",
+          "price": 0.325
+        },
+        {
+          "name": "Congo DR",
+          "price": 0.0425
+        },
+        {
+          "name": "Uzbekistan",
+          "price": 0.0235
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group E Winner",
+      "slug": "world-cup-group-e-winner",
+      "url": "https://polymarket.com/event/world-cup-group-e-winner",
+      "volume": 198251.77679299997,
+      "outcomes": [
+        {
+          "name": "Germany",
+          "price": 0.675
+        },
+        {
+          "name": "Ecuador",
+          "price": 0.21
+        },
+        {
+          "name": "Ivory Coast",
+          "price": 0.1265
+        },
+        {
+          "name": "Curaçao",
+          "price": 0.0055
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group G Winner",
+      "slug": "world-cup-group-g-winner",
+      "url": "https://polymarket.com/event/world-cup-group-g-winner",
+      "volume": 175170.470997,
+      "outcomes": [
+        {
+          "name": "Belgium",
+          "price": 0.695
+        },
+        {
+          "name": "Egypt",
+          "price": 0.165
+        },
+        {
+          "name": "Iran",
+          "price": 0.1225
+        },
+        {
+          "name": "New Zealand",
+          "price": 0.0365
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Nation To Reach Semifinals",
+      "slug": "world-cup-nation-to-reach-semifinals",
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-semifinals",
+      "volume": 147281.536803,
+      "outcomes": [
+        {
+          "name": "Spain",
+          "price": 0.435
+        },
+        {
+          "name": "France",
+          "price": 0.42
+        },
+        {
+          "name": "England",
+          "price": 0.345
+        },
+        {
+          "name": "Brazil",
+          "price": 0.315
+        },
+        {
+          "name": "Argentina",
+          "price": 0.315
+        },
+        {
+          "name": "Portugal",
+          "price": 0.31
+        },
+        {
+          "name": "Germany",
+          "price": 0.24
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.2
+        },
+        {
+          "name": "Norway",
+          "price": 0.155
+        },
+        {
+          "name": "Colombia",
+          "price": 0.15
+        },
+        {
+          "name": "Belgium",
+          "price": 0.15
+        },
+        {
+          "name": "Morocco",
+          "price": 0.115
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group L Winner",
+      "slug": "world-cup-group-l-winner",
+      "url": "https://polymarket.com/event/world-cup-group-l-winner",
+      "volume": 119367.97406800005,
+      "outcomes": [
+        {
+          "name": "England",
+          "price": 0.685
+        },
+        {
+          "name": "Croatia",
+          "price": 0.225
+        },
+        {
+          "name": "Ghana",
+          "price": 0.0575
+        },
+        {
+          "name": "Panama",
+          "price": 0.0265
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group C Last Place",
+      "slug": "world-cup-group-c-last-place-20260604235104332",
+      "url": "https://polymarket.com/event/world-cup-group-c-last-place-20260604235104332",
+      "volume": 12558.132275,
+      "outcomes": [
+        {
+          "name": "Haiti",
+          "price": 0.755
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Scotland",
+          "price": 0.175
+        },
+        {
+          "name": "Morocco",
+          "price": 0.075
+        },
+        {
+          "name": "Brazil",
+          "price": 0.012
+        },
+        {
+          "name": "Other",
+          "price": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group L Last Place",
+      "slug": "world-cup-group-l-last-place-20260605000843479",
+      "url": "https://polymarket.com/event/world-cup-group-l-last-place-20260605000843479",
+      "volume": 11188.432239,
+      "outcomes": [
+        {
+          "name": "Panama",
+          "price": 0.565
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Ghana",
+          "price": 0.35
+        },
+        {
+          "name": "Croatia",
+          "price": 0.1
+        },
+        {
+          "name": "England",
+          "price": 0.034
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group J Last Place",
+      "slug": "world-cup-group-j-last-place-20260605000527700",
+      "url": "https://polymarket.com/event/world-cup-group-j-last-place-20260605000527700",
+      "volume": 4852.967984,
+      "outcomes": [
+        {
+          "name": "Jordan",
+          "price": 0.715
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Algeria",
+          "price": 0.16
+        },
+        {
+          "name": "Austria",
+          "price": 0.075
+        },
+        {
+          "name": "Argentina",
+          "price": 0.015
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group G Last Place",
+      "slug": "world-cup-group-g-last-place-20260605000104252",
+      "url": "https://polymarket.com/event/world-cup-group-g-last-place-20260605000104252",
+      "volume": 4103.035354,
+      "outcomes": [
+        {
+          "name": "New Zealand",
+          "price": 0.585
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Iran",
+          "price": 0.26
+        },
+        {
+          "name": "Egypt",
+          "price": 0.165
+        },
+        {
+          "name": "Belgium",
+          "price": 0.025
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Any Team to Score 10+ Goals in the Group Stage?",
+      "slug": "world-cup-any-team-to-score-10-goals-in-the-group-stage-20260608154723970",
+      "url": "https://polymarket.com/event/world-cup-any-team-to-score-10-goals-in-the-group-stage-20260608154723970",
+      "volume": 3312.6376569999998,
+      "outcomes": [
+        {
+          "name": "World Cup: Any Team to Score 10+ Goals in the Group Stage?",
+          "price": 0.595
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group E Last Place",
+      "slug": "world-cup-group-e-last-place-20260604235658873",
+      "url": "https://polymarket.com/event/world-cup-group-e-last-place-20260604235658873",
+      "volume": 3041.4918569999995,
+      "outcomes": [
+        {
+          "name": "Curaçao",
+          "price": 0.895
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Ivory Coast",
+          "price": 0.075
+        },
+        {
+          "name": "Ecuador",
+          "price": 0.0355
+        },
+        {
+          "name": "Germany",
+          "price": 0.0025
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group H Last Place",
+      "slug": "world-cup-group-h-last-place-20260605000238709",
+      "url": "https://polymarket.com/event/world-cup-group-h-last-place-20260605000238709",
+      "volume": 2617.276423999999,
+      "outcomes": [
+        {
+          "name": "Cape Verde",
+          "price": 0.505
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Saudi Arabia",
+          "price": 0.42
+        },
+        {
+          "name": "Uruguay",
+          "price": 0.05
+        },
+        {
+          "name": "Spain",
+          "price": 0.0065
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group B Last Place",
+      "slug": "world-cup-group-b-last-place-20260604232643540",
+      "url": "https://polymarket.com/event/world-cup-group-b-last-place-20260604232643540",
+      "volume": 2140.720992,
+      "outcomes": [
+        {
+          "name": "Qatar",
+          "price": 0.73
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "price": 0.195
+        },
+        {
+          "name": "Canada",
+          "price": 0.075
+        },
+        {
+          "name": "Switzerland",
+          "price": 0.039
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group J (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-j-group-stage-20260607183918248",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-j-group-stage-20260607183918248",
+      "volume": 1286.881843,
+      "outcomes": [
+        {
+          "name": "Argentina",
+          "price": 0.705
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Algeria",
+          "price": 0.195
+        },
+        {
+          "name": "Austria",
+          "price": 0.075
+        },
+        {
+          "name": "Jordan",
+          "price": 0.03
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group K Last Place",
+      "slug": "world-cup-group-k-last-place-20260605000716522",
+      "url": "https://polymarket.com/event/world-cup-group-k-last-place-20260605000716522",
+      "volume": 704.840787,
+      "outcomes": [
+        {
+          "name": "Uzbekistan",
+          "price": 0.515
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "DR Congo",
+          "price": 0.405
+        },
+        {
+          "name": "Colombia",
+          "price": 0.055
+        },
+        {
+          "name": "Portugal",
+          "price": 0.025
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group H Second Place",
+      "slug": "world-cup-group-h-second-place-20260605152236065",
+      "url": "https://polymarket.com/event/world-cup-group-h-second-place-20260605152236065",
+      "volume": 523.03,
+      "outcomes": [
+        {
+          "name": "Uruguay",
+          "price": 0.575
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Spain",
+          "price": 0.19
+        },
+        {
+          "name": "Saudi Arabia",
+          "price": 0.145
+        },
+        {
+          "name": "Cape Verde",
+          "price": 0.11
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group C Second Place",
+      "slug": "world-cup-group-c-second-place-20260605150541408",
+      "url": "https://polymarket.com/event/world-cup-group-c-second-place-20260605150541408",
+      "volume": 480.857165,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Morocco",
+          "price": 0.46
+        },
+        {
+          "name": "Scotland",
+          "price": 0.265
+        },
+        {
+          "name": "Brazil",
+          "price": 0.255
+        },
+        {
+          "name": "Haiti",
+          "price": 0.045
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group C (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-c-group-stage-20260607171725404",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-c-group-stage-20260607171725404",
+      "volume": 480.57,
+      "outcomes": [
+        {
+          "name": "Brazil",
+          "price": 0.79
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Morocco",
+          "price": 0.16
+        },
+        {
+          "name": "Scotland",
+          "price": 0.115
+        },
+        {
+          "name": "Haiti",
+          "price": 0.012
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group I Last Place",
+      "slug": "world-cup-group-i-last-place-20260605000400141",
+      "url": "https://polymarket.com/event/world-cup-group-i-last-place-20260605000400141",
+      "volume": 455.450251,
+      "outcomes": [
+        {
+          "name": "Iraq",
+          "price": 0.805
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Senegal",
+          "price": 0.125
+        },
+        {
+          "name": "Norway",
+          "price": 0.07
+        },
+        {
+          "name": "France",
+          "price": 0.0275
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group D Last Place",
+      "slug": "world-cup-group-d-last-place-20260604235452724",
+      "url": "https://polymarket.com/event/world-cup-group-d-last-place-20260604235452724",
+      "volume": 360.892458,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Australia",
+          "price": 0.475
+        },
+        {
+          "name": "Paraguay",
+          "price": 0.285
+        },
+        {
+          "name": "USA",
+          "price": 0.13
+        },
+        {
+          "name": "Türkiye",
+          "price": 0.12
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group of Champion",
+      "slug": "world-cup-group-of-champion-20260605001357294",
+      "url": "https://polymarket.com/event/world-cup-group-of-champion-20260605001357294",
+      "volume": 339.055547,
+      "outcomes": [
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Group I (Senegal, Norway, France, Iraq)",
+          "price": 0.2
+        },
+        {
+          "name": "Group H (Cape Verde, Uruguay, Spain, Saudi Arabia)",
+          "price": 0.195
+        },
+        {
+          "name": "Group L (England, Ghana, Croatia, Panama)",
+          "price": 0.17
+        },
+        {
+          "name": "Group C (Scotland, Brazil, Haiti, Morocco)",
+          "price": 0.15
+        },
+        {
+          "name": "Group K (Colombia, Congo DR, Portugal, Uzbekistan)",
+          "price": 0.115
+        },
+        {
+          "name": "Group J (Algeria, Jordan, Argentina, Austria)",
+          "price": 0.09
+        },
+        {
+          "name": "Group D (Paraguay, Türkiye, USA, Australia)",
+          "price": 0.075
+        },
+        {
+          "name": "Group E (Curaçao, Ecuador, Germany, Ivory Coast)",
+          "price": 0.075
+        },
+        {
+          "name": "Group F (Tunisia, Japan, Netherlands, Sweden)",
+          "price": 0.055
+        },
+        {
+          "name": "Group B (Canada, Qatar, Bosnia and Herzegovina, Switzerland)",
+          "price": 0.045
+        },
+        {
+          "name": "Group A (Mexico, South Korea, South Africa, Czechia)",
+          "price": 0.035
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group B (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-b-group-stage-20260607170417296",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-b-group-stage-20260607170417296",
+      "volume": 314.907518,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Switzerland",
+          "price": 0.49
+        },
+        {
+          "name": "Canada",
+          "price": 0.225
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "price": 0.18
+        },
+        {
+          "name": "Qatar",
+          "price": 0.075
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group L (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-l-group-stage-20260607184602893",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-l-group-stage-20260607184602893",
+      "volume": 314.62983799999995,
+      "outcomes": [
+        {
+          "name": "England",
+          "price": 0.6
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Croatia",
+          "price": 0.23
+        },
+        {
+          "name": "Ghana",
+          "price": 0.125
+        },
+        {
+          "name": "Panama",
+          "price": 0.065
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group G (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-g-group-stage-20260607182155294",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-g-group-stage-20260607182155294",
+      "volume": 310.876694,
+      "outcomes": [
+        {
+          "name": "Belgium",
+          "price": 0.635
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Egypt",
+          "price": 0.18
+        },
+        {
+          "name": "Iran",
+          "price": 0.15
+        },
+        {
+          "name": "New Zealand",
+          "price": 0.095
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group A (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-a-group-stage-20260607165219562",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-a-group-stage-20260607165219562",
+      "volume": 303.97861,
+      "outcomes": [
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Mexico",
+          "price": 0.5
+        },
+        {
+          "name": "Czechia",
+          "price": 0.235
+        },
+        {
+          "name": "South Korea",
+          "price": 0.205
+        },
+        {
+          "name": "South Africa",
+          "price": 0.11
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group E Second Place",
+      "slug": "world-cup-group-e-second-place-20260605151546476",
+      "url": "https://polymarket.com/event/world-cup-group-e-second-place-20260605151546476",
+      "volume": 235.666358,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Ecuador",
+          "price": 0.405
+        },
+        {
+          "name": "Ivory Coast",
+          "price": 0.34
+        },
+        {
+          "name": "Germany",
+          "price": 0.245
+        },
+        {
+          "name": "Curaçao",
+          "price": 0.039
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group G Second Place",
+      "slug": "world-cup-group-g-second-place-20260605152042794",
+      "url": "https://polymarket.com/event/world-cup-group-g-second-place-20260605152042794",
+      "volume": 206.7647,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Egypt",
+          "price": 0.375
+        },
+        {
+          "name": "Iran",
+          "price": 0.295
+        },
+        {
+          "name": "Belgium",
+          "price": 0.215
+        },
+        {
+          "name": "New Zealand",
+          "price": 0.185
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group L Second Place",
+      "slug": "world-cup-group-l-second-place-20260605153257625",
+      "url": "https://polymarket.com/event/world-cup-group-l-second-place-20260605153257625",
+      "volume": 187.79212,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Croatia",
+          "price": 0.435
+        },
+        {
+          "name": "England",
+          "price": 0.255
+        },
+        {
+          "name": "Ghana",
+          "price": 0.21
+        },
+        {
+          "name": "Panama",
+          "price": 0.145
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group I Second Place",
+      "slug": "world-cup-group-i-second-place-20260605152635447",
+      "url": "https://polymarket.com/event/world-cup-group-i-second-place-20260605152635447",
+      "volume": 182.20427,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Norway",
+          "price": 0.41
+        },
+        {
+          "name": "Senegal",
+          "price": 0.31
+        },
+        {
+          "name": "France",
+          "price": 0.27
+        },
+        {
+          "name": "Iraq",
+          "price": 0.08
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group K Second Place",
+      "slug": "world-cup-group-k-second-place-20260605153109381",
+      "url": "https://polymarket.com/event/world-cup-group-k-second-place-20260605153109381",
+      "volume": 173.706187,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Colombia",
+          "price": 0.48
+        },
+        {
+          "name": "Portugal",
+          "price": 0.31
+        },
+        {
+          "name": "DR Congo",
+          "price": 0.14
+        },
+        {
+          "name": "Uzbekistan",
+          "price": 0.115
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group J Second Place",
+      "slug": "world-cup-group-j-second-place-20260605152843566",
+      "url": "https://polymarket.com/event/world-cup-group-j-second-place-20260605152843566",
+      "volume": 165.62,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Austria",
+          "price": 0.435
+        },
+        {
+          "name": "Algeria",
+          "price": 0.295
+        },
+        {
+          "name": "Argentina",
+          "price": 0.245
+        },
+        {
+          "name": "Jordan",
+          "price": 0.08
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group E (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-e-group-stage-20260607175411538",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-e-group-stage-20260607175411538",
+      "volume": 152.76999999999998,
+      "outcomes": [
+        {
+          "name": "Germany",
+          "price": 0.81
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Ecuador",
+          "price": 0.16
+        },
+        {
+          "name": "Ivory Coast",
+          "price": 0.13
+        },
+        {
+          "name": "Curaçao",
+          "price": 0.016
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group H (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-h-group-stage-20260607182553891",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-h-group-stage-20260607182553891",
+      "volume": 138.90624200000002,
+      "outcomes": [
+        {
+          "name": "Spain",
+          "price": 0.795
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Uruguay",
+          "price": 0.19
+        },
+        {
+          "name": "Saudi Arabia",
+          "price": 0.055
+        },
+        {
+          "name": "Cape Verde",
+          "price": 0.0425
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group I (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-i-group-stage-20260607183549484",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-i-group-stage-20260607183549484",
+      "volume": 136.923945,
+      "outcomes": [
+        {
+          "name": "France",
+          "price": 0.605
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Norway",
+          "price": 0.275
+        },
+        {
+          "name": "Senegal",
+          "price": 0.135
+        },
+        {
+          "name": "Iraq",
+          "price": 0.017
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group D (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-d-group-stage-20260607174252609",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-d-group-stage-20260607174252609",
+      "volume": 133.941175,
+      "outcomes": [
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Türkiye",
+          "price": 0.4
+        },
+        {
+          "name": "USA",
+          "price": 0.3
+        },
+        {
+          "name": "Paraguay",
+          "price": 0.245
+        },
+        {
+          "name": "Australia",
+          "price": 0.23
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group K (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-k-group-stage-20260607184235011",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-k-group-stage-20260607184235011",
+      "volume": 105.73,
+      "outcomes": [
+        {
+          "name": "Portugal",
+          "price": 0.685
+        },
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Colombia",
+          "price": 0.29
+        },
+        {
+          "name": "Congo DR",
+          "price": 0.15
+        },
+        {
+          "name": "Uzbekistan",
+          "price": 0.075
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group F Second Place",
+      "slug": "world-cup-group-f-second-place-20260605151832850",
+      "url": "https://polymarket.com/event/world-cup-group-f-second-place-20260605151832850",
+      "volume": 94.635307,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Japan",
+          "price": 0.35
+        },
+        {
+          "name": "Sweden",
+          "price": 0.29
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.27
+        },
+        {
+          "name": "Tunisia",
+          "price": 0.165
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group D Second Place",
+      "slug": "world-cup-group-d-second-place-20260605150925317",
+      "url": "https://polymarket.com/event/world-cup-group-d-second-place-20260605150925317",
+      "volume": 86.61650800000001,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Türkiye",
+          "price": 0.315
+        },
+        {
+          "name": "USA",
+          "price": 0.31
+        },
+        {
+          "name": "Paraguay",
+          "price": 0.255
+        },
+        {
+          "name": "Australia",
+          "price": 0.175
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group B Second Place",
+      "slug": "world-cup-group-b-second-place-20260605145934706",
+      "url": "https://polymarket.com/event/world-cup-group-b-second-place-20260605145934706",
+      "volume": 73.540918,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Canada",
+          "price": 0.39
+        },
+        {
+          "name": "Switzerland",
+          "price": 0.3
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "price": 0.26
+        },
+        {
+          "name": "Qatar",
+          "price": 0.08
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Group A Second Place",
+      "slug": "world-cup-group-a-second-place-20260605143908410",
+      "url": "https://polymarket.com/event/world-cup-group-a-second-place-20260605143908410",
+      "volume": 66.315788,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "South Korea",
+          "price": 0.31
+        },
+        {
+          "name": "Czechia",
+          "price": 0.29
+        },
+        {
+          "name": "Mexico",
+          "price": 0.265
+        },
+        {
+          "name": "South Africa",
+          "price": 0.165
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Highest-Scoring Team in Group F (Group Stage)",
+      "slug": "world-cup-highest-scoring-team-in-group-f-group-stage-20260607181421407",
+      "url": "https://polymarket.com/event/world-cup-highest-scoring-team-in-group-f-group-stage-20260607181421407",
+      "volume": 36.9,
+      "outcomes": [
+        {
+          "name": "Country E",
+          "price": 0.5
+        },
+        {
+          "name": "Other",
+          "price": 0.5
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.475
+        },
+        {
+          "name": "Japan",
+          "price": 0.265
+        },
+        {
+          "name": "Sweden",
+          "price": 0.215
+        },
+        {
+          "name": "Tunisia",
+          "price": 0.1
+        }
+      ]
+    },
+    {
+      "title": "World Cup Winner",
+      "slug": "world-cup-winner",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume": 1864509494.7850468,
+      "outcomes": [
+        {
+          "name": "Spain",
+          "price": 0.1625
+        },
+        {
+          "name": "France",
+          "price": 0.1605
+        },
+        {
+          "name": "England",
+          "price": 0.1085
+        },
+        {
+          "name": "Portugal",
+          "price": 0.1015
+        },
+        {
+          "name": "Argentina",
+          "price": 0.0855
+        },
+        {
+          "name": "Brazil",
+          "price": 0.0845
+        },
+        {
+          "name": "Germany",
+          "price": 0.0525
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.0395
+        },
+        {
+          "name": "Norway",
+          "price": 0.0245
+        },
+        {
+          "name": "Belgium",
+          "price": 0.0215
+        },
+        {
+          "name": "Colombia",
+          "price": 0.0195
+        },
+        {
+          "name": "Japan",
+          "price": 0.0175
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Golden Boot Winner",
+      "slug": "world-cup-golden-boot-winner",
+      "url": "https://polymarket.com/event/world-cup-golden-boot-winner",
+      "volume": 4509829.290713999,
+      "outcomes": [
+        {
+          "name": "Kylian Mbappe",
+          "price": 0.145
+        },
+        {
+          "name": "Harry Kane",
+          "price": 0.125
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "price": 0.075
+        },
+        {
+          "name": "Erling Haaland",
+          "price": 0.06
+        },
+        {
+          "name": "Michael Olise",
+          "price": 0.0525
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "price": 0.0435
+        },
+        {
+          "name": "Julian Alvarez",
+          "price": 0.043
+        },
+        {
+          "name": "Lionel Messi",
+          "price": 0.0415
+        },
+        {
+          "name": "Lamine Yamal",
+          "price": 0.0345
+        },
+        {
+          "name": "Raphinha",
+          "price": 0.0325
+        },
+        {
+          "name": "Vinicius Junior",
+          "price": 0.026
+        },
+        {
+          "name": "Cody Gakpo",
+          "price": 0.0235
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Nation to Reach Final",
+      "slug": "world-cup-nation-to-reach-final",
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-final",
+      "volume": 352034.935033,
+      "outcomes": [
+        {
+          "name": "Spain",
+          "price": 0.28
+        },
+        {
+          "name": "France",
+          "price": 0.28
+        },
+        {
+          "name": "England",
+          "price": 0.225
+        },
+        {
+          "name": "Brazil",
+          "price": 0.19
+        },
+        {
+          "name": "Argentina",
+          "price": 0.185
+        },
+        {
+          "name": "Portugal",
+          "price": 0.185
+        },
+        {
+          "name": "Germany",
+          "price": 0.125
+        },
+        {
+          "name": "Netherlands",
+          "price": 0.095
+        },
+        {
+          "name": "Norway",
+          "price": 0.08
+        },
+        {
+          "name": "Belgium",
+          "price": 0.065
+        },
+        {
+          "name": "Colombia",
+          "price": 0.063
+        },
+        {
+          "name": "Mexico",
+          "price": 0.056
+        }
+      ]
+    }
+  ]
+}

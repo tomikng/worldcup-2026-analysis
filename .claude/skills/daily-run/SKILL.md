@@ -20,9 +20,15 @@ Execute the pipeline below in order. TODAY = the argument date, or today's UTC d
   - Exit 2: web-research fallback — write `data/fixtures/TODAY.json` per schema with stable `wc-<n>` match ids.
 - If there are no matches today (rest day), run `python3 scripts/build_index.py`, commit `daily: TODAY (rest day)`, push, and stop.
 
-## 3. Research odds
+## 3. Fetch Polymarket prices
 
-Spawn the `odds-researcher` agent: "Collect odds for all fixtures in data/fixtures/TODAY.json and write data/odds/TODAY.json".
+- `python3 scripts/fetch_polymarket.py TODAY` (per-match prices)
+- `python3 scripts/fetch_polymarket.py --futures` (tournament/group winner snapshot)
+- Non-zero exit: continue the pipeline without Polymarket data; note it in the summary.
+
+## 3b. Research odds
+
+Spawn the `odds-researcher` agent: "Collect odds for all fixtures in data/fixtures/TODAY.json and write data/odds/TODAY.json. Cross-check h2h against data/polymarket/TODAY.json".
 
 ## 4. Analyze every match (parallel)
 
@@ -30,11 +36,15 @@ Spawn one `match-analyst` agent PER fixture, all in parallel. Give each agent: i
 
 ## 5. Build betting tickets
 
-After ALL analysts finish, spawn the `ticket-builder` agent: "Build data/betslips/TODAY.json from the tickets in data/tickets/TODAY/ and data/odds/TODAY.json".
+After ALL analysts finish, spawn the `ticket-builder` agent: "Build data/betslips/TODAY.json from the tickets in data/tickets/TODAY/, data/odds/TODAY.json, and data/polymarket/TODAY.json".
+
+## 5b. Futures review
+
+Spawn the `futures-analyst` agent: "Review data/polymarket/futures.json against the team's model and today's standings; open qualifying positions in data/futures.json within the remaining budget".
 
 ## 6. Validate, index, publish
 
-- Validate outputs: every fixture has a ticket file; probs sum to 1.0 (±0.01); every betslip leg's odds exist in the odds file; total staked ≤ 60. Fix or re-spawn the responsible agent if not.
+- Validate outputs: every fixture has a ticket file; probs sum to 1.0 (±0.01); every betslip leg's odds exist in the odds file (or, for `exchange: "polymarket"` legs, the price+url exist in the polymarket file); stat-market legs (cards/red_card/corners) only where the ticket has a matching `market_probs` entry; total staked ≤ 60; futures stakes within budget. Fix or re-spawn the responsible agent if not.
 - `python3 scripts/build_index.py`
 - `git add data/ && git commit -m "daily: TODAY" && git push`
 

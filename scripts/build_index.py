@@ -36,8 +36,10 @@ def main() -> int:
         "results": dates_in(DATA_DIR / "results"),
         "odds": dates_in(DATA_DIR / "odds"),
         "betslips": dates_in(DATA_DIR / "betslips"),
+        "polymarket": [d for d in dates_in(DATA_DIR / "polymarket") if d != "futures"],
         "tickets": ticket_index(),
         "has_ledger": (DATA_DIR / "ledger.json").exists(),
+        "has_futures": (DATA_DIR / "futures.json").exists(),
     }
     write_json(DATA_DIR / "index.json", index)
     return EXIT_OK

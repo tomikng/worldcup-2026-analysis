@@ -13,11 +13,22 @@ import sys
 from pathlib import Path
 
 STARTING_BANKROLL = 1000.0
-MARKETS = ("h2h", "totals", "btts")
+FUTURES_BUDGET = 100.0
+
+
+def _grade_total(value: float, line: float, selection: str) -> str:
+    if value == line:
+        return "void"  # push on whole-number line
+    return "won" if (selection == "over") == (value > line) else "lost"
 
 
 def grade_leg(leg: dict, result: dict) -> str:
-    """Grade one leg against a match result -> 'won' | 'lost' | 'void'."""
+    """Grade one leg against a match result -> 'won' | 'lost' | 'void'.
+
+    Stat-dependent markets (cards, red_card, corners) void when the result
+    lacks verified stats — a missing match report must never corrupt the
+    ledger.
+    """
     if result["status"] in ("POSTPONED", "CANCELLED"):
         return "void"
 
@@ -28,17 +39,50 @@ def grade_leg(leg: dict, result: dict) -> str:
         outcome = "home" if home > away else "away" if away > home else "draw"
         return "won" if selection == outcome else "lost"
 
+    if market == "double_chance":
+        outcome = "home" if home > away else "away" if away > home else "draw"
+        covers = {"1x": ("home", "draw"), "12": ("home", "away"),
+                  "x2": ("draw", "away")}[selection]
+        return "won" if outcome in covers else "lost"
+
+    if market == "dnb":
+        if home == away:
+            return "void"
+        outcome = "home" if home > away else "away"
+        return "won" if selection == outcome else "lost"
+
     if market == "totals":
-        total = home + away
-        line = leg["line"]
-        if total == line:
-            return "void"  # push on whole-number line
-        over = total > line
-        return "won" if (selection == "over") == over else "lost"
+        return _grade_total(home + away, leg["line"], selection)
+
+    if market == "team_totals":
+        goals = home if leg["side"] == "home" else away
+        return _grade_total(goals, leg["line"], selection)
+
+    if market == "correct_score":
+        return "won" if selection == f"{home}-{away}" else "lost"
 
     if market == "btts":
         both = home > 0 and away > 0
         return "won" if (selection == "yes") == both else "lost"
+
+    if market == "cards":
+        hc, ac = result.get("home_cards"), result.get("away_cards")
+        if hc is None or ac is None:
+            return "void"
+        return _grade_total(hc + ac, leg["line"], selection)
+
+    if market == "red_card":
+        hr, ar = result.get("home_reds"), result.get("away_reds")
+        if hr is None or ar is None:
+            return "void"
+        red_shown = hr + ar > 0
+        return "won" if (selection == "yes") == red_shown else "lost"
+
+    if market == "corners":
+        hc, ac = result.get("home_corners"), result.get("away_corners")
+        if hc is None or ac is None:
+            return "void"
+        return _grade_total(hc + ac, leg["line"], selection)
 
     raise ValueError(f"unknown market: {market!r}")
 
@@ -73,12 +117,33 @@ def _empty_market_stats() -> dict:
     return {"staked": 0.0, "returned": 0.0, "won": 0, "lost": 0}
 
 
-def rebuild_ledger(betslip_days: list[dict], now: str = "") -> dict:
+def _futures_section(futures: dict | None) -> dict:
+    """Settled-only futures math; positions' statuses are set by the /settle
+    agent after verifying official resolutions."""
+    budget = (futures or {}).get("budget", FUTURES_BUDGET)
+    section = {"budget": budget, "staked": 0.0, "remaining": budget,
+               "returned": 0.0, "profit": 0.0, "open": 0, "won": 0, "lost": 0}
+    settled_staked = 0.0
+    for pos in (futures or {}).get("positions", []):
+        section["staked"] += pos["stake"]
+        section[pos["status"]] += 1
+        if pos["status"] == "won":
+            section["returned"] += pos["stake"] / pos["entry_price"]
+        if pos["status"] in ("won", "lost"):
+            settled_staked += pos["stake"]
+    section["remaining"] = round(budget - section["staked"], 2)
+    section["profit"] = round(section["returned"] - settled_staked, 2)
+    section["staked"] = round(section["staked"], 2)
+    section["returned"] = round(section["returned"], 2)
+    return section
+
+
+def rebuild_ledger(betslip_days: list[dict], futures: dict | None = None,
+                   now: str = "") -> dict:
     """Rebuild the full ledger from all betslip day-files (sorted by date)."""
     stats = {"total_staked": 0.0, "total_returned": 0.0, "profit": 0.0,
              "roi": 0.0, "slips_won": 0, "slips_lost": 0, "slips_void": 0,
-             "slips_pending": 0, "hit_rate": 0.0,
-             "by_market": {m: _empty_market_stats() for m in MARKETS}}
+             "slips_pending": 0, "hit_rate": 0.0, "by_market": {}}
     settled_staked = 0.0
     history = []
     bankroll = STARTING_BANKROLL
@@ -95,8 +160,8 @@ def rebuild_ledger(betslip_days: list[dict], now: str = "") -> dict:
             stats[f"slips_{status}"] += 1
 
             market = slip["legs"][0]["market"] if slip["type"] == "single" else None
-            if market in stats["by_market"]:
-                m = stats["by_market"][market]
+            if market is not None:
+                m = stats["by_market"].setdefault(market, _empty_market_stats())
                 m["staked"] += stake
                 if status != "pending":
                     m["returned"] += slip["payout"]
@@ -117,7 +182,8 @@ def rebuild_ledger(betslip_days: list[dict], now: str = "") -> dict:
 
     return {"starting_bankroll": STARTING_BANKROLL,
             "bankroll": round(bankroll, 2), "updated_at": now,
-            "stats": stats, "history": history}
+            "stats": stats, "futures": _futures_section(futures),
+            "history": history}
 
 
 def run(data_dir: Path, now: str) -> None:
@@ -138,7 +204,9 @@ def run(data_dir: Path, now: str) -> None:
             print(f"settled {f.name}")
         betslip_days.append(day)
 
-    ledger = rebuild_ledger(betslip_days, now=now)
+    futures_file = data_dir / "futures.json"
+    futures = json.loads(futures_file.read_text()) if futures_file.exists() else None
+    ledger = rebuild_ledger(betslip_days, futures=futures, now=now)
     (data_dir / "ledger.json").write_text(
         json.dumps(ledger, indent=2, ensure_ascii=False) + "\n")
     print(f"ledger: bankroll {ledger['bankroll']} "

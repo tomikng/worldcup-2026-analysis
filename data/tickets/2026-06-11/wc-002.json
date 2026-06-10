@@ -34,6 +34,11 @@
     "predicted_score": "1-0",
     "confidence": 0.5
   },
+  "market_probs": {
+    "totals_2.5_over": 0.40,
+    "btts_yes": 0.45,
+    "corners_9.5_over": 0.55
+  },
   "value_notes": "Market implied (h2h 2.70/3.25/3.00, normalized for 1.1% overround): home 0.366, draw 0.304, away 0.330. Model: home 0.41 (+0.044 vs normalized, +0.040 vs raw 1/odds), draw 0.29 (-0.014), away 0.30 (-0.030) — a home lean on Korea's form, settled coaching and altitude prep, but the edge is below the 0.05 threshold; no qualifying h2h edge. Totals (line 2.5, over 2.30/under 1.67): market under ~0.58 normalized; model leans under (~0.60, predicted 1-0) — edge ~0.02, not qualifying. BTTS (yes 2.00/no 1.91): market no ~0.51; model no ~0.55 — edge ~0.03, not qualifying. No selection reaches the 0.05 edge threshold.",
   "sources": [
     "https://www.rotowire.com/soccer/article/south-korea-vs-czechia-preview-prediction-lineups-odds-2026-world-cup-group-a-117538",
@@ -43,7 +48,8 @@
     "https://www.beinsports.com/en-mena/football/fifa-world-cup-2026/articles-video/leverkusen-striker-schick-to-lead-czech-attack-at-world-cup-2026-05-31",
     "https://www.espn.com/soccer/story/_/id/48788433/son-heung-min-south-korea-world-cup-squad-lee-kang-kim-min-jae",
     "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A"
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://theanalyst.com/articles/czechia-world-cup-2026-preview-set-pieces-stats"
   ],
   "generated_at": "2026-06-10T10:56:00Z"
 }

@@ -23,15 +23,29 @@ const stageLabel = (f) =>
   (f.group || f.stage || "").replace(/_/g, " ").replace(/GROUP STAGE/i, "").trim() || "WC26";
 
 const MARKET_LABEL = {
-  h2h: (l, names) => names?.[l.selection] || l.selection,
+  h2h: (l, names) => names[l.selection] || l.selection,
+  double_chance: (l, names) => ({ "1x": `${names.home} or draw`, "12": `${names.home} or ${names.away}`,
+                                  "x2": `Draw or ${names.away}` }[l.selection] || l.selection),
+  dnb: (l, names) => `${names[l.selection]} (draw no bet)`,
   totals: (l) => `${l.selection} ${l.line} goals`,
+  team_totals: (l, names) => `${names[l.side] || l.side} ${l.selection} ${l.line} goals`,
+  correct_score: (l) => `Correct score ${l.selection}`,
   btts: (l) => `BTTS: ${l.selection}`,
+  cards: (l) => `${l.selection} ${l.line} cards`,
+  red_card: (l) => `Red card: ${l.selection}`,
+  corners: (l) => `${l.selection} ${l.line} corners`,
 };
 function legLabel(leg, ticket) {
   const names = ticket
     ? { home: ticket.home, draw: "Draw", away: ticket.away }
     : { home: "Home", draw: "Draw", away: "Away" };
   return (MARKET_LABEL[leg.market] || ((l) => l.selection))(leg, names);
+}
+function pmBadge(leg) {
+  if (leg.exchange !== "polymarket" || !leg.pm) return "";
+  const cents = Math.round(leg.pm.price * 100);
+  return ` <a class="pm-badge" href="${esc(leg.pm.url)}" target="_blank" rel="noopener"
+    title="Polymarket — buy ≤ ${cents}¢">PM ${cents}¢</a>`;
 }
 
 /* ---------- data assembly ---------- */
@@ -81,7 +95,7 @@ function matchCard(fix, ticket, picks, i) {
   const factors = (t?.analysis?.key_factors || []).slice(0, 3)
     .map((f) => `<li>${esc(f)}</li>`).join("");
   const pickChips = (picks || []).map((l) =>
-    `<span class="pick-chip">${esc(legLabel(l, t))} <span class="odds">@${+l.odds || "?"}</span></span>`).join("");
+    `<span class="pick-chip">${esc(legLabel(l, t))}${pmBadge(l)} <span class="odds">@${+l.odds || "?"}</span></span>`).join("");
   return `<article class="match-card rise" style="animation-delay:${i * 60}ms">
     <div class="mc-top"><span>${esc(stageLabel(fix))}</span><span>${kickoffLocal(fix.kickoff_utc)}</span></div>
     <div class="mc-teams">
@@ -100,7 +114,7 @@ function slipCard(slip, ticketsById, i) {
   const legs = slip.legs.map((l) => {
     const t = ticketsById[l.match_id];
     return `<div class="leg">
-      <div class="leg-pick"><span>${esc(legLabel(l, t))}</span><span class="lodds">@${+l.odds || "?"}</span></div>
+      <div class="leg-pick"><span>${esc(legLabel(l, t))}${pmBadge(l)}</span><span class="lodds">@${+l.odds || "?"}</span></div>
       ${t ? `<div class="leg-match">${esc(t.home)} v ${esc(t.away)}</div>` : ""}
       ${l.rationale ? `<div class="leg-why">${esc(l.rationale)}</div>` : ""}
     </div>`;
@@ -161,10 +175,48 @@ async function viewToday() {
     </div>`;
 }
 
+function futuresCard(pos, i) {
+  const cents = Math.round(pos.entry_price * 100);
+  const toReturn = (pos.stake / pos.entry_price).toFixed(1);
+  const ret = pos.status === "open"
+    ? `<span>to return <b>${toReturn}u</b></span>`
+    : pos.status === "lost"
+      ? `<span class="lost-amt">returned <b>0u</b></span>`
+      : `<span>returned <b>${toReturn}u</b></span>`;
+  const statusCls = pos.status === "open" ? "pending" : pos.status;
+  return `<article class="slip rise" style="animation-delay:${i * 60}ms">
+    <div class="slip-head">
+      <span class="slip-id">${esc(pos.position_id)} · ${esc(pos.opened)}</span>
+      <span class="slip-type">futures</span>
+      <span class="status ${statusCls}">${esc(pos.status)}</span>
+    </div>
+    <div class="slip-legs"><div class="leg">
+      <div class="leg-pick"><span>${esc(pos.outcome)}
+        <a class="pm-badge" href="${esc(pos.url)}" target="_blank" rel="noopener">PM ${cents}¢</a></span>
+        <span class="lodds">@${(1 / pos.entry_price).toFixed(2)}</span></div>
+      <div class="leg-match">${esc(pos.market_title)}</div>
+      ${pos.rationale ? `<div class="leg-why">${esc(pos.rationale)}</div>` : ""}
+    </div></div>
+    <div class="slip-foot"><span>stake <b>${units(pos.stake)}</b></span>${ret}</div>
+  </article>`;
+}
+
 async function viewSlips() {
   const dates = [...INDEX.betslips].reverse();
-  if (!dates.length) return emptyState("No betslips yet", "Slips appear after the first /daily-run finds value.");
   const sections = [];
+  if (INDEX.has_futures) {
+    try {
+      const fut = await fetchJSON("data/futures.json");
+      if (fut.positions.length) {
+        const staked = fut.positions.reduce((s, p) => s + p.stake, 0);
+        sections.push(`<div class="section-head"><h2>Futures</h2>
+            <span class="sub">${fut.positions.length} position(s) · ${units(staked)} of ${units(fut.budget)} budget</span></div>
+          <div class="slip-grid">${fut.positions.map(futuresCard).join("")}</div>`);
+      }
+    } catch { /* no futures yet */ }
+  }
+  if (!dates.length && !sections.length)
+    return emptyState("No betslips yet", "Slips appear after the first /daily-run finds value.");
   for (const date of dates) {
     const day = await loadDay(date);
     if (!day.slips.length) continue;
@@ -189,6 +241,9 @@ async function viewRecord() {
     ["Record", `${s.slips_won}W–${s.slips_lost}L–${s.slips_void}V`, ""],
     ["Pending", `${s.slips_pending}`, ""],
     ["1X2 accuracy", acc.total ? `${acc.correct}/${acc.total}` : "—", ""],
+    ...(ledger.futures ? [["Futures P/L",
+      `${ledger.futures.profit > 0 ? "+" : ""}${ledger.futures.profit}u`,
+      cls(ledger.futures.profit)]] : []),
   ].map(([k, v, c]) => `<div class="stat rise"><div class="k">${k}</div><div class="v ${c}">${v}</div></div>`).join("");
   const markets = Object.entries(s.by_market).map(([m, v]) => {
     const pl = (v.returned - v.staked).toFixed(2);

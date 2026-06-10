@@ -36,6 +36,11 @@
     "predicted_score": "2-0",
     "confidence": 0.6
   },
+  "market_probs": {
+    "totals_2.5_over": 0.45,
+    "btts_yes": 0.42,
+    "team_totals_home_1.5_over": 0.53
+  },
   "value_notes": "Market implied (overround removed) from h2h 1.50/4.33/7.50: home 0.647, draw 0.224, away 0.129. My probs 0.66/0.22/0.12 sit within 0.02 of the market on every h2h selection — no edge >= 0.05. Totals (over 2.00 / under 1.85, line 2.5) imply over 0.481 / under 0.520; I lean under at ~0.55 given opening-game caginess and South Africa's low-block, but the edge (~0.03) is below threshold. BTTS (yes 2.15 / no 1.70) implies no 0.559; my ~0.58 for 'no' is also a sub-threshold edge (~0.02). No selection qualifies at the 0.05 edge bar.",
   "sources": [
     "https://www.espn.com/espn/story/_/id/48998339/mexico-vs-south-africa-kick-team-news-how-watch-fifa-world-cup-opener",
@@ -47,7 +52,8 @@
     "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-south-africa-opening-game-2010",
     "https://khelnow.com/football/world-football-mexico-vs-south-africa-head-to-head-record-202606",
     "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
-    "https://www.espn.com/soccer/odds/_/gameId/760415"
+    "https://www.espn.com/soccer/odds/_/gameId/760415",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/mexico-vs-south-africa-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-alRa60K95Anc/"
   ],
   "generated_at": "2026-06-10T10:55:08Z"
 }

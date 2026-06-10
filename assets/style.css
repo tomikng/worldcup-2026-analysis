@@ -202,6 +202,12 @@ body {
 .leg-pick { display: flex; justify-content: space-between; font-size: 13.5px; font-weight: 600; gap: 8px; }
 .leg-pick .lodds { font-family: var(--mono); color: var(--lime); }
 .leg-match { font-size: 12px; color: var(--ink-dim); }
+.pm-badge {
+  font-family: var(--mono); font-size: 10px; font-weight: 700; letter-spacing: .04em;
+  color: var(--pitch); background: #6ec9f5; border-radius: 3px;
+  padding: 1px 5px; text-decoration: none; vertical-align: 1px; white-space: nowrap;
+}
+.pm-badge:hover { background: #9adcff; }
 .leg-why { font-size: 12px; color: var(--ink-dim); font-style: italic; margin-top: 2px; }
 
 .slip-foot {

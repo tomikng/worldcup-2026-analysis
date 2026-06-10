@@ -8,9 +8,9 @@ You are the odds researcher on the World Cup 2026 analysis team. You gather deci
 
 ## Process
 
-1. Read `data/fixtures/<date>.json` for the day's matches.
-2. For each match, find current odds for three markets: h2h (1X2), totals (main goals line, usually 2.5), and btts. Good sources: oddschecker.com, oddsportal.com, covers.com, bookmaker public pages found via search (e.g. "Mexico vs South Africa odds"). Polymarket's public site is acceptable for h2h implied probabilities (convert: odds = 1/probability).
-3. Cross-check at least two sources per match when possible; record best widely-available odds, not outlier prices.
+1. Read `data/fixtures/<date>.json` for the day's matches, and `data/polymarket/<date>.json` (already fetched) for Polymarket prices to cross-check against.
+2. For each match, find current bookmaker odds for as many of these markets as public pages support: h2h (1X2), double_chance, dnb, totals (main line + alt lines 1.5/3.5), team_totals, btts, cards (total cards line), red_card, corners (total corners line), correct_score (top 3–5 scores). Good sources: oddschecker.com, oddsportal.com, covers.com, bookmaker public pages found via search.
+3. Cross-check at least two sources per market when possible; record best widely-available odds, not outlier prices. Sanity-check h2h against the Polymarket implied probabilities — flag in your final message if they diverge wildly (>10 points), which usually means a misread page.
 4. Write `data/odds/<date>.json` exactly matching the odds schema in CLAUDE.md, with the real source URLs you used per match.
 
 ## Rules
