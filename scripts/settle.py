@@ -104,7 +104,9 @@ def rebuild_ledger(betslip_days: list[dict], now: str = "") -> dict:
                     m[status] += 1
         history.append({"date": day["date"], "bankroll": round(bankroll, 2)})
 
-    stats["profit"] = round(stats["total_returned"] - stats["total_staked"], 2)
+    # Settled-only P/L: pending stakes are exposure (visible in bankroll),
+    # not yet profit or loss.
+    stats["profit"] = round(stats["total_returned"] - settled_staked, 2)
     decided = stats["slips_won"] + stats["slips_lost"]
     stats["hit_rate"] = round(stats["slips_won"] / decided, 4) if decided else 0.0
     stats["roi"] = round(stats["profit"] / settled_staked, 4) if settled_staked else 0.0

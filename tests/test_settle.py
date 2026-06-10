@@ -177,7 +177,9 @@ class TestRebuildLedger:
         assert ledger["bankroll"] == 995.0
         assert ledger["stats"]["total_staked"] == 25.0
         assert ledger["stats"]["total_returned"] == 20.0
-        assert ledger["stats"]["profit"] == -5.0
+        # profit/ROI are settled-only: 20 returned on 20 settled stakes.
+        # Pending exposure shows up in bankroll, not P/L.
+        assert ledger["stats"]["profit"] == 0.0
         assert ledger["stats"]["slips_won"] == 1
         assert ledger["stats"]["slips_lost"] == 1
         assert ledger["stats"]["slips_pending"] == 1

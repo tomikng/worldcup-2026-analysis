@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WC26 DESK — World Cup 2026 Analysis Team</title>
+<meta name="description" content="AI agent team analyzing every 2026 World Cup match. Virtual-stake recommendations only — not betting advice.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;900&family=Archivo:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='80' font-size='80'>⬡</text></svg>">
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="brand">
+      <span class="brand-mark">⬡</span>
+      <h1>WC26<span> DESK</span></h1>
+    </div>
+    <div class="bankroll-chip" id="bankroll-chip" title="Virtual bankroll">
+      <span class="chip-label">BANKROLL</span>
+      <span class="chip-value" id="chip-bankroll">—</span>
+      <span class="chip-delta" id="chip-delta"></span>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs">
+    <a href="#today" data-view="today">Today</a>
+    <a href="#slips" data-view="slips">Betslips</a>
+    <a href="#record" data-view="record">Track Record</a>
+    <a href="#matches" data-view="matches">All Matches</a>
+  </nav>
+</header>
+
+<main id="app" class="app">
+  <div class="loading">Loading the desk…</div>
+</main>
+
+<footer class="foot">
+  <p>An AI agent team analyzes every match of the 2026 FIFA World Cup — fixtures, odds research,
+     predictions, and paper-traded picks settled against real results.</p>
+  <p class="disclaimer">⚠ Virtual stakes only. This is automated analysis, not betting advice. If you gamble, do it responsibly.</p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
