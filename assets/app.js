@@ -52,10 +52,12 @@ function pmBadge(leg) {
 
 async function loadDay(date) {
   const ids = (INDEX.tickets || {})[date] || [];
-  const [fixtures, odds, slips, tickets] = await Promise.all([
+  const [fixtures, odds, slips, pm, tickets] = await Promise.all([
     INDEX.fixtures.includes(date) ? fetchJSON(`data/fixtures/${date}.json`) : null,
     INDEX.odds.includes(date) ? fetchJSON(`data/odds/${date}.json`) : null,
     INDEX.betslips.includes(date) ? fetchJSON(`data/betslips/${date}.json`) : null,
+    (INDEX.polymarket || []).includes(date)
+      ? fetchJSON(`data/polymarket/${date}.json`).catch(() => null) : null,
     Promise.all(ids.map((id) => fetchJSON(`data/tickets/${date}/${id}.json`).catch(() => null))),
   ]);
   return {
@@ -63,6 +65,7 @@ async function loadDay(date) {
     fixtures: fixtures?.matches || [],
     odds: Object.fromEntries((odds?.matches || []).map((m) => [m.match_id, m])),
     slips: slips?.slips || [],
+    pm: Object.fromEntries((pm?.matches || []).map((m) => [m.match_id, m])),
     tickets: Object.fromEntries(tickets.filter(Boolean).map((t) => [t.match_id, t])),
   };
 }
@@ -75,9 +78,108 @@ function picksByMatch(slips) {
   return map;
 }
 
+/* ---------- edge board ---------- */
+
+function parseProbKey(key) {
+  // "btts_yes" | "red_card_yes" | "totals_2.5_over" | "cards_4.5_over"
+  // | "corners_9.5_over" | "team_totals_home_1.5_over"
+  const parts = key.split("_");
+  const selection = parts.at(-1);
+  if (key.startsWith("team_totals_"))
+    return { market: "team_totals", side: parts[2], line: +parts[3], selection };
+  if (key.startsWith("red_card_")) return { market: "red_card", selection };
+  if (key.startsWith("btts_")) return { market: "btts", selection };
+  const line = +parts.at(-2);
+  return { market: parts.slice(0, -2).join("_"), line, selection };
+}
+
+function bookOddsFor(leg, o) {
+  if (!o) return null;
+  const withLine = (mk) => (mk && mk.line === leg.line ? mk[leg.selection] : null);
+  switch (leg.market) {
+    case "h2h": return o.h2h?.[leg.selection];
+    case "double_chance": return o.double_chance?.[leg.selection];
+    case "dnb": return o.dnb?.[leg.selection];
+    case "btts": return o.btts?.[leg.selection];
+    case "red_card": return o.red_card?.[leg.selection];
+    case "cards": return withLine(o.cards);
+    case "corners": return withLine(o.corners);
+    case "team_totals": return withLine(o.team_totals?.[leg.side]);
+    case "totals":
+      return withLine(o.totals)
+        ?? withLine((o.totals_alt || []).find((a) => a.line === leg.line));
+    default: return null;
+  }
+}
+
+// Polymarket uses FIFA team naming — mirror the aliases in fetch_polymarket.py
+const PM_ALIASES = {
+  "south korea": ["south korea", "korea republic"],
+  "iran": ["iran", "ir iran"],
+  "usa": ["usa", "united states"],
+  "ivory coast": ["ivory coast", "côte d'ivoire", "cote d'ivoire"],
+  "cape verde": ["cape verde", "cabo verde"],
+};
+const teamVariants = (t) => PM_ALIASES[t.toLowerCase()] || [t.toLowerCase()];
+
+function pmPriceFor(leg, pmEntry, ticket) {
+  if (!pmEntry?.markets || leg.market !== "h2h") return null;
+  const team = { home: ticket.home, away: ticket.away }[leg.selection];
+  for (const mk of pmEntry.markets) {
+    const q = mk.question.toLowerCase();
+    const isDraw = leg.selection === "draw" && q.includes("end in a draw");
+    const isTeam = team && teamVariants(team).some((v) => q.includes(`will ${v} win`));
+    if (!isDraw && !isTeam) continue;
+    const yes = mk.outcomes.findIndex((o) => o.toLowerCase() === "yes");
+    if (yes >= 0) return mk.prices[yes];
+  }
+  return null;
+}
+
+function edgeRows(ticket, oddsEntry, pmEntry) {
+  const entries = [
+    ...Object.entries(ticket.prediction?.probs || {}).map(
+      ([sel, p]) => [{ market: "h2h", selection: sel }, p]),
+    ...Object.entries(ticket.market_probs || {}).map(
+      ([key, p]) => [parseProbKey(key), p]),
+  ];
+  return entries.map(([leg, prob]) => {
+    const odds = bookOddsFor(leg, oddsEntry);
+    const pmPrice = pmPriceFor(leg, pmEntry, ticket);
+    const bookEdge = odds ? prob - 1 / odds : null;
+    const pmEdge = pmPrice != null ? prob - pmPrice : null;
+    let price = null, edge = null, via = "";
+    if (pmEdge !== null && (bookEdge === null || pmEdge > bookEdge)) {
+      price = `${Math.round(pmPrice * 100)}¢`; edge = pmEdge; via = "PM";
+    } else if (bookEdge !== null) {
+      price = `@${odds}`; edge = bookEdge; via = "book";
+    }
+    return { label: legLabel(leg, ticket), prob, price, edge, via };
+  });
+}
+
+function edgeBoard(ticket, oddsEntry, pmEntry) {
+  const rows = edgeRows(ticket, oddsEntry, pmEntry);
+  if (!rows.length) return "";
+  const tr = rows.map((r) => {
+    const status = r.price === null
+      ? `<td class="eb-na">no price</td>`
+      : r.edge >= 0.05
+        ? `<td class="eb-pick">✓ ${(r.edge * 100).toFixed(1)}%</td>`
+        : `<td class="${r.edge > 0 ? "" : "eb-na"}">${(r.edge * 100).toFixed(1)}%</td>`;
+    return `<tr><td>${esc(r.label)}</td><td>${pct(r.prob)}</td>
+      <td>${r.price ? `${esc(r.price)} <small>${r.via}</small>` : "—"}</td>${status}</tr>`;
+  }).join("");
+  return `<details class="edge-board"><summary>Edge board — ${rows.length} markets evaluated</summary>
+    <table><thead><tr><th>Market</th><th>Model</th><th>Best price</th><th>Edge</th></tr></thead>
+    <tbody>${tr}</tbody></table>
+    <p class="eb-note">Picks require edge ≥ 5%. "No price" = no bookmaker or Polymarket market found.</p>
+  </details>`;
+}
+
 /* ---------- renderers ---------- */
 
-function matchCard(fix, ticket, picks, i) {
+function matchCard(fix, ticket, picks, i, oddsEntry, pmEntry) {
   const t = ticket;
   const probs = t?.prediction?.probs;
   const probBar = probs
@@ -106,6 +208,7 @@ function matchCard(fix, ticket, picks, i) {
     ${t?.analysis?.summary ? `<p class="mc-summary">${esc(t.analysis.summary)}</p>` : ""}
     ${factors ? `<ul class="mc-factors">${factors}</ul>` : ""}
     ${pickChips ? `<div class="mc-picks">${pickChips}</div>` : ""}
+    ${t ? edgeBoard(t, oddsEntry, pmEntry) : ""}
     ${t ? `<div class="conf">confidence ${pct(t.prediction.confidence)}</div>` : ""}
   </article>`;
 }
@@ -171,7 +274,8 @@ async function viewToday() {
       <span class="sub">${day.fixtures.length} matches · ${day.slips.length} slips · ${units(staked)} staked</span>
     </div>
     <div class="match-grid">
-      ${day.fixtures.map((f, i) => matchCard(f, day.tickets[f.match_id], picks[f.match_id], i)).join("")}
+      ${day.fixtures.map((f, i) => matchCard(f, day.tickets[f.match_id], picks[f.match_id], i,
+        day.odds[f.match_id], day.pm[f.match_id])).join("")}
     </div>`;
 }
 
@@ -303,7 +407,8 @@ async function hydrateDay(el) {
   const fixtures = day.fixtures.length
     ? day.fixtures
     : Object.values(day.tickets); // fixtures file missing — tickets carry teams/kickoff
-  host.innerHTML = fixtures.map((f, i) => matchCard(f, day.tickets[f.match_id], picks[f.match_id], i)).join("")
+  host.innerHTML = fixtures.map((f, i) => matchCard(f, day.tickets[f.match_id], picks[f.match_id], i,
+    day.odds[f.match_id], day.pm[f.match_id])).join("")
     || `<div class="empty">No data for this day.</div>`;
 }
 

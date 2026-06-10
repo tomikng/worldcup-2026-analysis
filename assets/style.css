@@ -156,6 +156,23 @@ body {
 .mc-factors li::before { content: "▸"; color: var(--lime-dim); position: absolute; left: 0; }
 
 .mc-picks { padding: 12px 14px 14px; display: flex; flex-wrap: wrap; gap: 6px; }
+
+.edge-board { margin: 10px 14px 4px; border: 1px dashed var(--card-edge); border-radius: var(--radius); }
+.edge-board summary {
+  cursor: pointer; font-family: var(--mono); font-size: 11px; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--ink-dim); padding: 8px 10px;
+}
+.edge-board summary::-webkit-details-marker { display: none; }
+.edge-board summary:hover { color: var(--ink); }
+.edge-board table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 11.5px; }
+.edge-board th { text-align: left; color: var(--ink-dim); font-weight: 500; font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase; padding: 4px 10px; border-bottom: 1px solid var(--card-edge); }
+.edge-board td { padding: 5px 10px; border-bottom: 1px dotted var(--card-edge); }
+.edge-board td small { color: var(--ink-dim); }
+.edge-board tr:last-child td { border-bottom: none; }
+.eb-pick { color: var(--lime); font-weight: 700; }
+.eb-na { color: var(--void); }
+.eb-note { font-size: 11px; color: var(--ink-dim); padding: 6px 10px; margin: 0; }
 .pick-chip {
   font-family: var(--mono); font-size: 11.5px; font-weight: 500;
   border: 1px solid var(--lime-dim); color: var(--lime);
