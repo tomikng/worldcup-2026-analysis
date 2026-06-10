@@ -1,12 +1,12 @@
 {
   "source": "polymarket gamma API",
-  "collected_at": "2026-06-10T11:26:33Z",
+  "collected_at": "2026-06-10T11:29:43Z",
   "events": [
     {
       "title": "World Cup Group A Winner",
       "slug": "world-cup-group-a-winner",
       "url": "https://polymarket.com/event/world-cup-group-a-winner",
-      "volume": 563345.6990019991,
+      "volume": 563383.4446149991,
       "outcomes": [
         {
           "name": "Mexico",
@@ -54,7 +54,7 @@
       "title": "World Cup Group I Winner",
       "slug": "world-cup-group-i-winner",
       "url": "https://polymarket.com/event/world-cup-group-i-winner",
-      "volume": 357396.46300900006,
+      "volume": 357448.8130090001,
       "outcomes": [
         {
           "name": "France",
@@ -78,7 +78,7 @@
       "title": "World Cup: Nation To Reach Round of 16",
       "slug": "world-cup-nation-to-reach-round-of-16",
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
-      "volume": 346124.586144,
+      "volume": 346144.586144,
       "outcomes": [
         {
           "name": "France",
@@ -134,7 +134,7 @@
       "title": "World Cup Group D Winner",
       "slug": "world-cup-group-d-winner",
       "url": "https://polymarket.com/event/world-cup-group-d-winner",
-      "volume": 326006.6180319993,
+      "volume": 326020.90374499926,
       "outcomes": [
         {
           "name": "USA",
@@ -182,7 +182,7 @@
       "title": "World Cup Group B Winner",
       "slug": "world-cup-group-b-winner",
       "url": "https://polymarket.com/event/world-cup-group-b-winner",
-      "volume": 304641.37540799985,
+      "volume": 305923.42664799985,
       "outcomes": [
         {
           "name": "Switzerland",
@@ -222,7 +222,7 @@
         },
         {
           "name": "Cape Verde",
-          "price": 0.009
+          "price": 0.0085
         }
       ]
     },
@@ -254,7 +254,7 @@
       "title": "World Cup: Nation To Reach Quarterfinals",
       "slug": "world-cup-nation-to-reach-quarterfinals",
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-quarterfinals",
-      "volume": 259379.876592,
+      "volume": 259438.94822199998,
       "outcomes": [
         {
           "name": "Spain",
@@ -334,7 +334,7 @@
       "title": "World Cup Group E Winner",
       "slug": "world-cup-group-e-winner",
       "url": "https://polymarket.com/event/world-cup-group-e-winner",
-      "volume": 198251.77679299997,
+      "volume": 198651.77679299997,
       "outcomes": [
         {
           "name": "Germany",
@@ -382,7 +382,7 @@
       "title": "World Cup: Nation To Reach Semifinals",
       "slug": "world-cup-nation-to-reach-semifinals",
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-semifinals",
-      "volume": 147281.536803,
+      "volume": 147592.73680299998,
       "outcomes": [
         {
           "name": "Spain",
@@ -474,7 +474,7 @@
         },
         {
           "name": "Scotland",
-          "price": 0.175
+          "price": 0.17
         },
         {
           "name": "Morocco",
@@ -494,7 +494,7 @@
       "title": "World Cup: Group L Last Place",
       "slug": "world-cup-group-l-last-place-20260605000843479",
       "url": "https://polymarket.com/event/world-cup-group-l-last-place-20260605000843479",
-      "volume": 11188.432239,
+      "volume": 12047.009526,
       "outcomes": [
         {
           "name": "Panama",
@@ -514,11 +514,11 @@
         },
         {
           "name": "Croatia",
-          "price": 0.1
+          "price": 0.085
         },
         {
           "name": "England",
-          "price": 0.034
+          "price": 0.0355
         }
       ]
     },
@@ -670,7 +670,7 @@
       "outcomes": [
         {
           "name": "Qatar",
-          "price": 0.73
+          "price": 0.745
         },
         {
           "name": "Country E",
@@ -682,11 +682,11 @@
         },
         {
           "name": "Bosnia and Herzegovina",
-          "price": 0.195
+          "price": 0.18
         },
         {
           "name": "Canada",
-          "price": 0.075
+          "price": 0.08
         },
         {
           "name": "Switzerland",
@@ -778,7 +778,7 @@
         },
         {
           "name": "Spain",
-          "price": 0.19
+          "price": 0.185
         },
         {
           "name": "Saudi Arabia",
@@ -818,7 +818,7 @@
         },
         {
           "name": "Haiti",
-          "price": 0.045
+          "price": 0.06
         }
       ]
     },
@@ -914,7 +914,7 @@
         },
         {
           "name": "Türkiye",
-          "price": 0.12
+          "price": 0.13
         }
       ]
     },
@@ -990,7 +990,7 @@
         },
         {
           "name": "Switzerland",
-          "price": 0.49
+          "price": 0.495
         },
         {
           "name": "Canada",
@@ -1122,7 +1122,7 @@
         },
         {
           "name": "Ivory Coast",
-          "price": 0.34
+          "price": 0.31
         },
         {
           "name": "Germany",
@@ -1194,7 +1194,7 @@
         },
         {
           "name": "Panama",
-          "price": 0.145
+          "price": 0.13
         }
       ]
     },
@@ -1314,7 +1314,7 @@
         },
         {
           "name": "Ecuador",
-          "price": 0.16
+          "price": 0.15
         },
         {
           "name": "Ivory Coast",
@@ -1386,7 +1386,7 @@
         },
         {
           "name": "Iraq",
-          "price": 0.017
+          "price": 0.018
         }
       ]
     },
@@ -1470,7 +1470,7 @@
         },
         {
           "name": "Japan",
-          "price": 0.35
+          "price": 0.345
         },
         {
           "name": "Sweden",
@@ -1482,7 +1482,7 @@
         },
         {
           "name": "Tunisia",
-          "price": 0.165
+          "price": 0.17
         }
       ]
     },
@@ -1546,7 +1546,7 @@
         },
         {
           "name": "Qatar",
-          "price": 0.08
+          "price": 0.085
         }
       ]
     },
@@ -1566,7 +1566,7 @@
         },
         {
           "name": "South Korea",
-          "price": 0.31
+          "price": 0.305
         },
         {
           "name": "Czechia",
