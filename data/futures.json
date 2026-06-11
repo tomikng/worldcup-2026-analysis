@@ -1,4 +1,65 @@
 {
   "budget": 100.0,
-  "positions": []
+  "positions": [
+    {
+      "position_id": "FUT-1",
+      "market_title": "World Cup Group A Winner",
+      "outcome": "Mexico",
+      "entry_price": 0.565,
+      "stake": 10.0,
+      "url": "https://polymarket.com/event/world-cup-group-a-winner",
+      "opened": "2026-06-11",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Mexico play all group games at altitude at home, are unbeaten in 8 (including a 5-1 rout of Serbia), and face a qualitatively weaker Group A; model probability ~0.65 vs market 0.565 yields a +0.085 edge."
+    },
+    {
+      "position_id": "FUT-2",
+      "market_title": "World Cup: Nation To Reach Round of 16",
+      "outcome": "England",
+      "entry_price": 0.735,
+      "stake": 10.0,
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "opened": "2026-06-11",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "England top Group L favorites (0.685 to win the group) alongside only Croatia as a credible rival; model probability of a top-2 finish ~0.87 vs market 0.735 yields a +0.135 edge."
+    },
+    {
+      "position_id": "FUT-3",
+      "market_title": "World Cup: Nation To Reach Round of 16",
+      "outcome": "Mexico",
+      "entry_price": 0.535,
+      "stake": 15.0,
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "opened": "2026-06-11",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Mexico's R16 probability (top-2 of 4 in Group A) is logically bounded below by their 0.565 group-win price; model estimates ~0.82 for top-2 finish against South Korea, Czechia, and South Africa, giving a +0.285 edge vs the 0.535 market price."
+    },
+    {
+      "position_id": "FUT-4",
+      "market_title": "World Cup: Nation To Reach Round of 16",
+      "outcome": "Switzerland",
+      "entry_price": 0.565,
+      "stake": 15.0,
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "opened": "2026-06-11",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Switzerland are Group B favorites at 0.565 to win the group outright, so their top-2 finish probability is far higher (~0.83); the 0.565 R16 market price is definitionally mispriced relative to the group-win market, giving a +0.265 edge."
+    },
+    {
+      "position_id": "FUT-5",
+      "market_title": "World Cup: Nation To Reach Round of 16",
+      "outcome": "Norway",
+      "entry_price": 0.54,
+      "stake": 5.0,
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "opened": "2026-06-11",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Norway at 0.255 to win Group I and Senegal and Iraq as the only other challengers behind France gives Norway a ~0.60 probability of a top-2 finish, against a market price of 0.54 for a +0.06 edge."
+    }
+  ]
 }
