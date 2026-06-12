@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-12",
+  "source": "web-research (fifa.com, espn.com, cbssports.com, skysports.com — no FOOTBALL_DATA_TOKEN)",
+  "fetched_at": "2026-06-12T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-003",
+      "kickoff_utc": "2026-06-12T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "venue": "Toronto Stadium (BMO Field), Toronto"
+    },
+    {
+      "match_id": "wc-004",
+      "kickoff_utc": "2026-06-13T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "home": "United States",
+      "away": "Paraguay",
+      "venue": "Los Angeles Stadium (SoFi Stadium), Inglewood"
+    }
+  ]
+}

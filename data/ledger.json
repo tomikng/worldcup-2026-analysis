@@ -1,7 +1,7 @@
 {
   "starting_bankroll": 1000.0,
   "bankroll": 1000.0,
-  "updated_at": "2026-06-10T11:31:19Z",
+  "updated_at": "2026-06-12T07:04:12Z",
   "stats": {
     "total_staked": 0.0,
     "total_returned": 0.0,
@@ -16,11 +16,11 @@
   },
   "futures": {
     "budget": 100.0,
-    "staked": 0.0,
-    "remaining": 100.0,
+    "staked": 55.0,
+    "remaining": 45.0,
     "returned": 0.0,
     "profit": 0.0,
-    "open": 0,
+    "open": 5,
     "won": 0,
     "lost": 0
   },
