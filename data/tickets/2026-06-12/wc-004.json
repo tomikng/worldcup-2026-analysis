@@ -1,0 +1,67 @@
+{
+  "match_id": "wc-004",
+  "date": "2026-06-12",
+  "home": "United States",
+  "away": "Paraguay",
+  "kickoff_utc": "2026-06-13T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_D",
+  "venue": "SoFi Stadium, Inglewood",
+  "analysis": {
+    "summary": "The United States host Paraguay in their World Cup 2026 Group D opener at SoFi Stadium, a venue where they carry the dual advantage of co-host support and an air-conditioned, covered arena. USA enter with mixed recent form — a 3-2 win over Senegal and 1-2 loss to Germany in June tune-ups — but possess clearly superior individual quality headlined by Pulisic and Balogun. Paraguay arrive as a defensive, low-scoring unit under Gustavo Alfaro and are significantly weakened by the confirmed absence of creative midfielder Julio Enciso, their most dangerous attacking talent, who is ruled out with a hamstring and quad injury suffered on June 5. Paraguay's CONMEBOL qualifying record (14 goals scored, 10 conceded in 18 games) underlines their disciplined but limited attacking output, and without Enciso that threat is further reduced.",
+    "home_form": "USA won 5-1 vs Uruguay (Nov 2025), lost 2-5 to Belgium, lost 0-2 to Portugal, beat Senegal 3-2 on May 31, lost 1-2 to Germany on June 6. Mixed results against top opposition but improving cohesion under Pochettino. Pulisic returned to form vs Senegal after a goal drought. Tyler Adams fit after spring injury absence. Balogun (19 goals+4 assists for Monaco in 2025-26) is in excellent club form.",
+    "away_form": "Paraguay qualified 6th in CONMEBOL (28 points from 18 games, 14 goals scored, 10 conceded). Under Alfaro since mid-2024 they turned results around with home wins over Brazil, Argentina and Uruguay. Play a compact 4-4-2 defensive block relying on set pieces and counter-attacks. Miguel Almiron and Antonio Sanabria expected to start up front without Enciso. Paraguay have not appeared at a World Cup since 2010.",
+    "h2h": "USA leads the all-time series 5W-2D-2L across 9 meetings. The most recent encounter was a late-2025 friendly won 2-1 by the USA with goals from Giovanni Reyna and Folarin Balogun. USA won 1-0 in the 2016 Copa America; Paraguay won 3-1 in the 2007 Copa America. Six of nine games have been friendlies.",
+    "injuries_news": [
+      "Paraguay: Julio Enciso (Strasbourg) confirmed out for the USA opener after suffering hamstring and quad injuries on June 5 in a friendly vs Nicaragua — MRI ruled out structural tear but he is ruled out for at least the first two group games",
+      "USA: Christian Pulisic fit after minor injury kept him from pre-camp friendlies; played and scored vs Senegal on May 31",
+      "USA: Tyler Adams fit after sitting out spring friendlies with injury; expected to start",
+      "USA: Gio Reyna available but played only 137 minutes across 8 appearances this calendar year — fitness level unconfirmed but included in squad"
+    ],
+    "key_factors": [
+      "Home advantage: SoFi Stadium is covered and air-conditioned, providing a neutral environment (not heat-affected); massive US crowd expected to create a strong home atmosphere",
+      "Enciso absence: Paraguay lose their most creative player — Alfaro's side already averaged only 0.78 goals per qualifying game; without Enciso they are heavily reliant on set pieces and the fading Almiron",
+      "Opening-game caution: Both teams will be tentative in a must-not-lose opener; Paraguay likely to defend deep and frustrate — this favors a low-scoring, conservative match",
+      "USA's attacking threat vs Paraguay's compact block: Pulisic, Balogun, and Dest provide technical quality that should expose Paraguay, but Alfaro's teams are well-organized and hard to break down",
+      "Paraguay's set-piece weapon: Gustavo Gomez's aerial threat from corners and free-kicks is a genuine danger to the USA; USA must be disciplined at set pieces",
+      "USA's defensive frailties: Recent results (5-2 vs Belgium, 0-2 vs Portugal) show vulnerability against quality attacks, though Paraguay's attack is far less dangerous"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.53,
+      "draw": 0.27,
+      "away": 0.20
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.40
+  },
+  "value_notes": "Market-implied probabilities (normalized, overround removed): USA win 48.8%, Draw 28.0%, Paraguay win 23.2%. My model: USA win 53.0%, Draw 27.0%, Paraguay win 20.0%. Edge on USA win: 53.0% - 51.3% (raw implied) = +4.2% — this is below the 0.05 threshold for value. On Paraguay away win: model 20.0% vs market 23.2% — model is below market, so no value on Paraguay. On totals: market-implied over 2.5 normalized ~41.5%; my model 40.0% — no edge over the market. The primary driver of my adjustment above the market on USA is Enciso's confirmed absence, which the market may not fully reflect given Paraguay's already-minimal attacking threat in qualifying. However, the edge on USA win sits at approximately +4.2 percentage points, just below the 0.05 edge threshold required for a value bet. No market currently reaches the ≥0.05 edge threshold required by staking policy.",
+  "sources": [
+    "https://www.nbcsports.com/soccer/news/usmnt-2026-schedule-results",
+    "https://www.foxsports.com/stories/soccer/usmnt-germany-world-cup-friendly-4-takeaways",
+    "https://www.espn.com/soccer/story/_/id/48986237/is-usmnt-ready-world-cup-loss-germany-jury-out",
+    "https://www.npr.org/2026/06/07/nx-s1-5848725/2026-world-cup-usmnt-preview",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(CONMEBOL)",
+    "https://www.goal.com/en-gb/world-cup-teams/group-d/world-cup-2026-guide-paraguay/O~blt294602f9f302d111",
+    "https://www.beinsports.com/en-us/soccer/wc-qualification-south-america/articles/uruguay-colombia-and-paraguay-secure-qualification-for-the-2026-world-cup-2025-09-05",
+    "https://www.sportsmole.co.uk/football/usa/world-cup-2026/head-to-head/usa-vs-paraguay-head-to-head-record-and-past-meetings_598974.html",
+    "https://www.starsandstripesfc.com/usmnt-news/44224/2026-world-cup-previewing-usa-vs-paraguay-all-gas-no-brakes",
+    "https://www.starsandstripesfc.com/fifa-world-cup/44103/usa-vs-paraguay-2026-world-cup-scouting-paraguay",
+    "https://www.espn.com/soccer/story/_/id/48882389/usa-2026-world-cup-roster-christian-pulisic-squad-mckennie-adams",
+    "https://www.cbssports.com/soccer/news/usmnt-world-cup-preview-schedule-storylines-pulisic-balogun/",
+    "https://bleacherreport.com/articles/25437927-world-cup-2026-starting-lineups-notable-injury-news-and-potential-replacements",
+    "https://www.beinsports.com/en-au/football/fifa-world-cup-2026/articles/paraguay-s-julio-enciso-injured-ahead-of-world-cup-2026-06-06",
+    "https://www.freetips.com/football/julio-enciso-injury-20260610-0026/",
+    "https://www.si.com/soccer/usmnt-first-world-cup-opponent-injury-blow-star-player",
+    "https://www.squawka.com/en/news/world-cup/paraguay-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.si.com/soccer/usmnt-projected-starting-lineup-vs-paraguay-the-calls-pochettino-must-make",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://www.skysports.com/football/news/12098/13543088/world-cup-2026-group-d-guide-fixtures-schedule-standings-and-odds-for-usa-paraguay-australia-and-turkey",
+    "https://www.fourfourtwo.com/competition/sofi-stadium-world-cup-2026"
+  ],
+  "generated_at": "2026-06-12T10:45:00Z"
+}
