@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-003",
+  "date": "2026-06-12",
+  "home": "Canada",
+  "away": "Bosnia and Herzegovina",
+  "kickoff_utc": "2026-06-12T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_B",
+  "venue": "BMO Field, Toronto",
+  "analysis": {
+    "summary": "Canada host Bosnia and Herzegovina in the Group B opener at BMO Field, Toronto — the first men's World Cup match ever played on Canadian soil. Canada enter without captain Alphonso Davies (hamstring) and defensive stalwart Moise Bombito (broken leg, ruled out entirely), which are significant absences. Bosnia arrive with their own injury uncertainty around 40-year-old captain Edin Dzeko (shoulder), who sat out their final warm-up. The market correctly prices Canada as comfortable favourites given home advantage, crowd support and Bosnia's modest recent form, but Canada's defensive injuries and the high-pressure occasion of a tournament opener for a nation with zero World Cup wins temper the edge.",
+    "home_form": "Canada went unbeaten in 11 friendlies since their 2025 CONCACAF Gold Cup quarter-final exit (6W 5D), including a 2-0 win over Uzbekistan and a 1-1 draw with Republic of Ireland as immediate pre-tournament tune-ups. Jonathan David is Canada's all-time leading scorer (39 goals) and leads the attack alongside Cyle Larin. Tajon Buchanan and Liam Millar provide width. The loss of Davies at left-back/wing-back and Bombito at centre-back is a tangible defensive setback.",
+    "away_form": "Bosnia qualified via penalty shootout victories over Wales and Italy in the UEFA play-offs. Their five most recent matches show no wins (D1-1 vs Panama friendly, D0-0 vs North Macedonia, D1-1 vs Italy play-off, D1-1 vs Austria play-off, D1-1 vs Wales play-off) — a string of draws against quality opposition. Ermedin Demirovic (Stuttgart) is their chief goal threat alongside Dzeko. The team is defensively disciplined but lacks a proven match-winner if Dzeko is absent.",
+    "h2h": "Canada and Bosnia have met twice previously, both in international friendlies; Bosnia won one and the other ended in a draw (most recent was approximately seven years ago). This is their first meeting in a major tournament.",
+    "injuries_news": [
+      "Canada: Alphonso Davies (hamstring) — expected to miss the opener, may return later in group stage. Moise Bombito (broken leg) — ruled out of the entire tournament. Marcelo Flores (ACL) — removed from squad. Jacob Shaffelburg (hamstring) — in squad but fitness uncertain.",
+      "Bosnia: Edin Dzeko (shoulder) — sat out final warm-up match, doubt for opener; described as a 'big question mark'. Dennis Hadzikadunic — touch-and-go fitness."
+    ],
+    "key_factors": [
+      "Home advantage and tournament atmosphere at BMO Field are significant for Canada in their World Cup debut on home soil.",
+      "Absence of Alphonso Davies is a major blow — Canada lose their most dangerous attacking option as well as defensive cover on the left flank.",
+      "Bosnia's 40-year-old captain Dzeko is doubtful; without him their attacking threat drops considerably and they lack a Plan B striker of similar quality.",
+      "Bosnia's recent form (0 wins in last 5, all draws) suggests defensive solidity but limited attacking ambition.",
+      "Canada's unbeaten 11-match friendly run shows cohesion under Jesse Marsch, who has his first World Cup as manager.",
+      "Referee Facundo Tello (Argentina) averages 4.59 yellow cards per game across his career (4.75 in 2025-26 season) — above the typical tournament average; he is known for a firm disciplinary approach.",
+      "BMO Field is sea-level in Toronto; no altitude or climate disadvantage for either side in mid-June conditions."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.54,
+      "draw": 0.25,
+      "away": 0.21
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.44,
+    "btts_yes": 0.42
+  },
+  "value_notes": "Market-implied (normalized) probabilities: Canada win 52.4%, Draw 26.5%, Bosnia win 20.6%. My model: Canada win 54.0%, Draw 25.0%, Bosnia win 21.0%. Edge on Canada win = 0.54 - 0.547 = -0.007 (no edge vs 1.83 odds; implied is 54.7%). No meaningful edge on h2h. Totals over 2.5: market implied 42.6%; my model 44% (scoreline distribution: Canada-heavy 2-1, 2-0, 1-0 anchor the under, but Bosnia's draw-heavy form and Canada's attacking firepower raise the over slightly) — edge of ~+0.01, insufficient. BTTS yes: market implied 44.8%; my model 42% (Bosnia likely to defend deep and Dzeko doubtful) — model is actually BELOW market, no edge, slight lean to btts_no. No qualifying edge ≥ 0.05 identified on any market. Cards market: referee Tello averages 4.59 yellow cards per game (career) and 4.75 in 2025-26; however no cards line is available in the provided odds data so this market cannot be included. No Polymarket data available (API 403).",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/48972712/fifa-world-cup-2026-canada-vs-bosnia-herzegovina-kickoff-how-watch-stats-team-news",
+    "https://sports.yahoo.com/articles/why-alphonso-davies-missing-2026-213721175.html",
+    "https://www.si.com/soccer/canada-2026-world-cup-roster-confirmed-full-list-players",
+    "https://www.sportsmole.co.uk/football/canada/world-cup-2026/predicted-lineups/dzeko-seeking-an-improbable-return-predicted-bosnia-herzegovina-lineup-vs-canada_598905.html",
+    "https://www.sportsmole.co.uk/football/canada/world-cup-2026/preview/canada-vs-bosnia-hvina-prediction-team-news-lineups_598907.html",
+    "https://www.concacaf.com/competitions/fifa-world-cup/news/fifa-world-cup-2026-team-profile-canada",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d1594a5469-659bdc40eca9-1000--bosnia-and-herzegovina-at-the-world-cup-2026-squad-fixtur/",
+    "https://www.uefa.com/european-qualifiers/news/02a4-204927bdd236-b81a4f0eed48-1000--bosnia-and-herzegovina-turn-progress-into-world-cup-return/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/bosnia-and-herzegovina-sergej-barbarez-names-squad",
+    "https://foot-africa.com/en/news/2026-world-cup-facundo-tello-appointed-for-canada-vs-bosnia-and-herzegovina-1236727/",
+    "https://www.statshub.com/referee/tello-figueroa-facundo-raul/789071",
+    "https://khelnow.com/football/world-football-canada-vs-bosnia-herzegovina-head-to-head-record",
+    "https://www.squawka.com/en/news/world-cup/bosnia-herzegovina-world-cup-2026-fixtures-squad-analysis/",
+    "https://theanalyst.com/articles/canada-vs-bosnia-herzegovina-prediction-world-cup-2026-match-preview",
+    "https://www.sofascore.com/news/bosnia-and-herzegovinas-season-of-change-data-behind-the-rise"
+  ],
+  "generated_at": "2026-06-12T11:45:00Z"
+}
