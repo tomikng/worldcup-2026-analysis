@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-13",
+  "collected_at": "2026-06-13T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-005",
+      "h2h": {
+        "home": 9.50,
+        "draw": 5.50,
+        "away": 1.30
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.71,
+        "under": 2.15
+      },
+      "btts": {
+        "yes": 3.50,
+        "no": 1.52
+      },
+      "sources": [
+        "https://www.sportsline.com/insiders/qatar-vs-switzerland-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+        "https://www.cbssports.com/soccer/news/qatar-switzerland-world-cup-2026-preview-predictions-watch/",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/qatar-vs-switzerland-odds-prediction-061326-217118",
+        "https://www.oddschecker.com/us/soccer/world-cup/qatar-v-switzerland"
+      ]
+    },
+    {
+      "match_id": "wc-006",
+      "h2h": {
+        "home": 1.57,
+        "draw": 4.00,
+        "away": 5.25
+      },
+      "dnb": {
+        "home": 1.22,
+        "away": 3.80
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.00,
+        "under": 1.80
+      },
+      "btts": {
+        "yes": 2.10,
+        "no": 1.75
+      },
+      "sources": [
+        "https://www.rotowire.com/soccer/article/brazil-vs-morocco-picks-tips-odds-best-bets-2026-world-cup-group-c-117949",
+        "https://sports.yahoo.com/articles/brazil-vs-morocco-prediction-world-154508606.html",
+        "https://www.espn.com/soccer/odds/_/gameId/760419",
+        "https://www.oddsshark.com/soccer/world-cup/brazil-morocco-odds-june-13-2026-2494710",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/brazil-vs-morocco-odds-prediction-061326-217120"
+      ]
+    },
+    {
+      "match_id": "wc-007",
+      "h2h": {
+        "home": 6.25,
+        "draw": 4.50,
+        "away": 1.44
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.91,
+        "under": 1.96
+      },
+      "btts": {
+        "yes": 2.00,
+        "no": 1.80
+      },
+      "sources": [
+        "https://www.covers.com/world-cup/haiti-vs-scotland-prediction-picks-odds-saturday-6-13-2026",
+        "https://www.espn.com/soccer/odds/_/gameId/760418",
+        "https://www.oddsshark.com/soccer/world-cup/haiti-scotland-odds-june-13-2026-2494716",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/haiti-vs-scotland-odds-prediction-061426-217127"
+      ]
+    }
+  ]
+}
