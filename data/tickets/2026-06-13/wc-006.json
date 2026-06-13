@@ -1,0 +1,73 @@
+{
+  "match_id": "wc-006",
+  "date": "2026-06-13",
+  "home": "Brazil",
+  "away": "Morocco",
+  "kickoff_utc": "2026-06-13T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_C",
+  "venue": "MetLife Stadium, East Rutherford",
+  "analysis": {
+    "summary": "Brazil, five-time world champions and tournament favorites, open Group C against a Morocco side that reached the Qatar 2022 semifinal and won all eight of their World Cup qualifying matches. Brazil enter with notable absences — Rodrygo (torn ACL/meniscus, out for 2026), Militao (hamstring surgery), and Estevao (hamstring) — while Neymar is listed as game-time doubtful with a calf complaint. Morocco are without Ziyech, En-Nesyri, and Abde Ezzalzouli (injury), but Hakimi recovered from his thigh issue in time to play. The market strongly favors Brazil, but Morocco's defensive organization — they conceded zero in four consecutive wins heading into the tournament — means this opener carries genuine upset potential.",
+    "home_form": "Brazil won 3-1 vs Croatia (friendly, March 2026), lost 1-2 to France (friendly, March 2026), drew 1-1 with Tunisia (friendly, November 2025), won 2-0 vs Senegal (friendly, November 2025), and lost 2-3 to Japan (Kirin Cup, October 2025). Mixed form overall: 2W/1D/2L in last 5, scoring 9 and conceding 7. Carlo Ancelotti took over in May 2025 and has been developing the system, but key absentees (Rodrygo, Militao, Estevao, doubtful Neymar) deplete the squad's depth significantly.",
+    "away_form": "Morocco qualified with a perfect record (8W from 8) for the World Cup and entered on strong form: 3-0 vs Zambia (Dec 2025), 1-0 vs Tanzania (Jan 2026), 2-0 vs Cameroon (Jan 2026), 0-0 draw vs Nigeria (Jan 2026), and 3-0 vs Senegal (Jan 2026) — these last matches during AFCON 2026. Four wins and one draw, conceding zero goals in the last four matches. They were also the first African semi-finalists in World Cup history at Qatar 2022, dispatching Spain and Portugal along the way.",
+    "h2h": "Three all-time meetings: Brazil won 2-0 (friendly, 1997), Brazil won 3-0 at France 1998 World Cup, Morocco won 2-1 (friendly, March 2023). Brazil lead 2-1 on wins. The most recent meeting in 2023 saw Morocco claim their first-ever win over Brazil, underlining the competitive shift in African football.",
+    "injuries_news": [
+      "Rodrygo (Brazil): torn ACL and outer meniscus, out for remainder of 2026 — confirmed absence",
+      "Militao (Brazil): hamstring surgery, out for World Cup — confirmed absence",
+      "Estevao (Brazil): hamstring injury, left off Brazil's squad — confirmed absence",
+      "Neymar (Brazil): calf injury, listed as game-time doubtful; Igor Thiago expected to start if Neymar misses",
+      "Hakim Ziyech (Morocco): not selected for the 2026 World Cup squad",
+      "Youssef En-Nesyri (Morocco): not selected for the 2026 World Cup squad",
+      "Abde Ezzalzouli (Morocco): injury doubt, World Cup participation under threat",
+      "Noussair Mazraoui (Morocco): shoulder injury, expected to start",
+      "Achraf Hakimi (Morocco): thigh injury during Champions League semi-final, recovered and played 65 minutes vs Norway pre-tournament"
+    ],
+    "key_factors": [
+      "Brazil's attacking depth is thinned significantly without Rodrygo, Militao, Estevao, and potentially Neymar; Vinicius Junior and Raphinha remain elite threats",
+      "Morocco's defensive organization under Regragui has been exceptional — conceded 0 in 4 consecutive wins; historically held Spain, Portugal, and Belgium to 0 at Qatar 2022",
+      "Morocco beat Brazil 2-1 in March 2023, demonstrating they are no longer purely reactive and can expose gaps on the counter",
+      "MetLife Stadium in June will see temperatures of approximately 27°C+ with high humidity; FIFA has mandated cooling breaks for all matches regardless of temperature, partly neutralizing this factor",
+      "MetLife Stadium is near sea level (~50 ft), so no altitude disadvantage for either side",
+      "Brazil's probable lineup: Alisson; Wesley, Marquinhos, Gabriel, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Lucas Paqueta, Vinicius Junior; Matheus Cunha (or Igor Thiago if Neymar is fully out)",
+      "Morocco's probable lineup: Bounou; Hakimi, Diop, Riad, Mazraoui; El Aynaoui, Bouaddi, Ounahi; Brahim Diaz, El Kaabi, Saibari",
+      "This is both teams' Group C opener — maximum motivation; Brazil need to establish authority to manage the group; Morocco need points against the strongest opponent first to give themselves breathing room"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.56,
+      "draw": 0.24,
+      "away": 0.20
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.44,
+    "totals_2.5_under": 0.56,
+    "btts_yes": 0.38,
+    "btts_no": 0.62
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Brazil 0.591, Draw 0.232, Morocco 0.177. My model: Brazil 0.56, Draw 0.24, Morocco 0.20. No single outcome shows an edge >= 0.05 against the market on h2h — Brazil is slightly overpriced at 1.57 (model 0.56 vs implied 0.591, edge -0.031, no value), draw is marginal (model 0.24 vs implied 0.232, edge +0.008, no value), Morocco is slightly underpriced (model 0.20 vs implied 0.177, edge +0.023, below the 0.05 threshold). For totals: market implies over 2.5 at 0.474 (normalized); my model sets it at 0.44 — no over edge. For BTTS: market implies yes at 0.455 (normalized); my model sets it at 0.38 — BTTS No shows edge of 0.62 - (1/1.75) = 0.62 - 0.571 = 0.049, just below the 0.05 threshold. No market meets the minimum 0.05 edge requirement for a qualifying bet. The main model divergence from the market is a modest downgrade on Brazil (reflecting their key absentees including Rodrygo/Militao/Estevao and doubtful Neymar) and a corresponding upgrade on Morocco given their defensive solidity and improving competitive pedigree, but neither divergence is large enough to constitute a value play at current odds.",
+  "sources": [
+    "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/brazil-v-morocco-predictions",
+    "https://www.si.com/soccer/brazil-vs-morocco-world-cup-preview-predictions-lineups-6-13-26",
+    "https://www.goal.com/en/world-cup-teams/group-c/world-cup-2026-guide-brazil/O~blt9055e76299e48aa9",
+    "https://www.goal.com/en-us/world-cup-teams/group-c/world-cup-2026-guide-morocco/O~blt4970f3f09e30e066",
+    "https://sports.yahoo.com/articles/brazil-dealt-unfortunate-rodrygo-news-154913492.html",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://www.modernghana.com/sports/1501614/world-cup-2026-moroccos-abde-ezzalzouli-and-naye.html",
+    "https://leadership.ng/hakimi-diaz-headline-morocco-squad-for-2026-world-cup-en-nesyri-out/",
+    "https://worldsoccertalk.com/amp/world-cup/2026-world-cup-achraf-hakimi-brahim-diaz-headline-moroccos-26-man-squad/",
+    "https://www.espn.com/espn/story/_/id/48883710/achraf-hakimi-brahim-diaz-headline-morocco-squad-fifa-world-cup-youssef-en-nesyri-out",
+    "https://khelnow.com/football/world-football-brazil-vs-morocco-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/brazil/head-to-head/brazil-vs-morocco-head-to-head-record-and-past-meetings_598952.html",
+    "https://www.rotowire.com/soccer/article/brazil-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-117816",
+    "https://www.cbssports.com/soccer/news/brazil-morocco-world-cup-2026-preview-predictions-watch/",
+    "https://www.thecity.nyc/2026/05/19/world-cup-metlife-heat-climate-public-health-risk-stadium/",
+    "https://www.rotowire.com/soccer/article/brazil-vs-morocco-picks-tips-odds-best-bets-2026-world-cup-group-c-117949",
+    "https://theanalyst.com/articles/brazil-vs-morocco-prediction-world-cup-2026-match-preview"
+  ],
+  "generated_at": "2026-06-13T12:00:00Z"
+}
