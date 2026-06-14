@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-008",
+  "date": "2026-06-14",
+  "home": "Germany",
+  "away": "Curacao",
+  "kickoff_utc": "2026-06-14T17:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_E",
+  "venue": "NRG Stadium, Houston",
+  "analysis": {
+    "summary": "Germany enter this Group E opener as overwhelming favourites, having won nine consecutive matches while scoring 29 goals and conceding just six. Curacao make their historic World Cup debut as the smallest nation ever to qualify, guided by experienced Dutch coach Dick Advocaat, but face a structured powerhouse with multiple world-class attackers in Florian Wirtz, Kai Havertz, Leroy Sane, and a recovering Jamal Musiala. Germany's form — including a 6-0 demolition of Slovakia, a 4-0 win over Finland, and a 2-1 victory over the host USA — signals a convincing and high-scoring victory here. Curacao's CONCACAF qualifying campaign was impressive but played against regionally inferior opposition, and no World Cup debutant from their confederation has escaped the group stage since Costa Rica in 1990.",
+    "home_form": "Germany have won their last 9 matches consecutively (W9 D0 L0), scoring 29 goals and conceding 6. Recent results: 6-0 vs Slovakia (Nov 2025 WC qualifier), 4-3 vs Switzerland (Mar 2026 friendly), 2-1 vs Ghana (Mar 2026 friendly), 4-0 vs Finland (May 2026 friendly), 2-1 vs USA (Jun 2026 friendly). Julian Nagelsmann's side are playing fluid, high-scoring football with the Wirtz-Havertz axis and Sane providing pace and creativity.",
+    "away_form": "Curacao completed a sparkling unbeaten CONCACAF qualifying campaign (W7 D3 L0), including highlights such as a 7-0 win at Bermuda and a 5-1 victory over Haiti in the Second Round. They topped their Final Round group ahead of Panama. In pre-tournament warm-up, they beat Aruba 4-0 — a fellow CONCACAF minnow. Their key players include captain Leandro Bacuna, creative midfielder Juninho Bacuna (ex-Huddersfield), all-time top scorer Rangelo Janga, and Manchester United academy product Tahith Chong.",
+    "h2h": "Germany and Curacao have no previous recorded senior international meetings. This is the first ever competitive or friendly match between the two nations.",
+    "injuries_news": [
+      "Germany: Lennart Karl (thigh muscle tear in training) ruled out of tournament, replaced by Assan Ouedraogo (RB Leipzig).",
+      "Germany: Manuel Neuer (calf injury) missed pre-tournament friendlies vs Finland and USA; Nagelsmann expects him to start on June 14 but fitness unconfirmed.",
+      "Germany: Jamal Musiala included in final 26-man squad after recovering from a broken leg/dislocated ankle at the 2025 Club World Cup vs PSG. Nagelsmann confirmed his fitness, noting even at 95% he is world class. A recent FotMob headline references a hamstring withdrawal but multiple sources confirm his inclusion in the squad — treat as unconfirmed and potentially a different/earlier incident.",
+      "Curacao: No significant injuries reported ahead of debut."
+    ],
+    "key_factors": [
+      "Massive quality gap: Germany have four-time World Cup winners pedigree vs a nation making its debut from CONCACAF's lower tier.",
+      "Germany's prolific scoring form (29 goals in 9 matches, 3.2/game average) suggests multiple goals, especially against an untested defensive unit.",
+      "Curacao's CONCACAF qualifying was unbeaten but against opposition ranked far below Germany (FIFA ranking ~150+ compared to Germany's ~10).",
+      "Musiala's match sharpness is a question mark after long injury absence; if he starts but is below peak, it limits Germany's ceiling slightly though other star players compensate.",
+      "Heat in Houston (June conditions) may be a minor leveller, but Germany played the USA friendly in similar conditions.",
+      "Curacao's coaching experience (Dick Advocaat) gives them tactical structure, but they lack individual quality to trouble Germany at this level.",
+      "NRG Stadium neutrality: officially Curacao is the away team but this is a neutral venue in the USA."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.92, "draw": 0.05, "away": 0.03},
+    "predicted_score": "4-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_4.5_over": 0.54,
+    "totals_3.5_over": 0.70
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Germany win 92.4%, Draw 4.9%, Curacao win 2.7%. My model probabilities: Germany win 92%, Draw 5%, Curacao win 3% — broadly aligned with market on the h2h, no meaningful edge identified there given the extreme odds compression at 1.05. On totals, the market implies only 45.6% for over 4.5 goals (at 2.08 odds) — my model puts this at 54%, a +8.4pp edge exceeding the 0.05 threshold; this is the most notable value given Germany's 3.2 goals/game average and Curacao's likely inability to keep Germany out. On totals 3.5 over, market implies 60.0% while my model estimates 70%, a +10pp edge; however, at odds of only 1.57 the expected value is modest. The strongest signal is totals_4.5_over where book odds of 2.08 give an edge of approximately 0.06 (model 0.54 vs implied 0.481). No market odds were available for btts, cards, or corners.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-curacao-players-squad-list-key-stats-schedule",
+    "https://www.fourfourtwo.com/team/curacao-world-cup-2026-squad",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/curacao-qualify",
+    "https://www.concacaf.com/competitions/fifa-world-cup/news/fifa-world-cup-2026-team-profile-curacao",
+    "https://www.concacaf.com/en/world-cup-qualifying-men/news/road-to-2026-fifa-world-cup-curacao-1/",
+    "https://theanalyst.com/articles/germany-vs-curacao-prediction-world-cup-2026-match-preview",
+    "https://www.goal.com/en-us/team/germany/fixtures-results/3l2t2db0c5ow2f7s7bhr6mij4",
+    "https://rg.org/en-ca/sportsbooks/world-cup-2026/germany",
+    "https://www.bundesliga.com/en/bundesliga/news/how-will-germany-line-up-havertz-musiala-wirtz-nagelsmann-world-cup-2026-28807",
+    "https://worldcupwiki.com/germany-vs-curacao-world-cup-2026/",
+    "https://www.sportsmole.co.uk/football/germany/world-cup-2026/preview/germany-vs-curacao-prediction-team-news-lineups_599044.html",
+    "https://www.cbssports.com/soccer/news/germany-curacao-odds-prediction-time-2026-world-cup-picks-best-bets/",
+    "https://oddspedia.com/football/germany-curacao-1654561",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/germany-vs-curacao-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aCceV7d7CMtv/"
+  ],
+  "generated_at": "2026-06-14T12:00:00Z"
+}
