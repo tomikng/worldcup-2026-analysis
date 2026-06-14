@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-14",
+  "slips": [
+    {
+      "slip_id": "2026-06-14-S1",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-008",
+          "market": "totals",
+          "selection": "over",
+          "line": 4.5,
+          "odds": 2.08,
+          "model_prob": 0.54,
+          "edge": 0.059,
+          "rationale": "Germany average 3.2 goals per game across their last 9 matches and face a Curacao side making their World Cup debut; model assigns 54% to over 4.5 goals against a market-implied 48%."
+        }
+      ],
+      "combined_odds": 2.08,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Germany's prolific form and Curacao's limited defensive pedigree make over 4.5 goals a value proposition at 2.08."
+    },
+    {
+      "slip_id": "2026-06-14-S2",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-008",
+          "market": "totals",
+          "selection": "over",
+          "line": 3.5,
+          "odds": 1.57,
+          "model_prob": 0.70,
+          "edge": 0.063,
+          "rationale": "Model puts 70% probability on over 3.5 goals versus a market-implied 64%, backed by Germany's 3.2-goal-per-game average and Curacao's untested World Cup defence."
+        }
+      ],
+      "combined_odds": 1.57,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Over 3.5 at 1.57 carries a 6.3pp model edge and offers a safer entry point into Germany's high-scoring performance trend."
+    },
+    {
+      "slip_id": "2026-06-14-S3",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-009",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 2.00,
+          "model_prob": 0.64,
+          "edge": 0.140,
+          "rationale": "Japan are without Wataru Endo and Kaoru Mitoma — their midfield anchor and primary wide threat — and Netherlands' defence conceded just 4 goals in 8 qualifying games; model gives only 36% to both teams scoring, creating a 14pp edge on btts No at 2.00."
+        }
+      ],
+      "combined_odds": 2.00,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Japan's double injury blow severely blunts their attacking output, making btts No the clearest value in this match at a 14pp model edge."
+    },
+    {
+      "slip_id": "2026-06-14-S4",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-011",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.80,
+          "model_prob": 0.65,
+          "edge": 0.094,
+          "rationale": "Tunisia's recent attacking impotence (5-0 loss to Belgium, 1-0 wins only against Haiti and Canada) and Sweden's potential for a tight 1-0 opener with Kulusevski absent support btts No at 1.80 with a 9.4pp edge."
+        }
+      ],
+      "combined_odds": 1.80,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Tunisia's chronic scoring struggles and Sweden's defensive solidity under Potter make btts No the standout value in this Group F opener."
+    },
+    {
+      "slip_id": "2026-06-14-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-008",
+          "market": "totals",
+          "selection": "over",
+          "line": 4.5,
+          "odds": 2.08,
+          "model_prob": 0.54,
+          "edge": 0.059,
+          "rationale": "Germany's prolific attack (3.2 goals/game) faces a Curacao side with no World Cup pedigree; model edge on over 4.5 is 5.9pp."
+        },
+        {
+          "match_id": "wc-009",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 2.00,
+          "model_prob": 0.64,
+          "edge": 0.140,
+          "rationale": "Japan missing Endo and Mitoma sharply limits their scoring threat against Van Dijk's organised Netherlands defence."
+        },
+        {
+          "match_id": "wc-011",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.80,
+          "model_prob": 0.65,
+          "edge": 0.094,
+          "rationale": "Tunisia's misfiring attack and Sweden's disciplined opener approach point strongly to at least one side failing to score."
+        }
+      ],
+      "combined_odds": 7.49,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Three independent positive-edge legs across different matches: Germany's goal glut, Japan's injury-hampered attack, and Tunisia's scoring drought combine for a 7.49-odds accumulator."
+    }
+  ]
+}
