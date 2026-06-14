@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 2.15,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 21.5,
+      "settled_at": "2026-06-14T07:08:26Z",
       "rationale": "Model assigns 57% to Under 2.5 against a market-implied 46.5%, a 10.5-point edge driven by Qatar's severe attacking drought and Switzerland's disciplined approach to winning margins."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 1.52,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-14T07:08:26Z",
       "rationale": "The 19.2-point edge on BTTS No is the strongest signal of the day — Qatar's historically poor attack against a disciplined Swiss defence is pricing at considerable value at 1.52."
     }
   ]
