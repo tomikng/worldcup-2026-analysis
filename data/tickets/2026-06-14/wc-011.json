@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-011",
+  "date": "2026-06-14",
+  "home": "Sweden",
+  "away": "Tunisia",
+  "kickoff_utc": "2026-06-15T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_F",
+  "venue": "Estadio BBVA, Guadalupe",
+  "analysis": {
+    "summary": "Sweden enter their World Cup 2026 opener as slight favourites, buoyed by the return of Alexander Isak alongside the in-form Viktor Gyokeres, whose goals secured Sweden's playoff berth. Tunisia arrive with a defensively organised 4-2-3-1 structure under new coach Sabri Lamouchi but come off a bruising 5-0 friendly loss to Belgium, raising serious questions about their readiness against quality opposition. The Group F encounter is expected to be tight and low-scoring, with Sweden holding the decisive individual quality advantage in attack while Tunisia will aim to frustrate and hit on the counter.",
+    "home_form": "Sweden qualified via the Nations League playoffs, recording a pivotal 3-1 win in Ukraine and a 3-2 home victory over Poland. Gyokeres (Arsenal) arrives in blistering form having scored 14 goals in 13 Sweden appearances since 2023, while Isak (Liverpool) returns from an injury-disrupted club season. Coach Graham Potter has instilled greater cohesion. Kulusevski (Tottenham) is absent through injury, a notable loss of creative quality in wide midfield. Gabriel Gudmundsson was also battling illness in the lead-up but is expected to be available.",
+    "away_form": "Tunisia sealed qualification with an exceptional CAF campaign (9 wins from 10 in Group H). However, recent form is concerning: a 5-0 loss to Belgium (June 6, 2026) and a 1-0 loss to Austria (June 1, 2026) in pre-tournament friendlies. Their only wins in the last five matches were 1-0 against Haiti and 1-0 against Canada — both weaker opposition. The team is in its third different coaching setup in two years, with Sabri Lamouchi having had limited time to embed his ideas.",
+    "h2h": "Sweden lead the all-time series 2-1-1 in four previous meetings, all of which were international friendlies. Meetings: 1976 drew 1-1, Sweden won 1-0 in 1992, Sweden won 1-0 in 1999, Tunisia won 1-0 in 2003. This will be the first-ever competitive meeting between the two nations.",
+    "injuries_news": [
+      "Dejan Kulusevski (Sweden) - OUT: Tottenham midfielder ruled out of the entire tournament through injury, significant creative loss for Sweden.",
+      "Alexander Isak (Sweden) - FIT: Available despite an injury-disrupted club season at Liverpool; expected to start alongside Gyokeres.",
+      "Gabriel Gudmundsson (Sweden) - DOUBT: Leeds United full-back battling illness in the pre-match build-up; availability uncertain.",
+      "Hannibal Mejbri (Tunisia) - DOUBT: Burnley midfielder reportedly picked up an injury in the pre-tournament friendly against Austria; may miss opener.",
+      "No confirmed suspensions for either side heading into this Group F opener."
+    ],
+    "key_factors": [
+      "Gyokeres and Isak partnership: Sweden's dual Premier League striker pairing is the highest-quality attacking combination in the group and the most dangerous weapon against a compact Tunisian backline.",
+      "Tunisia's defensive discipline vs quality opposition: Tunisia shut down weaker nations but conceded five to Belgium — Sweden's attacking quality is closer to Belgium's level than Haiti or Canada.",
+      "Tunisia's new coach bedding in: Lamouchi has had minimal time with the squad and has changed the lineup significantly from previous squads, creating potential cohesion issues in their first competitive game.",
+      "Heat at Estadio BBVA: Monterrey is low-altitude but extremely hot in June (around 35C), which could drain energy and slow the game — generally assists the defensively organised side (Tunisia) in keeping the score low.",
+      "Tournament context — opener stakes: Both sides need points; Tunisia cannot afford a loss in their opener given they face the Netherlands and Japan next. Expect Sweden to be patient rather than reckless.",
+      "Kulusevski absence reduces Sweden's width and creativity; they will rely heavily on the central attacking partnership and may be less fluid than their best."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.52, "draw": 0.26, "away": 0.22},
+    "predicted_score": "1-0",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "btts_yes": 0.35
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Sweden win 0.483, draw 0.284, Tunisia win 0.234. My model nudges Sweden win to 0.52 (+0.037 edge at 1.94) — below the 0.05 threshold for a qualifying edge on h2h. For totals, market implies over-2.5 at 0.423; my model puts it at 0.38, a -0.043 gap suggesting under-2.5 is attractive but just short of a confirmed 0.05 edge on the under (market under implied 0.577, my model 0.62 — edge of +0.043 at odds 1.65). For BTTS, market implies yes at 0.474; my model puts yes at 0.35 — gap of -0.124, meaning BTTS No at 1.80 offers meaningful value (model 0.65 vs market implied 0.526, edge +0.124). The clearest divergence is BTTS No: Tunisia's defensive setup, their low-scoring wins (1-0 vs Haiti, 1-0 vs Canada), the 5-0 Belgium loss suggesting attacking impotence, and Sweden's potential to keep a clean sheet in a tight opener all support backing BTTS No at 1.80. No market odds available for corners or cards so those markets are omitted.",
+  "sources": [
+    "https://www.squawka.com/en/news/world-cup/sweden-world-cup-2026-fixtures-squad-analysis/",
+    "https://sports.yahoo.com/articles/sweden-2026-world-cup-squad-050500010.html",
+    "https://www.squawka.com/en/news/world-cup/tunisia-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.goal.com/en-us/world-cup-teams/group-f/world-cup-2026-guide-tunisia/O~blt87633de0bfece3b8",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-squad-named-sabri-lamouchi",
+    "https://khelnow.com/football/world-football-sweden-vs-tunisia-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/head-to-head/sweden-vs-tunisia-head-to-head-record-and-past-meetings_599097.html",
+    "https://www.goal.com/en/lists/world-cup-dejan-kulusevski-injury-tottenham-sweden-viktor-gyokeres-alexander-isak/bltd56651aa57664624",
+    "https://www.sportsmole.co.uk/football/sweden/world-cup-2026/predicted-lineups/the-sickness-bug-strikes-predicted-sweden-xi-vs-tunisia_599046.html",
+    "https://www.sportsmole.co.uk/football/sweden/world-cup-2026/team-news/sweden-vs-tunisia-injury-suspension-list-predicted-xis_599053.html",
+    "https://bdnews24.com/sport/world-cup-2026/bdfa008a15db",
+    "https://sports.yahoo.com/articles/sweden-vs-tunisia-prediction-world-145500749.html",
+    "https://www.fifaworldcupnews.com/estadio-bbva-monterrey-world-cup-2026/",
+    "https://www.climatecentral.org/climate-matters/world-cup-stadiums",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F"
+  ],
+  "generated_at": "2026-06-14T10:45:00Z"
+}
