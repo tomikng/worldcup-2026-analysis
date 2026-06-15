@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-015",
+  "date": "2026-06-15",
+  "home": "Iran",
+  "away": "New Zealand",
+  "kickoff_utc": "2026-06-16T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_G",
+  "venue": "SoFi Stadium, Inglewood",
+  "analysis": {
+    "summary": "Iran (FIFA 21st) open Group G against New Zealand (FIFA 86th) at SoFi Stadium in Los Angeles. Iran arrive in strong recent form with four wins in their last five matches under coach Amir Ghalenoei, while New Zealand have been in dismal form since qualifying — losing 9 of 11 post-qualification friendlies including a 4-0 hammering by Haiti days before the tournament. The gulf in class and form strongly favors Iran, though Sardar Azmoun's political exclusion from the squad removes their single most potent attacker.",
+    "home_form": "Iran sealed World Cup qualification in March 2025 and built good momentum through pre-tournament friendlies: beat Costa Rica 5-0 (March 2026), beat Gambia 3-1 (May 29, 2026), beat Mali 2-0 (June 4, 2026), with only a friendly loss to Nigeria 1-2 (March 2026) interrupting the run. FIFA ranked 21st. Mehdi Taremi (Olympiacos) leads the attack at his third World Cup; captain Alireza Jahanbakhsh provides creativity. Squad is domestic-heavy (17 from Iran Pro League) but has key overseas quality. Coach Amir Ghalenoei led the team to the 2023 AFC Asian Cup semi-final and has directed focus toward the knockout stage.",
+    "away_form": "New Zealand qualified via a flawless OFC campaign (W5 P5, scored 29, conceded 1), including a 3-0 final win over New Caledonia in March 2025. Since qualification, however, the All Whites have lost 9 of 11 friendlies, conceding 20 goals in those matches. They suffered a 4-0 defeat to Haiti in their final pre-tournament friendly in the United States. FIFA ranked 86th — the lowest-ranked team in the 2026 World Cup. Captain Chris Wood is the primary goal threat. Coach Darren Bazeley has struggled to build competitive depth outside Oceania opposition.",
+    "h2h": "Iran and New Zealand have met only twice in senior football. They drew 0-0 in a 1973 friendly, then Iran won 3-0 in Tehran during the 2003 AFC-OFC Challenge Cup. The limited history modestly favors Iran, with New Zealand failing to score in both meetings.",
+    "injuries_news": [
+      "Sardar Azmoun excluded from Iran's 26-man squad for political reasons (social media post involving Dubai's ruler), not injury — a significant attacking loss for Iran.",
+      "Mehdi Taremi (Olympiacos) is fit and leads Iran's attack squad; no injury concerns reported as of June 2026.",
+      "No confirmed significant injuries in the New Zealand camp reported ahead of this fixture; Chris Wood expected to lead the attack."
+    ],
+    "key_factors": [
+      "Class gap: Iran ranked 21st vs New Zealand 86th — largest FIFA ranking differential in Group G matchups.",
+      "New Zealand's catastrophic warm-up form (lost 9 of 11 post-qualification friendlies including 4-0 vs Haiti) raises serious doubts about their readiness for World Cup level.",
+      "Azmoun's absence removes Iran's most prolific and experienced attacker; Taremi's leadership and the supporting cast must compensate.",
+      "Iran play a defensively organized, counter-attacking style under Ghalenoei — expect them to keep it tight and exploit space rather than commit to open attacking play.",
+      "SoFi Stadium in Los Angeles provides neutral ground; no meaningful home advantage for either side. Evening kickoff (6pm local) avoids heat issues.",
+      "New Zealand's OFC qualifying was against very weak opposition; their performance levels against FIFA top-50 sides in friendlies have been consistently poor.",
+      "Group G context: this is the opening match for both sides — a win for Iran would put them in an excellent position before facing Belgium and Egypt."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.54, "draw": 0.27, "away": 0.19},
+    "predicted_score": "2-0",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (normalized, overround removed): Iran 51.8%, draw 27.9%, NZ 20.2%. Model probabilities: Iran 54%, draw 27%, NZ 19%. The model marginally overweights Iran (+2.2pp) and marginally underweights NZ (-1.2pp) relative to the market, driven by New Zealand's extremely poor post-qualification form (9 losses in 11) and the 65-place FIFA ranking gap. However, neither divergence reaches the 0.05 edge threshold required for a value flag on h2h markets. On totals, the market implies under 2.5 at 63.7% (1/1.57) and over 2.5 at 40.1% (1/2.50); model estimates over at 38%, meaning under 2.5 is marginally supported but below the 0.05 edge threshold (model 62% vs implied 63.7%, edge -0.017). No selection meets the required ≥0.05 model edge over market-implied probability to constitute a value flag. No qualifying value bets identified for this fixture.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ir-iran-squad-named",
+    "https://worldcuppass.com/iran-world-cup-squad-2026/",
+    "https://www.flashscore.com/news/soccer-world-championship-taremi-and-jahanbakhsh-lead-iran-s-world-cup-squad-with-azmoun-overlooked/pGYQ1OUq/",
+    "https://www.fourfourtwo.com/team/new-zealand-world-cup-2026-squad",
+    "https://www.rnz.co.nz/news/sport/597103/all-whites-go-down-4-0-in-pre-world-cup-friendly-against-haiti",
+    "https://africa.espn.com/football/report/_/gameId/734945",
+    "https://www.livescore.com/en/news/football/world-cup/predictions/iran-vs-new-zealand-predictions-iranians-to-pile-more-misery-on-all-whites/",
+    "https://www.sportsmole.co.uk/football/iran/world-cup-2026/head-to-head/iran-vs-new-zealand-head-to-head-record-and-past-meetings_599186.html",
+    "https://khelnow.com/football/world-football-iran-vs-new-zealand-head-to-head-fifa-world-cup-202606",
+    "https://en.tempo.co/read/1991157/iran-secures-2026-world-cup-qualification-as-coach-amir-ghalenoei-sets-new-goals",
+    "https://www.skysports.com/football/news/12098/13543098/world-cup-2026-group-g-guide-fixtures-schedule-standings-and-odds-for-belgium-egypt-iran-and-new-zealand",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/amir-ghalenoei-s-official-iran-squad-for-the-2026-fifa-world-cup-2026-06-01"
+  ],
+  "generated_at": "2026-06-15T10:45:00Z"
+}

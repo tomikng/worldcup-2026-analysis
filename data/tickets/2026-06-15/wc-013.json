@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-013",
+  "date": "2026-06-15",
+  "home": "Belgium",
+  "away": "Egypt",
+  "kickoff_utc": "2026-06-15T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_G",
+  "venue": "Lumen Field, Seattle",
+  "analysis": {
+    "summary": "Belgium open Group G as clear favorites against an Egypt side whose best player, Mohamed Salah, is managing a hamstring injury and may be limited to a substitute role. The Red Devils boast superior squad depth and quality on paper — De Bruyne is fit and expected to start — but a makeshift defense (Zeno Debast absent through injury) and an out-of-form Lukaku reduce their ceiling. Egypt's AFCON semi-final pedigree and a head-to-head record that strongly favors them (3 wins from 4 meetings) means an upset is genuinely possible, though Belgium's dominant pre-tournament form (5-2 vs USA, 5-0 vs Tunisia) signals real momentum.",
+    "home_form": "Belgium went unbeaten through World Cup qualification, scoring 29 goals and conceding 7 across 10 games. Under Rudi Garcia, they won 5-2 vs USA, drew 1-1 vs Mexico, beat Croatia 2-0, and routed Tunisia 5-0 in warmups. Their 4-2-3-1 system centers on De Bruyne as the no.10, flanked by Doku (returned to training after a minor concern) and Trossard, with De Ketelaere as a false nine or second striker.",
+    "away_form": "Egypt topped their CAF qualifying group unbeaten, winning 8 of 10 games; Mohamed Salah contributed 9 qualifying goals. At AFCON 2025 they reached the semi-finals before losing to Senegal, keeping two clean sheets in three group games. Salah suffered a hamstring injury late in the Liverpool season but played 45 minutes off the bench vs Brazil on June 6. Omar Marmoush (Manchester City) provides a dangerous alternative attacking threat.",
+    "h2h": "Belgium and Egypt have met four times, all in friendlies: Egypt won 1-0 (Mar 1999), Egypt won 4-0 (Feb 2005), Belgium won 3-0 (Jun 2018), Egypt won 2-1 (Nov 2022). Egypt lead the all-time series 3-1. Belgium's sole win came in a 2018 World Cup warmup. The most recent meeting in 2022 ended 2-1 to Egypt, suggesting the Africans can compete when motivated.",
+    "injuries_news": [
+      "Belgium: Zeno Debast (central defender) is out with a leg injury suffered in May — a notable absence in the backline. Romeo Lavia was excluded from the squad after another injury-hit season. Romelu Lukaku is included despite chronic muscle injuries at Napoli (only ~60 minutes of competitive football in 2025-26); coach Garcia admitted he is 'out of shape' and unlikely to start.",
+      "Belgium: Jeremy Doku had a minor fitness concern but returned to training and is expected to start.",
+      "Egypt: Mohamed Salah is managing a hamstring injury from the Liverpool season; he played 45 minutes vs Brazil on June 6 and is expected to start or feature significantly, but is not at 100% fitness.",
+      "Egypt: No other confirmed injury concerns in the squad; Hossam Hassan expected to field a near full-strength XI."
+    ],
+    "key_factors": [
+      "Belgium's defensive vulnerability: the absence of Debast and Lukaku's limited fitness shift the balance of power slightly. Garcia's back four looks makeshift and can be exploited by Egypt's pace on the counter.",
+      "Salah's fitness is the key swing factor for Egypt: a fully fit Salah would shift Egypt's probability meaningfully upward; even a limited Salah provides quality and set-piece threat.",
+      "Omar Marmoush (Manchester City) is in peak form and gives Egypt a genuine Premier League-level forward even if Salah is managed.",
+      "Belgium's attacking firepower (De Bruyne, Doku, Trossard, De Ketelaere) should ultimately prove too much for Egypt over 90 minutes, and the Red Devils' warmup results indicate they are in excellent form.",
+      "Lumen Field is at near sea-level (Seattle, ~10 ft altitude) — no altitude factor. June weather in Seattle is mild (20-27C), which should suit both sides equally.",
+      "Egypt's historical head-to-head dominance (3-1) is primarily composed of friendly results and should not be over-weighted vs a tournament context where Belgium are operationally superior.",
+      "Group context: this is Matchday 1 for both teams, so there is no points-pressure asymmetry; both sides are playing to win from the start."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.52, "draw": 0.27, "away": 0.21},
+    "predicted_score": "2-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47,
+    "btts_yes": 0.42
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Belgium 0.564, draw 0.248, away (Egypt) 0.188. My model assigns Belgium 0.52 (vs market 0.564), draw 0.27 (vs 0.248), Egypt 0.21 (vs 0.188). The market is over-pricing Belgium slightly and under-pricing both draw and Egypt given: (1) Belgium's defensive absences (Debast out, Lukaku unfit), (2) Salah/Marmoush attacking threat, and (3) Egypt's historically competitive record in this fixture. Edge on draw: 0.27 - 0.248 = +0.022 (below the 0.05 threshold). Edge on Egypt: 0.21 - 0.188 = +0.022 (below threshold). No qualifying edge on any h2h selection. Totals: market-implied over 2.5 = 0.506; my model at 0.47 suggests under 2.5 may carry slight value (under implied 0.494, model 0.53, edge +0.036 — below the 0.05 threshold). BTTS yes: no market odds provided; model at 0.42 noted for reference. No selection meets the >=0.05 edge threshold against the provided market odds.",
+  "sources": [
+    "https://www.mykhel.com/football/belgium-world-cup-2026-squad-de-bruyne-lukaku-injuries-011-432783.html",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/de-bruyne-and-lukaku-named-in-belgium-world-cup-squad-despite-injuries-2026-05-15",
+    "https://worldsoccertalk.com/amp/world-cup/2026-world-cup-courtois-de-bruyne-headline-belgium-squad-as-lukaku-included-despite-napoli-struggles/",
+    "https://www.fotmob.com/news/18d3fh2himo601nk0xh84p4fky-de-bruyne-lukaku-named-belgium-world-cup-squad-despite-injuries",
+    "https://www.squawka.com/en/news/world-cup/belgium-world-cup-2026-fixtures-squad-analysis/",
+    "https://heavy.com/sports/soccer/world-cup/egypt-announces-squad-fifa-world-cup/",
+    "https://worldsoccertalk.com/world-cup/mohamed-salah-omar-marmoush-headline-egypts-27-man-roster-for-2026-world-cup/",
+    "https://www.sportsmole.co.uk/football/egypt/world-cup-2026/predicted-lineups/salah-starts-predicted-egypt-xi-vs-belgium_599123.html",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/predicted-lineups/doku-deadline-predicted-belgium-xi-vs-egypt_599119.html",
+    "https://khelnow.com/football/world-football-belgium-vs-egypt-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/head-to-head/belgium-vs-egypt-head-to-head-record-and-past-meetings_599133.html",
+    "https://www.rotowire.com/soccer/article/2026-world-cup-group-g-preview-belgium-egypt-iran-new-zealand-tactics-lineups-set-pieces-odds-109591",
+    "https://www.rotowire.com/soccer/article/belgium-vs-egypt-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118093",
+    "https://www.aljazeera.com/amp/sports/2026/4/26/will-yamal-salah-and-ekitike-miss-the-world-cup-2026-due-to-injury",
+    "https://www.sofascore.com/news/lumen-field-a-guide-to-the-2026-fifa-world-cup",
+    "https://sports.yahoo.com/articles/why-mohamed-salah-not-playing-214100198.html"
+  ],
+  "generated_at": "2026-06-15T10:45:00Z"
+}

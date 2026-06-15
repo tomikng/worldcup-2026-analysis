@@ -1,0 +1,55 @@
+{
+  "match_id": "wc-014",
+  "date": "2026-06-15",
+  "home": "Saudi Arabia",
+  "away": "Uruguay",
+  "kickoff_utc": "2026-06-15T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_H",
+  "venue": "Hard Rock Stadium, Miami Gardens",
+  "analysis": {
+    "summary": "Uruguay enter this Group H opener as clear favorites, backed by a quality squad under Marcelo Bielsa featuring Federico Valverde, Darwin Nunez, Manuel Ugarte, and Giorgian De Arrascaeta. Saudi Arabia, under newly appointed coach Georgios Donis, arrive in poor recent form having won just one of their last five competitive/friendly matches and conceded eight goals in that run. The sole prior World Cup meeting went to Uruguay (1-0 in 2018). Extreme heat and humidity at the open-air Hard Rock Stadium in Miami could partially suppress Uruguay's high-intensity pressing game, representing the one environmental factor that might help Saudi Arabia keep the score tight.",
+    "home_form": "Saudi Arabia won just one of their last five matches across competitive and friendly fixtures, defeating Palestine 2-1 but losing to Egypt 0-4 and Serbia 1-2, and drawing with Jordan (0-1 loss) and UAE (0-0) in the Arab Cup. Georgios Donis was appointed head coach very recently, replacing Roberto Mancini, giving the side minimal time to embed a new system. The squad is almost entirely drawn from domestic Saudi Pro League clubs (Al-Hilal, Al-Nassr, Al-Qadisiyah), with Saud Abdulhamid as the main Europe-based player. Key creative hub is captain Salem Al-Dawsari (34, Al-Hilal), who is set to appear in his third World Cup. Striker Firas Al-Buraikan leads the attack.",
+    "away_form": "Uruguay finished fourth in CONMEBOL qualifying with 28 points from 18 matches (7W-7D-4L), clinching their place with a 3-0 home win over Peru in September 2025. Pre-tournament friendlies were mixed — a 5-1 loss to the USA, a 1-1 draw vs England at Wembley, and a 0-0 draw vs Mexico — but the heavy loss is likely an outlier with a rotated side. Marcelo Bielsa's system is a high-energy 4-2-3-1 or 4-3-3 built around intense pressing and vertical transitions. Federico Valverde (Real Madrid) is the talisman and named captain; Darwin Nunez leads the attack despite limited recent club minutes. Manuel Ugarte (Manchester United) and Rodrigo Bentancur provide the midfield engine; Bentancur has recovered from hamstring surgery to make the squad. Ronald Araujo anchors the defense, with veteran keeper Fernando Muslera returning from international retirement.",
+    "h2h": "Saudi Arabia and Uruguay have met three times. Saudi Arabia won a 2002 friendly 3-2; the pair drew 1-1 in a 2014 friendly. Their only competitive meeting was the 2018 FIFA World Cup group stage, where Uruguay won 1-0 (Luis Suarez, who is notably absent from this 2026 squad). Uruguay lead the competitive h2h 1-0 with one friendly win each.",
+    "injuries_news": [
+      "Rodrigo Bentancur (Uruguay, Tottenham) was included in the squad after recovering from hamstring surgery undertaken in January 2026; his fitness level at tournament start is a monitoring concern.",
+      "Luis Suarez has been omitted entirely from Uruguay's 2026 squad — the veteran striker retired from international football and will not feature.",
+      "Nahitan Nandez was also omitted from Uruguay's final squad despite being a qualifier starter.",
+      "Saudi Arabia squad is reported at full strength but have had minimal preparation time under new coach Georgios Donis, who was appointed just weeks before the tournament."
+    ],
+    "key_factors": [
+      "Quality gap: Uruguay have multiple Champions League and Premier League regulars (Valverde, Araujo, Ugarte, Nunez, De Arrascaeta) versus a Saudi squad almost entirely from the domestic league — this is the primary driver of Uruguay's heavy favoritism.",
+      "Heat and humidity: Hard Rock Stadium is open-air; June Miami temperatures (30-33°C) with 70-85% humidity can produce heat indexes exceeding 43°C. This suppresses high-pressing systems like Bielsa's and could benefit Saudi Arabia's more compact, lower-intensity defensive shape.",
+      "New Saudi coach: Georgios Donis had barely weeks to prepare this squad; tactical coherence and pressing triggers may be underdeveloped, making Saudi Arabia vulnerable to Uruguay's structured press.",
+      "Saudi Arabia's 2022 shock factor does not apply here: their famous 2-1 win over Argentina in Qatar was built on a specific high-line trap; Uruguay are not Argentina and Bielsa's vertical style is well-suited to countering defensive blocks.",
+      "Bentancur's fitness: if he is not at full match sharpness, Uruguay's midfield engine slightly weakens, but Ugarte and Valverde provide more than enough quality as a base.",
+      "This is a must-not-lose for both sides in a group that also includes Spain, who are strong favorites to top the group — both Uruguay and Saudi Arabia will need points here to realistically advance."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.13, "draw": 0.22, "away": 0.65},
+    "predicted_score": "0-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42,
+    "btts_yes": 0.35
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Saudi Arabia 0.127, Draw 0.211, Uruguay 0.662. My model: Saudi Arabia 0.13, Draw 0.22, Uruguay 0.65. The model is nearly aligned with the market across all three outcomes — no outcome reaches the 0.05 edge threshold required to flag value. On totals (2.5 line), market implies over at 0.457; my model places over at 0.42, suggesting marginal under value, but the edge of ~0.037 is below the 0.05 threshold. BTTS: no market odds were provided; model estimates btts_yes at 0.35, reflecting Saudi Arabia's low scoring rate (3 goals in last 5) and Bielsa's organized defensive shape. No qualifying edge identified in any market given the available odds. No Polymarket data available for this match.",
+  "sources": [
+    "https://www.goal.com/en/world-cup-teams/group-h/world-cup-2026-guide-saudi-arabia/O~blta4d1aa8150596e24",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-saudi-arabia-all-players-full-squad-list-key-stats-schedule",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/marcelo-bielsa-s-official-uruguay-squad-for-the-2026-fifa-world-cup-2026-05-31",
+    "https://www.republicworld.com/sports/football/fede-valverde-darwin-nunez-named-as-uruguay-announce-fifa-world-cup-2026-squad-luis-suarez-omitted-2026-05-31-126392",
+    "https://www.sportsmole.co.uk/football/saudi-arabia/world-cup-2026/head-to-head/saudi-arabia-vs-uruguay-head-to-head-record-and-past-meetings_599098.html",
+    "https://www.thesoccerworldcups.com/head_to_head/saudi_arabia_vs_uruguay.php",
+    "https://tothelaneandback.com/2026/06/01/rodrigo-bentancur-uruguay-world-cup-squad-2026/",
+    "https://www.squawka.com/en/news/world-cup/uruguay-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.insideworldfootball.com/2024/10/25/saudi-arabia-remove-mancini-ahead-crucial-world-cup-2026-qualifiers/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/georgios-donis-official-saudi-arabia-squad-for-the-2026-fifa-world-cup-2026-06-01",
+    "http://www.natureworldnews.com/articles/73013/20260604/miami-world-cup-heat-crisis-deepens-new-climate-science-identifies-hard-rock-stadium-among.htm",
+    "https://www.sofascore.com/news/2026-fifa-world-cup-extreme-heat-will-affect-about-one-third-of-the-matches"
+  ],
+  "generated_at": "2026-06-15T10:45:00Z"
+}

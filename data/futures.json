@@ -60,6 +60,30 @@
       "status": "open",
       "resolved_at": null,
       "rationale": "Norway at 0.255 to win Group I and Senegal and Iraq as the only other challengers behind France gives Norway a ~0.60 probability of a top-2 finish, against a market price of 0.54 for a +0.06 edge."
+    },
+    {
+      "position_id": "FUT-6",
+      "market_title": "World Cup: Nation To Reach Round of 16",
+      "outcome": "Belgium",
+      "entry_price": 0.625,
+      "stake": 15.0,
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "opened": "2026-06-15",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Belgium are the clear quality leader in Group G (FIFA 9th) vs Egypt, Iran, and New Zealand; even with De Bruyne returning from injury and Lukaku match-unfit, a top-2 finish from this quartet is ~86% likely, yielding a +0.235 edge over the 0.625 market price."
+    },
+    {
+      "position_id": "FUT-7",
+      "market_title": "World Cup: Nation To Reach Round of 16",
+      "outcome": "Spain",
+      "entry_price": 0.775,
+      "stake": 10.0,
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
+      "opened": "2026-06-15",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Spain are Euro 2024 champions facing Cape Verde (debutants), Saudi Arabia, and Uruguay in Group H; a top-2 finish is ~96% likely for the tournament co-favorites, giving a +0.185 edge over the 0.775 market price."
     }
   ]
 }

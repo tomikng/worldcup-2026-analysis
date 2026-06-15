@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-012",
+  "date": "2026-06-15",
+  "home": "Spain",
+  "away": "Cabo Verde",
+  "kickoff_utc": "2026-06-15T16:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_H",
+  "venue": "Mercedes-Benz Stadium, Atlanta",
+  "analysis": {
+    "summary": "Spain, Euro 2024 champions and FIFA World Cup 2026 favorites ranked 2nd globally, open their Group H campaign against Cabo Verde in what is the Blue Sharks' first-ever World Cup appearance. Spain arrive with elite attacking depth but injury concerns around Lamine Yamal and Nico Williams, while Cabo Verde — qualification specialists who topped their CAF group above Cameroon — are well-organised and dangerous on the counter-attack. The class gap is enormous, but Cabo Verde's pace-based transition play and tournament debutant spirit make them capable of nicking a goal if Spain are conservative. Spain are expected to win comfortably.",
+    "home_form": "Spain are in excellent form heading into this tournament. They defeated France 5-4 in the 2025 UEFA Nations League semi-finals with Lamine Yamal scoring twice, then lost the final to Portugal on penalties after a 2-2 draw. Their most recent friendly was a 3-1 win over Peru. Spain conceded just 8 goals across 14 European qualifying matches. Coach Luis de la Fuente confirmed Yamal, Nico Williams and Merino — all carrying muscle injuries — should be available for the opener, though Yamal's starting minutes may be managed. Fermin Lopez (fractured metatarsal) is the only confirmed absentee. No Real Madrid players feature in the squad for the first time historically.",
+    "away_form": "Cabo Verde qualified for their first-ever World Cup by topping CAF Group D with 23 points — four ahead of Cameroon — winning 8 of 10 qualifiers (16 goals scored, 8 conceded, 5 home games unbeaten). Pre-tournament warm-ups were impressive: a 3-0 win over Serbia at the end of May followed by a 3-0 win over Bermuda on June 6. Striker Dailon Livramento (four CAF qualifying goals) and veteran Ryan Mendes (94 caps, 22 international goals, now 36) lead the attack. Defender Logan Costa (Villarreal) returns from a long-term ACL injury. Goalkeeper Vozinha (39) remains the emotional and technical anchor in goal.",
+    "h2h": "This is the first senior international meeting between Spain and Cabo Verde. No previous head-to-head data is available. Spain will also be Group H favourites going into subsequent matches against Saudi Arabia (June 21) and would hold the advantage if Cabo Verde advance; both sides are playing their opening group game.",
+    "injuries_news": [
+      "Spain: Fermin Lopez (Barcelona) — fractured right metatarsal, out of tournament. Confirmed.",
+      "Spain: Lamine Yamal — hamstring injury suffered April 22, expected to play vs Cabo Verde but minutes may be managed; coach De la Fuente expressed confidence but left-out of final warm-up vs Peru.",
+      "Spain: Nico Williams — muscle injury, rested vs Peru warm-up but expected available June 15.",
+      "Spain: Mikel Merino — foot injury since January, recovered and in squad.",
+      "Cabo Verde: Logan Costa (Villarreal) — included despite returning from long-term ACL injury; participation and fitness level unconfirmed."
+    ],
+    "key_factors": [
+      "Quality gap is historic: Spain (FIFA #2, Euro 2024 champions) vs Cabo Verde (World Cup debutant, ranked outside top 50 in Africa).",
+      "Cabo Verde's counter-attack reliance — pace of Mendes, Livramento and Jovane Cabral — could punish a high Spain defensive line if De la Fuente rotates or manages Yamal/Williams cautiously.",
+      "Spain's depth is exceptional even without a fit Yamal or Williams starting — Dani Olmo, Mikel Oyarzabal, Ferran Torres and Alex Baena are all World Cup quality.",
+      "Atlanta heat and humidity in June may impact stamina for both sides, though more likely to affect Cabo Verde given Spain's superior squad depth.",
+      "Cabo Verde proved their discipline in CAF qualifying (only 8 goals conceded in 10 matches) but the CAF level is well below Spain's quality; parking the bus will be their likely strategy.",
+      "This is a first World Cup game for Cabo Verde — debut tournament nerves and the occasion could amplify the gap, but alternatively could galvanise a tight squad.",
+      "Spain have not faced Cabo Verde before so no tactical template exists, but Spain's positional system is adaptable enough to break down a low defensive block."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.89, "draw": 0.07, "away": 0.04},
+    "predicted_score": "4-0",
+    "confidence": 0.70
+  },
+  "market_probs": {
+    "totals_3.5_over": 0.55,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Spain win 0.89, draw 0.07, Cabo Verde 0.03. My model aligns closely with the market on the h2h — Spain at 0.89 vs market 0.89, no edge on the match result. On totals 3.5 over: my estimate 0.55 vs market implied 0.51 (from odds 1.91) — edge of 0.04, just below the 0.05 threshold for a qualifying bet. On BTTS yes: my estimate 0.30 vs market implied 0.38 (from odds 2.50 normalized) — this represents an edge of 0.08 on BTTS no (my 0.70 vs market implied 0.62), qualifying as a value selection. Spain's exceptional defensive record (8 goals conceded in 14 qualifiers) and Cabo Verde's lack of experience against elite opposition support the view that the 'no' side of BTTS is underpriced at 1.53.",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+    "https://www.espn.com/soccer/story/_/id/48993924/lamine-yamal-nico-williams-left-spain-last-world-cup-warmup",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/bubista-s-official-cabo-verde-squad-for-the-2026-fifa-world-cup-2026-05-19",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-cabo-verde-all-players-full-squad-list-key-stats-schedule",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/cabo-verde-qualify",
+    "https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026",
+    "https://fwctimes.com/spain-vs-cabo-verde-head-to-head/",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-cape-verde-prediction-team-news-lineups_599107.html",
+    "https://www.rotowire.com/soccer/article/2026-world-cup-group-h-preview-spain-uruguay-saudi-arabia-cape-verde-tactics-lineups-set-pieces-odds-109699",
+    "https://www.nbcsports.com/soccer/news/how-to-watch-france-vs-spain-live-stream-link-tv-channel-team-news-prediction",
+    "https://www.covers.com/world-cup/spain-vs-cape-verde-prediction-picks-odds-monday-6-15-2026",
+    "https://www.skysports.com/football/news/12098/13543099/world-cup-2026-group-h-guide-fixtures-schedule-standings-and-odds-for-spain-cape-verde-saudi-arabia-and-uruguay"
+  ],
+  "generated_at": "2026-06-15T10:45:00Z"
+}
