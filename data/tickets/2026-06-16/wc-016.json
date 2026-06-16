@@ -1,0 +1,53 @@
+{
+  "match_id": "wc-016",
+  "date": "2026-06-16",
+  "home": "France",
+  "away": "Senegal",
+  "kickoff_utc": "2026-06-16T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_I",
+  "venue": "MetLife Stadium, East Rutherford",
+  "analysis": {
+    "summary": "France open their World Cup campaign as heavy favourites, boasting one of the most potent attacking trios in the tournament in Mbappe, Dembele (2025 Ballon d'Or holder), and Olise. Senegal are dangerous opponents with a settled squad led by captain Sadio Mane in what he has stated will be his final World Cup, and they hold a perfect historical record against France in competitive matches. The head-to-head record (Senegal 2-0 in all-time competitive meetings) gives Les Lions genuine belief, but the quality gap between the squads makes a French win the most likely outcome at this venue.",
+    "home_form": "France have been in strong attacking form pre-tournament: wins over Colombia 3-1 and Brazil 2-1 in March friendlies, a 3-1 victory over Northern Ireland on June 8, and only one loss in their last five (2-1 to Ivory Coast on June 4). William Saliba returned from a back issue in France's final preparatory match and is expected to start. Bradley Barcola, Jules Kounde and Manu Kone are also back from injury. Expected XI: Maignan; Kounde, Saliba, Upamecano, T. Hernandez; Tchouameni, Rabiot; Olise, Doue/Barcola, Mbappe; Dembele.",
+    "away_form": "Senegal were unbeaten in 10 World Cup qualifying matches (7 wins, 24 pts, only 3 goals conceded). In the 2026 AFCON they progressed to the final stage, including a historic 3-1 win over England at Wembley in June 2025. Their last five results include three 1-0 wins and a 3-1 win before a 3-0 loss to Morocco in January 2026. Sadio Mane (34, fit after missing 2022 WC through injury) captains them. Pape Sarr and Habib Diarra have returned from injury. Expected XI: Mendy; Diatta, Koulibaly, Niakhate, Jakobs; Gueye, P. Sarr, L. Camara; I. Sarr, Jackson, Ndiaye.",
+    "h2h": "Senegal lead the all-time competitive head-to-head 2-0. The most notable meeting was in the 2002 World Cup group stage where Senegal beat defending champions France 1-0 (Papa Bouba Diop goal) — one of the great World Cup upsets. The only other meeting was a 2-0 Senegal win in the 1963 African Friendship Games.",
+    "injuries_news": [
+      "France: Hugo Ekitike ruled out of the tournament. William Saliba (back) trained fully and is expected to start. Mike Maignan had load-management absence from Saturday training but is not injured.",
+      "Senegal: Sadio Mane is fit after missing the 2022 World Cup through injury. Pape Sarr and Habib Diarra both returned from injury in time and are expected to feature.",
+      "No other confirmed absences from either starting XI as of June 16."
+    ],
+    "key_factors": [
+      "France's attacking trident of Mbappe, Dembele, and Olise represents tournament-leading quality and makes them significant favourites despite the historical h2h disadvantage.",
+      "Senegal's organised defensive structure (only 3 goals conceded in 10 WC qualifiers) and the psychological weight of the 2002 upset mean they are not simply making up the numbers.",
+      "Sadio Mane playing his last World Cup provides a significant motivational boost for Senegal — he missed 2022 through injury and this is viewed as unfinished business.",
+      "Both teams have scored multiple goals in the vast majority of their recent matches (France in 9 of last 10; Senegal in 8 of last 9), which supports a higher-scoring match.",
+      "MetLife Stadium, New Jersey: sea-level venue, June heat/humidity may slightly favour Senegal's athleticism in the later stages but is not a decisive factor.",
+      "France are second favourites to win the entire World Cup at 6/1; Senegal are at 150/1 — illustrating the substantial quality gap in squad depth."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.62, "draw": 0.22, "away": 0.16},
+    "predicted_score": "2-1",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.58,
+    "btts_yes": 0.48
+  },
+  "value_notes": "Market-implied (normalized) probs: home 0.644, draw 0.220, away 0.136. My model puts France slightly lower at 0.62 (edge of -0.024 — no value on France win). Draw is priced at 0.220 implied vs my 0.22 — no edge. Away is implied at 0.136 vs my 0.16 — edge of +0.024, below the 0.05 threshold. On totals, market implies 0.528 for over 2.5; my model puts it at 0.58 based on both teams' prolific recent scoring (France scored multiple in 9 of 10, Senegal in 8 of 9) — edge of +0.052, marginally above the 0.05 threshold. BTTS market implies 0.452 yes; my model at 0.48 — edge of +0.028, below threshold. No single selection clears the 0.05 edge threshold convincingly except totals_2.5_over at approximately +0.052.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/15/france-vs-senegal-world-cup-2026-mbappe-teams-lineups-start-dembele",
+    "https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad",
+    "https://www.aljazeera.com/sports/2026/5/30/senegals-world-cup-2026-team-preview-players-to-watch-group-squad-list",
+    "https://www.sportsmole.co.uk/football/france/world-cup/head-to-head/france-vs-senegal-head-to-head-record-and-past-meetings_599162.html",
+    "https://www.sportsmole.co.uk/football/france/world-cup-2026/preview/france-vs-senegal-prediction-team-news-lineups_599156.html",
+    "https://www.rotowire.com/soccer/article/france-vs-senegal-picks-tips-odds-best-bets-2026-world-cup-group-i-118355",
+    "https://www.cbssports.com/soccer/news/france-senegal-odds-prediction-time-2026-world-cup-picks-best-bets/",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/senegal-world-cup-squad-announcement-pape-thiaw",
+    "https://www.squawka.com/en/news/world-cup/senegal-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.si.com/soccer/france-vs-senegal-world-cup-preview-predictions-lineups-6-16-26"
+  ],
+  "generated_at": "2026-06-16T11:00:00Z"
+}

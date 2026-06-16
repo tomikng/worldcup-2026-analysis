@@ -1,0 +1,55 @@
+{
+  "match_id": "wc-019",
+  "date": "2026-06-16",
+  "home": "Austria",
+  "away": "Jordan",
+  "kickoff_utc": "2026-06-17T04:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_J",
+  "venue": "Levi's Stadium, Santa Clara",
+  "analysis": {
+    "summary": "Austria return to the World Cup for the first time since 1998 in a heavily favoured position against Jordan, who are making their historic first-ever World Cup appearance. Ralf Rangnick's pressing-intensive side finished top of their UEFA qualifying group, winning six of eight games, and arrive in good form having gone unbeaten in their last five. Jordan qualified through the AFC third-round playoffs and showed heart in reaching the 2023 Asian Cup final and the 2025 Arab Cup final, but face a significant step up in quality here.",
+    "home_form": "Austria went W4 D1 L0 in their last five competitive/friendly outings: 1-0 vs Tunisia (friendly, June 1), 1-0 vs South Korea (friendly, March 31), 5-1 vs Ghana (friendly, March 27), 1-1 at Bosnia-Herzegovina (WCQ), 2-0 vs Cyprus (WCQ). The side has conceded just two goals across those five matches, reflecting a disciplined defensive structure.",
+    "away_form": "Jordan finished their recent form run at W4 L1 in five matches, including a 3-1 win vs Kuwait, 3-0 vs Egypt, 1-0 vs Iraq, and 1-0 vs Saudi Arabia in the Arab Cup, before a 2-3 loss to Morocco in the Arab Cup final. Jordan showed attacking quality in Asian qualifying, with Ali Olwan scoring nine goals including a hat-trick in the final qualifier.",
+    "h2h": "Austria and Jordan have never previously met in any international fixture. This is the first encounter between these two nations.",
+    "injuries_news": [
+      "Austria: Christoph Baumgartner (muscle) ruled out of entire tournament, replaced by Dejan Ljubicic. David Alaba (knee) doubtful but expected to start. Patrick Wimmer and Florian Grillitsch also carrying minor concerns.",
+      "Jordan: Yazan Al-Naimat (key striker, knee injury from 2025 Arab Cup) is out for the tournament. Ibrahim Sabra also withdrew injured and was replaced by Mohammad Taha."
+    ],
+    "key_factors": [
+      "Jordan's historic first World Cup match: a debutant side facing pressure of the occasion at a neutral US venue.",
+      "Austria's pressing system under Rangnick likely to exploit Jordan's less experienced squad in transition and high-intensity phases.",
+      "Jordan's main threat comes from Mousa Al Tamari (Rennes, 7G 11A in Ligue 1 2025-26) who could hurt Austria on the counter if given space.",
+      "Loss of Jordan striker Yazan Al-Naimat (top AFC qualifying scorer) significantly weakens their attack — Ali Olwan leads the line instead.",
+      "Austria captain David Alaba returning from long-term knee injury; his fitness level for the full 90 minutes is a minor doubt.",
+      "Austria have the deeper, more battle-hardened European squad and Marcel Sabitzer (approaching 100 caps) provides experience and creativity.",
+      "Neutral venue at Levi's Stadium, Santa Clara; no meaningful home advantage for Austria."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.70, "draw": 0.18, "away": 0.12},
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42
+  },
+  "value_notes": "Market-implied probabilities (normalized, overround removed): Austria 0.72, draw 0.17, Jordan 0.11. My model assigns Austria 0.70, draw 0.18, Jordan 0.12 — essentially in line with market on the h2h, with no edge exceeding 0.05 on any outcome. On totals, market implies over 2.5 at 0.44 (normalized); my model puts it at 0.42, also no meaningful edge. Austria's last five matches include three games with two or fewer total goals, and Jordan (with Al-Naimat absent) are likely to sit deep; under 2.5 is plausible. No selections reach the 0.05 edge threshold required. No market odds available for BTTS or other markets. No qualifying edges identified for this match.",
+  "sources": [
+    "https://www.sportsmole.co.uk/football/austria/world-cup-2026/preview/austria-vs-jordan-prediction-team-news-lineups_599171.html",
+    "https://www.sportsmole.co.uk/football/austria/world-cup-2026/predicted-lineups/will-alaba-start-predicted-austria-lineup-vs-jordan_599177.html",
+    "https://www.sportsmole.co.uk/football/austria/world-cup-2026/predicted-lineups/olwan-to-lead-the-line-predicted-jordan-lineup-vs-austria_599178.html",
+    "https://www.squawka.com/en/news/world-cup/austria-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.squawka.com/en/news/world-cup/jordan-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.aljazeera.com/sports/2026/6/6/jordan-world-cup-2026-preview-players-to-watch-group-matches-and-squad",
+    "https://newsable.asianetnews.com/sports/jordan-world-cup-2026-squad-al-tamari-leads-al-naimat-out-injured-articleshow-yp25sgh",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d159406296-f54718194327-1000--austria-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+    "https://www.goal.com/en/news/austria-jordan-world-cup-preview/blt7c1bb3d0f0243ac5",
+    "https://www.rotowire.com/soccer/article/austria-vs-jordan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-j-118225",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-preliminary-squad",
+    "https://betting.betfair.com/football/predictions/fifa-world-cup/austria-vs-jordan/67uqo1wgdcka1yxqltbiqxn9w/",
+    "https://www.espn.com/soccer/odds/_/gameId/760431",
+    "https://sports.yahoo.com/articles/austria-vs-jordan-picks-predictions-141729026.html"
+  ],
+  "generated_at": "2026-06-16T11:00:00Z"
+}
