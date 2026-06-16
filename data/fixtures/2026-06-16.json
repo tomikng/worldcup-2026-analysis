@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-16",
+  "source": "web-research (espn.com, skysports.com, yahoo sports, seatgeek.com, levisstadium.com, gehafieldatarrowhead.com, metlifestadium.com, wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I, wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J)",
+  "fetched_at": "2026-06-16T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-016",
+      "kickoff_utc": "2026-06-16T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "home": "France",
+      "away": "Senegal",
+      "venue": "MetLife Stadium, East Rutherford"
+    },
+    {
+      "match_id": "wc-017",
+      "kickoff_utc": "2026-06-16T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "home": "Iraq",
+      "away": "Norway",
+      "venue": "Gillette Stadium, Foxborough"
+    },
+    {
+      "match_id": "wc-018",
+      "kickoff_utc": "2026-06-17T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "home": "Argentina",
+      "away": "Algeria",
+      "venue": "GEHA Field at Arrowhead Stadium, Kansas City"
+    },
+    {
+      "match_id": "wc-019",
+      "kickoff_utc": "2026-06-17T04:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "home": "Austria",
+      "away": "Jordan",
+      "venue": "Levi's Stadium, Santa Clara"
+    }
+  ]
+}

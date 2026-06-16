@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-15",
+  "source": "web-research (sources listed per match)",
+  "fetched_at": "2026-06-16T10:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-012",
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "home_goals": 0,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760428/cape-verde-spain",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-cabo-verde-highlights-match-report",
+        "https://www.espn.co.uk/football/story/_/id/49071783/spain-cape-verde-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://theanalyst.com/articles/spain-vs-cape-verde-stats-world-cup-group-h"
+      ]
+    },
+    {
+      "match_id": "wc-013",
+      "home": "Belgium",
+      "away": "Egypt",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760426/egypt-belgium",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-egypt-highlights-match-report",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/15/belgium-v-egypt-live-world-cup-2026",
+        "https://www.si.com/soccer/belgium-vs-egypt-world-cup-live-score-match-stats"
+      ]
+    },
+    {
+      "match_id": "wc-014",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 0,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760429/uruguay-saudi-arabia",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486",
+        "https://theanalyst.com/articles/saudi-arabia-vs-uruguay-stats-world-cup-2026",
+        "https://bolavip.com/en/world-cup/saudi-arabia-vs-uruguay-live-2026-world-cup-game-in-miami",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/uruguay-saudi-arabia-13587222/"
+      ]
+    },
+    {
+      "match_id": "wc-015",
+      "home": "Iran",
+      "away": "New Zealand",
+      "home_goals": 2,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 0,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 4,
+      "away_corners": 1,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760427/new-zealand-iran",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476",
+        "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+        "https://theanalyst.com/articles/iran-vs-new-zealand-stats-world-cup-2026",
+        "https://news24online.com/sports/fifa-world-cup-2026-iran-vs-new-zealand-live-score-irn-vs-nz-match-live-updates-los-angeles-stadium/864568/",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026"
+      ]
+    }
+  ]
+}
