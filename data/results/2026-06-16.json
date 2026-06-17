@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-16",
+  "source": "web-research (fifa.com, espn.com, foxsports.com, flashscore.com)",
+  "fetched_at": "2026-06-17T06:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-016",
+      "home": "France",
+      "away": "Senegal",
+      "home_goals": 3,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 0,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 6,
+      "away_corners": 4,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490",
+        "https://www.espn.com/soccer/match/_/gameId/760432/senegal-france",
+        "https://www.flashscore.com/match/football/france-QkGeVG1n/senegal-hOIsJLJr/summary/stats/"
+      ]
+    },
+    {
+      "match_id": "wc-017",
+      "home": "Iraq",
+      "away": "Norway",
+      "home_goals": 1,
+      "away_goals": 4,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 0,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 2,
+      "away_corners": 5,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021488",
+        "https://www.espn.com/soccer/match/_/gameId/760430/norway-iraq",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-iraq-vs-norway-jun-16-2026-game-boxscore-647634"
+      ]
+    },
+    {
+      "match_id": "wc-018",
+      "home": "Argentina",
+      "away": "Algeria",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021496",
+        "https://www.espn.com/soccer/match/_/gameId/760433/algeria-argentina",
+        "https://www.foxsports.com/soccer/argentina-vs-algeria-jun-17-2026-game-boxscore-647635"
+      ]
+    },
+    {
+      "match_id": "wc-019",
+      "home": "Austria",
+      "away": "Jordan",
+      "home_goals": 3,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+        "https://www.espn.com/soccer/match/_/gameId/760431/jordan-austria",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-austria-vs-jordan-jun-17-2026-game-boxscore-647632"
+      ]
+    }
+  ]
+}

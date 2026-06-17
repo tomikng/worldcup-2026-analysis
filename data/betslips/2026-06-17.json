@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-17",
+  "slips": [
+    {
+      "slip_id": "2026-06-17-S1",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-022",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.85,
+          "model_prob": 0.60,
+          "edge": 0.060,
+          "rationale": "Ghana's depleted midfield (Partey visa denial, Kudus and Salisu absent) and Panama's disciplined low-block make a clean sheet on at least one side the most probable outcome, with model estimating 60% probability versus the book's implied 54%."
+        }
+      ],
+      "combined_odds": 1.85,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Structural value on Ghana vs Panama BTTS No: three key Ghana attackers/midfielders absent (Partey, Kudus, Salisu) against a Panama side that topped CONCACAF qualifying undefeated and concedes rarely."
+    }
+  ]
+}
