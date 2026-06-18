@@ -12,15 +12,15 @@
           "selection": "no",
           "line": null,
           "odds": 1.85,
-          "model_prob": 0.60,
-          "edge": 0.060,
+          "model_prob": 0.6,
+          "edge": 0.06,
           "rationale": "Ghana's depleted midfield (Partey visa denial, Kudus and Salisu absent) and Panama's disciplined low-block make a clean sheet on at least one side the most probable outcome, with model estimating 60% probability versus the book's implied 54%."
         }
       ],
       "combined_odds": 1.85,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 9.25,
+      "settled_at": "2026-06-18T07:02:59Z",
       "rationale": "Structural value on Ghana vs Panama BTTS No: three key Ghana attackers/midfielders absent (Partey, Kudus, Salisu) against a Panama side that topped CONCACAF qualifying undefeated and concedes rarely."
     }
   ]

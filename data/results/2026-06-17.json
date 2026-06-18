@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-17",
+  "source": "web-research (espn.com, fifa.com, foxsports.com)",
+  "fetched_at": "2026-06-18T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-020",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/scoreboard/_/league/fifa.world/date/20260617",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"
+      ]
+    },
+    {
+      "match_id": "wc-021",
+      "home": "England",
+      "away": "Croatia",
+      "home_goals": 4,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/scoreboard/_/league/fifa.world/date/20260617",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"
+      ]
+    },
+    {
+      "match_id": "wc-022",
+      "home": "Ghana",
+      "away": "Panama",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760434/panama-ghana",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021510"
+      ]
+    },
+    {
+      "match_id": "wc-023",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "home_goals": 1,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760436/colombia-uzbekistan",
+        "https://www.vavel.com/en-us/soccer/1263690-uzbekistan-vs-colombia-live-score-2026-fifa-world-cup.html"
+      ]
+    }
+  ]
+}
