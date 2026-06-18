@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-024",
+  "date": "2026-06-18",
+  "home": "Czechia",
+  "away": "South Africa",
+  "kickoff_utc": "2026-06-18T16:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_A",
+  "venue": "Mercedes-Benz Stadium, Atlanta",
+  "analysis": {
+    "summary": "A must-win fixture for both Group A sides sitting on zero points after matchday 1. Czechia lost 2-1 to South Korea despite leading, while South Africa were beaten 2-0 by Mexico in a match that saw them finish with nine men following red cards for Sphephelo Sithole and Themba Zwane. Both suspensions carry over, gutting South Africa's midfield and leaving coach Hugo Broos to reshuffle significantly. Czechia have a full squad available and carry a structural advantage in set-piece delivery and physicality.",
+    "home_form": "Czechia qualified for their first World Cup since 2006 via UEFA play-off penalty shootout wins over Ireland and Denmark. In their opening tournament match on June 11 they led South Korea 1-0 through a Ladislav Krejci header (59') before conceding twice (Hwang In-beom 67', Oh Hyeon-gyu 80') to lose 2-1. Pre-tournament friendlies saw wins over Kosovo and Guatemala. They operate in a disciplined 4-2-3-1 low block, transition quickly on the counter, and are elite at set-pieces, leading European qualifiers with eight set-piece goals.",
+    "away_form": "South Africa lost their opening match 0-2 to Mexico, with Sithole sent off in the 49th minute (DOGSO) and Zwane dismissed in the 84th minute (violent conduct, VAR upgrade to three-match ban). They never threatened Mexico's goal and will now face Czechia without two starting midfielders. Bafana Bafana have never advanced past the group stage in their four World Cup appearances. Hugo Broos's side is tactically disciplined but their creative options are severely reduced by the double suspension.",
+    "h2h": "The only competitive meeting on record is a 2-2 draw in the 1997 FIFA Confederations Cup. There is essentially no meaningful head-to-head history; this is a one-off high-stakes encounter between two sides that rarely meet.",
+    "injuries_news": [
+      "South Africa: Sphephelo Sithole suspended (red card vs Mexico, 1-match ban).",
+      "South Africa: Themba Zwane suspended (red card vs Mexico, 3-match ban by FIFA Disciplinary Committee for violent conduct).",
+      "Czechia: No injuries or suspensions reported. Full squad available."
+    ],
+    "key_factors": [
+      "South Africa's double suspension forces a reshuffle of their midfield and attacks their most creative outlets going forward.",
+      "Both teams must win to stay alive — the loser is virtually eliminated, creating high-pressure open play and potential for counter-attacking goals.",
+      "Czechia's set-piece expertise (8 goals from set-pieces in qualification) is dangerous against a reshuffled South Africa defensive unit.",
+      "Patrik Schick provides Czechia with a clinical aerial threat well-suited to exploit a disrupted South African defence.",
+      "Referee Tori Penso (USA) averages approximately 3.32 yellow cards per game — a below-average discipline rate. The high-stakes context may push the actual card count higher.",
+      "Atlanta heat and South Africa's already depleted squad may compound fitness issues in the second half."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.57,
+      "draw": 0.22,
+      "away": 0.21
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.46,
+    "btts_yes": 0.38
+  },
+  "value_notes": "Market implied probabilities (overround-normalized): Czechia home 0.539, draw 0.258, South Africa away 0.203; totals 2.5 over 0.457; btts yes 0.463. My model sets Czechia home at 0.57 (edge +0.031 vs market, below the 0.05 threshold for flagging value). The clearest divergence is btts_yes: market implies 0.463 but my model gives it only 0.38 (edge +0.083 on btts_no), driven by South Africa's two attacking suspensions and their complete goalless display against Mexico. Btts_no at 1.77 (implied 0.537) represents the primary value selection with a model edge of approximately 0.083. No edge identified on the totals market; both model and market are near-identical at just under 50% for over 2.5.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom",
+    "https://www.espn.com/soccer/report/_/gameId/760414",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://www.safa.net/world-cup-news/bafana-suffer-defeat-to-mexico-in-the-opening-match-of-the-2026-fifa-world-cup/",
+    "https://www.espn.com/espn/story/_/id/49097656/south-africa-themba-zwane-handed-three-match-ban-red-card-mexico-fifa-world-cup-opener",
+    "https://www.hitc.com/world-cup-suspension-rules-as-mexico-vs-south-africa-sees-three-red-cards/",
+    "https://www.sportsmole.co.uk/football/czech-republic/world-cup-2026/team-news/czech-republic-vs-south-africa-injury-suspension-list_599414.html",
+    "https://www.rotowire.com/soccer/article/czechia-vs-south-africa-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-a-118513",
+    "https://theanalyst.com/articles/czechia-vs-south-africa-prediction-world-cup-2026-match-preview",
+    "https://khelnow.com/football/world-football-czechia-vs-south-africa-head-to-head-fifa-world-cup-202606",
+    "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Tori-Penso-to-officiate-South-Africa-vs-Czechia-in-World-Cup-Group-A-clash-2039273",
+    "https://www.statshub.com/referee/penso-tori/787522",
+    "https://worldsoccertalk.com/world-cup/czechia-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/"
+  ],
+  "generated_at": "2026-06-18T10:15:00Z"
+}

@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-026",
+  "date": "2026-06-18",
+  "home": "Canada",
+  "away": "Qatar",
+  "kickoff_utc": "2026-06-18T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_B",
+  "venue": "BC Place, Vancouver",
+  "analysis": {
+    "summary": "Canada host Qatar at BC Place in Vancouver in a match that could decide Group B's early leader, with all four sides level on one point after Matchday 1 draws. Canada are heavy home co-host favourites backed by Jonathan David and Cyle Larin, while Qatar arrive in poor recent form (1W-1D-3L in last five) and rely on opportunism having salvaged a lucky own-goal equaliser against Switzerland. Alphonso Davies remains unavailable (hamstring), but Canada's squad depth still makes them clear favourites. A Canada win is the overwhelming expectation and the most likely outcome by a wide margin.",
+    "home_form": "Canada drew 1-1 with Bosnia on June 12 (WC MD1) despite controlling play (xG 1.25 vs 0.98, 13-8 shots). Before the tournament they beat Uzbekistan 2-0 (Jun 1), drew Ireland 1-1 (Jun 5), drew Iceland 2-2 (Mar 28) and drew Tunisia 0-0 (Mar 31). Larin came off the bench to score; Jonathan David started and led the attack. Form trend: moderate — dominant but not clinical yet.",
+    "away_form": "Qatar earned a creditable 1-1 draw vs Switzerland (WC MD1) but the equaliser was a 94th-minute own goal. In the five matches before the WC: lost 1-0 to Ireland (May 28), lost 0-3 to Tunisia (Dec 7), drew 1-1 with Syria (Dec 4), lost 0-1 to Palestine (Dec 1). Only one win (unconfirmed) in the last 5 competitive fixtures. Qatar ranked 55th globally; conceded 1.56 goals per game in Asian qualifying.",
+    "h2h": "Only one prior meeting: September 23, 2022 friendly in Vienna. Canada won 2-0, goals from Cyle Larin and Jonathan David — the same two attackers in the squad now.",
+    "injuries_news": [
+      "Alphonso Davies (Canada) — right hamstring strain sustained May 6 vs Bayern Munich, not expected to start; targeting Match 3 vs Switzerland.",
+      "Marcelo Flores (Canada) — major knee injury, replaced by Jayden Nelson in squad.",
+      "Moise Bombito (Canada) — recovering from serious leg injury, availability unconfirmed.",
+      "No significant injury concerns reported for Qatar squad."
+    ],
+    "key_factors": [
+      "Canada playing at home in Vancouver with partisan crowd; BC Place expected to be near-capacity.",
+      "Alphonso Davies absence means Richie Laryea starts at left-back, slightly weakening Canada's best attacking threat down that flank.",
+      "Jonathan David (8 goals, 5 assists for Juventus this season) and Cyle Larin (8 goals for Southampton) form a potent strike partnership.",
+      "Qatar's defensive frailty: conceded 1.56 goals/game in Asian qualifying and relied on a last-minute own goal vs Switzerland — limited clean-sheet ability.",
+      "Qatar showed resilience in holding Switzerland but have below-par form in recent months (3 losses from 4 pre-WC matches).",
+      "A Canada win moves them top of Group B; a draw keeps all four teams level going into the final matchday — Canada's motivation is high.",
+      "Both sides need points: a Canada win puts them in a commanding position; Qatar need at minimum a draw to stay in contention."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.74,
+      "draw": 0.17,
+      "away": 0.09
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.50
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Canada win 0.747, draw 0.166, Qatar win 0.086. My model probabilities: Canada 0.74, draw 0.17, Qatar 0.09. All three outcomes are within ~0.01 of market, so no edge of >=0.05 exists on the h2h market. For totals, the market implies over 2.5 at 0.535; my model estimates 0.50 given Qatar's defensive resilience and Canada's tendency to control rather than blow teams away (only 1-1 vs Bosnia in MD1). This is a 0.035 gap against the over — not enough for a qualifying edge. No market value identified across any market. No Polymarket data available today (API 403 errors).",
+  "sources": [
+    "https://www.rotowire.com/soccer/article/canada-vs-qatar-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-118506",
+    "https://www.squawka.com/us/news/world-cup/match-preview-canada-vs-qatar-06-18-26-world-cup-2026/",
+    "https://www.espn.com/soccer/story/_/id/49080149/canada-vs-qatar-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B",
+    "https://www.sportsmole.co.uk/football/canada/world-cup-2026/predicted-lineups/davies-is-pushing-to-return-predicted-canada-lineup-vs-qatar_599331.html",
+    "https://www.sportsmole.co.uk/football/canada/world-cup-2026/preview/canada-vs-qatar-prediction-team-news-lineups_599337.html",
+    "https://www.si.com/soccer/canada-2026-world-cup-roster-confirmed-full-list-players",
+    "https://www.espn.com/soccer/match/_/gameId/760416/bosnia-herzegovina-canada",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-bosnia-and-herzegovina-highlights-match-report",
+    "https://www.sportsmole.co.uk/football/canada/world-cup-2026/head-to-head/canada-vs-qatar-head-to-head-record-and-past-meetings_599329.html",
+    "https://worldsoccertalk.com/world-cup/qatar-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.tsn.ca/soccer/fifa-world-cup/article/a-look-at-where-canada-stands-after-one-round-of-group-b-games-at-the-world-cup/"
+  ],
+  "generated_at": "2026-06-18T14:30:00Z"
+}

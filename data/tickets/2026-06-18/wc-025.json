@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-025",
+  "date": "2026-06-18",
+  "home": "Switzerland",
+  "away": "Bosnia and Herzegovina",
+  "kickoff_utc": "2026-06-18T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_B",
+  "venue": "SoFi Stadium, Los Angeles",
+  "analysis": {
+    "summary": "Switzerland and Bosnia and Herzegovina both enter Matchday 2 on one point after drawing 1-1 in their openers — Switzerland against Qatar (conceding a 94th-minute own goal), Bosnia against Canada (leading before being pegged back by substitute Cyle Larin). A win here is critical for both sides with Canada vs Qatar also taking place simultaneously. Switzerland are the higher-ranked, more experienced side and clear favorites, but Bosnia's defensive discipline and dangerous counter-attacking play make them capable of grinding out a result.",
+    "home_form": "Switzerland drew 1-1 with Qatar on June 13, conceding a 94th-minute own goal after Breel Embolo had given them the lead via a penalty. In qualifying, Switzerland were dominant — winning their European group with four wins and two draws, including a 4-1 win in Stockholm over Sweden. Granit Xhaka (146 caps) leads a cohesive, experienced squad. Manager Murat Yakin may rotate or adjust the attack after a below-par display against Qatar.",
+    "away_form": "Bosnia and Herzegovina drew 1-1 with Canada on June 12 in Toronto — Jovo Lukic headed them ahead in the 21st minute before Canada equalized in the 78th via Cyle Larin. Bosnia qualified through the UEFA playoffs for only their second World Cup appearance (first since 2014). They are organized defensively but rely heavily on the counter and set pieces. The 40-year-old Edin Dzeko leads the squad but may be used from the bench.",
+    "h2h": "The two nations have never met in a competitive match. Their only modern friendly was a 2-0 Bosnia win in Zurich in March 2016 (goals from Dzeko and Pjanic). Historical record including Yugoslavia-era games gives a slight edge to the former Yugoslavia side, but that context is minimal for this fixture.",
+    "injuries_news": [
+      "Bosnia captain and left-back Sead Kolasinac (Atalanta, 66 caps) limped off in the closing stages against Canada — his availability for this match is uncertain; multiple reports suggest he could miss out.",
+      "Bosnia winger/forward Nidal Celik suffered an injury against Canada and is ruled out for the rest of the tournament.",
+      "Edin Dzeko (40) is listed in the squad but expected to feature as a bench option or late substitute rather than starting.",
+      "Switzerland reported no injuries from their Qatar match and are expected to be at full strength."
+    ],
+    "key_factors": [
+      "Group B is completely level (all four teams on 1 point, identical GD after matchday 1), so a win here could provisionally top the group heading into matchday 3.",
+      "Kolasinac's absence or limited fitness would weaken Bosnia's left flank — Switzerland's right winger Dan Ndoye (Bologna) could exploit that space.",
+      "Switzerland's midfield trio (Xhaka, Freuler, Aebischer) is cohesive and experienced at international level; Bosnia's counter-pressing double pivot of Tahirovic and Basic needs to compete in the middle.",
+      "SoFi Stadium has a translucent roof providing shade and passive cooling; Los Angeles June temperature highs of 75-82°F are favorable — no adverse weather or altitude factor (sea level).",
+      "Bosnia's defensive resilience: they conceded only one goal in qualifying but scored just 8 times in 10 matches, suggesting low-scoring affairs are on profile.",
+      "Switzerland are under psychological pressure after throwing away a lead vs Qatar; they are likely to push for a more controlled, dominant display."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.56,
+      "draw": 0.25,
+      "away": 0.19
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42,
+    "btts_yes": 0.45
+  },
+  "value_notes": "Market implied probabilities (overround-normalized) from provided odds: Switzerland win 0.615, draw 0.230, Bosnia win 0.155. Totals 2.5 over: market 0.475, BTTS yes: market 0.463. My model sets Switzerland win at 0.56 (below market by 0.055), draw at 0.25 (above market by 0.020), and Bosnia win at 0.19 (above market by 0.035). The largest single divergence is Switzerland win: market implies 0.615 but I assess 0.56, a gap of 0.055 in the away/draw direction — this just meets the 0.05 threshold for draw as a marginal value selection, though the edge is borderline. On totals 2.5 over: my model probability is 0.42 vs market implied 0.475, a difference of 0.055 suggesting the under (1.81 implied prob 0.525) is slightly underpriced relative to my estimate — however this remains cautious given limited match data. On BTTS yes: my 0.45 vs market 0.463 shows no meaningful edge. No single selection clears a confident ≥0.05 edge on the primary h2h market; the most notable divergence is Switzerland win being overpriced by the market (my probability is 0.055 below market implied), marginally flagging the draw and Bosnia as potential overlays. No Polymarket data available today (API 403 errors).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B",
+    "https://www.espn.com/soccer/story/_/id/49051620/qatar-vs-switzerland-live-2026-world-cup-updates-score-commentary",
+    "https://www.espn.com/soccer/story/_/id/49053969/switzerland-qatar-world-cup-2026",
+    "https://www.espn.com/soccer/story/_/id/49041213/canada-bosnia-herzegovina-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021449",
+    "https://www.sportsmole.co.uk/football/bosnia-herzegovina/world-cup-2026/predicted-lineups/kolasinac-to-miss-out-predicted-bosnia-herzegovina-xi-vs-switzerland_599385.html",
+    "https://www.sportsmole.co.uk/football/switzerland/world-cup-2026/team-news/switzerland-vs-bosnia-herzegovina-injury-suspension-list-predicted-xis_599361.html",
+    "https://en.nogomania.com/read/World-Cup-setback-for-Bosnia-as-captain-Sead-Kolasinac-limps-off-injured",
+    "https://www.khelnow.com/football/world-football-switzerland-vs-bosnia-herzegovina-head-to-head-fifa-world-cup-202606",
+    "https://www.tntsports.co.uk/football/world-cup/2026/groups-tie-breaker-switzerland-canada-disciplinary-record-goal-difference-points-same-results_sto23309431/story.shtml",
+    "https://www.rotowire.com/soccer/article/switzerland-vs-bosnia-and-herzegovina-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-118514",
+    "https://sports.yahoo.com/articles/switzerland-vs-bosnia-herzegovina-prediction-122500555.html",
+    "https://www.fourfourtwo.com/team/bosnia-world-cup-2026-squad",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/bosnia-and-herzegovina-sergej-barbarez-names-squad"
+  ],
+  "generated_at": "2026-06-18T12:00:00Z"
+}
