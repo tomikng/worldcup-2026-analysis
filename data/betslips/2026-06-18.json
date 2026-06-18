@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-18",
+  "slips": [
+    {
+      "slip_id": "2026-06-18-S1",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-024",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.77,
+          "model_prob": 0.62,
+          "edge": 0.055,
+          "rationale": "South Africa's two suspended midfielders (Sithole, Zwane) gutted their attack — they failed to register a shot on target vs Mexico and are highly unlikely to score against a structured Czechia side."
+        }
+      ],
+      "combined_odds": 1.77,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "South Africa's double suspension leaves them without their two most creative midfielders; model assigns only 38% probability to both teams scoring, versus the 48.8% implied by the 2.05 btts_yes price, making btts_no at 1.77 the single qualifying edge on the card today."
+    }
+  ]
+}
