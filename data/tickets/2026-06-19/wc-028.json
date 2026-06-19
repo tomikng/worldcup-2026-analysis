@@ -1,0 +1,64 @@
+{
+  "match_id": "wc-028",
+  "date": "2026-06-19",
+  "home": "United States",
+  "away": "Australia",
+  "kickoff_utc": "2026-06-19T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_D",
+  "venue": "Seattle Stadium, Seattle",
+  "analysis": {
+    "summary": "Both teams enter Matchday 2 level on three points after impressive openers — the USA hammered Paraguay 4-1 and Australia ground out a disciplined 2-0 win over Turkey. A USA win would put them in the driving seat of Group D, while Australia can leapfrog the hosts with a result. The key narrative is Christian Pulisic's fitness: the USMNT captain trained apart from the squad all week and his availability remains day-to-day with a left calf injury, though teammates and Pochettino sound cautiously optimistic.",
+    "home_form": "Won 4-1 vs Paraguay (WC MD1, Jun 12): Folarin Balogun scored a brace plus an OG and a Reyna 90+8 finish showed depth. USA were dominant for 70 minutes. Under Pochettino they play a high-intensity 4-3-3 with quick transitions. Host-nation crowd advantage at Lumen Field (effectively a home ground given Seattle's USMNT fan base).",
+    "away_form": "Won 2-0 vs Turkey (WC MD1, Jun 13): Goals from Nestory Irankunda (27) and Connor Metcalfe (75). Goalkeeper Patrick Beach made 8 saves, underlining Australia's defensive discipline. Tony Popovic deploys a compact 3-4-2-1 that absorbs pressure and counter-attacks quickly. Australia had a 12-game unbeaten streak coming into the tournament before the USA friendly in October 2025.",
+    "h2h": "USA hold a 2W-1D-1L record in four all-time meetings. The most recent two: 0-0 friendly (Nov 1998), USA 3-1 (Jun 2010 friendly), USA 2-1 (Oct 2025 friendly in Commerce City — Haji Wright brace). USA are unbeaten in three straight meetings. This is the first competitive encounter between the nations.",
+    "injuries_news": [
+      "Christian Pulisic (USA) — left calf injury, trained separately all week, status day-to-day; Pochettino to consult medical staff Thursday night for final decision. Teammates Tyler Adams and Tim Weah expressed confidence he would be available.",
+      "Mohamed Toure (Australia) — reportedly in doubt with a calf cramp sustained vs Turkey; fitness being monitored.",
+      "Australia expected to name unchanged XI from the Turkey win; USA likely unchanged if Pulisic passes fitness test."
+    ],
+    "key_factors": [
+      "Pulisic availability: if he misses, USA lose their most creative and experienced attacker; Pochettino would likely deploy Giovanni Reyna or Josh Sargent in his place.",
+      "Australia's defensive shape: compact 3-4-2-1 with wing-backs tracking back; Beach's 8-save display showed their organization under pressure — USA need to be patient.",
+      "Home advantage: Lumen Field is sea-level, mild June weather (~20-25°C), and a partisan pro-USA crowd of ~68,000 expected.",
+      "Group D motivation: winner likely clinches qualification with a game to spare; a draw keeps both alive but increases jeopardy in MD3.",
+      "Australia's counter-attack threat: Irankunda (20, Watford) is pacey and direct; Popovic's side can punish high USA lines.",
+      "Rest and travel parity: both teams had six days rest since their MD1 fixtures; USA traveled from Los Angeles, Australia from Vancouver — minimal travel disadvantage."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.57,
+      "draw": 0.24,
+      "away": 0.19
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47,
+    "totals_2.5_under": 0.53,
+    "btts_yes": 0.38,
+    "btts_no": 0.62
+  },
+  "value_notes": "Market-implied probabilities (overround removed): USA win 0.598, draw 0.219, Australia win 0.183. My model: USA 0.570, draw 0.240, Australia 0.190. The model finds no single market with edge >= 0.05 versus the book. Closest to value: BTTS No (model 0.62 vs market-implied 0.571, edge +0.049) and totals under 2.5 (model 0.53 vs market-implied 0.511, edge +0.019) — both driven by Australia's compact defensive structure (8 goalkeeper saves vs Turkey) and Pulisic's fitness uncertainty. The USA win market prices them at ~60% which is fair given host advantage, superior opening result and depth of squad; any edge the model finds by shading the USA win lower is within noise. No qualifying edges >= 0.05 are identified.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://www.espn.com/soccer/story/_/id/48940468/usa-world-cup-2026-schedule-fixtures-results-scores-group-d-how-watch-news-analysis-injuries",
+    "https://www.espn.com/soccer/story/_/id/49109849/usmnt-christian-pulisic-trains-apart-team-again-pochettino-due-address-status",
+    "https://www.cbssports.com/soccer/news/christian-pulisic-world-cup-injury-update-usmnt-australia/",
+    "https://worldsoccertalk.com/world-cup/christian-pulisic-injury-update-usmnt-duo-tyler-adams-and-tim-weah-reveal-if-forward-will-play-vs-australia-after-2026-world-cup-fitness-scare/",
+    "https://www.cbssports.com/soccer/news/usa-paraguay-live-updates-world-cup-2026-score-result/live/",
+    "https://www.ussoccer.com/stories/2026/06/usmnt/folarin-balogun-brace-match-recap-highlights-vs-paraguay",
+    "https://www.skysports.com/football/news/12098/13552630/world-cup-2026-australia-2-0-turkey-socceroos-make-winning-start-to-group-d-campaign-in-vancouver",
+    "https://www.outlookindia.com/sports/football/australia-vs-turkiye-fifa-world-cup-2026-group-d-match-report-vancouver-canada",
+    "https://www.sportsmole.co.uk/football/australia/world-cup-2026/predicted-lineups/popovic-to-name-unchanged-team-predicted-australia-lineup-vs-usa_599441.html",
+    "https://www.starsandstripesfc.com/fifa-world-cup/44271/usa-vs-australia-2026-world-cup-scouting-australia",
+    "https://khelnow.com/football/world-football-usa-vs-australia-head-to-head-fifa-world-cup-202606",
+    "https://www.ussoccer.com/stories/2025/10/usmnt-haji-wright-cristian-roldan-connect-twice-win-australia",
+    "https://bolavip.com/en/world-cup/2026-world-cup-group-d-standings-updated-after-australia-vs-turkiye-and-how-it-affects-usa",
+    "https://www.ussoccer.com/stories/2026/06/usmnt/group-d-points-standings-updates-tracker-fifa-world-cup",
+    "https://fwctimes.com/tony-popovic/"
+  ],
+  "generated_at": "2026-06-19T10:15:00Z"
+}
