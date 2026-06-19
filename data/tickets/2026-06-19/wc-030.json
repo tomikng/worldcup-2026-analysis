@@ -1,0 +1,66 @@
+{
+  "match_id": "wc-030",
+  "date": "2026-06-19",
+  "home": "Brazil",
+  "away": "Haiti",
+  "kickoff_utc": "2026-06-20T00:30:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_C",
+  "venue": "Philadelphia Stadium, Philadelphia",
+  "analysis": {
+    "summary": "Brazil sit on one point after a 1-1 draw with Morocco in their opener and face a Haiti side that lost 0-1 to Scotland. For Brazil, three points against the group's weakest opponent is effectively non-negotiable to stay on course for the knockout stages. The quality gap is enormous: Brazil's depleted but still world-class attack featuring Vinicius Jr, Raphinha, and Endrick faces a Haiti side that created chances against Scotland but failed to convert, and will be significantly outmatched by a Brazil side highly motivated to restore confidence.",
+    "home_form": "Brazil drew 1-1 with Morocco in their World Cup opener (Vinicius Jr equaliser). In the five pre-tournament matches: lost 0-1 at Bolivia (Sep 2025), won 5-0 vs South Korea (Oct 2025), lost 2-3 vs Japan (Oct 2025), won 2-0 vs Senegal (Nov 2025), drew 1-1 vs Tunisia (Nov 2025). Mixed form but strong attacking depth. Key absences: Neymar (calf, likely entire group stage), Rodrygo (ACL, tournament out), Estevao (hamstring, tournament out), Eder Militao (hamstring surgery, tournament out). Ancelotti fields a 4-2-3-1 / 4-2-4 setup with abundant forward options.",
+    "away_form": "Haiti qualified for the World Cup for the first time since 1974, winning Concacaf Group C. Last five competitive matches: drew 3-3 at Costa Rica (Sep 2025), won 3-0 vs Nicaragua (Oct 2025), lost 0-3 at Honduras (Oct 2025), won 1-0 vs Costa Rica (Nov 2025), won 2-0 vs Nicaragua (Nov 2025). At the World Cup, lost 0-1 to Scotland despite showing attacking intent (51% possession, 13 shots). Warm-ups: won 4-0 vs New Zealand, lost 1-2 vs Peru. Key players: Duckens Nazon (striker), Danley Jean Jacques (midfield), captain Johny Placide (goalkeeper). Coach Sebastien Migne favours a 4-3-2-1.",
+    "h2h": "Brazil lead the all-time head-to-head 3 wins from 3 meetings, scoring 17 goals and conceding just 1. Most notable: Copa America 2016, Brazil 7-1 Haiti (Coutinho hat-trick). Earlier meetings: Brazil 6-0 Haiti (friendly, Aug 2004) and Brazil 4-0 Haiti (friendly, Apr 1974). Haiti have never defeated Brazil and have never even drawn with them.",
+    "injuries_news": [
+      "Brazil — Neymar (calf injury): expected to miss entire group stage, targeting knockout rounds",
+      "Brazil — Rodrygo: ruled out of entire tournament with torn ACL/meniscus",
+      "Brazil — Estevao: ruled out of entire tournament with hamstring injury",
+      "Brazil — Eder Militao: ruled out of entire tournament requiring hamstring surgery",
+      "Haiti — no confirmed injuries or suspensions reported ahead of this match; lineup unconfirmed"
+    ],
+    "key_factors": [
+      "Brazil are under strong tournament pressure after drawing with Morocco — a loss or draw here would put last-16 qualification in serious doubt, maximising motivation",
+      "Historical dominance is extreme: Brazil have beaten Haiti 4-0, 6-0, and 7-1 in all three previous meetings",
+      "Vinicius Jr is Brazil's primary attacking threat and consistently exploits space behind defensive lines — Haiti's right-hand side is likely the target",
+      "Haiti showed courage vs Scotland (more possession, 13 shots) but failed to score and face a dramatically superior opponent in Brazil",
+      "Brazil's attack remains potent despite absences: Vinicius Jr, Raphinha, Endrick, Matheus Cunha, and Gabriel Martinelli all available",
+      "Philadelphia venue: neutral in feel, moderate altitude, no significant heat or travel disadvantage for either side",
+      "Ancelotti expected to rotate some starters (e.g. Casemiro may sit) but the attacking unit should be close to full strength",
+      "Haiti's 4-3-2-1 deep-block strategy could initially frustrate Brazil, but their defensive quality against elite attacking movement is unproven at this level"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.89,
+      "draw": 0.07,
+      "away": 0.04
+    },
+    "predicted_score": "3-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_3.5_over": 0.62,
+    "totals_3.5_under": 0.38,
+    "btts_yes": 0.25,
+    "btts_no": 0.75
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.868, draw 0.087, away 0.045. Model probs: home 0.890, draw 0.070, away 0.040. Edge on home win: +0.022 (below the 0.05 threshold for a qualifying bet). The main value signal in this match is the totals market at 3.5: market implies ~0.524 probability on over 3.5 goals (1.91 odds = 52.4% implied), while the model estimates 0.62 based on Brazil's extreme historical goal-scoring vs Haiti (17 goals in 3 games, including 7-1 at Copa America 2016), Brazil's attacking depth even without Neymar/Rodrygo, and Haiti's limited defensive record at this level. Edge on totals_3.5_over = 0.62 - 0.524 = +0.096, which exceeds the 0.05 threshold. BTTS no also has model support at 0.75, but no market odds were provided for BTTS so no edge can be calculated. Correct score market: 3-0 at 7.00 implies 14.3% — model concurs 3-0 is the single most likely score but the thin line separating 3-0, 4-0, and 2-0 means no single correct score has sufficient edge on its own.",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/49055260/haiti-scotland-world-cup-2026-result-score-recap-john-mcginn-ben-gannon-doak-group-c",
+    "https://www.espn.com/soccer/story/_/id/49054529/brazil-vs-morocco-2026-world-cup-vinicius-junior",
+    "https://heavy.com/sports/soccer/world-cup/brazil-world-cup-standings-group-c-updated-scotland-morocco/",
+    "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/preview/brazil-vs-haiti-prediction-team-news-lineups_599463.html",
+    "https://www.rotowire.com/soccer/article/brazil-vs-haiti-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-118660",
+    "https://theanalyst.com/articles/brazil-vs-haiti-prediction-world-cup-2026-match-preview",
+    "https://www.foxsports.com/stories/soccer/brazil-prepared-keep-neymar-sidelined-group-matches-prevent-re-injury",
+    "https://bolavip.com/en/world-cup/why-is-rodrygo-not-playing-the-2026-world-cup-with-brazil",
+    "https://www.concacaf.com/competitions/fifa-world-cup/news/fifa-world-cup-2026-team-profile-haiti",
+    "https://khelnow.com/football/world-cup-brazil-vs-haiti-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/head-to-head/brazil-vs-haiti-head-to-head-record-and-past-meetings_599515.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://www.aljazeera.com/sports/2026/6/14/vinicius-drags-brazil-level-against-dominant-morocco-at-world-cup",
+    "https://www.goal.com/en-us/news/brazil-haiti-world-cup-preview/blte15b62338e20169d"
+  ],
+  "generated_at": "2026-06-19T14:45:00Z"
+}
