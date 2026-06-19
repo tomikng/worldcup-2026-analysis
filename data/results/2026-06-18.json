@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-18",
+  "source": "web-research",
+  "fetched_at": "2026-06-19T07:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-024",
+      "home": "Czechia",
+      "away": "South Africa",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 5,
+      "away_corners": 11,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760438/south-africa-czechia",
+        "https://www.skysports.com/football/czech-republic-vs-south-africa/549790",
+        "https://www.thescore.com/worldcup/event/93096",
+        "https://heavy.com/sports/soccer/world-cup/czech-republic-vs-south-africa-match-results-today-fifa-world-cup-2026-live-score-updates-stats/"
+      ]
+    },
+    {
+      "match_id": "wc-025",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "home_goals": 4,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 7,
+      "away_corners": 2,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760439/bosnia-herzegovina-switzerland",
+        "https://www.skysports.com/football/switzerland-vs-bosnia-and-herzegovina/549791",
+        "https://www.vavel.com/en-us/soccer/1263741-switzerland-vs-bosnia-live-score-2026-fifa-world-cup.html"
+      ]
+    },
+    {
+      "match_id": "wc-026",
+      "home": "Canada",
+      "away": "Qatar",
+      "home_goals": 6,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 3,
+      "home_reds": 0,
+      "away_reds": 2,
+      "home_corners": 19,
+      "away_corners": 1,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760440/qatar-canada",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450",
+        "https://www.foxnews.com/sports/canadas-ismal-kon-suffers-horrific-injury-qatars-assim-madibo-gets-red-card-poor-tackle",
+        "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone"
+      ]
+    },
+    {
+      "match_id": "wc-027",
+      "home": "Mexico",
+      "away": "South Korea",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 0,
+      "away_corners": 1,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico",
+        "https://www.cbssports.com/soccer/news/mexico-vs-south-korea-live-updates-world-cup-2026-score-result/live/",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-18-live-updates-rcna350678"
+      ]
+    }
+  ]
+}

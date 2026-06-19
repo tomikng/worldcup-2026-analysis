@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.77,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-19T07:07:00Z",
       "rationale": "South Africa's double suspension leaves them without their two most creative midfielders; model assigns only 38% probability to both teams scoring, versus the 48.8% implied by the 2.05 btts_yes price, making btts_no at 1.77 the single qualifying edge on the card today."
     }
   ]
