@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-032",
+  "date": "2026-06-20",
+  "home": "Netherlands",
+  "away": "Sweden",
+  "kickoff_utc": "2026-06-20T17:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_F",
+  "venue": "NRG Stadium, Houston",
+  "analysis": {
+    "summary": "Sweden enter Matchday 2 top of Group F on 3 points after a dominant 5-1 demolition of Tunisia, while Netherlands sit third on 1 point following a 2-2 draw with Japan in which they squandered a twice-held lead. The Dutch need at least a draw to stay in contention; Sweden can effectively clinch a knockout-round berth with another win. Netherlands carry superior squad depth and defensive quality on paper, but Sweden's Gyokeres-Isak partnership is the most dangerous attacking combination in the group and their high-energy 3-1-4-2 system poses real problems for any high defensive line.",
+    "home_form": "Netherlands drew 2-2 with Japan on June 14 (AT&T Stadium, Dallas), leading twice through Van Dijk (50') and Summerville (64') but conceding twice, the equalizer coming in the 88th minute. In World Cup qualifying (2025), the Dutch went 4W-1D-0L in their final five UEFA qualifiers, winning 4-0 vs Malta, 4-0 vs Finland, 4-0 vs Lithuania, 3-2 at Lithuania, drawing 1-1 in Poland. Overall form across the cycle is strong but the Japan result exposed vulnerability to quick transitions and late concentration lapses.",
+    "away_form": "Sweden crushed Tunisia 5-1 on June 14 (Ayari x2, Isak, Gyokeres, Svanberg), with Gyokeres and Isak combining to devastating effect. In World Cup qualifying (2025), Sweden's form was inconsistent — they went 0W-1D-4L in their qualifier group — but recovered decisively in the play-offs, defeating Ukraine 3-1 in the semi-final and Poland 3-2 in the final. The 5-1 opener provided a significant confidence and momentum injection ahead of this game.",
+    "h2h": "Netherlands lead the all-time head-to-head record: 12 wins, 5 draws, 8 losses across 25 meetings dating back to 1908. The most recent encounter was a Netherlands 2-0 victory over Sweden in a WCQ match in October 2017, with the reverse fixture in Sweden earlier in that cycle finishing 1-1. In broader historical data (8 meetings since 1974), the sides have drawn 4 times, with Netherlands winning 3 and Sweden winning 1. The Dutch have a clear historical advantage in meaningful competitive encounters.",
+    "injuries_news": [
+      "Jurrien Timber (Arsenal, Netherlands) has been ruled out of the tournament with injury and is not in the squad.",
+      "Netherlands: No further confirmed injuries; Bart Verbruggen shook off a minor knock to start vs Japan and is expected to continue; Memphis Depay available as an impact substitute.",
+      "Sweden: No reported injuries following the Tunisia win; Gyokeres and Isak both finished the match without physical concerns and are expected to start."
+    ],
+    "key_factors": [
+      "Tournament pressure: Netherlands must win or risk group-stage elimination pressure entering Matchday 3; Sweden can seal progression with a win, making this a high-stakes asymmetric motivation match.",
+      "Sweden's Gyokeres-Isak axis is the standout striking partnership of Group F — both players scored in MD1 and pose a serious aerial and pace-based threat against the Netherlands' high defensive line.",
+      "Netherlands' defense (Van Dijk, Van de Ven, Dumfries) is individually top quality but conceded twice to Japan via counter-attacks; Sweden are even more dangerous in transition than Japan.",
+      "Netherlands' 4-3-3 vs Sweden's 3-1-4-2 creates a wing-vs-wing battle where Sweden's wide forwards (Ayari, Gudmundsson) could exploit the Dutch fullbacks pushing forward.",
+      "NRG Stadium's retractable roof and full air conditioning mitigate Houston heat/humidity — the indoor conditions favour a high-tempo, attack-minded game rather than a slog.",
+      "Netherlands have historically dominated this head-to-head, winning the last competitive encounter 2-0 in October 2017, but Sweden's current attacking quality is at a historically high level.",
+      "Both sides' rest is equal: 6 days since MD1 (both played June 14), eliminating any fatigue differential."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.50,
+      "draw": 0.25,
+      "away": 0.25
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.53,
+    "btts_yes": 0.55
+  },
+  "value_notes": "Market normalized implied probs (overround removed): home 0.565, draw 0.228, away 0.207. My model: home 0.50, draw 0.25, away 0.25. The market prices Netherlands as a heavier favorite (56.5%) than my model supports (50%). Netherlands drew 2-2 with Japan despite leading twice, showing real defensive fragility against dynamic attacks — and Sweden's attack is stronger than Japan's. I shave ~6 points from the Dutch win probability relative to the market. The away (Sweden) probability of 0.25 vs market-implied 0.207 represents a +0.043 edge, just below the 0.05 threshold. The draw is marginally above market (0.25 vs 0.228, edge ~0.022). No single market meets the >=0.05 edge threshold required for a value bet recommendation. On totals, the over 2.5 at odds 1.74 implies 0.575 probability; my estimate of 0.53 suggests the market has over-priced goals in this fixture — both defenses, while imperfect, are high-quality at international level. The btts_yes market at 1.85 implies 0.541; my estimate of 0.55 shows a marginal edge of ~0.009, insufficient for a bet recommendation. No market edges meet the >=0.05 threshold; no bets should be placed on this ticket.",
+  "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760425/japan-netherlands",
+    "https://www.espn.com/soccer/story/_/id/49064457/sweden-tunisia-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.espn.com/soccer/match/_/gameId/760424/tunisia-sweden",
+    "https://bolavip.com/en/world-cup/sweden-vs-tunisia-live-2026-world-cup-group-e-matchday-1",
+    "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-sweden-rolls-past-tunisia-in-opener-to-take-control-of-group-f-040009334.html",
+    "https://www.aljazeera.com/sports/liveblog/2026/6/14/netherlands-vs-japan-live-world-cup-2026",
+    "https://www.skysports.com/football/news/12098/13552698/world-cup-2026-sweden-5-1-tunisia-viktor-gyokeres-and-alexander-isak-guide-graham-potters-side-to-victory",
+    "https://khelnow.com/football/world-football-netherlands-vs-sweden-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/preview/netherlands-vs-sweden-prediction-team-news-lineups_599530.html",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://worldcupwiki.com/standings/",
+    "https://www.united-2026.com/stadiums/nrg-stadium",
+    "https://footballgroundguide.com/news/which-2026-world-cup-stadiums-have-air-conditioning.html"
+  ],
+  "generated_at": "2026-06-20T10:30:00Z"
+}

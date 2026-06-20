@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.91,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-20T07:07:44Z",
       "rationale": "Brazil vs Haiti totals over 3.5: clear positive edge backed by historic goal-scoring dominance and strong tournament motivation."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 1.91,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 9.55,
+      "settled_at": "2026-06-20T07:07:44Z",
       "rationale": "Türkiye vs Paraguay BTTS no: elimination-match caution plus Paraguay's limited and injury-hit attack supports at least one clean sheet."
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "combined_odds": 3.65,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-20T07:07:44Z",
       "rationale": "Two-leg accumulator combining the day's qualifying edges across different Group C and D matches."
     }
   ]

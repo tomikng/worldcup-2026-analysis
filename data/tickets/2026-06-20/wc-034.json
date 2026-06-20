@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-034",
+  "date": "2026-06-20",
+  "home": "Ecuador",
+  "away": "Curacao",
+  "kickoff_utc": "2026-06-21T00:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_E",
+  "venue": "Arrowhead Stadium, Kansas City",
+  "analysis": {
+    "summary": "Ecuador and Curacao both lost their Matchday 1 openers — Ecuador 1-0 to Ivory Coast on a heartbreaking 90th-minute Amad Diallo goal, Curacao 7-1 to Germany in a historic thrashing — making this a near-elimination clash for both sides. Ecuador are overwhelming favourites and retain legitimate quality across the squad with Enner Valencia, Moises Caicedo, and Pervis Estupinian, while Curacao, making their debut World Cup appearance under Dick Advocaat, showed defensive fragility (seven goals conceded) but did score the tournament's first goal for the island nation. The class gap is enormous: Ecuador collected 28 points in CONMEBOL qualifying with only 5 goals conceded in 18 games; Curacao have never contested a World Cup match at this level prior to this tournament. Ecuador need all three points to stay alive, which is strong motivation for an attack-minded 4-3-3 that coach Beccacece is expected to deploy.",
+    "home_form": "Ecuador lost their World Cup opener 1-0 to Ivory Coast, unlucky to concede deep into stoppage time after Valencia struck the post early in the second half. In CONMEBOL qualifying they collected 28 points from 18 matches, conceding just 5 goals and keeping 13 clean sheets — one of the most defensively organised sides in South America. Pre-tournament friendlies produced a 1-1 draw with the USA, 1-1 draw with Mexico, 0-0 draw with Canada, and a 2-0 win over New Zealand. Ecuador have only lost once since Argentine coach Sebastian Beccacece took charge in 2024. Key personnel — Caicedo, Estupinian, Valencia, Plata — all appear fit; no confirmed absences reported for this match.",
+    "away_form": "Curacao suffered a 7-1 hammering by Germany in their World Cup debut, conceding six unanswered goals after pulling level at 1-1 through Livano Comenencia in the 21st minute. Germany exposed severe structural weaknesses, particularly in transitional defending. Prior to this tournament, Curacao qualified via CONCACAF as the smallest nation ever to reach a World Cup. Manager Dick Advocaat used a compact 4-4-2/4-3-3 shape against Germany but the team was overwhelmed. No confirmed suspensions from the Germany match (no yellow or red cards reported from that fixture) and no specific injury news was found; squad availability assumed near-complete.",
+    "h2h": "Ecuador and Curacao have never previously met at senior international level. This World Cup Matchday 2 clash is the first-ever encounter between the two nations, providing no historical head-to-head data to draw upon.",
+    "injuries_news": [
+      "Ecuador: No confirmed injury or suspension concerns reported ahead of this fixture. Moises Caicedo played the full 90 minutes vs Ivory Coast and is available. Pervis Estupinian and Enner Valencia also appear fit.",
+      "Curacao: No confirmed yellow-card suspensions from the Germany match (reports indicate no cards issued in that fixture). No specific injury news uncovered; squad assumed broadly available.",
+      "Note: Piero Hincapie (Ecuador defender) had a minor knock in a pre-tournament friendly vs Morocco but played vs Ivory Coast — no confirmed fitness concern for this match."
+    ],
+    "key_factors": [
+      "Must-win pressure on Ecuador: defeat or draw effectively ends their qualification hopes with Germany and Ivory Coast both on 3 points and a positive goal difference. Ecuador need to win and score big to improve goal difference.",
+      "Curacao's catastrophic defensive performance vs Germany (7-1) highlights severe vulnerabilities against high-tempo pressing and combination play — Ecuador's 4-3-3 with Plata, Valencia and wide runners is well-suited to exploit this.",
+      "Curacao scored vs Germany (Comenecia 21') showing they can threaten on the counter even against elite opposition — BTTS is not a given but cannot be ruled out entirely.",
+      "Ecuador's outstanding CONMEBOL qualifying record (13 clean sheets in 18 games) suggests a strong defensive base, but their attack has struggled for goals — they failed to score vs Ivory Coast despite creating chances.",
+      "Ecuador coach Beccacece is expected to switch from 3-4-3 to a more attacking 4-3-3, increasing attacking width with Estupinian and Plata providing overlapping runs.",
+      "Venue at altitude is not a factor (Kansas City is near sea-level); no significant travel disadvantage for either team.",
+      "Both teams had their Matchday 1 matches on June 14 — six days rest, equal recovery time.",
+      "Curacao have never previously played at this level of competition and their players (mostly Dutch-Caribbean professionals from lower European leagues) face an enormous step up."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.85,
+      "draw": 0.09,
+      "away": 0.06
+    },
+    "predicted_score": "3-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.68,
+    "totals_3.5_over": 0.52,
+    "btts_yes": 0.22
+  },
+  "value_notes": "Market-implied probabilities (after removing overround; raw implied: home 90.9%, draw 9.1%, away 4.8%; total raw implied = 104.8%; normalised: home 86.7%, draw 8.7%, away 4.6%). My model assigns home 85.0%, draw 9.0%, away 6.0%. The model is marginally BELOW the market on Ecuador home (85% vs 86.7% implied), meaning no meaningful edge on h2h home. The draw is essentially on the market. The away is modestly above market (6% vs 4.6%) but at 21.00 odds this is a thin-value spec not worth backing. KEY VALUE FINDING on totals: market prices totals_2.5_over at implied 73.5% (1/1.36) and totals_3.5_over at implied 52.4% (1/1.91). My model places over 2.5 at 68% — the market is overrating goal volume here; under 2.5 at 3.00 implies only 33.3% but my model puts it at 32%, so no edge there either. On totals_3.5_over my model (52%) is essentially on the market (52.4%); no edge. BTTS: market implies btts_yes at 32.3% (1/3.10); my model places it at 22%, giving the market a significant edge on btts_no — however btts_no is priced at 1.36 (implied 73.5%), close to my 78%, giving a modest edge of ~0.045 which falls just below the 0.05 threshold. No h2h outright selection reaches the required ≥0.05 edge vs market. Summary: no market presented here clears the 0.05 edge threshold for a recommended bet.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E",
+    "https://www.espn.com/soccer/match/_/gameId/760422/curacao-germany",
+    "https://www.espn.com/soccer/report/_/gameId/760422",
+    "https://www.skysports.com/football/germany-vs-curacao/549774",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-curacao-highlights-match-report",
+    "https://www.espn.com/soccer/report/_/gameId/760423",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467",
+    "https://www.si.com/soccer/ecuador-vs-curacao-world-cup-preview-predictions-lineups-6-20-26",
+    "https://www.sportsmole.co.uk/football/ecuador/world-cup-2026/preview/ecuador-vs-curacao-prediction-team-news-lineups_599563.html",
+    "https://sports.yahoo.com/articles/ecuador-vs-cura-ao-prediction-092000474.html",
+    "https://worldsoccertalk.com/world-cup/ecuador-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.bundesliga.com/en/bundesliga/news/germany-curacao-world-cup-7-1-houston-stadium-group-e-report-havertz-37814"
+  ],
+  "generated_at": "2026-06-20T10:45:00Z"
+}
