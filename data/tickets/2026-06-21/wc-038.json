@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-038",
+  "date": "2026-06-21",
+  "home": "Uruguay",
+  "away": "Cabo Verde",
+  "kickoff_utc": "2026-06-21T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_H",
+  "venue": "Hard Rock Stadium, Miami Gardens",
+  "analysis": {
+    "summary": "Uruguay enter this Group H fixture under pressure after dropping points against Saudi Arabia (1-1), while Cabo Verde produced one of the tournament's biggest shocks by holding Spain to a 0-0 draw behind a heroic goalkeeping display from 40-year-old Vozinha. Uruguay are missing their first-choice central defender Ronald Araujo (calf) and have doubts over Jose Gimenez and Giorgian de Arrascaeta, significantly weakening their backline and creative options. Cabo Verde's disciplined defensive-counter system and the continued absence of any H2H history between these sides makes this a trickier proposition than the market odds suggest.",
+    "home_form": "Uruguay drew 1-1 with Saudi Arabia in their World Cup opener on June 15, conceding first in the 41st minute before Maximiliano Araújo equalised with ~10 minutes left. Pre-tournament form showed a squad assembling under Marcelo Bielsa with an experienced spine (Muslera, Valverde, Ugarte, Bentancur, Nunez) but disrupted preparations due to the Araujo injury occurring in training. Uruguay topped CONMEBOL qualifying and are one of the tournament's expected contenders, but matchday-1 performances highlighted vulnerability when pinned back.",
+    "away_form": "Cabo Verde qualified for their first ever World Cup by winning 8 of 10 CAF qualifying matches, topping a group ahead of Cameroon and Angola with a perfect home record (5W, 0 conceded). However, their absence from AFCON 2025 meant limited competitive matches since October 2025, with warm-up friendlies against Iraq and Egypt in early 2026 both ending in defeat. At this World Cup they produced a stunning 0-0 draw with Spain — Vozinha made 7 saves against 27 Spain shots — confirming their defensive identity and ability to frustrate elite opponents from a low block.",
+    "h2h": "Uruguay and Cabo Verde have never previously met in any official or friendly fixture. This World Cup match is the first ever encounter between the two nations. No historical data can inform head-to-head tendencies.",
+    "injuries_news": [
+      "Ronald Araujo (Uruguay, CB, Barcelona) - OUT with a calf injury sustained in training; Bielsa accepted responsibility; Uruguay targeting his return for the Spain match on June 26.",
+      "Jose Gimenez (Uruguay, CB) - ankle injury, listed as a doubt for this fixture.",
+      "Giorgian de Arrascaeta (Uruguay, AMF) - included in squad after recovering from a pre-tournament broken collarbone but fitness for June 21 is unconfirmed.",
+      "Sebastian Caceres (Uruguay, CB) - head knock flagged as a concern in pre-tournament reports.",
+      "No confirmed Cabo Verde injuries or suspensions reported ahead of this match."
+    ],
+    "key_factors": [
+      "Cabo Verde's proven low-block defensive system, anchored by Vozinha in goal, has already shut out Spain's elite attack; Uruguay's forwards (Nunez, Canobbio, Maxi Araújo) face a similarly disciplined rearguard.",
+      "Uruguay's central defensive crisis — Araujo confirmed out, Gimenez a doubt — means Bielsa may need to field a makeshift back four, creating exposure to Cabo Verde's counter-attacking threat.",
+      "Cabo Verde's attacking output is limited: only 6 shots vs Spain (vs Uruguay's own poor conversion rate vs Saudi Arabia), meaning goals from either side are not guaranteed and BTTS looks unlikely.",
+      "Group H context: all four teams level on 1 point; Uruguay urgently need a win to stay in contention, which may encourage attacking intent but also increases risk of overcommitting.",
+      "Referee Espen Eskas (Norway) averages approximately 3.36 cards per game at this tournament, making him one of the more lenient officials — reducing the probability of card-heavy games.",
+      "Venue (Hard Rock Stadium, Miami): sea-level, no altitude factor, hot and humid June conditions that can favour the more physically fit side; Cabo Verde's compact shape is suited to conserving energy.",
+      "First match as a debutant nation gives Cabo Verde players an enormous confidence boost post-Spain draw; momentum and morale could lift their performance."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.60, "draw": 0.26, "away": 0.14},
+    "predicted_score": "1-0",
+    "confidence": 0.55
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.35,
+    "btts_yes": 0.20
+  },
+  "value_notes": "Market-implied probabilities (overround removed, 105.3% book): Uruguay 64.2%, Draw 23.2%, Cabo Verde 12.7%. My model: Uruguay 60%, Draw 26%, Cabo Verde 14%. The Uruguay win probability is trimmed by ~4 pp below market given confirmed defensive absences (Araujo out, Gimenez doubt) and Cabo Verde's verified ability to absorb pressure (7 saves vs Spain). The draw is nudged ~3 pp above market to reflect Cabo Verde's realistic prospect of another clean-sheet defensive performance. No edge ≥ 0.05 on h2h markets versus these market lines. Largest divergences are in the ancillary markets: totals 2.5 over — my model gives 35% vs market-implied 43.5% (raw 1/2.30), an edge of ~8.5 pp in favour of the UNDER; btts yes — my model gives 20% vs market-implied 33.3% (raw 1/3.00), an edge of ~13 pp in favour of BTTS No. Both edges exceed the 0.05 threshold. The under-2.5 and btts-no calls are grounded in both teams' documented low-scoring matchday-1 performances and Cabo Verde's counter-attacking, defensive-first system.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
+    "https://www.nbcsports.com/soccer/news/world-cup-debutants-cape-verde-hold-spain-in-huge-shock",
+    "https://www.barcablaugranes.com/barcelona-internationals/122838/barcelona-star-ronald-araujo-suffers-injury-before-world-cup-2026-as-uruguay-issue-statement",
+    "https://www.barcablaugranes.com/barcelona-team-news/123536/we-feel-responsible-marcelo-bielsa-takes-blame-for-ronald-araujos-injury-at-world-cup-2026",
+    "https://www.barcablaugranes.com/world-cup-2026/123773/barcelona-star-ronald-araujo-could-miss-uruguays-world-cup-clash-with-spain-due-to-injury",
+    "https://www.espn.com/soccer/story/_/id/49106772/fifa-world-cup-2026-uruguay-vs-cape-verde-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://www.statshub.com/referee/espen-eskas",
+    "https://www.olympics.com/en/news/africa-fifa-world-cup-2026-cabo-verde-blue-sharks-chase-fairytale-debut",
+    "https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_%E2%80%93_CAF_Group_D",
+    "https://worldsoccertalk.com/world-cup/uruguay-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486"
+  ],
+  "generated_at": "2026-06-21T11:00:00Z"
+}
