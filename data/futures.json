@@ -84,6 +84,18 @@
       "status": "open",
       "resolved_at": null,
       "rationale": "Spain are Euro 2024 champions facing Cape Verde (debutants), Saudi Arabia, and Uruguay in Group H; a top-2 finish is ~96% likely for the tournament co-favorites, giving a +0.185 edge over the 0.775 market price."
+    },
+    {
+      "position_id": "FUT-8",
+      "market_title": "World Cup Group E Winner",
+      "outcome": "Germany",
+      "entry_price": 0.75,
+      "stake": 15.0,
+      "url": "https://polymarket.com/event/world-cup-group-e-winner",
+      "opened": "2026-06-21",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Germany has clinched Group E with 6pts and +7 GD after two wins (7-1 vs Curacao, 2-1 vs Ivory Coast); Ivory Coast cannot overcome Germany's goal-difference advantage in R3, making Germany's group-win probability ~97% vs the market price of 0.75, yielding a +0.22 edge."
     }
   ]
 }
