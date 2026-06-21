@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-21",
+  "source": "web-research",
+  "fetched_at": "2026-06-21T06:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-036",
+      "kickoff_utc": "2026-06-21T16:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+      "match_id": "wc-037",
+      "kickoff_utc": "2026-06-21T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "home": "Belgium",
+      "away": "IR Iran",
+      "venue": "SoFi Stadium, Inglewood"
+    },
+    {
+      "match_id": "wc-038",
+      "kickoff_utc": "2026-06-21T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "venue": "Hard Rock Stadium, Miami Gardens"
+    },
+    {
+      "match_id": "wc-039",
+      "kickoff_utc": "2026-06-22T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "venue": "BC Place, Vancouver"
+    }
+  ]
+}
