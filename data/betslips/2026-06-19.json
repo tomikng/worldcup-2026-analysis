@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-19",
+  "slips": [
+    {
+      "slip_id": "2026-06-19-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-030",
+          "market": "totals",
+          "selection": "over",
+          "line": 3.5,
+          "odds": 1.91,
+          "model_prob": 0.62,
+          "edge": 0.096,
+          "rationale": "Brazil face a Haiti side they have beaten 4-0, 6-0 and 7-1 in the only three prior meetings; model assigns 62% to over 3.5 goals versus the 52.4% market-implied probability, a +0.096 edge driven by Brazil's extreme historical scoring dominance and their strong motivation to bounce back after a group-stage draw."
+        }
+      ],
+      "combined_odds": 1.91,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-20T07:07:44Z",
+      "rationale": "Brazil vs Haiti totals over 3.5: clear positive edge backed by historic goal-scoring dominance and strong tournament motivation."
+    },
+    {
+      "slip_id": "2026-06-19-S2",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-031",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.91,
+          "model_prob": 0.58,
+          "edge": 0.056,
+          "rationale": "Both Türkiye and Paraguay are cautious in a virtual elimination match where conceding first is catastrophic; Paraguay's attack is weakened with Almiron doubtful and their only tournament goal came in the 73rd minute of an already-decided match, giving the model 58% for BTTS no versus the 51.2% market-implied probability."
+        }
+      ],
+      "combined_odds": 1.91,
+      "status": "won",
+      "payout": 9.55,
+      "settled_at": "2026-06-20T07:07:44Z",
+      "rationale": "Türkiye vs Paraguay BTTS no: elimination-match caution plus Paraguay's limited and injury-hit attack supports at least one clean sheet."
+    },
+    {
+      "slip_id": "2026-06-19-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-030",
+          "market": "totals",
+          "selection": "over",
+          "line": 3.5,
+          "odds": 1.91,
+          "model_prob": 0.62,
+          "edge": 0.096,
+          "rationale": "Brazil's attacking firepower against a severely outmatched Haiti side makes a high-scoring match the most probable outcome."
+        },
+        {
+          "match_id": "wc-031",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.91,
+          "model_prob": 0.58,
+          "edge": 0.056,
+          "rationale": "Elimination-match caution and Paraguay's injury-weakened attack support at least one side keeping a clean sheet."
+        }
+      ],
+      "combined_odds": 3.65,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-20T07:07:44Z",
+      "rationale": "Two-leg accumulator combining the day's qualifying edges across different Group C and D matches."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-020",
+  "date": "2026-06-17",
+  "home": "Portugal",
+  "away": "DR Congo",
+  "kickoff_utc": "2026-06-17T16:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_K",
+  "venue": "NRG Stadium, Houston",
+  "analysis": {
+    "summary": "Portugal open their 2026 World Cup campaign as heavy favorites against a DR Congo side returning to the tournament for the first time since 1974 (as Zaire). Under Roberto Martinez, Portugal have been prolific (2.56 goals per game, Nations League winners in 2025, 9-1 qualifying win over Armenia) but DR Congo's qualifying run showed defensive discipline — conceding only 0.4 goals per game in their last five matches. NRG Stadium's retractable roof and air conditioning neutralize the Houston heat threat entirely, leaving a straight talent differential contest.",
+    "home_form": "Portugal enter in strong form: W vs US (2-0 friendly), W vs Chile (friendly), 9-1 vs Armenia (qualifying), 0-0 D vs Mexico (friendly), 2-1 W vs Nigeria (June 10 friendly). Nine wins from their last 12 matches including the 2025 UEFA Nations League title. Bruno Fernandes and Joao Neves scored hat-tricks in the Armenia rout. Final warm-up saw Francisco Conceicao score the winner against Nigeria. Predicted XI (4-2-3-1): Diogo Costa; Cancelo, Ruben Dias, Goncalo Inacio, Nuno Mendes; Joao Neves, Vitinha; Bernardo Silva, Bruno Fernandes, Pedro Neto; Cristiano Ronaldo.",
+    "away_form": "DR Congo won 3 of their last 5 matches, scoring 7 and conceding 2 (0.4 per game). Qualified via CAF Group B (runners-up behind Senegal), beat Nigeria in CAF play-offs and Jamaica in intercontinental play-off. Coach Desabre (appointed 2022) reached 2023 AFCON semi-finals and emphasises tactical discipline. Key players include West Ham's Aaron Wan-Bissaka (RB), Newcastle's Yoane Wissa (FW, returning from knee injury with limited minutes), and veteran Gael Kakuta (MF). Desabre confirmed his side will 'take measured risks' and play without fear but with structure.",
+    "h2h": "Portugal and DR Congo have never previously met in any competitive or friendly international match. This is the first-ever encounter between the two nations. Portugal are unbeaten in World Cup group-stage matches against African opponents since a 3-1 loss to Morocco in 1986 — recording 4 wins and 1 draw since then.",
+    "injuries_news": [
+      "Rafael Leao received a red card for violent conduct in the warm-up friendly against Chile (June 6) but suspensions from exhibition matches do not carry over to official FIFA World Cup matches — Leao is available.",
+      "Ruben Dias, Bernardo Silva and Cristiano Ronaldo all had injury concerns during March friendlies but all appear fit and in the World Cup squad.",
+      "Yoane Wissa (DR Congo) returned from a knee injury that kept him out for extended periods in 2025-26 and missed the January AFCON; his match fitness and minutes availability are unconfirmed.",
+      "Rocky Bushiri (DR Congo) was reported to have limped off for Hibernian shortly before the tournament; his fitness status is unconfirmed."
+    ],
+    "key_factors": [
+      "Portugal's attacking depth is extraordinary: Ronaldo, Bruno Fernandes, Bernardo Silva, Pedro Neto, Leao, Conceicao all available — DR Congo will be under sustained pressure.",
+      "NRG Stadium has a retractable roof and full air conditioning — Houston's extreme June heat and humidity are not a factor for in-game conditions, eliminating any climate-adaptation advantage for DR Congo.",
+      "DR Congo's 52-year World Cup absence means tournament inexperience at this level; only Wan-Bissaka and a handful of others have played in top European leagues.",
+      "Portugal's midfield trio (Fernandes, Vitinha, Neves) offers both creativity and defensive press — DR Congo's counter-attack requires quick transitions that Martinez's side can limit.",
+      "This is a Group K opener and both teams need points; Portugal are heavy favorites to win the group but a slow start could be costly given Colombia's quality. Portugal likely to press hard from the start.",
+      "DR Congo coach Desabre's plan of 'measured risks' suggests a defensive-first setup with structured counter-attacks — Portugal may need patience to break the low block.",
+      "Wissa's fitness uncertainty weakens DR Congo's attacking threat and makes BTTS less likely."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.72, "draw": 0.18, "away": 0.10},
+    "predicted_score": "3-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.58,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Portugal win 0.739, draw 0.157, DR Congo win 0.104. My model: Portugal win 0.72, draw 0.18, DR Congo win 0.10. I am marginally below market on Portugal (0.72 vs 0.739) and above on draw (0.18 vs 0.157) — no edge exceeding 0.05 threshold on h2h markets against the book. On totals: market-implied over 2.5 is 0.561 (normalized from 1.68 odds); my model is 0.58 — a gap of only 0.019, below the 0.05 threshold. On btts: no book odds provided; my model estimates 0.30 probability that both teams score, reflecting DR Congo's defensive discipline and Wissa's injury uncertainty. No qualifying edge of >=0.05 is present in any market relative to the market-implied prices provided. The predicted score of 3-0 reflects Portugal's attacking dominance and DR Congo's likely low-block defensive setup (clean sheet for Portugal plausible given Wissa's fitness doubts). Confidence is moderate at 0.62 given this is a first competitive meeting and DR Congo's defensive record is genuine, even if the quality gap is large.",
+  "sources": [
+    "https://www.cbssports.com/soccer/news/portugal-dr-congo-odds-prediction-time-2026-world-cup-picks-best-bets/",
+    "https://dknetwork.draftkings.com/2026/06/16/portugal-vs-dr-congo-prediction-pick-for-wednesday-6-17-26/",
+    "https://www.sportsmole.co.uk/football/portugal/world-cup/feature/portugal-2026-world-cup-preview-squad-fixtures-and-prediction_599092.html",
+    "https://www.covers.com/world-cup/portugal-vs-congo-prediction-picks-odds-wednesday-6-17-2026",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://sports.yahoo.com/articles/will-rafael-leao-miss-portugals-world-190050498.html",
+    "https://www.soccergraph.com/2026/05/dr-congo-fifa-world-cup-2026-squad-full-roster-all-player-list.html",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-dr-congo-players-squad-list-key-stats-schedule",
+    "https://www.si.com/soccer/portugal-vs-dr-congo-world-cup-preview-predictions-lineups-6-17-26",
+    "https://www.aiscore.com/head-to-head/soccer-democratic-republic-of-the-congo-vs-portugal",
+    "https://africasoccer.com/world-cup-2026-sebastien-desabre-eyes-strong-start-as-dr-congo-face-portugal-in-opener/",
+    "https://www.aninews.in/news/sports/football/will-take-measured-risks-dr-congo-head-coach-sebastien-desabre-says-no-fear-ahead-of-fifa-wc-clash-against-portugal20260617053918/",
+    "https://thenewsmill.com/2026/06/dr-congo-to-take-measured-risks-against-portugal-in-world-cup-opener/",
+    "https://www.outlookindia.com/sports/football/portugal-vs-nigeria-live-score-international-friendly-2026-updates-highlights-leiria",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/roberto-mart%C3%ADnez-s-record-with-portugal-that-has-been-boosted-by-cristiano-ronaldo-2026-06-08",
+    "https://www.sciencetimes.com/articles/61911/20260604/houston-faces-unprecedented-world-cup-heat-danger-wet-bulb-heat-threatens-players-fans-beyond.htm",
+    "https://www.cafonline.com/news/desabre-names-fearless-dr-congo-squad-for-historic-world-cup-return/",
+    "https://nation.africa/kenya/sports/football/history-making-dr-congo-eye-portugal-scalp--5498962"
+  ],
+  "generated_at": "2026-06-17T10:30:00Z"
+}

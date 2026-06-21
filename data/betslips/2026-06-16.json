@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-16",
+  "slips": [
+    {
+      "slip_id": "2026-06-16-S1",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-016",
+          "market": "totals",
+          "selection": "over",
+          "line": 2.5,
+          "odds": 1.83,
+          "model_prob": 0.58,
+          "edge": 0.052,
+          "rationale": "Both France and Senegal have scored multiple goals in the vast majority of recent matches (France in 9 of last 10, Senegal in 8 of last 9), and the model's 58% over probability exceeds the normalized market implied 52.8%."
+        }
+      ],
+      "combined_odds": 1.83,
+      "status": "won",
+      "payout": 9.15,
+      "settled_at": "2026-06-17T07:05:58Z",
+      "rationale": "Marginal but positive edge on goals over 2.5 backed by both teams' prolific recent scoring records."
+    },
+    {
+      "slip_id": "2026-06-16-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-017",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.57,
+          "model_prob": 0.7,
+          "edge": 0.111,
+          "rationale": "Iraq's compact Graham Arnold low-block gave up only 3 goals in 10 qualifying matches and Norway's goals almost exclusively come from structured positional attacks, making an Iraq clean sheet the most likely outcome; model 70% vs normalized implied 58.9%."
+        }
+      ],
+      "combined_odds": 1.57,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-17T07:05:58Z",
+      "rationale": "Strong edge on BTTS no — Iraq's elite defensive organization under Arnold is heavily underpriced by the market."
+    },
+    {
+      "slip_id": "2026-06-16-S3",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-018",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.57,
+          "model_prob": 0.72,
+          "edge": 0.092,
+          "rationale": "Both Argentina (0.3 goals conceded per game, 70% clean sheets) and Algeria (0.4 conceded, 70% clean sheets) boast elite defensive records; Bensebaini's absence further weakens Algeria's attack, making a shut-out by either side the most probable outcome; model 72% vs normalized implied 62.8%."
+        }
+      ],
+      "combined_odds": 1.57,
+      "status": "won",
+      "payout": 15.7,
+      "settled_at": "2026-06-17T07:05:58Z",
+      "rationale": "Both sides have dominant defensive records and the market underestimates how likely at least one team keeps a clean sheet in this match."
+    },
+    {
+      "slip_id": "2026-06-16-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-016",
+          "market": "totals",
+          "selection": "over",
+          "line": 2.5,
+          "odds": 1.83,
+          "model_prob": 0.58,
+          "edge": 0.052,
+          "rationale": "Both France and Senegal have scored multiple goals in the vast majority of recent matches, supporting a higher-scoring game."
+        },
+        {
+          "match_id": "wc-017",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.57,
+          "model_prob": 0.7,
+          "edge": 0.111,
+          "rationale": "Iraq's defensive low-block under Arnold is expected to prevent Norway from scoring on both sides of the ledger — clean sheet the most likely outcome for Iraq."
+        },
+        {
+          "match_id": "wc-018",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.57,
+          "model_prob": 0.72,
+          "edge": 0.092,
+          "rationale": "Argentina and Algeria both possess elite defensive units; Bensebaini's absence further suppresses Algeria's attacking output, making BTTS no the value play."
+        }
+      ],
+      "combined_odds": 4.51,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-17T07:05:58Z",
+      "rationale": "Three independently edged legs across different matches — a high-scoring France-Senegal opener combined with clean-sheet results in the two later games."
+    }
+  ]
+}

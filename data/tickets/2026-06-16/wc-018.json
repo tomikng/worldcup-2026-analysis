@@ -1,0 +1,68 @@
+{
+  "match_id": "wc-018",
+  "date": "2026-06-16",
+  "home": "Argentina",
+  "away": "Algeria",
+  "kickoff_utc": "2026-06-17T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_J",
+  "venue": "GEHA Field at Arrowhead Stadium, Kansas City",
+  "analysis": {
+    "summary": "Argentina open their Group J campaign as overwhelming favorites against an Algeria side returning to the World Cup for the first time since 2014. The reigning champions enter in near-perfect form — Messi confirmed fit and starting — while Algeria arrive buoyed by warm-up wins over the Netherlands and Bolivia but missing key left-back Ramy Bensebaini. The quality gap is significant, though Algeria's defensive discipline and Petkovic's tactical flexibility suggest this will not be a rout.",
+    "home_form": "Argentina have won 8 of their last 10 matches, scoring 2.3 goals per game and conceding just 0.3 with clean sheets in 70% of recent outings. Pre-tournament warm-up wins: Honduras 2-0 (June 6) and Iceland 3-0 (June 9). Ranked world no. 1 entering the tournament. Messi (38) suffered a minor hamstring overload at Inter Miami in May but coach Scaloni confirmed him fit to start; Lautaro Martinez (17 Serie A goals last season), Julian Alvarez, Enzo Fernandez, and Alexis Mac Allister are all available.",
+    "away_form": "Algeria have won 7 of their last 10 international matches, averaging 1.9 goals per game while conceding only 0.4 — clean sheets in 70% of recent fixtures. Pre-tournament results: Netherlands 0-1 Algeria (June 3, shock win, Hadj Moussa goal) and Bolivia 0-4 Algeria (June 10, goals from Mandi, Gouiri x2, Hadj Moussa). Mohamed Amoura (VfL Wolfsburg) was Africa's top scorer in World Cup qualifying with 10 goals. Captain Riyad Mahrez (35, 113 caps, 38 international goals) leads a creative front three.",
+    "h2h": "The two sides have met only once in senior international football: a friendly in June 2007 that Argentina won 4-3. Messi scored twice and Carlos Tevez also featured in that high-scoring encounter. Algeria have never beaten Argentina.",
+    "injuries_news": [
+      "Argentina: Lionel Messi confirmed fit to start after recovering from a left hamstring overload suffered in May at Inter Miami. Emiliano Martinez and Julian Alvarez also confirmed available. Leonardo Balerdi (defender) ruled out of the tournament with a muscle injury suffered in training camp; replaced by Marcos Senesi. Nicolas Tagliafico reportedly a doubt (calf) — Facundo Medina expected at left-back.",
+      "Algeria: Ramy Bensebaini (key left-back, 80+ caps) ruled out of the World Cup opener with an ankle injury sustained in April. He has returned to partial training but medical staff will not risk him. Samir Chergui or Zineddine Belaid expected to fill the berth. Jaouen Hadjam (ankle) also a fitness concern. Luca Zidane (goalkeeper) recovered from broken chin and jaw sustained in April and is fit.",
+      "Algeria AFCON suspensions (Belghail and Zidane) confirmed served in AFCON qualifying — both available for the World Cup."
+    ],
+    "key_factors": [
+      "Messi availability is confirmed: Argentina's attacking system revolves around him; his presence at full fitness is decisive.",
+      "Bensebaini absence weakens Algeria's left flank significantly — Argentina's right side with Molina and Messi will exploit this.",
+      "Algeria's defensive solidity is genuine (0.4 goals conceded per game, 70% clean sheets) but has been tested mainly against African and modest European opposition.",
+      "Referee Szymon Marciniak (Poland) — experienced (refereed 2022 World Cup final between Argentina and France, plus Argentina vs Australia at Qatar 2022) — known for a firm but measured approach, averaging approximately 3–4 yellow cards per match in major tournaments.",
+      "Algeria playing their first World Cup match in 12 years may face tension and nervousness, though they have genuine attacking weapons in Amoura, Mahrez, and Hadj Moussa.",
+      "Tournament context: This is the opening match of Group J; Argentina need a win to set up qualification, while Algeria could cause a massive upset if they contain Argentina's attack and hit on the break.",
+      "Kansas City venue in mid-June: warm conditions (25–30°C) may slightly favor a controlled, patient style rather than end-to-end football."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.65, "draw": 0.21, "away": 0.14},
+    "predicted_score": "2-0",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.46,
+    "btts_yes": 0.28
+  },
+  "value_notes": "Market-implied probabilities (normalized from odds, overround removed): home 0.659, draw 0.208, away 0.134. My model: home 0.65, draw 0.21, away 0.14 — no material divergence on h2h outcomes. For totals 2.5 over: market implies 0.481, my model is 0.46 — slight lean toward under, no edge threshold reached. For btts: market implies yes 0.372, no 0.628; my model assigns yes 0.28, no 0.72 — edge on btts_no = 0.72 − 0.628 = 0.092, which exceeds the 0.05 threshold. Algeria's defensive record (70% clean sheets, 0.4 conceded per game) is genuine and their likely defensive setup against Argentina makes both teams scoring unlikely; Argentina's backline (Emi Martinez, Romero, Otamendi) is also very stingy. The market's btts_yes price of 2.65 (implied 0.377 raw) appears generous given the defensive profiles of both sides. The btts_no selection at 1.57 (implied 0.637 raw, normalized 0.628) represents the clearest positive edge in this match.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/10/argentina-world-cup-2026-preview-players-to-watch-group-matches-squad",
+    "https://worldsoccertalk.com/world-cup/argentina-confirm-final-26-man-squad-for-the-2026-world-cup-senesi-joins-messis-team-after-balerdi-injury/",
+    "https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears",
+    "https://sports.yahoo.com/articles/argentina-coach-shares-lionel-messi-130000668.html",
+    "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+    "https://worldsoccertalk.com/world-cup/report-messi-included-in-scalonis-unprecedented-lineup-for-argentinas-world-cup-opener-vs-algeria/",
+    "https://sports.yahoo.com/articles/argentina-dominates-iceland-3-0-031921825.html",
+    "https://worldsoccertalk.com/world-cup/argentina-vs-honduras-live-updates-follow-the-2026-international-friendly-minute-by-minute/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/vladimir-petkovi-s-official-algeria-squad-for-the-2026-fifa-world-cup-2026-05-31",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic",
+    "https://english.aawsat.com/sports/5282757-algeria-thrash-bolivia-4-0-world-cup-warm",
+    "https://africasoccer.com/algeria-bolivia-4-0-world-cup-preparation/",
+    "https://sports.yahoo.com/articles/algerias-ramy-bensebaini-world-cup-210209636.html",
+    "https://athlonsports.com/soccer/algeria-bad-news-ramy-bensebaini-argentina-world-cup",
+    "https://africasoccer.com/world-cup-2026-top-algeria-defender-ramy-bensebaini-ruled-out-of-argentina-opener/",
+    "https://khelnow.com/football/world-football-argentina-vs-algeria-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/head-to-head/argentina-vs-algeria-head-to-head-record-and-past-meetings_599270.html",
+    "https://mundoalbiceleste.com/2026/06/13/szymon-marciniak-to-referee-argentina-vs-algeria-at-world-cup/",
+    "https://news.radioalgerie.dz/en/node/88229",
+    "https://www.squawka.com/en/news/world-cup/algeria-world-cup-2026-fixtures-players-analysis/",
+    "https://africasoccer.com/world-cup-2026-i-have-a-plan-a-and-plan-b-for-argentina-match-algeria-coach-vladimir-petkovic/",
+    "https://theanalyst.com/articles/argentina-vs-algeria-prediction-world-cup-2026-match-preview",
+    "https://www.cbssports.com/soccer/news/argentina-algeria-world-cup-2026-preview-predictions-watch/",
+    "https://www.covers.com/world-cup/argentina-vs-algeria-prediction-picks-odds-tuesday-6-16-2026",
+    "https://www.espn.com/soccer/odds/_/gameId/760433"
+  ],
+  "generated_at": "2026-06-16T11:00:00Z"
+}

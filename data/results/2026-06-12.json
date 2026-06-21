@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-12",
+  "source": "web-research (espn.com, fifa.com, nbcnews.com, cbssports.com, yahoo sports — no FOOTBALL_DATA_TOKEN)",
+  "fetched_at": "2026-06-13T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-003",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760416/bosnia-herzegovina-canada",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-bosnia-and-herzegovina-highlights-match-report",
+        "https://www.cbc.ca/sports/livestory/fifa-world-cup-2026-canada-vs-bosnia-and-herzegovina-june-12-live-updates-9.7222390"
+      ],
+      "notes": "Jovo Lukic (BIH) 21', Cyle Larin (CAN sub) 78'. Detailed stats (cards, corners) unverified from available sources."
+    },
+    {
+      "match_id": "wc-004",
+      "home": "United States",
+      "away": "Paraguay",
+      "home_goals": 4,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 4,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 5,
+      "away_corners": 8,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760417/paraguay-united-states",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-june-12-live-updates-rcna349721",
+        "https://www.cbssports.com/soccer/news/usa-paraguay-live-updates-world-cup-2026-score-result/live/",
+        "https://heavy.com/sports/soccer/world-cup/usa-vs-paraguay-results-today-fifa-world-cup-2026-live-score-updates-stats/"
+      ],
+      "notes": "Balogun x2, Bobadilla OG, Reyna (USA); Almirón (PAR). USA cards: Adams yellow. PAR cards: Caceres, Almiron, Alonso, Arce yellows. Corners via heavy.com."
+    }
+  ]
+}

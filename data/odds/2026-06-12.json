@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-12",
+  "collected_at": "2026-06-12T10:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-003",
+      "h2h": {
+        "home": 1.83,
+        "draw": 3.65,
+        "away": 4.70
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.67
+      },
+      "btts": {
+        "yes": 2.10,
+        "no": 1.71
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760416",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/canada-v-bosnia-35438722",
+        "https://www.oddsshark.com/soccer/world-cup/canada-bosnia-herzegovina-odds-picks-2026",
+        "https://www.wincomparator.com/predictions/canada-bosnia-herzegovina-7937375/",
+        "https://www.covers.com/world-cup/canada-vs-bosnia-prediction-picks-odds-friday-6-12-2026"
+      ]
+    },
+    {
+      "match_id": "wc-004",
+      "h2h": {
+        "home": 1.95,
+        "draw": 3.40,
+        "away": 4.10
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.30,
+        "under": 1.63
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/usa-v-paraguay-35035290",
+        "https://www.espn.com/soccer/odds/_/gameId/760417",
+        "https://www.cbssports.com/soccer/news/usmnt-paraguay-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://news.bet365.com/en-us/article/world-cup-usa-paraguay-prediction-best-bets-odds/2026060914420141815",
+        "https://www.covers.com/world-cup/usa-vs-paraguay-prediction-picks-odds-friday-6-12-2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "match_id": "wc-009",
+  "date": "2026-06-14",
+  "home": "Netherlands",
+  "away": "Japan",
+  "kickoff_utc": "2026-06-14T20:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_F",
+  "venue": "AT&T Stadium, Arlington",
+  "analysis": {
+    "summary": "Netherlands open Group F as clear favourites against a Japan side seriously disrupted by pre-tournament injuries. The Dutch qualified unbeaten through UEFA Group G with 27 goals in eight games, while Japan arrive on a five-match winning run but without captain Wataru Endo (foot injury, international retirement) and key winger Kaoru Mitoma (hamstring). Japan's high-press 3-4-2-1 is a credible threat to Dutch build-up play, but the loss of their midfield anchor and best one-on-one attacker significantly blunts that threat. Netherlands are also missing Jurrien Timber (injury), but their depth at centre-back remains high with Van Dijk captaining the side.",
+    "home_form": "Netherlands went unbeaten across all eight UEFA qualifying matches in Group G, winning six (including 8-0 vs Malta, 4-0 vs Finland, 4-0 vs Lithuania) with two draws against Poland. They conceded only four goals across the campaign. The squad is led by Virgil van Dijk and features Frenkie de Jong, Ryan Gravenberch, Tijjani Reijnders, Memphis Depay, and Cody Gakpo. Koeman's preferred 4-2-3-1 system is built around controlled possession and clinical finishing in transition. Netherlands are unbeaten in 16 consecutive World Cup group-stage matches (W12 D4).",
+    "away_form": "Japan were the first non-host nation to qualify for the 2026 World Cup, clinching their place in March 2025 with a 2-0 win over Bahrain. They won 13 of 16 qualifying matches. Their most recent pre-tournament results included a 1-0 win over Scotland (Ito, 84') and a historic 1-0 win over England at Wembley (Mitoma, March 31 2026) — the first Asian team to beat England on home soil. Japan defeated Indonesia 6-0 in their final qualifier. Moriyasu's high-press 3-4-2-1 has been effective against technically gifted opponents, replicating their 2022 World Cup upsets of Germany and Spain.",
+    "h2h": "Netherlands and Japan have met three times, with the Dutch unbeaten: a 3-0 friendly win in September 2009, a 1-0 World Cup group stage win in 2010 (Sneijder), and a 2-2 friendly draw in 2013. Japan have never beaten the Netherlands at senior international level. The 2010 meeting is the only World Cup encounter.",
+    "injuries_news": [
+      "Japan captain Wataru Endo (Liverpool) ruled out with a foot injury and has announced international retirement; Ajax defender Ko Itakura named as new captain.",
+      "Kaoru Mitoma (Brighton) ruled out with a hamstring injury; Takehiro Tomiyasu recalled to Japan squad as replacement.",
+      "Takumi Minamino absent from Japan squad having torn his ACL in December 2025.",
+      "Netherlands defender Jurrien Timber ruled out with injury; Lutsharel Geertruida called up as replacement.",
+      "Jeremie Frimpong omitted from Netherlands squad by Koeman (selection decision, not injury)."
+    ],
+    "key_factors": [
+      "Japan's double injury blow: Endo's absence removes the defensive midfield anchor who controlled tempo in their 2022 upsets; Mitoma's absence eliminates their main wide threat and goal threat from the flank.",
+      "Netherlands' exceptional qualifying form (27 goals, 4 conceded in 8 games) and depth across the squad suggest they can cope with Timber's loss without significant impact.",
+      "Japan's pressing structure can disrupt Dutch build-up — Netherlands drew twice with Poland when facing a high-energy press in qualifying — but Japan's pressing effectiveness may be diminished without Endo organising from deep.",
+      "AT&T Stadium in Arlington (climate-controlled domed venue, artificial-turf style surface with natural grass panels) offers neutral conditions — no heat or altitude disadvantage for either side.",
+      "Referee Ismail Elfath (USA) averages 3.58 yellow cards per game across 285 fixtures — a moderate discipline record, unlikely to heavily inflate card counts.",
+      "Netherlands have history of cautious starts in major tournaments but also of grinding out results; Japan have shown they can win 1-0 with a single moment of quality.",
+      "Japan's 3-4-2-1 wing-back system with Doan and Nakamura pressing high could cause problems on the Netherlands' full-back positions, but Dumfries is experienced at handling that pressure."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.50, "draw": 0.25, "away": 0.25},
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.46,
+    "btts_yes": 0.36
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.471, draw 0.251, away 0.277. My model: home 0.50, draw 0.25, away 0.25. The home edge of +0.029 does not reach the 0.05 threshold for a flagged value. The most notable divergence is on btts: market implies btts_yes at 0.527 (odds 1.80), while my model puts btts_yes at 0.36 — an edge of 0.167 in favour of btts_no (odds 2.00, model prob 0.64, implied 0.473, edge +0.167). Japan's loss of Endo (midfield control) and Mitoma (primary forward threat) significantly reduces their attacking output; Netherlands' Van Dijk-led defence conceded only 4 goals in 8 qualifying games. btts_no at 2.00 represents the clearest value selection in this match. On totals, my model estimates over 2.5 at 0.46 vs market implied 0.495 — fractional lean toward under but below the 0.05 edge threshold, so no strong call flagged there.",
+  "sources": [
+    "https://www.goal.com/en/news/netherlands-japan-world-cup-preview/blt48135779b5e280e4",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-ronald-koeman-squad-announced",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury",
+    "https://www.espn.com/soccer/story/_/id/49032127/japan-captain-wataru-endo-world-cup-injury-announces-retirement",
+    "https://www.aljazeera.com/sports/2025/3/20/japan-first-team-to-qualify-for-2026-world-cup-after-victory-over-bahrain",
+    "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/internationals/england-v-japan-international-match-tuesday-31-march-2026-match-centre",
+    "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/head-to-head/netherlands-vs-japan-head-to-head-record-and-past-meetings_599068.html",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d15935831f-d0d88d0f1da0-1000--netherlands-at-the-world-cup-2026-squad-fixtures-group-a/",
+    "https://www.wfaa.com/article/sports/soccer/world-cup/ismail-elfath-austin-texas-netherlands-japan-world-cup-ref/287-539728bf-30cc-4450-a371-90fbaca3ac97",
+    "https://playerstats.football/referee/473",
+    "https://www.espn.com/soccer/story/_/id/49038195/fifa-world-cup-2026-netherlands-vs-japan-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/netherlands-v-japan-predictions"
+  ],
+  "generated_at": "2026-06-14T12:30:00Z"
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-18",
+  "collected_at": "2026-06-18T10:15:00Z",
+  "matches": [
+    {
+      "match_id": "wc-024",
+      "h2h": {
+        "home": 1.77,
+        "draw": 3.70,
+        "away": 4.70
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.10,
+        "under": 1.77
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.77
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/czechia-south-africa-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/czechia-vs-south-africa-odds-prediction-061826-217224",
+        "https://www.wincomparator.com/predictions/czech-republic-south-africa-7937372/",
+        "https://www.fanduel.com/research/czechia-vs-south-africa-prediction-preview-picks-best-bets-and-lineups-for-world-cup-2026"
+      ]
+    },
+    {
+      "match_id": "wc-025",
+      "h2h": {
+        "home": 1.53,
+        "draw": 4.10,
+        "away": 6.06
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.00,
+        "under": 1.81
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.77
+      },
+      "sources": [
+        "https://www.sportsline.com/insiders/switzerland-vs-bosnia-herzegovina-odds-predictions-time-2026-world-cup-picks-from-elite-soccer-expert/",
+        "https://www.wincomparator.com/predictions/switzerland-bosnia-herzegovina-8427297/",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/switzerland-v-bosnia-35546730",
+        "https://www.oddschecker.com/us/soccer/world-cup/switzerland-v-bosnia-and-herzegovina"
+      ]
+    },
+    {
+      "match_id": "wc-026",
+      "h2h": {
+        "home": 1.27,
+        "draw": 5.70,
+        "away": 11.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.74,
+        "under": 2.00
+      },
+      "sources": [
+        "https://www.covers.com/world-cup/canada-vs-qatar-prediction-picks-odds-thursday-6-18-2026",
+        "https://www.canadasportsbetting.ca/betting-odds/soccer/fifa-world-cup/canada/",
+        "https://www.oddsshark.com/soccer/world-cup/canada-qatar-odds-june-18-2026-2494758",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/canada-vs-qatar-odds-prediction-061826-217232"
+      ]
+    },
+    {
+      "match_id": "wc-027",
+      "h2h": {
+        "home": 1.95,
+        "draw": 3.30,
+        "away": 4.20
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.35,
+        "under": 1.61
+      },
+      "btts": {
+        "yes": 1.83,
+        "no": 2.00
+      },
+      "sources": [
+        "https://www.covers.com/world-cup/mexico-vs-south-korea-prediction-picks-odds-thursday-6-18-2026",
+        "https://www.espn.com/soccer/odds/_/gameId/760441",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/mexico-v-south-korea-35546735",
+        "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-korea"
+      ]
+    }
+  ]
+}

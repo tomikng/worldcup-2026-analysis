@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-017",
+  "date": "2026-06-16",
+  "home": "Iraq",
+  "away": "Norway",
+  "kickoff_utc": "2026-06-16T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_I",
+  "venue": "Gillette Stadium, Foxborough",
+  "analysis": {
+    "summary": "Norway arrive as heavy favorites and one of the most prolific attacking sides in recent World Cup qualifying history, averaging 4.6 goals per game across a perfect 8/8 UEFA qualifying campaign. Iraq, returning to the World Cup for the first time since 1986, will rely on Graham Arnold's pragmatic low-block defensive structure to stay in the match and look to exploit Norway on the counter. The quality gap between these sides is significant, but Iraq's organized defensive setup and set-piece threat give them a non-zero chance of keeping it tight.",
+    "home_form": "Iraq qualified via the AFC playoff route, defeating Bolivia 2-1 in the inter-confederation playoff final. In recent competitive matches: won 2-1 vs UAE (Nov 2025), won 2-1 vs Bahrain (Dec 2025), won 2-0 vs Sudan (Dec 2025), lost 0-2 vs Algeria (Dec 2025), lost 0-1 vs Jordan (Dec 2025). Key striker Aymen Hussein scored eight goals in AFC qualifying; Amir Al-Ammari created 15 chances with four assists. Graham Arnold's side plays a compact 4-5-1 / 4-4-2 shape, focused on defensive organization and quick transitions.",
+    "away_form": "Norway won all eight UEFA Group I qualifying matches, the only European team alongside England to achieve a perfect qualifying record. They scored 37 goals (4.6 per game), the best average ever by a European nation in a single World Cup qualifying campaign. Key wins included a 4-1 victory at San Siro vs Italy (Nov 2025) and an 11-1 demolition of Moldova. Martin Odegaard was absent for Norway's March 2026 friendlies due to multiple injuries this season but is in the World Cup squad. Erling Haaland, 25, is fully fit and enters the tournament as Norway's all-time top scorer with 55 international goals, including 16 in qualifying. Alexander Sorloth (Atletico Madrid) partners Haaland up front; Antonio Nusa and Julian Ryerson also provide wing threat.",
+    "h2h": "Iraq and Norway have no meaningful head-to-head competitive history. This is effectively their first senior competitive meeting. The two nations have not faced each other at previous World Cups.",
+    "injuries_news": [
+      "Iraq: Defender Ahmed Yahya was replaced in the squad due to injury in the days before the tournament; replacement Ahmed Maknzi (Al-Karma) called up. Captain Jalal Hassan (goalkeeper) has returned from injury and is included.",
+      "Iraq: Winger Montader Madjed, teenager Nasrawe (Bayern Munich youth), and fullback Dario Naamo all miss out and were not selected for the squad.",
+      "Norway: Martin Odegaard missed Norway's March 2026 friendlies due to multiple injuries this season; his sharpness at the start of the tournament is a slight uncertainty, though he is in the squad.",
+      "Norway: Erling Haaland is confirmed fit in the squad (earlier groin concerns from qualifying are resolved); he is expected to start."
+    ],
+    "key_factors": [
+      "Norway's attacking firepower is exceptional: Haaland (55 intl goals) and Sorloth (Atletico Madrid) form the most dangerous striking partnership in the tournament, supported by Odegaard's creativity.",
+      "Iraq are playing their first World Cup in 40 years and will be heavily motivated for the occasion; home crowd noise will be muted as the match is in the USA.",
+      "Graham Arnold managed Australia to the 2022 World Cup round of 16; his defensive organizational skills could keep Iraq compact and limit Norway's high-quality chances in the first half.",
+      "Pierre Atcho (Gabon) is the appointed referee, averaging approximately 4.0 yellow cards per game across international matches — a relatively average disciplinary record.",
+      "Iraq's qualifying campaign showed set-piece reliance: 8 of 15 goals in AFC third round came from set-pieces (4 free-kicks, 3 corners, 1 penalty), making them a threat from dead balls.",
+      "Norway's qualifying goals were entirely from inside the box, reflecting their clinical positional play rather than long-range shooting.",
+      "Gillette Stadium conditions (New England, June): mild temperatures expected, should suit Norway's high-energy pressing style.",
+      "Group I context: With France in the group, both Iraq and Norway face a tough path to qualification. Iraq almost certainly must earn points against Senegal; Norway are expected to progress from the group."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.06, "draw": 0.15, "away": 0.79},
+    "predicted_score": "3-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_3.0_over": 0.44,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (normalized from h2h odds 14.00/6.50/1.22): home 0.068, draw 0.147, away 0.785. My model assigns home 0.06, draw 0.15, away 0.79 — broadly aligned with the market, with no meaningful edge on the h2h market (all differences < 0.05). For totals at 3.0 over (odds 1.98): market-implied prob is 0.483; my model estimate is 0.44, reflecting that while Norway's attack is elite, Iraq's low-block defensive setup under Arnold is likely to suppress some goal volume compared to Norway's qualifying opponents — no edge flagged for over here (model below market). For BTTS yes (odds 2.25): market-implied prob is 0.411; my model estimate is 0.30, reflecting a strong view that Iraq's defensive organization will deny them a goal in most scenarios — edge of -0.111 on yes (market overprices BTTS yes). The BTTS no implied probability is 0.589; my model gives BTTS no a probability of 0.70, representing an edge of +0.111 in favor of BTTS no — this is the primary value identified. No market odds provided for cards or corners markets in the input odds entry.",
+  "sources": [
+    "https://tribuna.com/en/team/iraq/table/2026/world-cup-qualification-asia/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-team-profile-history",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-preliminary-squad-announcement-graham-arnold",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-bolivia-match-report-quotes",
+    "https://sports.yahoo.com/articles/norway-2026-world-cup-squad-112500124.html",
+    "https://theanalyst.com/articles/norway-world-cup-2026-preview-dark-horses-stats",
+    "https://www.aljazeera.com/sports/2026/5/26/norway-world-cup-2026-preview-players-to-watch-group-matches-squad-list",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/norway-squad-announcement-stale-solbakken",
+    "https://dailysports.net/news/gabon-referee-pierre-atcho-to-officiate-iraq-vs-norway-2026-world-cup-clash-in-boston/",
+    "https://www.statshub.com/referee/atcho-pierre-ghislain/789229",
+    "https://www.skysports.com/football/news/12098/13543102/world-cup-2026-group-i-guide-fixtures-schedule-standings-and-odds-for-france-senegal-iraq-and-norway",
+    "https://heavy.com/sports/soccer/world-cup/iraq-announces-squad-fifa-world-cup/",
+    "https://www.rotowire.com/soccer/article/2026-world-cup-group-i-preview-france-senegal-iraq-norway-tactics-lineups-set-pieces-odds-111129",
+    "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/iraq-vs-norway-odds-prediction-061626-217193",
+    "https://www.covers.com/world-cup/norway-vs-iraq-prediction-picks-odds-tuesday-6-16-2026"
+  ],
+  "generated_at": "2026-06-16T11:00:00Z"
+}

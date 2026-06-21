@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-20",
+  "source": "web-research (espn.com, cbssports.com, yahoo.com/sports, skysports.com, sportsmole.co.uk, rotowire.com, foxsports.com, forebet.com, fifa.com, worldcupkickofftimes.com)",
+  "fetched_at": "2026-06-20T06:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-032",
+      "kickoff_utc": "2026-06-20T17:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "venue": "NRG Stadium, Houston"
+    },
+    {
+      "match_id": "wc-033",
+      "kickoff_utc": "2026-06-20T20:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "venue": "BMO Field, Toronto"
+    },
+    {
+      "match_id": "wc-034",
+      "kickoff_utc": "2026-06-21T00:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "home": "Ecuador",
+      "away": "Curacao",
+      "venue": "Arrowhead Stadium, Kansas City"
+    },
+    {
+      "match_id": "wc-035",
+      "kickoff_utc": "2026-06-21T03:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "home": "Tunisia",
+      "away": "Japan",
+      "venue": "Estadio BBVA, Monterrey"
+    }
+  ]
+}

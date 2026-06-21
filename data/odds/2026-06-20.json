@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-20",
+  "collected_at": "2026-06-20T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-032",
+      "h2h": {
+        "home": 1.65,
+        "draw": 4.10,
+        "away": 4.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.74,
+        "under": 2.10
+      },
+      "totals_alt": [
+        {
+          "line": 1.5,
+          "over": 1.29,
+          "under": 3.50
+        },
+        {
+          "line": 3.5,
+          "over": 2.95,
+          "under": 1.40
+        }
+      ],
+      "btts": {
+        "yes": 1.85,
+        "no": 1.95
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760447",
+        "https://www.oddsshark.com/soccer/world-cup/netherlands-sweden-picks-odds-2026",
+        "https://news.bet365.com/en-us/article/netherlands-vs-sweden-odds-picks-predictions/2026061906462915270",
+        "https://www.oddsshark.com/soccer/world-cup/netherlands-sweden-picks-odds-2026",
+        "https://sports.yahoo.com/articles/netherlands-vs-sweden-predictions-picks-100000832.html",
+        "https://www.rotowire.com/soccer/article/netherlands-vs-sweden-picks-tips-odds-best-bets-2026-world-cup-group-f-118925"
+      ]
+    },
+    {
+      "match_id": "wc-033",
+      "h2h": {
+        "home": 1.55,
+        "draw": 4.20,
+        "away": 5.75
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.71,
+        "under": 2.25
+      },
+      "totals_alt": [
+        {
+          "line": 1.5,
+          "over": 1.30,
+          "under": 3.40
+        },
+        {
+          "line": 3.5,
+          "over": 2.50,
+          "under": 1.53
+        }
+      ],
+      "btts": {
+        "yes": 1.67,
+        "no": 2.15
+      },
+      "corners": {
+        "line": 9.5,
+        "over": 1.85,
+        "under": 1.95
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760448",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/germany-vs-ivory-coast-odds-prediction-062026-217115",
+        "https://www.oddsshark.com/soccer/world-cup/germany-ivory-coast-odds-june-20-2026-2494776",
+        "https://sports.yahoo.com/articles/germany-vs-ivory-coast-predictions-150000613.html",
+        "https://news.williamhill.com/football/world-cup/germany-v-ivory-coast-prediction-odds-and-best-bets/"
+      ]
+    },
+    {
+      "match_id": "wc-034",
+      "h2h": {
+        "home": 1.10,
+        "draw": 11.00,
+        "away": 21.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.36,
+        "under": 3.00
+      },
+      "totals_alt": [
+        {
+          "line": 1.5,
+          "over": 1.14,
+          "under": 5.50
+        },
+        {
+          "line": 3.5,
+          "over": 1.91,
+          "under": 1.87
+        }
+      ],
+      "btts": {
+        "yes": 3.10,
+        "no": 1.36
+      },
+      "sources": [
+        "https://www.oddstrader.com/betting/ecuador-vs-curacao-odds-prediction-world-cup-2026-best-bets/",
+        "https://sports.yahoo.com/articles/ecuador-vs-curacao-predictions-picks-160000588.html",
+        "https://sports.yahoo.com/articles/ecuador-vs-cura-ao-picks-080314148.html",
+        "https://www.covers.com/world-cup/ecuador-vs-curacao-prediction-picks-odds-saturday-6-20-2026"
+      ]
+    },
+    {
+      "match_id": "wc-035",
+      "h2h": {
+        "home": 7.00,
+        "draw": 4.10,
+        "away": 1.53
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.10,
+        "under": 1.74
+      },
+      "totals_alt": [
+        {
+          "line": 1.5,
+          "over": 1.44,
+          "under": 2.75
+        },
+        {
+          "line": 3.5,
+          "over": 3.40,
+          "under": 1.32
+        }
+      ],
+      "btts": {
+        "yes": 3.00,
+        "no": 1.40
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760449",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/tunisia-vs-japan-odds-prediction-062126-217119",
+        "https://cryptoslate.com/predictions/market/fifwc-tun-jpn-2026-06-21/",
+        "https://sports.yahoo.com/articles/japan-vs-tunisia-predictions-picks-180000929.html",
+        "https://www.covers.com/world-cup/japan-vs-tunisia-prediction-picks-odds-sunday-6-21-2026"
+      ]
+    }
+  ]
+}

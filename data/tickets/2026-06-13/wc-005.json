@@ -1,0 +1,66 @@
+{
+  "match_id": "wc-005",
+  "date": "2026-06-13",
+  "home": "Qatar",
+  "away": "Switzerland",
+  "kickoff_utc": "2026-06-13T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_B",
+  "venue": "Levi's Stadium, Santa Clara",
+  "analysis": {
+    "summary": "Switzerland enter as commanding favourites backed by an unbeaten UEFA qualifying campaign (W4 D2 L0, 14 goals, 2 conceded) and a 4-1 warm-up win over Jordan. Qatar arrive in dire attacking form — scoreless across 373 consecutive minutes including a 0-0 draw with El Salvador and a 1-0 pre-tournament loss to the Republic of Ireland — under a manager (Julen Lopetegui) who has overseen two wins in ten games. The class gap is substantial and Qatar's only realistic path to a result is a deep defensive block with Akram Afif on the counter; an outright Qatar win or even a draw requires Switzerland to be highly wasteful.",
+    "home_form": "Qatar: W (2-1 vs UAE Oct 2025), L (1-2 vs Zimbabwe, friendly Nov 2025), L (0-1 vs Palestine, Arab Cup Dec 2025), D (1-1 vs Syria, Arab Cup Dec 2025), L (0-3 vs Tunisia, Arab Cup Dec 2025). Pre-tournament: L (1-0 vs Republic of Ireland), D (0-0 vs El Salvador). Qatar have scored just 4 goals while conceding 8 across their last 5 competitive matches and are goalless over their last 373+ minutes of play in all competitions.",
+    "away_form": "Switzerland: W (4-0 vs Kosovo Sep 2025), W (3-0 vs Slovenia Sep 2025), W (2-0 vs Sweden Oct 2025), D (0-0 vs Slovenia Oct 2025), W (4-1 vs Sweden Nov 2025), D (1-1 vs Kosovo Nov 2025). More recent: L (3-4 vs Germany, friendly Mar 2026), D (0-0 vs Norway Mar 2026), W (4-1 vs Jordan May 2026). Topped UEFA qualifying Group B — unbeaten with +12 goal difference.",
+    "h2h": "Qatar and Switzerland have met only once, a 2018 friendly won 1-0 by Qatar (Akram Afif, 86 min). That is their sole encounter and carries little predictive weight for a competitive World Cup fixture.",
+    "injuries_news": [
+      "No confirmed injuries or suspensions reported for Qatar ahead of this match.",
+      "No confirmed injuries or suspensions reported for Switzerland. Breel Embolo (Rennes) faced a US visa issue but has been cleared and is available for selection.",
+      "Xherdan Shaqiri (retired internationally) and Yann Sommer (retired) are not in the Switzerland squad — their absences are planned, not injury-related.",
+      "Qatar predicted XI (4-3-3): Abunada; Al Oui, Miguel, Khoukhi, Elamin; Issa Laye, Fathi, Gaber; Edmilson Junior, Almoez Ali, Akram Afif.",
+      "Switzerland predicted XI (4-2-3-1): Kobel; Widmer, Elvedi, Akanji, Rodriguez; Freuler, Xhaka; Ndoye, Rieder, Vargas; Embolo."
+    ],
+    "key_factors": [
+      "Qatar's extended goal drought (373+ minutes without scoring) makes BTTS extremely unlikely and handicaps their ability to force extra time or penalties from a draw.",
+      "Switzerland are one of only two European teams to have reached the knockout stages at each of the last six major tournaments (World Cup/Euros), showing consistent tournament discipline.",
+      "The neutral California venue (Levi's Stadium, sea level, moderate June temperatures) provides no altitude or climatic advantage to either side.",
+      "Qatar's compact 4-3-3 / 5-4-1 defensive system and Akram Afif's counter-attacking threat represent the main risk to Switzerland, but with 11 qualifying assists Afif's effectiveness depends on Qatar having something to defend.",
+      "Group context: Canada and Bosnia drew 1-1 in the opening Group B match. A Switzerland win here puts them in firm control of the group; Qatar's qualification chances are already marginal.",
+      "Opta pre-match simulation: Switzerland win 76.0%, draw 15.0%, Qatar win 9.1% — broadly consistent with the bookmaker market."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.09,
+      "draw": 0.17,
+      "away": 0.74
+    },
+    "predicted_score": "0-2",
+    "confidence": 0.70
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.43,
+    "totals_2.5_under": 0.57,
+    "btts_yes": 0.15,
+    "btts_no": 0.85
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Qatar 0.100, draw 0.172, Switzerland 0.728. My model: Qatar 0.09, draw 0.17, Switzerland 0.74. The h2h market is broadly efficient — no edge of ≥0.05 on any h2h outcome. Totals 2.5 over: market implies 0.557; my model assigns 0.43 — edge of 0.127 on UNDER 2.5 (1/2.15 = 0.465 implied; model 0.57 → edge = 0.57 − 0.465 = 0.105). BTTS No: market implies 0.657 (normalized from 1/1.52); my model assigns 0.85 → edge = 0.85 − 0.657 = 0.193. Qatar's 373-minute goal drought and predictable deep-defensive setup make BTTS No and Under 2.5 the two selections where my model substantially diverges from market pricing. Switzerland are unlikely to flood goals against a parked bus — the most probable outcome is a 1-0 or 2-0 Switzerland win.",
+  "sources": [
+    "https://www.squawka.com/en/news/world-cup/qatar-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.espn.com/soccer/story/_/id/49007594/qatar-vs-switzerland-kickoff-how-watch-stats-team-news-fifa-world-cup-2026",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-qatar-all-players-full-squad-list-key-stats-and-schedule",
+    "https://www.goal.com/en-us/world-cup-teams/group-b/world-cup-2026-guide-qatar/O~bltead13b6a3fe85072",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d1595c1b77-996be0df685e-1000--switzerland-at-the-world-cup-2026-squad-fixtures-group-a/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-squad-announcement-murat-yakin",
+    "https://www.sportsmole.co.uk/football/qatar/world-cup-2026/head-to-head/qatar-vs-switzerland-head-to-head-record-and-past-meetings_598975.html",
+    "https://www.sportsmole.co.uk/football/qatar/world-cup-2026/preview/qatar-vs-switzerland-prediction-team-news-lineups_598996.html",
+    "https://theanalyst.com/articles/qatar-vs-switzerland-prediction-world-cup-2026-match-preview",
+    "https://www.rotowire.com/soccer/article/qatar-vs-switzerland-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-117815",
+    "https://www.squawka.com/us/news/world-cup/match-preview-qatar-vs-switzerland-06-13-26-world-cup-2026/",
+    "https://www.forebet.com/en/football/matches/qatar-switzerland-2463133",
+    "https://karlobag.eu/en/sports/switzerland-name-2026-world-cup-squad-as-murat-yakin-trusts-experienced-team-led-1bo0a/",
+    "https://www.khelnow.com/football/world-football-qatar-vs-switzerland-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsline.com/insiders/qatar-vs-switzerland-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+    "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/qatar-vs-switzerland-odds-prediction-061326-217118"
+  ],
+  "generated_at": "2026-06-13T14:30:00Z"
+}

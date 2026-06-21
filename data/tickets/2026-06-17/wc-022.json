@@ -1,0 +1,65 @@
+{
+  "match_id": "wc-022",
+  "date": "2026-06-17",
+  "home": "Ghana",
+  "away": "Panama",
+  "kickoff_utc": "2026-06-17T23:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_L",
+  "venue": "BMO Field, Toronto",
+  "analysis": {
+    "summary": "Ghana and Panama meet for the first time at senior competitive level in what is effectively a must-not-lose opener for both sides, given England and Croatia loom in later group games. Ghana enter as slight bookmaker favorites but carry serious injury concerns: Thomas Partey was denied a Canadian visa and will miss the match entirely, while Mohammed Kudus and Mohammed Salisu are absent from the squad. Panama arrive well-organized under Thomas Christiansen, topped their CONCACAF qualifying group undefeated, and the Opta supercomputer rates them as the more likely winners (45.2% vs Ghana's 29.6%), a notable divergence from bookmaker lines. A low-scoring, tightly contested match is the most probable outcome given both teams' defensive tendencies and Ghana's depleted midfield.",
+    "home_form": "Ghana qualified from CAF Group I with 25 points (W8 D1 L1) and averaged over two goals per game, but that form was built under Otto Addo, who has since departed. New coach Carlos Queiroz had limited preparation time, with Ghana drawing 1-1 with Wales (June 2) and losing 2-0 to Mexico in their only two warm-up matches. Key absences — Partey (visa denied), Kudus, and Salisu — significantly weaken the squad. The attacking trident of Antoine Semenyo, Inaki Williams, and Jordan Ayew retains quality but lacks the midfield engine to service it efficiently.",
+    "away_form": "Panama topped their CONCACAF final-round qualifying group with a 3-3-0 record (12 points, undefeated). Their five preparatory matches in 2025-26 yielded W2 D2 L1 (including a 6-2 loss to Brazil but wins over South Africa). They drew 1-1 with Bosnia and Herzegovina on June 6. Carrasquilla, who suffered a groin injury, appears fit. Aníbal Godoy (36, 157 caps) anchors the midfield and the team brings a collective experience with 16 of 26 players boasting 50+ international caps.",
+    "h2h": "These sides have never previously met at senior international level. This match is a historic first encounter between Ghana and Panama.",
+    "injuries_news": [
+      "Thomas Partey (Ghana, midfielder, Villarreal) — confirmed absent; denied entry to Canada by Canadian immigration authorities due to pending rape charges. This is Ghana's most significant absence and a confirmed absence, not unconfirmed.",
+      "Mohammed Kudus (Ghana, attacking midfielder/winger) — not selected in the final 26-man squad; injury-related.",
+      "Mohammed Salisu (Ghana, centre-back) — not selected in the final 26-man squad; injury-related.",
+      "Alexander Djiku (Ghana, centre-back) — ruled out with a hamstring injury; replaced by Derrick Luckassen.",
+      "Adalberto Carrasquilla (Panama, midfielder) — suffered a groin injury before squad announcement but included and reported fit."
+    ],
+    "key_factors": [
+      "Thomas Partey's absence removes Ghana's most experienced and influential midfielder; his ability to screen the defence and drive play forward cannot be replicated in the squad.",
+      "Queiroz is an experienced tournament coach (Portugal, Iran, Colombia) and his defensive organization could compensate for squad gaps, but he has had minimal time to implement his system.",
+      "Panama are tactically disciplined and physically robust; they are comfortable in low-block defensive shapes and difficult to break down, which suits the tournament context.",
+      "The Opta supercomputer significantly favors Panama (45.2% win probability) compared to the bookmaker's implied 26%, suggesting possible market mispricing of Panama.",
+      "BMO Field is at near sea-level in Toronto with mild June evening conditions — no altitude or heat advantage/disadvantage for either team.",
+      "Both teams are making this their tournament opener with maximum motivation; draw is a meaningful result for Panama but Ghana need a win to stay in contention against England and Croatia later.",
+      "Ghana's attacking quality (Semenyo, Williams) provides individual match-winning potential even without Partey."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.38,
+      "draw": 0.31,
+      "away": 0.31
+    },
+    "predicted_score": "1-0",
+    "confidence": 0.52
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "totals_2.5_under": 0.62,
+    "btts_yes": 0.40,
+    "btts_no": 0.60
+  },
+  "value_notes": "Market implied probabilities (overround-removed): Ghana 0.470, Draw 0.269, Panama 0.261. Model probabilities: Ghana 0.38, Draw 0.31, Panama 0.31. The model finds value on Panama (model 0.31 vs implied 0.261, edge +0.049 — just below the 0.05 threshold) and on the draw (model 0.31 vs implied 0.269, edge +0.041). Ghana are notably downgraded from the market's implied 0.470 to 0.380 (edge of -0.090 against Ghana), driven by Partey's confirmed visa denial, the wider squad absences (Kudus, Salisu, Djiku), and the significant disconnect between the Opta supercomputer (Panama 45.2%, Ghana 29.6%) and bookmaker pricing. No single selection reaches the +0.05 edge threshold required for a qualifying bet after normalization: Panama h2h edge is approximately +0.049, one tick short. Totals market: model has under 2.5 at 0.62 vs market-implied 0.579 (edge +0.041), insufficient for a qualifying bet. BTTS No model 0.60 vs implied 0.511 (edge +0.089) — this exceeds the 0.05 threshold and represents the clearest value play: both teams' defensive organizations and Ghana's depleted midfield/attack make a clean sheet on at least one side the more likely outcome. No Polymarket data available today (API returned 403).",
+  "sources": [
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/ghana-at-the-2026-fifa-world-cup-squad-schedule-and-everything-you-need-to-know-2026-05-27",
+    "https://www.concacaf.com/competitions/fifa-world-cup/news/panama-meets-ghana-to-open-second-world-cup-appearance",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-panama-all-players-full-squad-list-key-stats-and-schedule",
+    "https://theanalyst.com/articles/ghana-vs-panama-prediction-world-cup-2026-match-preview",
+    "https://www.rotowire.com/soccer/article/ghana-vs-panama-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-l-118362",
+    "https://ghanasoccernet.com/world-cup-2026-ghana-vs-panama-preview-black-stars-aim-for-positive-start-in-group-l-opener",
+    "https://www.espn.com/soccer/story/_/id/49041808/thomas-partey-ghana-opener-2026-world-cup-denied-entry-canada",
+    "https://www.newkerala.com/news/a/fifa-world-cup-ghana-unveils-26-member-squad-831.htm",
+    "https://ghanasoccernet.com/world-cup-2026-carlos-queiroz-confident-as-black-stars-target-winning-start-against-panama",
+    "https://www.goal.com/en-us/news/ghana-panama-world-cup-preview/bltc57f7610ee6813ff",
+    "https://www.squawka.com/en/news/world-cup/ghana-vs-panama-team-news-predicted-lineups/",
+    "https://www.sofascore.com/news/bmo-field-your-guide-to-the-fifa-world-cup-2026",
+    "https://www.oddschecker.com/football/world-cup/ghana-v-panama/winner",
+    "https://sports.yahoo.com/articles/ghana-vs-panama-picks-predictions-095640854.html"
+  ],
+  "generated_at": "2026-06-17T14:30:00Z"
+}

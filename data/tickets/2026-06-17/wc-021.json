@@ -1,0 +1,72 @@
+{
+  "match_id": "wc-021",
+  "date": "2026-06-17",
+  "home": "England",
+  "away": "Croatia",
+  "kickoff_utc": "2026-06-17T20:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_L",
+  "venue": "AT&T Stadium, Arlington",
+  "analysis": {
+    "summary": "England enter this Group L opener against Croatia as clear favourites, backed by a flawless eight-win qualifying campaign under Thomas Tuchel that produced a 22-0 goal difference and eight clean sheets. Croatia are a battle-hardened side with World Cup pedigree but an ageing core: Luka Modric is 40, Perisic is veteran-level, and the squad is transitioning. England's superior depth, current form, and home-continent advantage in a 60,000-seat indoor stadium make them strong favourites, though Croatia's tactical discipline and big-game experience provide a genuine upset threat.",
+    "home_form": "England won all eight UEFA qualifying matches (Group K), conceding zero competitive goals under Tuchel. Results included 5-0 vs Latvia (away), 5-0 vs Serbia (away), 3-0 vs Albania, and a 2-0 home win vs Serbia. Pre-tournament friendlies delivered a 3-0 win vs Costa Rica and a 1-0 win vs New Zealand. Tuchel's side averages 17 shots and 42 box touches per game with a 4-2-3-1 formation. Bukayo Saka is nursing a fitness issue and may not start; Noni Madueke is in contention on the right wing. Declan Rice and Elliot Anderson form a double pivot.",
+    "away_form": "Croatia qualified via UEFA Group I with 7 wins and 1 draw, scoring 26 and conceding 4. Run-in included a 4-0 vs Montenegro, 3-0 vs Gibraltar, 3-1 vs Faroe Islands, and 3-2 at Montenegro. Modric overcame a cheekbone fracture in April and is expected to captain and start. Josko Gvardiol returned from a fractured shin in January, making his comeback in May and is expected to be fit to start in a back-three. The squad blends veteran experience (Modric, Perisic, Kovacic) with emerging talent (Baturina, Sucic). Petar Musa, of FC Dallas, likely leads the attack.",
+    "h2h": "England and Croatia have met 10 times: England 5 wins, Croatia 3 wins, 2 draws. Most significant meeting: 2018 WC semi-final, Croatia won 2-1 AET (Perisic equaliser, Mandzukic winner after Trippier free-kick). Euro 2020 group stage: England 1-0 (Sterling). Nations League 2018: drew 0-0 then England won 2-1. Croatia have been unbeaten in World Cup meetings (1 match, 1 win). England have won 3 of their last 4 competitive meetings since 2018, suggesting the balance has shifted back.",
+    "injuries_news": [
+      "Bukayo Saka (England) carrying a fitness concern, may not start vs Croatia — Noni Madueke likely starts in his place on the right wing",
+      "Tino Livramento (England) withdrew from squad pre-tournament with a calf injury, replaced by Trevoh Chalobah",
+      "Reece James (England) only recently returned from hamstring injury, fitness managed",
+      "Djed Spence (England) recently returned from jaw injury",
+      "Josko Gvardiol (Croatia) returning from fractured shin surgery, made comeback appearance in May, expected to start but with some fitness uncertainty",
+      "Luka Modric (Croatia) overcame April cheekbone fracture, cleared to play and expected to captain"
+    ],
+    "key_factors": [
+      "England's exceptional qualifying campaign under Tuchel — 8 wins, 8 clean sheets, 22-0 GD — shows systemic defensive organization that should suppress Croatia's attack",
+      "Croatia's ageing midfield core (Modric 40, Perisic in twilight) faces an athletically superior England midfield with Rice and Bellingham",
+      "Gvardiol's injury return is a concern for Croatia's defensive cohesion in a back three — England's pressing and counter-attack could exploit this",
+      "Referee Clement Turpin (France) averages ~3.36 yellow cards per match career-wide — this high-stakes opener between two physical European sides could generate cards, though it may fall just short of the 4.5 line",
+      "AT&T Stadium is an indoor venue in Arlington — no altitude/heat factor, neutral surface conditions favor neither side",
+      "Croatia's big-game resilience: they have reached WC semi-final (2018) and final (2018), and third place (2022) — do not underestimate their ability to stay competitive under pressure",
+      "Group L opening match — both sides need points; England will push to win; Croatia may prioritize a point as a realistic away result against a strong England",
+      "Tuchel reportedly has history of disputes with referee Turpin (publicly called him 'Grade E'), which is a potential psychological distraction"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.55,
+      "draw": 0.26,
+      "away": 0.19
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42,
+    "btts_yes": 0.38,
+    "cards_4.5_over": 0.44
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized, overround = 5.88%): England 0.546, Draw 0.255, Croatia 0.199. My model: England 0.55 (+0.004), Draw 0.26 (+0.005), Croatia 0.19 (-0.009). No material edge on the h2h 1X2 market — all differences are well below the 0.05 threshold. For totals 2.5 over: market implies 1/2.15 = 0.465; my estimate is 0.42, meaning the UNDER is where my model diverges (model: 0.58 vs market-implied 1/1.80 = 0.556, edge = 0.024 — below 0.05 threshold, so no qualifying edge). For btts_yes: no market odds provided for btts, cannot compare. For cards 4.5 over: no market odds provided for cards, cannot compare. No single edge reaches the 0.05 threshold on any market with available odds. No Polymarket data available. Confidence notes: England is clearly superior on current form but this is a major group opener and Croatia have historically been excellent at tournament football, so we resist over-weighting England beyond the market.",
+  "sources": [
+    "https://www.fox4news.com/sports/world-cup-2026-dallas-stadium-match-features-england-vs-croatia-highly-anticipated-group-stage-battle",
+    "https://www.rotowire.com/soccer/article/england-vs-croatia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-l-118361",
+    "https://theanalyst.com/articles/england-vs-croatia-prediction-world-cup-2026-match-preview",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/preview/england-vs-croatia-prediction-team-news-lineups_599262.html",
+    "https://www.espn.com/soccer/story/_/id/49047660/fifa-world-cup-2026-england-vs-croatia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup-Qualifiers/latvia-v-england-european-qualifiers-tuesday-14-october-2025-match-centre",
+    "https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries",
+    "https://www.fifa.com/en/articles/croatia-squad-named",
+    "https://www.worldcuppass.com/croatia-world-cup-squad-2026/",
+    "https://karlobag.eu/en/sports/clement-turpin-to-referee-croatia-england-match-in-dallas-in-world-cup-2026-grou-cr7ba/",
+    "https://onefootball.com/en/news/clement-turpin-to-referee-england-v-croatia-in-first-2026-world-cup-assignment-43010694",
+    "https://www.nationalworld.com/sport/football/who-is-the-referee-for-englands-world-cup-game-against-croatia-and-whats-thomas-tuchels-history-with-him-8729276",
+    "https://www.statshub.com/referee/clement-turpin/52599",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/feature/who-is-the-grade-e-referee-in-charge-of-england-vs-croatia_599346.html",
+    "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama",
+    "https://khelnow.com/football/world-football-england-vs-croatia-head-to-head-fifa-world-cup-202606",
+    "https://sports.yahoo.com/articles/england-vs-croatia-predicted-lineup-060000668.html",
+    "https://sports.yahoo.com/articles/croatia-xi-vs-england-predicted-060000188.html",
+    "https://www.si.com/soccer/england-vs-croatia-world-cup-preview-predictions-lineups-6-17-26",
+    "https://croatiansports.com/croatia-2026-world-cup-preview-formation-starting-xi/"
+  ],
+  "generated_at": "2026-06-17T11:30:00Z"
+}

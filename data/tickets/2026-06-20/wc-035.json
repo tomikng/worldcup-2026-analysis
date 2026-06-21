@@ -1,0 +1,69 @@
+{
+  "match_id": "wc-035",
+  "date": "2026-06-20",
+  "home": "Tunisia",
+  "away": "Japan",
+  "kickoff_utc": "2026-06-21T03:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_F",
+  "venue": "Estadio BBVA, Monterrey",
+  "analysis": {
+    "summary": "Tunisia arrive in must-win territory after a humiliating 5-1 opening loss to Sweden that cost manager Sabri Lamouchi his job, with Herve Renard parachuted in with just one day of training. Japan, though missing key attackers Mitoma (hamstring surgery), Endo (ankle, retired), Minamino (ACL) and now Kubo (knee, ruled out for group stage), earned a creditable 2-2 draw against the Netherlands and are heavy favorites to take three points that would all but secure their place in the Round of 32. Tunisia face potential defensive disruption from Omar Rekik's red card in the Sweden game, adding to the organizational chaos under a brand-new coaching staff.",
+    "home_form": "Tunisia lost 5-1 to Sweden on Matchday 1 (June 14), conceding four in the second half after Rekik's red card. Prior to the tournament, Tunisia were competitive in Africa qualifying but struggled in Europe-level friendly exposure. Tunisia's only win in six all-time meetings with Japan was a 3-0 friendly victory in Japan (2022 Kirin Cup). The coaching change to Renard is a wild card — he is experienced at big tournaments but had only one evening training session before this match.",
+    "away_form": "Japan drew 2-2 with Netherlands on Matchday 1 (June 15), twice coming from behind with Kamada scoring an 88th-minute equalizer. Japan topped AFC qualifying with 51 goals in 18 matches, converting at 21.1%. Without Mitoma, Endo, Minamino and Kubo, the squad is depleted in key positions but still retains quality in Ueda, Kamada, Doan and Junya Ito. Japan have won five of six all-time meetings with Tunisia, keeping clean sheets in five of those six.",
+    "h2h": "Japan lead the all-time head-to-head record 5W-0D-1L across six meetings. Japan won the only competitive clash — a 2-0 victory at the 2002 World Cup group stage. Tunisia's sole win was a 3-0 Kirin Cup friendly in Japan (2022). Japan kept clean sheets in five of six all-time meetings. Japan also beat Tunisia 2-0 in the 2023 Kirin Challenge Cup (Kobe).",
+    "injuries_news": [
+      "Japan: Takefusa Kubo (knee injury, sustained vs Netherlands, ruled out for all remaining group stage matches, possible return in knockouts if Japan advance)",
+      "Japan: Kaoru Mitoma (hamstring surgery pre-tournament, absent from entire World Cup squad)",
+      "Japan: Wataru Endo (ankle injury, withdrew from squad, announced international retirement)",
+      "Japan: Takumi Minamino (ACL tear pre-tournament, absent from entire World Cup squad)",
+      "Tunisia: Omar Rekik (received red card in the 43rd minute vs Sweden on Matchday 1 — one-match suspension likely applies for MD2 against Japan; unconfirmed by FIFA disciplinary committee as of research time)",
+      "Tunisia: coaching disruption — Sabri Lamouchi sacked after MD1, Herve Renard appointed with minimal preparation time"
+    ],
+    "key_factors": [
+      "Tunisia's desperate situation (0 points, -4 goal difference) forces them to attack, but their attacking quality is severely limited — one goal in six all-time meetings with Japan",
+      "Japan's attacking depth is reduced by four key absences (Mitoma, Endo, Minamino, Kubo) but Kamada, Ueda and Junya Ito provide a credible front line",
+      "Herve Renard has only one day of training before this match, making tactical disruption almost certain for Tunisia; Japan's settled 3-4-2-1 system under Moriyasu is a significant organizational advantage",
+      "Possible Rekik suspension forces Tunisia to field a reshuffled backline — the very unit that conceded five to Sweden — under a new defensive system",
+      "Monterrey heat (35°C+) could affect both sides but historically disadvantages European and Asian teams less prepared for North American summer; kickoff is 10pm local time (03:00 UTC) which mitigates the heat factor",
+      "This match is historically significant: Tunisia vs Japan at the 2026 World Cup is set to be the 1,000th match in World Cup history",
+      "Japan need only a draw to hold top-two contention heading into MD3 vs Sweden; Tunisia need a win to remain alive — asymmetric pressure"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.12,
+      "draw": 0.21,
+      "away": 0.67
+    },
+    "predicted_score": "0-2",
+    "confidence": 0.63
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.51,
+    "btts_yes": 0.28
+  },
+  "value_notes": "Market-implied probabilities (vig-removed): Tunisia 0.137, Draw 0.234, Japan 0.628. My model: Tunisia 0.12, Draw 0.21, Japan 0.67. The away (Japan) selection shows the clearest edge: model 0.67 vs market implied 0.628, an edge of +0.042 — just below the 0.05 threshold for the ticket-builder. However, the direction is clear: Tunisia's managerial upheaval, Rekik red card suspension, five-goal concession in MD1, and Japan's historically dominant H2H record all support Japan being underpriced. On totals_2.5_over, my model at 0.51 compares to market implied 0.453 (1/2.10 normalized), an edge of +0.057 — this qualifies as the strongest betting edge in this match. On btts_yes, my 0.28 is actually below the market implied 0.318, suggesting no value on the yes side. Predicted score 0-2 reflects Japan's clean sheet rate in H2H (5/6 games) and Tunisia's diminished defensive structure, though Japan's own attacking absences (Kubo, Mitoma, Minamino) temper any expectation of a big winning margin.",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/49064457/sweden-tunisia-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.skysports.com/football/sweden-vs-tunisia/report/549777",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/sweden-tunisia-highlights-match-report",
+    "https://worldsoccertalk.com/world-cup/netherlands-vs-japan-confirmed-lineups-for-2026-world-cup-group-f-game/",
+    "https://heavy.com/sports/soccer/world-cup/fifa-world-cup-2026-netherlands-vs-japan-latest-injury-news-and-fitness-updates/",
+    "https://www.espn.com/soccer/story/_/id/49032127/japan-captain-wataru-endo-world-cup-injury-announces-retirement",
+    "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury",
+    "https://www.nippon.com/en/news/yjj2026061900204/",
+    "https://www.rotowire.com/soccer/headlines/takefusa-kubo-injury-could-return-in-knockout-stages-520108",
+    "https://english.news.cn/20260618/7d113ae8b58946a3b4f59f2710ea04b1/c.html",
+    "https://www.cbssports.com/soccer/news/tunisia-manager-sabri-lamouchi-world-cup-sweden-fired/",
+    "https://www.espn.com/soccer/story/_/id/49079184/tunisia-hire-renard-lamouchi-exit-world-cup",
+    "https://khelnow.com/football/world-football-tunisia-vs-japan-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/tunisia/world-cup/head-to-head/tunisia-vs-japan-head-to-head-record-and-past-meetings_599624.html",
+    "https://www.rotowire.com/soccer/article/tunisia-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-118802",
+    "https://sports.yahoo.com/articles/tunisia-vs-japan-prediction-world-091000554.html",
+    "https://theanalyst.com/articles/japan-world-cup-2026-preview-curse-stats",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+    "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-tunisia-vs-japan-to-mark-1000th-match-in-tournament-s-history20260620024528/"
+  ],
+  "generated_at": "2026-06-20T14:30:00Z"
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-13",
+  "slips": [
+    {
+      "slip_id": "2026-06-13-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-005",
+          "market": "totals",
+          "selection": "under",
+          "line": 2.5,
+          "odds": 2.15,
+          "model_prob": 0.57,
+          "edge": 0.105,
+          "rationale": "Qatar have not scored in 373+ consecutive minutes and Switzerland's clinical style against a deep defensive block points to a tightly controlled 1-0 or 2-0 win rather than a high-scoring affair."
+        }
+      ],
+      "combined_odds": 2.15,
+      "status": "won",
+      "payout": 21.5,
+      "settled_at": "2026-06-14T07:08:26Z",
+      "rationale": "Model assigns 57% to Under 2.5 against a market-implied 46.5%, a 10.5-point edge driven by Qatar's severe attacking drought and Switzerland's disciplined approach to winning margins."
+    },
+    {
+      "slip_id": "2026-06-13-S2",
+      "type": "single",
+      "stake": 15.0,
+      "legs": [
+        {
+          "match_id": "wc-005",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.52,
+          "model_prob": 0.85,
+          "edge": 0.192,
+          "rationale": "Qatar's 373-minute goalless streak and Lopetegui's two-wins-in-ten record make it highly improbable they trouble Kobel; model places BTTS No at 85% versus the market's 65.8% implied probability."
+        }
+      ],
+      "combined_odds": 1.52,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-14T07:08:26Z",
+      "rationale": "The 19.2-point edge on BTTS No is the strongest signal of the day — Qatar's historically poor attack against a disciplined Swiss defence is pricing at considerable value at 1.52."
+    }
+  ]
+}

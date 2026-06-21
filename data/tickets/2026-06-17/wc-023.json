@@ -1,0 +1,68 @@
+{
+  "match_id": "wc-023",
+  "date": "2026-06-17",
+  "home": "Uzbekistan",
+  "away": "Colombia",
+  "kickoff_utc": "2026-06-18T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_K",
+  "venue": "Estadio Azteca, Mexico City",
+  "analysis": {
+    "summary": "Uzbekistan make their historic World Cup debut against a Colombia side packed with European-based talent including James Rodriguez, Luis Diaz (Bayern Munich), and Luis Suarez. Colombia are heavy favourites, having scored 28 goals in CONMEBOL qualifying (second only to Argentina), while Uzbekistan under Fabio Cannavaro have built a compact, defensively organized unit that drew with Iran and Venezuela and beat Kuwait, Egypt, and Gabon in preparation. The Estadio Azteca's altitude of roughly 2,240m will impose aerobic fatigue on both sides, potentially favouring the more conservative game plan and blunting Colombia's attacking rhythm in the second half.",
+    "home_form": "Uzbekistan's last five competitive results (pre-tournament): W 3-1 vs Gabon, D 0-0 vs Iran, D 0-0 vs Venezuela, L 0-2 vs Canada, L 1-2 vs Netherlands. Four wins in five according to some sources counting earlier friendlies, but recent prep games show mixed outcomes against credible opposition. Defensively solid — held Iran and Venezuela to nil — but struggled to break down organized defences and suffered losses to higher-ranked nations. Captain Eldor Shomurodov (44 international goals) is the main attacking threat; Manchester City's Abdukodir Khusanov anchors an otherwise AFC-standard backline. Midfielder Jaloliddin Masharipov reportedly doubtful with a back injury, limiting creative options in the middle.",
+    "away_form": "Colombia's last five results: W 6-3 vs Venezuela (Sep 2025, CONMEBOL Q), W 4-0 vs Mexico (Oct 2025, friendly), D 0-0 vs Canada (Oct 2025, friendly), W 2-1 vs New Zealand (Nov 2025, friendly), W 3-0 vs Australia (Nov 2025, friendly). Won 4 of 5, scoring 15 and conceding 4 across that run. Over the full CONMEBOL qualifying campaign (18 matches), Colombia scored 28 goals and conceded 18 (averages: 1.56 scored, 1.0 conceded per match). They finished third behind Argentina and Ecuador. No significant injury or suspension concerns reported ahead of the tournament opener.",
+    "h2h": "These two nations have never previously met in an official international fixture — this World Cup match is their first-ever encounter.",
+    "injuries_news": [
+      "Uzbekistan: Jaloliddin Masharipov (midfielder) reportedly doubtful with a back injury — his absence would remove their main creative option outside of Fayzullaev.",
+      "Colombia: No confirmed injuries or suspensions. Full-strength squad available including James Rodriguez, Luis Diaz, Luis Suarez, and Jefferson Lerma.",
+      "No other verified injury or suspension information available for either squad."
+    ],
+    "key_factors": [
+      "Altitude (2,240m at Estadio Azteca): Reduces aerobic capacity by an estimated 5-12% for unacclimatised players. Colombia, playing from sea-level Colombia, may see intensity drop after the 60th minute. Uzbekistan, with several players based in Turkey and Kazakhstan (moderate altitudes), may be marginally more prepared, but neither side has optimal acclimatisation. Altitude historically blunts high-pressing, high-tempo attacks and can produce lower-scoring games than expected.",
+      "Quality gap: Colombia's squad is built from players in top European leagues (Diaz at Bayern Munich, Sanchez at Atletico Madrid, Munoz at Crystal Palace, Suarez at Girona). Uzbekistan's best player, Khusanov, only recently established himself at Manchester City. The technical and physical gap between squads is significant.",
+      "Uzbekistan tactical plan: Cannavaro has constructed a disciplined 3-4-3 / low-block system designed to sit deep, absorb pressure, and hit on transitions. Shomurodov and Fayzullaev provide pace in behind. This approach is capable of keeping the score respectable against superior opposition.",
+      "Colombia attack vs Uzbekistan defence: Colombia generated 28 CONMEBOL qualifying goals but also missed 31 big chances (most of any qualifier). Their finishing can be profligate, raising the chance of a lower-scoring match.",
+      "Tournament context: Both sides need points — Uzbekistan face Portugal and DR Congo next; Colombia face DR Congo then Portugal. A win here is critical for Colombia to build momentum; Uzbekistan would take any point as a landmark result.",
+      "Kickoff at 02:00 UTC (10pm ET / 8pm local): Evening kick-off reduces heat factor, making altitude the dominant environmental factor rather than heat."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.13,
+      "draw": 0.22,
+      "away": 0.65
+    },
+    "predicted_score": "0-2",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47,
+    "btts_yes": 0.32
+  },
+  "value_notes": "Market-implied probabilities (normalized, removing overround of ~6.98%): Uzbekistan 0.125, Draw 0.208, Colombia 0.668. My model probabilities: Uzbekistan 0.13, Draw 0.22, Colombia 0.65. The adjustments are marginal — I shade very slightly toward draw (+0.012) and away from Colombia (-0.018) on account of (a) altitude blunting Colombia's late-game tempo and (b) Uzbekistan's demonstrable defensive organization against stronger opposition (Iran, Venezuela clean sheets). No individual selection reaches the 0.05 edge threshold relative to market implied: my Colombia away edge is 0.65 - 0.668 = -0.018 (no edge); Draw edge 0.22 - 0.208 = +0.012 (below 0.05 threshold); Uzbekistan edge 0.13 - 0.125 = +0.005 (negligible). For totals, market-implied Over 2.5 normalized probability is approximately 0.495 and my model gives 0.47, implying slight value on Under 2.5 but the edge (0.505 - 1/1.87 = 0.505 - 0.535 = -0.030) does not reach 0.05. BTTS Yes market not available in provided odds. No selections meet the required edge threshold of 0.05.",
+  "sources": [
+    "https://www.squawka.com/us/news/world-cup/match-preview-uzbekistan-vs-colombia-06-17-26-world-cup-2026/",
+    "https://www.rotowire.com/soccer/article/uzbekistan-vs-colombia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-k-118365",
+    "https://sports.yahoo.com/articles/world-cup-2026-group-k-200000651.html",
+    "https://sports.yahoo.com/articles/uzbekistan-vs-colombia-prediction-world-100000116.html",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/uzbekistan-vs-colombia-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-arLVQ9O2OR9D/",
+    "https://colombiaone.com/2026/05/29/fabio-cannavaro-uzbekistan-squad-world-cup/",
+    "https://www.fourfourtwo.com/team/uzbekistan-world-cup-2026-squad",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/uzbekistan-cannavaro-preliminary-squad",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/fabio-cannavaro-s-official-squad-for-uzbekistan-at-the-2026-fifa-world-cup-2026-06-02",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-uzbekistan-all-players-full-squad-list-key-stats-schedule",
+    "https://www.prizepicks.com/playbook-article/colombia-world-cup-2026-preview-lineup-best-players-group-picks",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://www.goal.com/en/world-cup-teams/group-k/world-cup-2026-guide-colombia/O~blt46d9bd8f75e779a5",
+    "https://www.sportsmole.co.uk/football/uzbekistan/world-cup-2026/team-news/uzbekistan-vs-colombia-injury-suspension-list-predicted-xis_599305.html",
+    "https://www.sportsmole.co.uk/football/uzbekistan/world-cup-2026/predicted-lineups/key-role-for-khusanov-in-cannavaros-xi-predicted-uzbekistan-lineup-vs-colombia_599299.html",
+    "https://www.tsn.ca/soccer/fifa-world-cup/article/mexico-citys-altitude-poses-a-key-challenge-for-teams-at-the-2026-world-cup/",
+    "https://www.cbssports.com/soccer/news/uzbekistan-colombia-world-cup-2026-preview-predictions-watch/",
+    "https://www.oddsshark.com/soccer/world-cup/uzbekistan-colombia-odds-june-17-2026-2494752",
+    "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/uzbekistan-vs-colombia-odds-prediction-061826-217220",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-squad-announced",
+    "https://www.sportsmole.co.uk/football/colombia/world-cup-2026/predicted-lineups/diaz-rodriguez-ready-for-world-cup-opener-predicted-colombia-xi-vs-uzbekistan_599304.html",
+    "https://www.skysports.com/football/news/12040/13543106/world-cup-2026-group-k-guide-fixtures-schedule-standings-and-odds-for-portugal-dr-congo-uzbekistan-and-colombia"
+  ],
+  "generated_at": "2026-06-17T14:45:00Z"
+}

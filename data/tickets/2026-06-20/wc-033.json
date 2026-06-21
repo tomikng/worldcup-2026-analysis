@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-033",
+  "date": "2026-06-20",
+  "home": "Germany",
+  "away": "Ivory Coast",
+  "kickoff_utc": "2026-06-20T20:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_E",
+  "venue": "BMO Field, Toronto",
+  "analysis": {
+    "summary": "Both Germany and Ivory Coast arrive at BMO Field on maximum points after contrasting Matchday 1 wins. Germany crushed Curacao 7-1 with clinical finishing and dominant possession (66%), while Ivory Coast edged Ecuador 1-0 through Amad Diallo's 90th-minute winner in a tight, end-to-end contest. The winner here all but secures a round-of-16 place with a game to spare, creating high stakes that may paradoxically invite caution. Germany's technical quality and squad depth are decisive advantages, though Ivory Coast's tournament-hardened unit and pressing game make them a genuine test.",
+    "home_form": "Germany are in imperious form: W5 from their last 5 competitive matches scoring 16 goals and conceding 1, including a 6-0 win over Slovakia in November 2025 and a 7-1 opening World Cup demolition of Curacao (xG 3.91 vs 0.40). Musiala, Wirtz, and Havertz are all fully fit and providing elite creativity and finishing. Joshua Kimmich (2 assists vs Curacao) anchors midfield set-piece delivery. Manuel Neuer recovered from a calf issue and started and completed MD1. Only notable absentees are Serge Gnabry (adductor, tournament-ending) and Lennart Karl (muscle tear, replaced pre-tournament) — neither absence critically weakens the first XI.",
+    "away_form": "Ivory Coast head into this match with a confident 1-0 win over Ecuador (MD1), though the performance was built on second-half pressure rather than dominance throughout — Ecuador struck the woodwork three times, underlining the narrow margin. Prior to the World Cup, Ivory Coast reached the 2025 AFCON quarter-finals (losing 3-2 to Egypt) after winning their group with 3W-1D-1L in recent major tournament fixtures. Amad Diallo was decisive as a second-half substitute vs Ecuador and is expected to start here; Seko Fofana and Franck Kessie provide quality and experience in midfield. The team demonstrated defensive resilience across CAF qualifying (10 clean sheets from 10 games) but face a significant step up against Germany.",
+    "h2h": "Germany and Ivory Coast have met only once in recorded history — a November 2009 friendly in Munich that ended 2-2. Podolski scored (penalty, 12') and Comenecia equalized, Doumbia led 2-1 in the 85th minute before Podolski's 90th-minute equalizer. No competitive head-to-head exists, so historical data provides minimal predictive weight.",
+    "injuries_news": [
+      "Germany: Serge Gnabry ruled out for tournament (adductor injury since mid-April). Lennart Karl replaced pre-tournament with Assan Ouedraogo (muscle tear). No current first-XI absences; Manuel Neuer fit and played full 90 vs Curacao.",
+      "Ivory Coast: Evan Ndicka (Roma CB) missed MD1 with hamstring problem and remains doubtful for this fixture; Odilon Kossounou also started on the bench vs Ecuador, leaving the centre-back pairing potentially weakened. No confirmed suspensions entering MD2."
+    ],
+    "key_factors": [
+      "Qualification stakes: The winner of this match will be extremely well-placed to qualify with a game to spare, potentially creating a slightly defensive mentality from Ivory Coast while Germany will push to seal top spot.",
+      "Germany's aerial and set-piece threat: Schlotterbeck scored a header vs Curacao and Germany earned 6 corners in that match from sustained wing pressure; with Wirtz, Sane, and Brown driving forward, expect Germany to generate significant corner volume against an Ivory Coast side defending deeper.",
+      "Ivory Coast's CB injury: Ndicka's absence alongside Kossounou's doubtful status leaves Ivory Coast's central defence potentially under-strength against Havertz and Musiala. Agbadou must lead a weakened back line.",
+      "Ivory Coast counter-attacking threat: Despite Germany's dominance expected in possession, Ivory Coast showed vs Ecuador they can exploit space on the break with Amad Diallo's pace and Singo's athleticism on the right flank. Germany's wide defensive positions can be exposed.",
+      "Rest and travel: Both teams have had similar preparation windows — 6 days since MD1 fixtures (both played June 14), and both travel from US cities (Houston and Philadelphia respectively) to Toronto. Neutral rest-day advantage.",
+      "Ivory Coast pressure: Despite winning MD1, Ivory Coast know Germany is the group's toughest test; a loss would require beating Ecuador in MD3 with goal differential potentially out of reach. This could make them cautious or create errors under pressure."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.57,
+      "draw": 0.25,
+      "away": 0.18
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.65
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.60,
+    "btts_yes": 0.53,
+    "corners_9.5_over": 0.55
+  },
+  "value_notes": "Market-implied probabilities (vig-removed, normalized from overround 1.057): home 0.610, draw 0.225, away 0.165. My model has home at 0.57 (vs market 0.610) — a gap of -0.04 on Germany, which does not meet the 0.05 threshold for a flagged edge but reflects that Germany's 7-1 win was against tournament debutants Curacao and Ivory Coast is a meaningfully stronger opponent with genuine counter-attacking quality. Draw moves to 0.25 (vs market 0.225, gap +0.025) and away to 0.18 (vs market 0.165, gap +0.015) — both below threshold. For totals 2.5 over: market implied 1/1.71 = 0.585; my model 0.60 — a gap of +0.015, below threshold. For BTTS yes: market implied 1/1.67 = 0.599; my model 0.53 — a gap of -0.069, suggesting BTTS No may offer a meaningful edge (model 0.47 vs market implied 1/2.15 = 0.465, gap +0.005, very small). For corners 9.5 over: market implied 1/1.85 = 0.541; my model 0.55 — gap of +0.009, no qualifying edge. Summary: no single market clears the 0.05 edge threshold unambiguously. The closest call is BTTS Yes where the market prices it at 0.599 implied but my model gives 0.53, suggesting the No side at 2.15 is marginally attractive — however the gap on No is only 0.005 and does not meet threshold. No strong value edges identified in this match.",
+  "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760422/curacao-germany",
+    "https://www.espn.com/soccer/report/_/gameId/760422",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-ivory-coast-stuns-ecuador-on-last-gasp-goal-in-group-e-upset-010603589.html",
+    "https://sports.yahoo.com/articles/world-cup-2026-ivory-coast-215000068.html",
+    "https://www.sportsmole.co.uk/football/germany/head-to-head/germany-vs-ivory-coast-head-to-head-record-and-past-meetings_599493.html",
+    "https://www.sportsmole.co.uk/football/germany/world-cup-2026/preview/germany-vs-ivory-coast-prediction-team-news-lineups_599489.html",
+    "https://www.aljazeera.com/sports/2026/6/19/germany-and-ivory-coast-aim-to-seal-world-cup-knockout-place",
+    "https://www.nbcsports.com/soccer/world-cup/live/germany-vs-curacao-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-june-14",
+    "https://worldcupwiki.com/standings/",
+    "https://worldcupwiki.com/group-e/",
+    "https://heavy.com/sports/soccer/world-cup/germany-vs-curacao-match-results-today-fifa-world-cup-2026-live-score-updates-stats/",
+    "https://www.getfootballnewsgermany.com/2026/germany-march-2026-report-card/",
+    "https://worldsoccertalk.com/world-cup/ivory-coast-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.skysports.com/football/news/12098/13543089/world-cup-2026-group-e-guide-fixtures-schedule-standings-and-odds-for-germany-curacao-ivory-coast-and-ecuador",
+    "https://khelnow.com/football/world-football-germany-vs-ivory-coast-head-to-head-record-fifa-world-cup-202606"
+  ],
+  "generated_at": "2026-06-20T10:15:00Z"
+}

@@ -1,0 +1,68 @@
+{
+  "match_id": "wc-031",
+  "date": "2026-06-19",
+  "home": "Türkiye",
+  "away": "Paraguay",
+  "kickoff_utc": "2026-06-20T03:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_D",
+  "venue": "San Francisco Bay Area Stadium, Santa Clara",
+  "analysis": {
+    "summary": "A virtual Group D elimination match: both Türkiye and Paraguay lost their openers (Turkey 0-2 to Australia, Paraguay 1-4 to USA) and sit on zero points, meaning the loser is almost certainly eliminated. Turkey hold the clearer squad quality edge with Calhanoglu, Guler and a returning Yildiz, but must improve on a passive first-match display. Paraguay, despite their heavy defeat to the USA, showed resilience and a counter-attacking threat through Julio Enciso and were arguably flattered by the scoreline against the host nation on home soil.",
+    "home_form": "Turkey lost 0-2 to Australia on June 14 in Vancouver in their World Cup opener — a counterattacking masterclass by Australia exposed defensive disorganisation. In qualification, Turkey won their European playoff comfortably to reach a first World Cup since 2002. Key players Calhanoglu, Yildiz and Kadioglu all came through the Australia match fit. Yildiz (calf) was restricted to a 45-minute cameo off the bench vs Australia but is reported to be training fully and expected to start or feature heavily. No Turkey players suspended.",
+    "away_form": "Paraguay lost 1-4 to USA on June 12 in their opener, with Damian Bobadilla scoring an own goal before halftime and being substituted. Their consolation from Mauricio came at 73 minutes. Pre-tournament friendlies were mixed: W vs Mexico (2-1), L vs Japan (2-2 draw), L vs South Korea (0-2), L vs USA (1-2). Almiron carries an injury doubt. Five Paraguay players who received yellow cards in the USA match are on a suspension tightrope. Caballero (muscular) and Sosa (ankle) also have fitness concerns.",
+    "h2h": "Turkey and Paraguay have met only once competitively — a 0-0 friendly in June 1995. No meaningful head-to-head record exists. This is their first-ever competitive meeting.",
+    "injuries_news": [
+      "Kenan Yildiz (Turkey) — calf strain; missed Australia start, came on for 45 minutes; reported to be in full training and likely to feature from the start or early in match",
+      "Miguel Almiron (Paraguay) — reported injury doubt, fitness not confirmed ahead of June 20 fixture",
+      "Gustavo Caballero (Paraguay) — missed USA match with muscular issue, availability unconfirmed",
+      "Ramon Sosa (Paraguay) — ankle problem, status unconfirmed",
+      "Damian Bobadilla (Paraguay) — own-goal scorer vs USA, substituted halftime, may be dropped from starting XI",
+      "Five Paraguay players on yellow card from Matchday 1 — risk of suspension if booked again (Matchday 2)"
+    ],
+    "key_factors": [
+      "Must-win dynamic for both teams; the loser is effectively eliminated from a group where USA and Australia both sit on 3 points",
+      "Turkey hold a clear squad quality advantage on paper: Calhanoglu, Guler and Yildiz vs Paraguay's more limited attacking options with Almiron doubtful",
+      "Paraguay's best hope is a defensive block and quick counter-attacks through Enciso; Turkey's attacking midfield must break them down",
+      "Paraguay's 5 yellow-carded players create discipline risk — cautious tackling may limit their pressing intensity",
+      "Venue is neutral (Levi's Stadium, Santa Clara); no home advantage for either side",
+      "Paraguay conceded 4 goals in their opener but were partly undone by an early own goal against a top-quality USMNT; their defensive line is not as disorganised as the scoreline implies",
+      "Turkey's defensive frailties vs Australia (2 goals conceded, exploited on the counter) mean Paraguay's counter-attacking style could produce chances",
+      "Rest days roughly equal for both teams (6 days each)"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.50,
+      "draw": 0.29,
+      "away": 0.21
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42,
+    "totals_2.5_under": 0.58,
+    "btts_yes": 0.42,
+    "btts_no": 0.58
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): home 0.478, draw 0.288, away 0.233; totals over 2.5: 0.455, under: 0.545; btts yes: 0.488, btts no: 0.512. Model probabilities: home 0.50, draw 0.29, away 0.21; totals over 0.42, under 0.58; btts yes 0.42, btts no 0.58. No single h2h selection reaches the ≥0.05 edge threshold (Turkey home edge: 0.50 - 0.488 = 0.022; Paraguay edge is negative). The clearest edge is BTTS no: model 0.58 vs market implied 0.512 = edge +0.068, which exceeds the 0.05 threshold. Both teams are likely to be cautious in a must-win situation where conceding first is dangerous, and Paraguay's attacking options are weakened by Almiron's doubtful status; their only goal in the tournament came at 73 minutes in a match already lost 3-0. Turkey are also capable of keeping a clean sheet if organised. Under 2.5 goals edge is smaller (0.58 - 0.545 = +0.035), below the 0.05 threshold. No actionable edge on correct-score or corners markets without sufficient referee/style data.",
+  "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760421/turkiye-australia",
+    "https://www.espn.com/soccer/match/_/gameId/760417/paraguay-united-states",
+    "https://www.skysports.com/football/news/12098/13552630/world-cup-2026-australia-2-0-turkey-socceroos-make-winning-start-to-group-d-campaign-in-vancouver",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/usa-paraguay-highlights-match-report",
+    "https://www.rotowire.com/soccer/article/turkey-vs-paraguay-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-d-118661",
+    "https://www.sportsmole.co.uk/football/turkey/world-cup-2026/preview/turkey-vs-paraguay-prediction-team-news-lineups_599370.html",
+    "https://www.sportsmole.co.uk/football/turkey/world-cup-2026/predicted-lineups/yildiz-doubt-persists-for-montella-predicted-turkey-lineup-vs-paraguay_599445.html",
+    "https://www.rotowire.com/soccer/headlines/kenan-yildiz-injury-seen-in-full-shape-in-training-518387",
+    "https://www.si.com/soccer/turkiye-vs-paraguay-world-cup-preview-predictions-lineups-6-19-26",
+    "https://sports.yahoo.com/articles/preview-turkey-vs-paraguay-team-030500855.html",
+    "https://khelnow.com/football/world-football-turkey-vs-paraguay-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/turkey/world-cup-2026/head-to-head/turkey-vs-paraguay-head-to-head-record-and-past-meetings_599517.html",
+    "https://worldsoccertalk.com/amp/world-cup/2026-world-cup-group-d-updated-standings-table-after-usmnt-vs-paraguay-match/",
+    "https://www.espn.com/soccer/story/_/id/48983478/group-d-2026-world-cup-teams-records-stats-know-usa-paraguay-australia-turkiye",
+    "https://www.goal.com/en/news/turkiye-paraguay-world-cup-preview/blt3887ddc8c5fa4180"
+  ],
+  "generated_at": "2026-06-19T14:30:00Z"
+}

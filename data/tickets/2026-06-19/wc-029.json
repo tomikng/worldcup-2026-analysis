@@ -1,0 +1,58 @@
+{
+  "match_id": "wc-029",
+  "date": "2026-06-19",
+  "home": "Scotland",
+  "away": "Morocco",
+  "kickoff_utc": "2026-06-19T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_C",
+  "venue": "Boston Stadium, Foxborough",
+  "analysis": {
+    "summary": "Scotland (3 pts, top of Group C) face Morocco (1 pt, second) in a pivotal Group C clash at Foxborough. Scotland won their opener 1-0 against Haiti thanks to a deflected John McGinn goal but were far from convincing against a physical lower-ranked side. Morocco impressed in a 1-1 draw with Brazil, with Saibari scoring before Vinicius equalized, demonstrating their quality against elite opposition. Morocco are the clear technical favourites; Scotland's best hope lies in defensive discipline and a counter-attacking threat through McTominay and Robertson.",
+    "home_form": "Scotland beat Haiti 1-0 (WC 2026, June 13) with a deflected McGinn goal in the 28th minute, their first World Cup win since 1990. Prior to the tournament, they qualified dramatically by beating Denmark 4-2 in November 2025 having been 3-0 down, showing resilience but also vulnerability. They are well-organized under Steve Clarke in a 4-2-3-1 or 4-4-2 shape but can be ponderous in possession. Billy Gilmour (knee) is absent which weakens their midfield creativity.",
+    "away_form": "Morocco drew 1-1 with Brazil (WC 2026, June 13), dominating periods of the match and showing real quality through Saibari, Hakimi, and Brahim Diaz. They qualified from Africa with a perfect record (8W from 8). Key absences are Nayef Aguerd (groin, replaced by Saadane) and Ezzalzouli (knee), both cut from the final squad. Morocco's new coach Ouahbi deploys a possession-based 4-2-3-1. Hakimi is fit and playing as captain with 95 caps; Sofyan Amrabat anchors midfield. They have scored in both friendly and tournament openers but left points on the table against Brazil.",
+    "h2h": "These teams have met only once: at the 1998 World Cup in France, Morocco won 3-0 with Craig Burley sent off early in the second half. Scotland have never beaten Morocco in any competitive or friendly fixture. The extremely limited history (1 meeting) means this data carries minimal predictive weight.",
+    "injuries_news": [
+      "Scotland: Billy Gilmour (knee, absent) — replaced by Tyler Fletcher; Scott McKenna (knock, doubtful); Grant Hanley named despite a knock but expected to play.",
+      "Morocco: Nayef Aguerd (groin, absent) — replaced by Marwane Saadane; Abdessamad Ezzalzouli (knee, absent) — replaced by Amine Sbai; Noussair Mazraoui (shoulder, fitness doubt after pre-tournament injury but expected to feature).",
+      "Achraf Hakimi fit and playing as captain; Sofyan Amrabat fit and anchoring midfield."
+    ],
+    "key_factors": [
+      "Tournament context: Scotland lead Group C on 3 pts and could seal a last-16 spot with a win; Morocco need a win to put themselves in strong position to qualify ahead of the Brazil match.",
+      "Morocco's technical superiority vs Scotland's defensive organization: Morocco held Brazil to 1-1 with controlled possession; Scotland grind results but struggle to break down organized opponents.",
+      "Absence of Gilmour weakens Scotland's midfield control; McTominay must carry a heavier creative and physical burden.",
+      "Morocco missing centre-back Aguerd means a makeshift pairing that Scotland's direct forwards (Adams, Shankland) could exploit on set-pieces and long balls.",
+      "Venue factor: Boston area heat and humidity favour the more athletic, technically proficient Morocco side over Scotland's more physical direct style.",
+      "Both teams showed defensive solidity in their openers: Scotland kept a clean sheet vs Haiti; Morocco conceded only once to Brazil. Under 2.5 goals is a live proposition.",
+      "Hakimi's overlapping runs from right-back against Andy Robertson on the left will be a key duel — both are world-class wing-backs who can create overloads."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.17,
+      "draw": 0.27,
+      "away": 0.56
+    },
+    "predicted_score": "0-1",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "totals_2.5_under": 0.62
+  },
+  "value_notes": "Market-implied probabilities (normalized, overround removed): Scotland 0.173, Draw 0.264, Morocco 0.563. My model probs: Scotland 0.17, Draw 0.27, Morocco 0.56. No significant edge on the h2h market — my estimates align closely with the market. On totals (line 2.5): market-implied over probability is 0.418 (normalized), my model assigns 0.38 — a gap of 0.038 favouring under, below the 0.05 edge threshold. Both teams have been defensively solid in their openers (Scotland 1-0 vs Haiti, Morocco 1-1 vs Brazil), supporting the under, but the edge vs the posted market does not clear the 0.05 minimum required for a recommendation. No qualifying edges found in this match.",
+  "sources": [
+    "https://www.101greatgoals.com/football/world-cup-news/scotland-haiti-world-cup-2026-report-result-goals-mcginn/",
+    "https://www.skysports.com/football/brazil-vs-morocco/report/549771",
+    "https://en.hespress.com/139648-injuries-raise-concerns-for-morocco-ahead-of-world-cup-opener-against-brazil.html",
+    "https://www.espn.com/soccer/story/_/id/49027277/morocco-cut-injured-aguerd-ezzalzouli-last-minute-world-cup-reshuffle",
+    "https://www.espn.com/soccer/story/_/id/49022812/key-issues-scotland-2026-world-cup-billy-gilmour-scott-mctominay-striker",
+    "https://www.scotsman.com/sport/football/international/when-did-scotland-last-play-morocco-head-to-head-record-ahead-of-world-cup-clash-and-latest-odds-8748725",
+    "https://africasoccer.com/world-cup-2026-scotland-vs-morocco-tactical-preview/",
+    "https://www.rotowire.com/soccer/article/scotland-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-118659",
+    "https://www.vietnam.vn/en/bang-xep-hang-bang-c-world-cup-2026-moi-nhat-scotland-dung-tren-brazil-morocco",
+    "https://www.espn.com/soccer/story/_/id/49107538/scotland-morocco-line-ups-world-cup-predicted-xis",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/morocco-squad-announcement-mohamed-ouahbi"
+  ],
+  "generated_at": "2026-06-19T11:15:00Z"
+}

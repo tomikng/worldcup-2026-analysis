@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-14",
+  "collected_at": "2026-06-14T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-008",
+      "h2h": {
+        "home": 1.05,
+        "draw": 20.00,
+        "away": 36.00
+      },
+      "totals": {
+        "line": 4.5,
+        "over": 2.08,
+        "under": 1.74
+      },
+      "totals_alt": [
+        {
+          "line": 3.5,
+          "over": 1.57,
+          "under": 2.35
+        }
+      ],
+      "correct_score": {
+        "3-0": 7.00,
+        "4-0": 6.50,
+        "5-0": 8.00
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/germany-curacao-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://oddspedia.com/football/germany-curacao-1654561",
+        "https://www.sportytrader.com/en/odds/germany-curacao-7937446/",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/germany-vs-curacao-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aCceV7d7CMtv/",
+        "https://tips.gg/article/germany-vs-curacao-betting-odds/"
+      ]
+    },
+    {
+      "match_id": "wc-009",
+      "h2h": {
+        "home": 2.00,
+        "draw": 3.75,
+        "away": 3.40
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.91,
+        "under": 1.87
+      },
+      "btts": {
+        "yes": 1.80,
+        "no": 2.00
+      },
+      "sources": [
+        "https://sports.yahoo.com/articles/netherlands-vs-japan-picks-predictions-164551362.html",
+        "https://www.espn.com/soccer/odds/_/gameId/760425",
+        "https://news.williamhill.com/football/world-cup/netherlands-v-japan-prediction-odds-and-best-bets/",
+        "https://www.sportytrader.com/en/betting-tips/netherlands-japan-353974/"
+      ]
+    },
+    {
+      "match_id": "wc-010",
+      "h2h": {
+        "home": 3.50,
+        "draw": 2.80,
+        "away": 2.45
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.37,
+        "under": 1.57
+      },
+      "btts": {
+        "yes": 2.15,
+        "no": 1.67
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/ivory-coast-ecuador-world-cup-2026-preview-predictions-watch/",
+        "https://www.oddsshark.com/soccer/world-cup/ivory-coast-ecuador-odds-june-14-2026-2494722",
+        "https://www.oddschecker.com/us/soccer/world-cup/ivory-coast-v-ecuador",
+        "https://oddspedia.com/football/ivory-coast-ecuador-1654562/predictions"
+      ]
+    },
+    {
+      "match_id": "wc-011",
+      "h2h": {
+        "home": 1.94,
+        "draw": 3.30,
+        "away": 4.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.65
+      },
+      "btts": {
+        "yes": 2.00,
+        "no": 1.80
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/sweden-tunisia-world-cup-2026-preview-predictions-watch/",
+        "https://www.espn.com/soccer/odds/_/gameId/760424",
+        "https://www.wincomparator.com/predictions/sweden-tunisia-7937404/",
+        "https://sports.yahoo.com/articles/sweden-vs-tunisia-picks-predictions-170244839.html"
+      ]
+    }
+  ]
+}

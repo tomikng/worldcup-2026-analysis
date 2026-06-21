@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-15",
+  "source": "web-research (fifa.com, espn.com, skysports.com, lumenfield.com, mercedesbenzstadium.com, ticketmaster.com, beinsports.com, soundersfc.com, wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G, wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H)",
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-012",
+      "kickoff_utc": "2026-06-15T16:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+      "match_id": "wc-013",
+      "kickoff_utc": "2026-06-15T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "home": "Belgium",
+      "away": "Egypt",
+      "venue": "Lumen Field, Seattle"
+    },
+    {
+      "match_id": "wc-014",
+      "kickoff_utc": "2026-06-15T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "venue": "Hard Rock Stadium, Miami Gardens"
+    },
+    {
+      "match_id": "wc-015",
+      "kickoff_utc": "2026-06-16T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "home": "Iran",
+      "away": "New Zealand",
+      "venue": "SoFi Stadium, Inglewood"
+    }
+  ]
+}

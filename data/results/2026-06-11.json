@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-11",
+  "source": "web-research",
+  "fetched_at": "2026-06-12T08:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-001",
+      "home": "Mexico",
+      "away": "South Africa",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760415/south-africa-mexico",
+        "https://www.cbssports.com/soccer/news/mexico-vs-south-africa-live-updates-world-cup-2026-score-result/live/",
+        "https://www.cnn.com/2026/06/11/sport/live-news/world-cup-mexico-south-africa",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-mexico-vs-south-africa-jun-11-2026-game-boxscore-647616"
+      ]
+    },
+    {
+      "match_id": "wc-002",
+      "home": "South Korea",
+      "away": "Czechia",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.skysports.com/football/korea-rep-vs-czech-rep/report/549766",
+        "https://sports.yahoo.com/articles/south-korea-vs-czechia-box-003101523.html",
+        "https://www.outlookindia.com/sports/football/south-korea-vs-czechia-live-score-fifa-world-cup-2026-group-a-kor-v-cze-updates-guadalajara-stadium-highlights",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-opening-ceremonies-june-11-live-updates-rcna349400"
+      ]
+    }
+  ]
+}

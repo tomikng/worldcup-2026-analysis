@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-027",
+  "date": "2026-06-18",
+  "home": "Mexico",
+  "away": "South Korea",
+  "kickoff_utc": "2026-06-19T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_A",
+  "venue": "Estadio Akron, Guadalajara",
+  "analysis": {
+    "summary": "A top-of-the-table Group A clash between two sides that both won on matchday 1 — Mexico 2-0 over South Africa and South Korea 2-1 over Czechia (from a goal down). Mexico enjoy a genuine home advantage at altitude (1,566m above sea level), a vociferous crowd, and a historically dominant head-to-head record versus South Korea (8W-3D-4L all-time, 2/2 at World Cups). South Korea, however, showed attacking quality and resilience in MD1 with Son Heung-min, Lee Kang-in, and Hwang Hee-chan forming a dangerous trio capable of exploiting Mexico's reshuffled defence. The winner takes effective control of Group A and would be on the verge of the round of 16.",
+    "home_form": "Mexico opened the tournament strongly, beating South Africa 2-0 with goals from Julian Quinones (9') and Raul Jimenez (67'). They controlled 60% possession. Jimenez has scored seven goals in seven competitive internationals in 2025, and Roberto Alvarado added creativity in transition. The match was marred by three red cards, including Mexico defender Cesar Montes, who is suspended for this game. Mexico won the 2025 CONCACAF Gold Cup and Nations League prior to the tournament, showing recent form as one of CONCACAF's dominant forces.",
+    "away_form": "South Korea rallied from 0-1 down against Czechia (Krejci 59') to win 2-1 through Hwang In-beom (67') and Oh Hyeon-gyu (80'). Son Heung-min was influential, creating chances and driving play before being substituted around the 67th minute. Lee Kang-in played the key through-ball for the equaliser. South Korea arrived with a squad described as one of their most talented in years, featuring multiple players from top European leagues. Defender Cho Yu-min was withdrawn pre-tournament with a plantar injury; Jo Wi-je was called up as replacement.",
+    "h2h": "Mexico hold a strong all-time head-to-head record versus South Korea: 8 wins, 3 draws, 4 losses across 15 confirmed senior meetings. At the World Cup specifically Mexico have won both prior meetings — 3-1 at France 1998 and 2-1 at Russia 2018. The most recent meeting (September 2025 friendly) ended 2-2, indicating South Korea are capable of matching Mexico, but the historical and World Cup-specific record heavily favours El Tri.",
+    "injuries_news": [
+      "Mexico: Cesar Montes (CB) — suspended after red card vs South Africa, automatic one-match ban. Edson Alvarez expected to shift into a centre-back role. No other confirmed Mexico injuries within the tournament.",
+      "South Korea: Cho Yu-min (LB/LWB) — withdrawn from squad pre-tournament with plantar injury, replaced by Jo Wi-je. Son Heung-min fit and expected to start despite being substituted in MD1."
+    ],
+    "key_factors": [
+      "Altitude advantage: Estadio Akron sits at 1,566m above sea level, a meaningful advantage for Mexico's acclimatised squad and a strain on South Korea's stamina and ball-movement in the second half.",
+      "Home crowd: Mexico are one of the three co-hosts; a full and loud partisan crowd at Estadio Akron provides significant psychological and atmospheric support for El Tri.",
+      "Montes suspension reshapes Mexico defence: Edson Alvarez moves to CB, potentially weakening midfield coverage, but Alvarez is a versatile, quality player accustomed to the role.",
+      "South Korea counter-attack threat: Son, Lee Kang-in, and Hwang Hee-chan are capable of exploiting space on the break — Mexico's higher defensive line at altitude could be vulnerable.",
+      "Tournament stakes: Both teams are on 3 points. A win clinches near-certain progression; a draw leaves both in strong positions. South Korea may be content with a point as the away underdog, which could suppress the game's tempo.",
+      "Recent H2H at World Cup: Mexico have beaten South Korea at both 1998 and 2018 World Cups, including a 2-1 scoreline in Russia — exactly the scenario likely to repeat if Mexico's structure holds.",
+      "South Korea media blackout: Reports of a team media blackout after criticism of Son Heung-min's military service record suggests some internal tension, though its effect on on-pitch performance is speculative."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.50,
+      "draw": 0.27,
+      "away": 0.23
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.43,
+    "btts_yes": 0.49
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.487, draw 0.288, away 0.226. Model probabilities: home 0.500, draw 0.270, away 0.230. The largest divergence is on the draw — model is 0.018 lower than the market (0.270 vs 0.288) — partly because Mexico's altitude and home advantage, plus the superior H2H record at World Cups, makes a clean win slightly more likely than the market implies. Mexico home edge vs market is only +0.013, below the 0.05 threshold. Away South Korea edge vs market is +0.004, also below threshold. No single outcome reaches the 0.05 edge needed for a qualifying value bet. Totals: model over 2.5 is 0.43 vs market-implied 0.406 — model is slightly higher but the gap (+0.024) is below the 0.05 threshold. BTTS yes: model 0.49 vs market-implied 0.522 — model is actually slightly LOWER (−0.032), suggesting the market may be overpricing BTTS yes given Mexico's clean sheet record at altitude and their defensive organisation. No market meets the ≥0.05 edge requirement; no value bets flagged.",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13552605/world-cup-2026-mexico-2-0-south-africa-julian-quinones-and-raul-jimenez-score-as-co-hosts-win-opener-in-game-of-three-red-cards",
+    "https://www.skysports.com/football/korea-rep-vs-czech-rep/report/549766",
+    "https://sports.yahoo.com/articles/whats-next-mexico-without-c-110317278.html",
+    "https://sports.yahoo.com/son-heung-min-responds-injury-092657454.html",
+    "https://www.espn.com/soccer/report/_/gameId/760415",
+    "https://www.espn.com/soccer/report/_/gameId/760414",
+    "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-opening-ceremonies-june-11-live-updates-rcna349400",
+    "https://heavy.com/sports/soccer/world-cup/mexico-world-cup-news-suspension-punishment-el-tri/",
+    "https://www.sportsbookreview.com/picks/soccer/world-cup-altitude-mexico-host-nation-home-field-advantage-2026/",
+    "https://en.wikipedia.org/wiki/Estadio_Akron",
+    "https://worldsoccertalk.com/world-cup/mexico-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://worldsoccertalk.com/amp/world-cup/south-korea-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.thesoccerworldcups.com/head_to_head/south_korea_vs_mexico.php",
+    "https://www.aiscore.com/head-to-head/soccer-mexico-vs-south-korea",
+    "https://www.npr.org/2026/06/17/nx-s1-5835229/mexico-south-korea-world-cup-fans-coreano-hermano"
+  ],
+  "generated_at": "2026-06-18T12:00:00Z"
+}

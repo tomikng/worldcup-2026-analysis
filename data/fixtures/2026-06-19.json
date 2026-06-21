@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-19",
+  "source": "web-research (espn.com, cbssports.com, yahoo.com/sports, rotowire.com, levisstadium.com, seatgeek.com, kqed.org, fox13seattle.com)",
+  "fetched_at": "2026-06-19T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-028",
+      "kickoff_utc": "2026-06-19T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "home": "United States",
+      "away": "Australia",
+      "venue": "Seattle Stadium, Seattle"
+    },
+    {
+      "match_id": "wc-029",
+      "kickoff_utc": "2026-06-19T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "home": "Scotland",
+      "away": "Morocco",
+      "venue": "Boston Stadium, Foxborough"
+    },
+    {
+      "match_id": "wc-030",
+      "kickoff_utc": "2026-06-20T00:30:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "home": "Brazil",
+      "away": "Haiti",
+      "venue": "Philadelphia Stadium, Philadelphia"
+    },
+    {
+      "match_id": "wc-031",
+      "kickoff_utc": "2026-06-20T03:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "venue": "San Francisco Bay Area Stadium, Santa Clara"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-18",
+  "source": "web-research (fifa.com, espn.com, cbssports.com, business-standard.com)",
+  "fetched_at": "2026-06-18T06:10:00Z",
+  "matches": [
+    {
+      "match_id": "wc-024",
+      "kickoff_utc": "2026-06-18T16:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "home": "Czechia",
+      "away": "South Africa",
+      "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+      "match_id": "wc-025",
+      "kickoff_utc": "2026-06-18T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "venue": "SoFi Stadium, Los Angeles"
+    },
+    {
+      "match_id": "wc-026",
+      "kickoff_utc": "2026-06-18T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "home": "Canada",
+      "away": "Qatar",
+      "venue": "BC Place, Vancouver"
+    },
+    {
+      "match_id": "wc-027",
+      "kickoff_utc": "2026-06-19T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "home": "Mexico",
+      "away": "South Korea",
+      "venue": "Estadio Akron, Guadalajara"
+    }
+  ]
+}

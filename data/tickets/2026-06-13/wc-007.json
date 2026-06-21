@@ -1,0 +1,68 @@
+{
+  "match_id": "wc-007",
+  "date": "2026-06-13",
+  "home": "Haiti",
+  "away": "Scotland",
+  "kickoff_utc": "2026-06-14T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_C",
+  "venue": "Gillette Stadium, Foxborough",
+  "analysis": {
+    "summary": "Scotland enter as heavy favourites in their first World Cup appearance since 1998, having qualified by topping their European group with 13 points from 6 matches and scoring 13 goals in 5 wins. Haiti make their first World Cup appearance since 1974 after winning CONCACAF Group C, led by all-time top scorer Duckens Nazon (6 qualifier goals). The match is played at a neutral North American venue with favourable evening temperatures in the low 60s F, removing any meaningful home advantage for Haiti. Scotland's quality and experience gap over an inexperienced World Cup debutant side makes them clear favourites, though Haiti's organised CONCACAF qualifying campaign shows they can compete.",
+    "home_form": "Haiti's last 5 competitive matches (CONCACAF qualifying): W 3-3 draw at Costa Rica (Sep 2025), W 3-0 vs Nicaragua (Oct 2025), L 0-3 at Honduras (Oct 2025), W 1-0 vs Costa Rica (Nov 2025), W 2-0 vs Nicaragua (Nov 2025). Four results from five were wins or draws; the single heavy loss came away at Honduras. Won CONCACAF qualifying Group C as group leaders. Key attacker Duckens Nazon (6 qualifying goals, including hat-trick vs Costa Rica) is the central threat alongside Wilson Isidor and Jean-Ricner Bellegarde (Wolverhampton).",
+    "away_form": "Scotland's last 5 competitive matches (UEFA WC qualifying): W 2-0 vs Belarus (Sep 2025), W 3-1 vs Greece (Oct 2025), W 2-1 vs Belarus (Oct 2025), L 2-3 at Greece (Nov 2025), W 4-2 vs Denmark (Nov 2025). Topped European qualifying Group C with 13 points (4W/1D/1L). Secured qualification with two dramatic stoppage-time goals vs Denmark. Squad led by captain Andrew Robertson (92 caps) and Scott McTominay. Billy Gilmour ruled out with knee injury (replaced by Tyler Fletcher). Scott McTominay had minor stomach complaint in training but expected fit.",
+    "h2h": "No previous meeting between Haiti and Scotland at any level. This is the first competitive encounter between the two nations.",
+    "injuries_news": [
+      "Scotland: Billy Gilmour (knee) ruled out of the tournament; replaced by Tyler Fletcher (Manchester United). Scott McTominay missed one training session with a stomach complaint but is expected to start. Scott McKenna also had a minor knock but is expected to be fit.",
+      "Haiti: No injuries or suspensions reported. Manager Sebastien Migne has a fully fit squad available.",
+      "Scotland goalkeeper Angus Gunn carries a minor injury concern per some reports but is expected to start."
+    ],
+    "key_factors": [
+      "Scotland ranked approximately 40 FIFA places above Haiti (Haiti FIFA rank ~83); significant quality differential across all positions.",
+      "Haiti are World Cup debutants (first tournament since 1974) and have no experience of this stage; Scotland return after a 28-year absence which provides psychological stakes but also tournament rustiness.",
+      "Venue is effectively neutral: Gillette Stadium, Foxborough gives neither side a home advantage. Cool evening temperatures (low 60s F) favour athletic, high-pressing play which suits Scotland's style.",
+      "Referee Mustapha Ghorbal (Algeria) is a 12-year FIFA veteran who took charge of the 2022 UCL final and 2022 WC group games. He averages 3.87 yellow cards per game — slightly above the typical World Cup opener average — making total cards over 4.5 a realistic proposition.",
+      "Duckens Nazon (44 international goals, 6 in qualifying) is Haiti's primary danger; if Scotland neutralise him their defensive task becomes considerably simpler.",
+      "Scotland's wide players — Ben Doak and John McGinn — provide attacking width that could exploit Haiti's defensive shape and generate corners.",
+      "Both teams face Brazil and Morocco in subsequent group games; a point or win here is crucial for knockout stage aspirations.",
+      "Haiti conceded 6 goals in their last 5 competitive matches despite winning form; Scotland's attack (13 goals in last 5) may find gaps."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.14,
+      "draw": 0.24,
+      "away": 0.62
+    },
+    "predicted_score": "0-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.52,
+    "btts_yes": 0.40,
+    "cards_4.5_over": 0.46
+  },
+  "value_notes": "Market-implied probabilities (overround-adjusted from provided odds): Haiti 0.149, Draw 0.206, Scotland 0.645. My model: Haiti 0.14, Draw 0.24, Scotland 0.62. No significant edge on h2h — model broadly agrees with the market though I shade the draw slightly higher (+0.034) at the expense of Scotland win (-0.025) and Haiti (-0.009), reflecting first-match nerves for both debutant/returnee sides; no edge exceeds 0.05 threshold on h2h. Totals 2.5 over: market-implied 0.507, model 0.52 — marginal (+0.013), no qualifying edge. BTTS yes: market-implied 0.473, model 0.40 — model is BELOW market by 0.073, suggesting BTTS No is value (model 0.60 vs market-implied 0.527, edge +0.073 exceeds 0.05 threshold). Rational: Scotland are expected to dominate and may keep a clean sheet given Haiti's limited attacking quality when Nazon is well-marshalled; a 0-2 or 0-1 Scotland win without Haiti scoring is the most likely outcome cluster. Cards 4.5 over: market not provided in the odds file so cannot compute edge — included here for informational purposes based on Ghorbal's 3.87 yellow card average and World Cup opener intensity.",
+  "sources": [
+    "https://www.concacaf.com/competitions/fifa-world-cup/news/fifa-world-cup-2026-team-profile-haiti",
+    "https://tribuna.com/en/team/haiti/table/2026/world-cup-qualification-americas/",
+    "https://www.fourfourtwo.com/team/haiti-world-cup-2026-squad",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-haiti-players-squad-list-key-stats-schedule",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d159741fe9-a2a8fac9839d-1000--scotland-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+    "https://www.espn.com/soccer/story/_/id/48701669/scotland-world-cup-2026-schedule-fixtures-results-scores-group-c-how-watch-uk-news-analysis-injuries",
+    "https://www.espn.com/soccer/story/_/id/49026945/haiti-scotland-kickoff-how-watch-stats-team-news-fifa-world-cup-2026",
+    "https://www.skysports.com/football/haiti-vs-scotland/549772",
+    "https://theanalyst.com/articles/haiti-vs-scotland-prediction-world-cup-2026-match-preview",
+    "https://www.sportsmole.co.uk/football/haiti/world-cup-2026/preview/haiti-vs-scotland-prediction-team-news-lineups_598953.html",
+    "https://www.sportsmole.co.uk/football/haiti/injury-news/team-news/haiti-vs-scotland-injury-suspension-list-predicted-xis_598956.html",
+    "https://www.rotowire.com/soccer/article/haiti-vs-scotland-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-117818",
+    "https://www.scotsman.com/sport/football/international/scotland-vs-haiti-injury-news-steve-clarke-mulls-over-major-decision-on-trio-as-world-cup-campaign-begins-8671906",
+    "https://www.scotsman.com/sport/football/international/scotland-vs-haiti-referee-confirmed-as-12-year-fifa-veteran-to-take-charge-of-world-cup-clash-8668192",
+    "https://www.whoscored.com/referees/3634/show/mustapha-ghorbal",
+    "https://playerstats.football/referee/569",
+    "https://sports.yahoo.com/articles/temperatures-every-world-cup-game-073001417.html",
+    "https://www.covers.com/world-cup/haiti-vs-scotland-prediction-picks-odds-saturday-6-13-2026",
+    "https://www.oddsshark.com/soccer/world-cup/haiti-scotland-odds-june-13-2026-2494716"
+  ],
+  "generated_at": "2026-06-13T12:00:00Z"
+}

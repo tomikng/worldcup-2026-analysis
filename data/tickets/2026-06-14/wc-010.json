@@ -1,0 +1,55 @@
+{
+  "match_id": "wc-010",
+  "date": "2026-06-14",
+  "home": "Ivory Coast",
+  "away": "Ecuador",
+  "kickoff_utc": "2026-06-14T23:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_E",
+  "venue": "Lincoln Financial Field, Philadelphia",
+  "analysis": {
+    "summary": "Ivory Coast and Ecuador open Group E in what is effectively a battle for the second qualification spot behind Germany. The market has Ecuador as marginal favorites despite Opta's supercomputer placing Ivory Coast ahead in 38.6% of 25,000 simulations, suggesting some potential undervaluation of the African side. Ecuador's exceptional defensive record in CONMEBOL qualifying (5 goals conceded in 18 matches) and their draw-specialist tendencies (9 of last 13 internationals drawn) point toward a tight, low-scoring contest, while Ivory Coast's attacking names and strong qualifier campaign (8W/10, 0 goals conceded) give them genuine threat going forward. This figures to be a cagey affair where both sides prioritize not losing given the implications for group progression.",
+    "home_form": "Ivory Coast arrived at the tournament in excellent form, winning 4 of their last 5 competitive matches including a 3-2 win over Gabon, 3-0 over Burkina Faso, and 4-0 over South Korea. In their CAF qualifying campaign they won 8 of 10 matches and were one of only two CAF sides not to concede a single goal across the entire campaign. Key attacking outlets include Amad Diallo (Manchester United), Seko Fofana, and Franck Kessie in central midfield.",
+    "away_form": "Ecuador were the most defensively solid side in CONMEBOL qualifying, conceding just 5 goals across 18 matches and losing only 2 games. They enter the tournament on an extended 19-game unbeaten run and are prolific draw specialists: 9 of their last 13 internationals ended all square. Pre-tournament friendlies yielded draws with the USA (1-1), Mexico (1-1), and Canada (0-0), with a 2-0 win over New Zealand. Moisés Caicedo anchors an excellent midfield-defense structure, while the 3-back system featuring Pacho and Hincapié is elite at the international level.",
+    "h2h": "Ivory Coast and Ecuador have never previously met at senior international level. This World Cup group-stage fixture in Philadelphia on June 14, 2026 constitutes the first all-time encounter between these two nations.",
+    "injuries_news": [
+      "Ivory Coast: Evan Ndicka (Roma, centre-back) is set to miss the opener — Atalanta's Odilon Kossounou expected to partner Emmanuel Agbadou at centre-back in his absence.",
+      "Ivory Coast: Clement Akpa (left-back) was replaced in the squad by Christopher Operi due to injury ahead of the tournament.",
+      "Ecuador: No confirmed injuries or suspensions reported entering the tournament — full-strength squad available."
+    ],
+    "key_factors": [
+      "Ecuador's defensive solidity (CONMEBOL-best 5 goals conceded in 18 qualifiers) versus Ivory Coast's attacking flair — the central tactical battle of the match.",
+      "Ivory Coast's defensive vulnerabilities are heightened with Ndicka absent; Ecuador's clinical counter-attacks through Gonzalo Plata and Kendry Páez could exploit a makeshift centre-back pairing.",
+      "Ecuador's extreme draw-proneness (9 of last 13 all square) makes the 1X double-chance or a draw outcome structurally plausible.",
+      "Group E context: Germany is the clear favorite to top the group. This match is essentially a playoff for second place, meaning neither side can afford a defeat, incentivizing cautious play and a low-stakes draw.",
+      "Moisés Caicedo's (Chelsea) midfield dominance will be the key individual battle against Kessie and Seko Fofana — if Ecuador win this duel, they control tempo and can frustrate Ivory Coast's attacking moves.",
+      "Philadelphia heat and humidity in June (evening kickoff mitigates somewhat) could suit Ecuador's physically conditioned side.",
+      "First World Cup meeting — no psychological edge from historical head-to-head for either team."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.32, "draw": 0.35, "away": 0.33},
+    "predicted_score": "1-1",
+    "confidence": 0.55
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.40,
+    "btts_yes": 0.38
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Home 0.272, Draw 0.340, Away 0.388. My model: Home 0.32, Draw 0.35, Away 0.33. The clearest divergence is on the home (Ivory Coast) side: my estimate of 0.32 vs market implied 0.272, an edge of +0.048 — just below the 0.05 threshold for a qualified bet. Opta's supercomputer (38.6% Ivory Coast win from 25,000 sims) is significantly above both the market and my estimate, suggesting market may be underweighting Ivory Coast. On goals markets: market implies totals_2.5_over at 0.398 (normalized) — my estimate of 0.40 is aligned, no edge. BTTS market implies Yes at 0.437 (normalized); my model gives 0.38, a meaningful divergence of 0.057 suggesting BTTS No has value at 1.67 (model prob 0.62 vs implied 0.563, edge +0.057). Home win at 3.50 is the most interesting h2h line given Opta's simulation data, but the confirmed absence of Ndicka and Ivory Coast's makeshift defence against Ecuador's clinical counter-attack holds back a stronger conviction on that selection.",
+  "sources": [
+    "https://www.whoscored.com/matches/1953869/preview/international-fifa-world-cup-2026-ivory-coast-ecuador",
+    "https://www.squawka.com/en/news/world-cup/ivory-coast-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad",
+    "https://ca.sports.yahoo.com/news/2026-world-cup-news-live-updates-injuries-storylines-as-the-tournament-kicks-off-200000921.html",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://theanalyst.com/articles/ivory-coast-vs-ecuador-prediction-world-cup-2026-match-preview",
+    "https://www.rotowire.com/soccer/article/ivory-coast-vs-ecuador-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-117960",
+    "https://www.sportsmole.co.uk/football/ivory-coast/world-cup-2026/preview/ivory-coast-vs-ecuador-prediction-team-news-lineups_599029.html",
+    "https://www.skysports.com/football/news/12098/13543089/world-cup-2026-group-e-guide-fixtures-schedule-standings-and-odds-for-germany-curacao-ivory-coast-and-ecuador",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E",
+    "https://www.cbssports.com/soccer/news/ivory-coast-ecuador-world-cup-2026-preview-predictions-watch/",
+    "https://www.oddsshark.com/soccer/world-cup/ivory-coast-ecuador-odds-june-14-2026-2494722"
+  ],
+  "generated_at": "2026-06-14T18:45:00Z"
+}

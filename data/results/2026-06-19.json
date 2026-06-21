@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-19",
+  "source": "web-research (espn.com, fifa.com, olympics.com, theanalyst.com, outlookindia.com, nbcnews.com, aljazeera.com, worldsoccertalk.com, foxsports.com, cbssports.com)",
+  "fetched_at": "2026-06-20T10:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-028",
+      "home": "United States",
+      "away": "Australia",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 3,
+      "away_cards": 4,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-group-d-usa-vs-australia-live-updates",
+        "https://www.espn.com/soccer/match/_/gameId/760442/australia-united-states",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021462",
+        "https://sports.yahoo.com/articles/usa-vs-australia-score-live-180001630.html"
+      ]
+    },
+    {
+      "match_id": "wc-029",
+      "home": "Scotland",
+      "away": "Morocco",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 2,
+      "away_corners": 5,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760445/morocco-scotland",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021454",
+        "https://theanalyst.com/articles/scotland-vs-morocco-stats-fifa-world-cup-2026-live",
+        "https://www.espn.com/soccer/story/_/id/49119000/scotland-vs-morocco-latest-updates-commentary-score-world-cup-2026-live-result"
+      ]
+    },
+    {
+      "match_id": "wc-030",
+      "home": "Brazil",
+      "away": "Haiti",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 3,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 4,
+      "away_corners": 4,
+      "stats_sources": [
+        "https://www.espn.com/soccer/story/_/id/49119519/brazil-haiti-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021457",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/19/brazil-vs-haiti-live-world-cup-2026",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-brazil-vs-haiti-jun-19-2026-game-boxscore-647647"
+      ]
+    },
+    {
+      "match_id": "wc-031",
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 1,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760443/paraguay-turkiye",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021460",
+        "https://worldsoccertalk.com/world-cup/why-did-paraguays-miguel-almiron-get-a-red-card-against-turkiye-at-the-2026-world-cup/",
+        "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-195336732.html"
+      ]
+    }
+  ]
+}
