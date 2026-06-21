@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-036",
+  "date": "2026-06-21",
+  "home": "Spain",
+  "away": "Saudi Arabia",
+  "kickoff_utc": "2026-06-21T16:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_H",
+  "venue": "Mercedes-Benz Stadium, Atlanta",
+  "analysis": {
+    "summary": "Spain, who drew 0-0 with Cape Verde in a match where they registered 27 shots and dominated thoroughly, now face a Saudi Arabia side that held Uruguay 1-1 thanks to nine saves from goalkeeper Al Owais. Both sides sit level on one point in a tightly-contested Group H, giving Spain strong motivation to take all three points with qualification on the line. Spain are expected to introduce Lamine Yamal and Nico Williams from the start, a significant upgrade in cutting-edge quality from the Cape Verde outing, while Saudi Arabia will look to replicate their disciplined deep-block approach.",
+    "home_form": "Spain drew 0-0 with tournament debutants Cape Verde in their World Cup opener on June 15, despite generating 27 shots (7 on target). Prior to the tournament: beat Peru 3-1 in a friendly (June 9), drew 1-1 with Iraq in a friendly, drew 0-0 with Egypt, and beat Serbia 3-0 - unbeaten across last five but inconsistent in finishing. De la Fuente expects to start Lamine Yamal and Nico Williams from the first whistle after both were used only as substitutes vs Cape Verde.",
+    "away_form": "Saudi Arabia drew 1-1 with Uruguay in their Group H opener on June 15. Abdulelah Al-Amri gave them a first-half lead before Maxi Araujo equalized in the 79th minute. Goalkeeper Al Owais was outstanding, making nine saves as Uruguay dominated with 67% possession and 22 shots in the second half alone. Saudi Arabia showed excellent defensive organisation under Georgios Donis and the ability to hold a deep block effectively.",
+    "h2h": "Spain lead the all-time head-to-head record 3-0-0. Meetings include a 1-0 Spain win at the 2006 World Cup group stage, a 3-2 friendly win in May 2010, and a 5-0 friendly victory in September 2012. Saudi Arabia have never beaten Spain in any competitive or friendly encounter.",
+    "injuries_news": [
+      "Spain: Dani Carvajal (fractured toe) ruled out of the entire tournament. Fermin Lopez (metatarsal fracture) also out of the tournament entirely.",
+      "Spain: Victor Munoz expected to miss out with a hamstring injury.",
+      "Spain: Nico Williams managing a hamstring concern but is included in the squad and expected to start vs Saudi Arabia.",
+      "Saudi Arabia: No significant injuries or suspensions reported after the Uruguay draw."
+    ],
+    "key_factors": [
+      "Spain upgrading their attack with Lamine Yamal and Nico Williams starting - both were used only as substitutes vs Cape Verde, representing a clear improvement in creative threat on the flanks.",
+      "Group H context: all four teams level on 1 point after Matchday 1; Spain need a win to stay on course for a top-2 finish and must avoid elimination risk, creating strong motivation.",
+      "Saudi Arabia's deep-block strategy was highly effective vs Uruguay (9 GK saves needed), and they are likely to attempt the same against Spain - making goals potentially hard to come by but Saudi Arabia unlikely to score.",
+      "Spain's 27 shots against Cape Verde (a weaker team that held a deep block) underlines they create volume but can be frustrated by resilient defences - the quality of Yamal and Williams should help break down organised defences more clinically.",
+      "Mercedes-Benz Stadium has a retractable roof and full climate control, neutralising any heat/humidity disadvantage for either side.",
+      "Spain's all-time H2H dominance (3-0-0) and Saudi Arabia's historical tendency to be overwhelmed by European powers supports a comfortable Spain win.",
+      "Saudi Arabia's best realistic outcome is a draw or narrow loss to stay in contention for a third-place wildcard slot; they have no need to attack Spain and will sit deep."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.82, "draw": 0.12, "away": 0.06},
+    "predicted_score": "2-0",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.52,
+    "btts_yes": 0.22
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Spain 86.4%, Draw 9.0%, Saudi Arabia 4.6%. My model assigns Spain 82.0%, draw 12.0%, Saudi Arabia 6.0%. I am slightly BELOW the market on Spain (82 vs 86.4, gap of -4.4pp) and slightly above on draw (12 vs 9, gap of +3pp) and Saudi Arabia (6 vs 4.6, gap of +1.4pp). The market appears to over-favour Spain given their failure to score against Cape Verde; the Saudi defensive block is genuinely capable (9 saves vs Uruguay). No single h2h selection meets the +0.05 edge threshold from the market. On totals 2.5 over: my model puts the probability at 52% versus the market-implied 56.5% (1/1.77) - I am below the market, so no value on over 2.5. On btts yes: I assess only 22% probability versus the market-implied 28.6% (1/3.50) - I am significantly below the market. Saudi Arabia scoring against Spain's defence (which is much stronger than Uruguay's) seems unlikely; Al Owais made 9 saves to keep Saudi Arabia in their last match, and their attacking threat is limited. The btts_no market at 1.37 (implied 72.9%) is actually underpriced in my view at a true probability of approximately 78%, giving an edge of roughly +0.05, which is borderline. No market meets the clear +0.05 edge threshold in the outright h2h. The main identifiable edge is btts_no (model: 0.78, implied: 0.73), edge approximately +0.05.",
+  "sources": [
+    "https://www.goal.com/en/news/spain-saudi-arabia-world-cup-preview/blt1074ef2b7b2a625b",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/spain/fixtures",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/head-to-head/spain-vs-saudi-arabia-head-to-head-record-and-past-meetings_599579.html",
+    "https://theanalyst.com/articles/saudi-arabia-vs-uruguay-stats-world-cup-2026",
+    "https://www.foxsports.com/stories/soccer/uruguay-vs-saudi-arabia-4-takeaways-2026-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49071783/spain-cape-verde-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.skysports.com/football/spain-vs-cape-verde/report/549780",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-cabo-verde-highlights-match-report",
+    "https://sports.yahoo.com/articles/spain-vs-saudi-arabia-predicted-053500495.html",
+    "https://www.si.com/soccer/spain-vs-saudi-arabia-world-cup-preview-predictions-lineups-6-21-26",
+    "https://thedakia.com/sports/football/fermin-lopez-world-cup-2026-injury-spain-squad/",
+    "https://thedakia.com/sports/football/nico-williams-injury-update-spain-squad-world-cup-2026/",
+    "https://footballgroundguide.com/news/which-2026-world-cup-stadiums-have-air-conditioning.html",
+    "https://www.business-standard.com/sports/fifa-world-cup/fifa-world-cup-2026-points-table-updated-standings-for-all-12-groups-126061900037_1.html"
+  ],
+  "generated_at": "2026-06-21T11:00:00Z"
+}

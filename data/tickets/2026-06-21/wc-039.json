@@ -1,0 +1,55 @@
+{
+  "match_id": "wc-039",
+  "date": "2026-06-21",
+  "home": "New Zealand",
+  "away": "Egypt",
+  "kickoff_utc": "2026-06-22T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_G",
+  "venue": "BC Place, Vancouver",
+  "analysis": {
+    "summary": "New Zealand and Egypt meet in Vancouver in a pivotal Group G contest, with both sides sitting on one point after opening draws. Egypt drew 1-1 with Belgium on June 15, Emam Ashour scoring before a Hany own goal leveled. New Zealand produced a stunning 2-2 draw with Iran on June 16, with Eli Just becoming the first All White to score twice in a World Cup match. Despite being listed as 'home', New Zealand enjoy no genuine home advantage at BC Place; Egypt are heavy favorites on squad quality but NZ's resilience has been demonstrated.",
+    "home_form": "New Zealand drew 2-2 with Iran (MD1, June 16): Eli Just scored in the 7th and 54th minutes, Iran equalized twice through Rezaeian (32nd) and Mohebbi (64th). Pre-tournament form was poor — nine defeats in 11 competitive matches between mid-2025 and early 2026 — but the World Cup showing against Iran showed tactical organization, a dangerous set-piece threat, and striking quality from Just and Chris Wood.",
+    "away_form": "Egypt drew 1-1 with Belgium (MD1, June 15): Ashour struck in the 19th minute but a Hany own goal in the 66th off Lukaku's introduction gave Belgium a share. Egypt qualified impressively for the tournament, with Salah top-scoring in CAF qualifying (9 goals). Both Salah and Omar Marmoush are fit. Egypt reached the AFCON 2025 semi-finals, losing to Senegal. Squad quality — with Salah, Marmoush and Trezeguet — is clearly superior to New Zealand.",
+    "h2h": "Egypt lead the all-time head-to-head 2W-1D-0L vs New Zealand across three senior meetings. Fixtures: a 1-1 friendly draw in 1999, a 1-0 Egypt win in a 1999 friendly, and a 1-0 Egypt win in the March 2024 FIFA Series. Total goals: 2 for Egypt, 1 for New Zealand across three matches — historically low-scoring encounters, with Egypt clinically efficient.",
+    "injuries_news": [
+      "New Zealand: No confirmed injuries or suspensions. Chris Wood fit after a difficult club season with Nottingham Forest. Eli Just available after his brace vs Iran. Full squad available.",
+      "Egypt: Mohamed Salah fit (recovered from hamstring injury sustained in April 2026 at Liverpool). Omar Marmoush fit and available. No confirmed suspensions going into MD2. Full strength squad available."
+    ],
+    "key_factors": [
+      "Group G context: All four teams level on 1 point after MD1. A win for either side is critical for top-two qualification; a draw leaves both needing results in MD3 vs Belgium and Iran respectively.",
+      "Egypt's attacking quality — Salah and Marmoush are Premier League and Champions League calibre, and face a New Zealand defense that conceded twice to Iran. Egypt will create chances.",
+      "New Zealand's defensive organization and set-piece threat: the 4-2-3-1 with Bell and Stamenic as a double pivot screens well; Chris Wood is dangerous aerially at corners and free kicks.",
+      "Altitude and climate: BC Place is a covered stadium at near sea level with artificial turf — no unusual environmental factor, though the turf may slightly favor Egypt's possession-based style.",
+      "Egypt must win to set up a favorable MD3 against Iran; a draw means they face Belgium needing a result, which is harder. This incentivizes Egypt to push forward, potentially opening space for NZ on the counter.",
+      "New Zealand's pre-tournament form was poor (9 losses in 11), but their MD1 performance vs Iran was significantly above expectations and may have raised confidence and morale."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.18, "draw": 0.24, "away": 0.58},
+    "predicted_score": "0-2",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42
+  },
+  "value_notes": "Market implied probabilities (removing overround of ~4.1%): NZ win 17.5%, draw 22.9%, Egypt win 59.6%. My model: NZ 18.0%, draw 24.0%, Egypt 58.0%. No selection reaches the 0.05 edge threshold required for a value bet. The draw is marginally above market (0.24 vs 0.229, edge 0.011) reflecting NZ's demonstrated defensive resilience; Egypt win is marginally below market (0.58 vs 0.596) as MD1 showed their attack was held by Belgium. On totals, my over 2.5 probability (0.42) is below the market-implied 0.465, implying the under 2.5 has slight appeal (my under prob 0.58 vs market-implied 0.535, edge ~0.045) — this is close to but below the 0.05 threshold. The historical h2h pattern of low-scoring games (3 goals across 3 meetings) further supports caution on the over. No qualifying edges at the 0.05 minimum; no value selections identified.",
+  "sources": [
+    "https://www.nzfootball.co.nz/newsarticle/166930?newsfeedId=2064762",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476",
+    "https://www.espn.com/soccer/match/_/gameId/760427/new-zealand-iran",
+    "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478",
+    "https://www.espn.com/soccer/match/_/gameId/760426/egypt-belgium",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-egypt-highlights-match-report",
+    "https://worldsoccertalk.com/world-cup/new-zealand-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://worldsoccertalk.com/world-cup/egypt-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.sportsmole.co.uk/football/new-zealand/world-cup-2026/head-to-head/new-zealand-vs-egypt-head-to-head-record-and-past-meetings_599696.html",
+    "https://khelnow.com/football/new-zealand-vs-egypt-all-time-head-to-head-record-ahead-of-fifa-world-cup-2026",
+    "https://www.sportsmole.co.uk/football/egypt/world-cup-2026/predicted-lineups/salah-record-chase-marmoush-or-trezeguet-predicted-egypt-xi-vs-new-zealand_599608.html",
+    "https://www.sportsmole.co.uk/football/new-zealand/world-cup-2026/predicted-lineups/just-decision-wood-influence-predicted-new-zealand-xi-vs-egypt_599607.html",
+    "https://www.fourfourtwo.com/team/egypt-world-cup-2026-squad",
+    "https://www.fourfourtwo.com/team/new-zealand-world-cup-2026-squad"
+  ],
+  "generated_at": "2026-06-21T11:00:00Z"
+}

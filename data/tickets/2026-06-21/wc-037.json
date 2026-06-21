@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-037",
+  "date": "2026-06-21",
+  "home": "Belgium",
+  "away": "IR Iran",
+  "kickoff_utc": "2026-06-21T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_G",
+  "venue": "SoFi Stadium, Inglewood",
+  "analysis": {
+    "summary": "Belgium and Iran meet in their Group G second fixture at SoFi Stadium, both having drawn their openers (Belgium 1-1 Egypt, Iran 2-2 New Zealand), making this a pivotal six-pointer where victory provides a major step toward the knockout round. Belgium enter as heavy favourites by FIFA rank (10th vs 24th) but face a significant blow with winger Jeremy Doku ruled out through illness, removing their most direct creative threat on the left. Iran have been severely disrupted by US visa and travel restrictions — forced to commute from a Tijuana base camp on matchdays — creating a logistical disadvantage that could affect recovery and cohesion.",
+    "home_form": "Belgium drew 1-1 with Egypt on June 15, falling behind before levelling late; a disappointing start given their squad quality. Manager Rudi Garcia's side have been unbeaten in their last 14 competitive matches overall but have shown defensive vulnerability, conceding in their last three of four games. De Bruyne is the creative fulcrum, Openda leads the line with Lukaku not fit to start. Doku's confirmed absence through illness materially reduces their wide attacking threat.",
+    "away_form": "Iran drew 2-2 with New Zealand in their opener on June 15, twice trailing and twice equalising to show resilience. Mehdi Taremi is their key attacker and capable of punishing a disorganised defence. Their squad has been weakened by logistical hardship: forced to travel matchday-only between Tijuana and Los Angeles under US visa restrictions, limiting preparation and recovery time. Doubts remain over captain Jahanbakhsh and midfielder Ghoddos (ankle) entering this game.",
+    "h2h": "Belgium and Iran have never previously met at senior international level, making this a historic first encounter. No head-to-head data is available to draw on.",
+    "injuries_news": [
+      "Jeremy Doku (Belgium winger) CONFIRMED OUT — illness, respiratory issue reported for at least two weeks; ruled out by coach Rudi Garcia ahead of the match.",
+      "Zeno Debast (Belgium defender) potential injury concern; Mechele and Ngoy expected to partner in central defence.",
+      "Alireza Jahanbakhsh (Iran captain/winger) — fitness uncertain entering the match.",
+      "Saman Ghoddos (Iran midfielder) — minor ankle injury from the New Zealand game, doubtful.",
+      "Roozbeh Cheshmi (Iran midfielder) — listed as a doubt.",
+      "Romelu Lukaku (Belgium) — not fit to start; limited by a disrupted club season; expected on bench.",
+      "Mehdi Torabi (Iran) — had to visit US consulate on matchday to obtain a new visa, additional logistical disruption."
+    ],
+    "key_factors": [
+      "Doku's absence removes Belgium's most dangerous direct dribbling threat on the left wing, reducing their ability to stretch Iran's defensive block.",
+      "Iran's US travel restrictions (matchday-only entry, forced to return to Tijuana same night) harm preparation, recovery, and team cohesion heading into this fixture.",
+      "Both teams drew their openers, creating urgency — a win for either side would be a major step toward the round of 32; a draw for both sides keeps the group wide open.",
+      "Kevin De Bruyne vs Saeid Ezatolahi is the central midfield battle — if De Bruyne gets time and space he will unlock Iran's low mid-block; Ezatolahi must crowd passing lanes.",
+      "Mehdi Taremi (Iran) is a world-class finisher (Inter Milan) who can exploit a relatively untested Belgium central defensive pairing of Mechele and Ngoy.",
+      "Belgium have not kept a clean sheet in three of their last five internationals, making Iran scoring at least once a realistic prospect if Taremi finds space in transition.",
+      "Iran will likely set up with a compact low block, absorb pressure, and look to hit on the counter through Taremi; Belgium must be patient and disciplined."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.63, "draw": 0.23, "away": 0.14},
+    "predicted_score": "2-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.50,
+    "btts_yes": 0.40
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Belgium 66.6%, Draw 20.7%, Iran 12.7%. My model sets Belgium at 63.0%, draw at 23.0%, Iran at 14.0%. The Doku (illness) absence is a confirmed late development that reduces Belgium's left-wing attacking threat and creative variety; I nudge Belgium's win probability slightly down (66.6% to 63.0%) and shift the draw up slightly (20.7% to 23.0%), as Belgium may lack the cutting edge to convert dominance into goals against a disciplined Iran block. Iran travel disruption partially counteracts any overpricing of Iran. No edge of >=0.05 on the h2h market versus the market. For totals 2.5 over: my model prob is 0.50 vs market-implied 52.4% (1/1.91) — slight lean toward under without Doku, no edge for the over. For BTTS yes: my model prob is 0.40 vs market-implied 44.4% (1/2.25) — without Doku, Belgium's attacking output may be reduced enough to tighten the game; no qualifying edge on either side of BTTS. No market odds available for corners or cards. No Polymarket data available (API returning 403). Overall: no market offers a confirmed edge of >=0.05 from this model; the ticket-builder should flag zero qualifying bets for this match.",
+  "sources": [
+    "https://www.aljazeera.com/sports/liveblog/2026/6/15/belgium-v-egypt-live-world-cup-2026",
+    "https://www.espn.com/soccer/match/_/gameId/760426/egypt-belgium",
+    "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+    "https://www.espn.com/soccer/match/_/gameId/760427/new-zealand-iran",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://www.espn.com/soccer/story/_/id/49128265/jeremy-doku-belgium-world-cup-game-iran",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/team-news/belgium-vs-iran-injury-suspension-list-predicted-xis--world-cup-2026_599612.html",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/preview/belgium-vs-iran-prediction-team-news-lineups_599586.html",
+    "https://www.sportsmole.co.uk/football/iran/world-cup-2026/predicted-lineups/alireza-returns-to-partner-taremi-predicted-iran-world-cup-lineup-vs-belgium_599611.html",
+    "https://www.aljazeera.com/sports/2026/6/19/iran-to-lodge-complaint-with-fifa-over-world-cup-2026-travel-restrictions",
+    "https://www.espn.com/soccer/story/_/id/49120177/iran-fifa-complaint-world-cup-travel-usa",
+    "https://www.goal.com/en/news/belgium-iran-world-cup-preview/blt18a8c3038b7d06a1",
+    "https://www.rotowire.com/soccer/article/belgium-vs-iran-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118933",
+    "https://tips.gg/article/belgium-vs-iran-head-to-head-wc2026/",
+    "https://www.cbssports.com/soccer/news/belgium-vs-iran-world-cup-2026-preview-predictions-watch/",
+    "https://www.theblazingmusket.com/2026-world-cup-group-g-recaps-egypt-belgium-iran-new-zealand-goals-highlights/"
+  ],
+  "generated_at": "2026-06-21T11:00:00Z"
+}

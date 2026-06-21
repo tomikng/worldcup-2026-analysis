@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-21",
+  "collected_at": "2026-06-21T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-036",
+      "h2h": {
+        "home": 1.10,
+        "draw": 10.50,
+        "away": 21.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.77,
+        "under": 1.50
+      },
+      "totals_alt": [
+        {
+          "line": 1.5,
+          "over": 1.14,
+          "under": 5.50
+        },
+        {
+          "line": 3.5,
+          "over": 2.12,
+          "under": 1.71
+        }
+      ],
+      "btts": {
+        "yes": 3.50,
+        "no": 1.37
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/spain-saudi-arabia-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/spain-vs-saudi-arabia-odds-prediction-062126-217125",
+        "https://www.rotowire.com/soccer/article/spain-vs-saudi-arabia-picks-tips-odds-best-bets-2026-world-cup-group-h-119054",
+        "https://www.oddsshark.com/soccer/world-cup/spain-saudi-arabia-picks-odds-2026",
+        "https://www.fanduel.com/research/spain-vs-saudi-arabia-prediction-preview-picks-lineups-and-best-bets-world-cup-2026"
+      ]
+    },
+    {
+      "match_id": "wc-037",
+      "h2h": {
+        "home": 1.43,
+        "draw": 4.60,
+        "away": 7.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.91,
+        "under": 2.00
+      },
+      "btts": {
+        "yes": 2.25,
+        "no": 1.60
+      },
+      "correct_score": {
+        "1-0": 6.50,
+        "2-0": 8.00,
+        "2-1": 9.00,
+        "0-0": 13.00
+      },
+      "sources": [
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/belgium-vs-iran-betting-tips-predictions-team-news-odds-bet-builder-a1cEc7G1Wv8u/",
+        "https://www.cbssports.com/soccer/news/belgium-vs-iran-world-cup-2026-preview-predictions-watch/",
+        "https://dknetwork.draftkings.com/2026/06/16/opening-odds-for-belgium-vs-iran-in-the-fifa-2026-world-cup/",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/belgium-v-iran-35632838",
+        "https://www.sportytrader.com/en/odds/belgium-iran-7937411/"
+      ]
+    },
+    {
+      "match_id": "wc-038",
+      "h2h": {
+        "home": 1.48,
+        "draw": 4.10,
+        "away": 7.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.30,
+        "under": 1.66
+      },
+      "btts": {
+        "yes": 3.00,
+        "no": 1.40
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/uruguay-v-cape-verde-35546806",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/uruguay-vs-cape-verde-odds-prediction-062126-217132",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/uruguay-vs-cape-verde-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-axk8h6E5o4Xt/",
+        "https://www.oddsshark.com/soccer/world-cup/uruguay-cape-verde-odds-june-21-2026-2494785",
+        "https://www.squawka.com/us/news/world-cup/match-preview-uruguay-vs-cape-verde-06-21-26-world-cup-2026/"
+      ]
+    },
+    {
+      "match_id": "wc-039",
+      "h2h": {
+        "home": 5.50,
+        "draw": 4.20,
+        "away": 1.61
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.15,
+        "under": 1.71
+      },
+      "sources": [
+        "https://www.oddsshark.com/soccer/world-cup/new-zealand-egypt-odds-june-21-2026-2494788",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/new-zealand-vs-egypt-odds-prediction-062226-217137",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/new-zealand-vs-egypt-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-abyHq6P5efqn/",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/new-zealand-v-egypt-35546757",
+        "https://www.squawka.com/us/news/world-cup/match-preview-new-zealand-vs-egypt-06-21-26-world-cup-2026/"
+      ]
+    }
+  ]
+}
