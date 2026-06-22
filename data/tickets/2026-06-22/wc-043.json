@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-043",
+  "date": "2026-06-22",
+  "home": "Jordan",
+  "away": "Algeria",
+  "kickoff_utc": "2026-06-23T03:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_J",
+  "venue": "Levi's Stadium, Santa Clara",
+  "analysis": {
+    "summary": "A must-win Group J contest for both sides after opening defeats: Jordan lost 3-1 to Austria and Algeria were beaten 3-0 by Argentina. Algeria carry significantly greater technical quality — a 4-3-3 built around Mahrez, Amoura and Gouiri, all playing at high European club level — while Jordan are a compact, counter-attacking side in their first-ever World Cup who scored a historic goal against Austria from a disciplined 3-4-3 shape. A further defeat for either side would all but end their qualification hopes with Argentina and Austria still to come.",
+    "home_form": "Jordan qualified for the World Cup for the first time in their history, topping AFC qualification and reaching the 2025 Arab Cup final (lost 3-2 to Morocco). At the World Cup, they lost their debut match 3-1 to Austria but showed spirit — Ali Olwan's 50th-minute strike was Jordan's first-ever World Cup goal. Key injury: Yazan Al Naimat (eight qualifying goals) remains out since December with injury. Ibrahim Sabra also withdrew pre-tournament. No suspension concerns reported.",
+    "away_form": "Algeria reached the World Cup under Vladimir Petkovic after a strong AFC qualification where Mohamed Amoura finished as leading scorer with 10 goals. Pre-tournament friendlies included a 4-0 win over Bolivia and 7-0 over Guatemala. At the World Cup, they suffered a 3-0 defeat to Argentina in the opener, a harsh scoreline partly disputed by the FAF who filed a formal complaint with FIFA over refereeing (Messi and Mac Allister incidents). Ismael Bennacer was a pre-tournament injury omission (hamstring). No fresh suspensions confirmed.",
+    "h2h": "The two nations have met just three times: Algeria beat Jordan 6-0 in a 1974 regional tournament; Jordan won 2-1 at the 1988 Arab Cup; the most recent meeting was a 1-1 friendly in May 2004. No meaningful competitive precedent exists. Algeria lead the historical series 1W-1D-1L.",
+    "injuries_news": [
+      "Jordan: Yazan Al Naimat (top qualifying scorer, 8 goals) absent since December with injury — confirmed out of tournament.",
+      "Jordan: Ibrahim Sabra withdrew from squad pre-tournament, replaced by Mohammad Taha.",
+      "Algeria: Ismael Bennacer absent from squad (hamstring injury, suffered during AFCON).",
+      "Algeria: No fresh matchday 1 injuries or suspensions confirmed.",
+      "Jordan: No fresh matchday 1 injuries or suspensions confirmed."
+    ],
+    "key_factors": [
+      "Existential pressure: a defeat for either team would leave them needing a near-miraculous swing on Matchday 3 against stronger opponents (Jordan face Argentina, Algeria face Austria), making this effectively a knockout match.",
+      "Algeria's 4-3-3 attacking frontline of Mahrez, Amoura and Gouiri represents a significant quality gap over Jordan's back three, though Jordan's defensive organization held Austria scoreless for 76 minutes before the match opened up.",
+      "Jordan's counter-attacking threat is real — Musa Al-Taamari and Ali Olwan can hurt Algeria with pace on transitions, and Jordan's compact 3-back shape may make life difficult for Petkovic's side in the early stages.",
+      "The 3-0 scoreline vs Argentina may understate Algeria's true level given disputed refereeing decisions; they are likely to be strongly motivated and better-organized against a Jordan side they will view as beatable.",
+      "Levi's Stadium is a neutral venue in California; no significant altitude, heat or travel advantage for either side.",
+      "Opta's pre-match simulation (25,000 runs) gives Algeria 60.1%, draw 22.2%, Jordan 17.7% — consistent with the market odds."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.17, "draw": 0.22, "away": 0.61},
+    "predicted_score": "1-2",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.50,
+    "btts_yes": 0.50
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Jordan 0.166, Draw 0.238, Algeria 0.596. Model probabilities: Jordan 0.17, Draw 0.22, Algeria 0.61. The model is essentially in line with the market across all three h2h outcomes — no edge of 0.05 or greater exists on h2h. Totals 2.5 over market-implied ~0.495; model ~0.50 — no meaningful edge. BTTS yes market-implied ~0.512; model ~0.50 — slight lean toward under/no on BTTS given Jordan's defensive organization, but gap is below the 0.05 threshold. No value selections identified for this match.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+    "https://www.skysports.com/football/news/12098/13543105/world-cup-2026-group-j-guide-fixtures-schedule-standings-and-odds-for-argentina-algeria-austria-and-jordan",
+    "https://www.aljazeera.com/sports/liveblog/2026/6/16/argentina-vs-algeria-live-world-cup-2026",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021496",
+    "https://www.espn.com/soccer/report/_/gameId/760433",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+    "https://africa.espn.com/football/story/_/id/49124571/jordan-vs-algeria-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+    "https://www.sportsmole.co.uk/football/jordan/world-cup-2026/team-news/jordan-vs-algeria-injury-suspension-list-predicted-xis--world-cup-2026_599711.html",
+    "https://sports.yahoo.com/articles/jordan-vs-algeria-picks-predictions-091822391.html",
+    "https://khelnow.com/football/world-football-jordan-vs-algeria-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/jordan/head-to-head/jordan-vs-algeria-head-to-head-record-and-past-meetings-ahead-of-world-cup-clash_599740.html",
+    "https://en.wikipedia.org/wiki/Jordan_national_football_team",
+    "https://worldsoccertalk.com/world-cup/jordan-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://worldsoccertalk.com/world-cup/algeria-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/jordan-v-algeria-predictions",
+    "https://en.africatopsports.com/2026-fifa-world-cup-algeria-files-formal-complaint-to-fifa-over-controversial-decisions-in-argentina-defeat/"
+  ],
+  "generated_at": "2026-06-22T12:00:00Z"
+}

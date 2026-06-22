@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-040",
+  "date": "2026-06-22",
+  "home": "Argentina",
+  "away": "Austria",
+  "kickoff_utc": "2026-06-22T17:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_J",
+  "venue": "AT&T Stadium, Arlington",
+  "analysis": {
+    "summary": "Argentina, the defending world champions, enter this Group J contest on the back of a dominant 3-0 victory over Algeria in which Lionel Messi scored a hat-trick to equal Klose's all-time World Cup scoring record. Austria beat Jordan 3-1 in their opener but needed an own goal and a stoppage-time Arnautovic penalty to seal the win, exposing defensive frailties against a limited opponent. Both sides currently have 3 points, but Argentina lead on goal difference and a win here would effectively secure Group J qualification. The tactical gap between these squads is substantial, and the market rightly makes Argentina heavy favourites.",
+    "home_form": "Won 3-0 vs Algeria on 16 Jun 2026 (Messi hat-trick, 17', 53', 76'); clean sheet. Prior to tournament: two pre-tournament friendlies saw Argentina win both with clean sheets vs Honduras and Iceland. Current World Cup form: W1 D0 L0, GF 3, GA 0.",
+    "away_form": "Won 3-1 vs Jordan on 17 Jun 2026 (Schmid 22', OG 67', Arnautovic pen 90+2'; Jordan's Olwan 55'). Austria had the same number of shots (11) as Jordan and needed VAR and a late penalty to close out a debutant opponent. First World Cup win in 36 years. Current World Cup form: W1 D0 L0, GF 3, GA 1.",
+    "h2h": "Only two recorded senior meetings: Argentina won 5-1 in a May 1980 friendly in Austria, and the sides drew 1-1 in a May 1990 friendly in Austria. They have never previously met at a FIFA World Cup. The limited sample strongly favours Argentina historically.",
+    "injuries_news": [
+      "Austria: Stefan Posch (defender, Mainz) suffered a broken jaw in the Jordan match after a collision; he underwent specialist fitting for a protective brace in Los Angeles and was confirmed available by coach Rangnick after completing full training on 21 Jun 2026. No surgery required.",
+      "Argentina: No significant injuries or suspensions reported in squad. Nicolas Otamendi's qualifying-era suspension was exempted from applying at the tournament (confirmed May 8, 2026). Joaquin Panichelli (ACL) was ruled out of the tournament entirely before it began but was not in the original squad consideration.",
+      "Austria squad otherwise reported fully fit by Rangnick ahead of this fixture."
+    ],
+    "key_factors": [
+      "Messi in exceptional form: three goals in game 1, moving to 16 World Cup goals to equal Klose; at 38 he is the oldest player to score multiple times in a World Cup match.",
+      "Rangnick's high-press system will aim to disrupt Argentina in possession, but Argentina's technical midfield trio (De Paul, Mac Allister, Fernandez) are well-equipped to play through pressure.",
+      "Austria exposed defensively by Jordan (11 shots, 4 on target); Argentina's attacking movement — Alvarez central, Almada wide, Messi roaming — will create more serious problems.",
+      "Argentina kept a clean sheet vs Algeria; Emiliano Martinez and the defensive unit (Romero, Otamendi) provide a solid platform against Arnautovic-led Austria attack.",
+      "Stefan Posch playing with a broken jaw and protective brace is a potential weak link on Austria's right side that Argentina could target.",
+      "AT&T Stadium in Arlington, Texas: enclosed indoor stadium, artificial turf with capacity crowd — conditions favour a technical team; no meaningful altitude or heat factor relevant to either side.",
+      "Group J context: a win for Argentina clinches qualification with a game to spare; Austria also need points, creating incentive for them to attack and potentially opening space for Argentina on the counter.",
+      "Argentina are playing their second successive game in a Texas stadium (Kansas City for game 1, Arlington for game 2) — minimal travel disruption."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.65, "draw": 0.20, "away": 0.15},
+    "predicted_score": "2-1",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.48,
+    "btts_yes": 0.38
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Argentina win 0.620, draw 0.233, Austria win 0.147. My model: Argentina 0.65 (+0.030 edge), draw 0.20 (-0.033), Austria 0.15 (+0.003). The Argentina win edge is positive but below the 0.05 threshold. The clearest value is on BTTS No: market implies btts_yes at 0.478, my model places it at 0.38, giving btts_no a model probability of 0.62 vs market-implied 0.522 — edge of +0.098 on btts_no (exceeds the 0.05 threshold). Rationale: Argentina kept a clean sheet in game 1, own defensive unit is strong, and Austria's forward line (Arnautovic, Schmid) will face a far sterner test than Jordan. The draw probability at 0.233 implied by market feels slightly generous given Argentina's 3-0 demolition of Algeria and Austria's laboured win; my draw estimate of 0.20 reflects a marginal edge on the away or home outcome but neither exceeds 0.05. No Polymarket data available today (API 403).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+    "https://www.skysports.com/football/argentina-vs-algeria/report/549784",
+    "https://www.skysports.com/football/austria-vs-jordan/report/549785",
+    "https://www.espn.com/soccer/story/_/id/49083659/austria-vs-jordan-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-v-algeria-highlights-match-report",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-jordan-highlights-match-report",
+    "https://www.espn.com/soccer/story/_/id/49138508/austria-stefan-posch-play-argentina-broken-jaw",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/preview/argentina-vs-austria-prediction-team-news-lineups_599671.html",
+    "https://www.intermiamicf.com/news/match-preview-messi-and-de-paul-set-to-face-austria-in-argentina-s-second-fifa-world-cup-2026-group-stage-match",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/austria-s-possible-lineup-to-face-argentina-at-the-2026-fifa-world-cup-2026-06-22",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/news/argentina--scaloni-facing-lineup-dilemma-despite-world-cup-win-over-algeria_599752.html",
+    "https://www.khelnow.com/football/world-football-argentina-vs-austria-head-to-head-record-fifa-world-cup-202606",
+    "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-june-16-messi-argentia-live-updates-rcna350195"
+  ],
+  "generated_at": "2026-06-22T10:15:00Z"
+}

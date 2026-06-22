@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-042",
+  "date": "2026-06-22",
+  "home": "Norway",
+  "away": "Senegal",
+  "kickoff_utc": "2026-06-23T00:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_I",
+  "venue": "MetLife Stadium, East Rutherford",
+  "analysis": {
+    "summary": "Norway enter Matchday 2 as Group I leaders after a commanding 4-1 demolition of Iraq, with Erling Haaland scoring twice on his World Cup debut. Senegal must avoid defeat to maintain any realistic path to the knockout rounds after a 3-1 opening loss to France, in which they were competitive for 45 minutes but capitulated in the second half. This is a high-stakes encounter for Senegal, who carry dangerous attacking weapons in Mane, Jackson and Sarr but face a Norway side brimming with confidence around an in-form Haaland. The neutral MetLife Stadium venue marginally reduces Norway's notional home advantage.",
+    "home_form": "Norway won 4-1 v Iraq (World Cup MD1, June 16) with Haaland scoring at 29' and 44', Ostigard heading a corner goal at 76', plus an own goal. In pre-tournament friendlies: W 3-1 v Sweden (June 1), D 1-1 v Morocco (June 7). World Cup qualifying: unbeaten, 8W 0D 0L, 37 goals scored in 8 matches including an 11-0 v Moldova and a 4-1 win at San Siro v Italy.",
+    "away_form": "Senegal lost 3-1 to France (World Cup MD1, June 16) - competitive first half but conceded three in the second 45; Mbappe brace and Barcola goal, Mbaye pulled one back late. Pre-tournament friendlies showed strong form: W 3-1 v England (Wembley, June 2025), W 2-0 v Brazil (away). World Cup qualifying: unbeaten, 7W 3D 0L from 10 games in CAF Group B. Won AFCON 2025 title (subsequently stripped by CAF over protest incident in the final).",
+    "h2h": "Only one prior senior meeting: Senegal 1-0 Norway (friendly, March 2006). No meaningful competitive head-to-head history exists between these sides.",
+    "injuries_news": [
+      "Norway: No confirmed injuries reported. David Moller Wolfe and Julian Ryerson had minor concerns post-Iraq but are expected available. Side expected to be largely unchanged from MD1.",
+      "Senegal: No confirmed injuries or suspensions reported ahead of MD2. Full squad appears available. Pape Thiaw (head coach) faced a CAF suspension threat but is expected to be on the touchline. Ibrahim Mbaye may contest for a starting berth after scoring as a substitute vs France.",
+      "Sadio Mane: Named in Senegal's 26-man World Cup squad and started against France; fit and available."
+    ],
+    "key_factors": [
+      "Haaland vs Senegal's central defence: Haaland scored twice against Iraq and his aerial and physical presence will test Koulibaly and the Senegal backline throughout.",
+      "Senegal's must-win pressure: With 0 points from MD1, Senegal essentially need a win or draw here to remain alive; this compels them to attack, potentially opening space for Norway on the counter.",
+      "Ødegaard as creator: Martin Ødegaard was central to Norway's attacking play against Iraq and his link-up play with Haaland is a primary threat.",
+      "Senegal's attack potent but second-half fragility: The trio of Mane, Sarr and Jackson has quality to threaten any defense, but France exposed Senegal's tendency to fade in the second half.",
+      "Neutral venue at altitude/heat: MetLife Stadium (East Rutherford, NJ) is a sea-level outdoor venue with humid June conditions - no significant altitude advantage for either side.",
+      "Group standing stakes: Norway win secures early qualification; Senegal must avoid elimination. France vs Iraq plays simultaneously, making goal difference relevant."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.44,
+      "draw": 0.27,
+      "away": 0.29
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.55,
+    "btts_yes": 0.52
+  },
+  "value_notes": "Market implied probabilities (overround removed): Norway 0.414, Draw 0.280, Senegal 0.307. My model gives Norway 0.44 (+0.026 edge), Draw 0.27 (-0.010), Senegal 0.29 (-0.017). No single outcome clears the 0.05 edge threshold for h2h. For totals_2.5_over: market implied 0.482 (1/1.99 normalised), my estimate 0.55 - edge of +0.068, which exceeds the 0.05 threshold. For btts_yes: market implied approximately 0.585 (1/1.71, no 'no' price provided to normalize precisely), my estimate 0.52 - this is below the market implied, so no value on btts_yes. In summary, the only market with a qualifying edge (>=0.05) is totals_2.5_over at +0.068 based on both teams' attacking output in MD1 (Norway 4 goals, Senegal conceded 3 and scored 1) and the compulsion for Senegal to chase the game. No Polymarket data available.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+    "https://www.espn.com/soccer/story/_/id/49086293/norway-vs-iraq-live-world-cup-2026-updates-haaland-makes-tournament-debut-commentary-score-result",
+    "https://www.skysports.com/football/news/12098/13552715/world-cup-2026-iraq-1-4-norway-erling-haaland-scores-twice-on-tournament-debut-as-stale-solbakkens-side-make-winning-start",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-norway-highlights-match-report",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/france-senegal-highlights-match-report",
+    "https://www.espn.com/soccer/story/_/id/49083651/france-senegal-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.cbssports.com/soccer/news/france-vs-senegal-live-updates-world-cup-2026-score-result/live/",
+    "https://sports.yahoo.com/articles/preview-norway-vs-senegal-team-000500486.html",
+    "https://www.sportsmole.co.uk/football/norway/world-cup-2026/head-to-head/norway-vs-senegal-head-to-head-record-and-past-meetings_599739.html",
+    "https://www.squawka.com/en/news/world-cup/norway-world-cup-2026-fixtures-squad-analysis/",
+    "https://www.aljazeera.com/sports/2026/5/30/senegals-world-cup-2026-team-preview-players-to-watch-group-squad-list",
+    "https://worldsoccertalk.com/news/sadio-mane-faces-senegal-setback-ahead-of-usmnt-clash-and-2026-world-cup-as-coach-thiaw-is-suspended/",
+    "https://www.espn.com/soccer/story/_/id/49082534/group-2026-world-cup-teams-records-stats-know-france-senegal-iraq-norway"
+  ],
+  "generated_at": "2026-06-22T14:30:00Z"
+}
