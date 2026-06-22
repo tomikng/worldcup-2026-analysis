@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-22",
+  "source": "web-research",
+  "fetched_at": "2026-06-22T06:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-040",
+      "kickoff_utc": "2026-06-22T17:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "home": "Argentina",
+      "away": "Austria",
+      "venue": "AT&T Stadium, Arlington"
+    },
+    {
+      "match_id": "wc-041",
+      "kickoff_utc": "2026-06-22T21:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "home": "France",
+      "away": "Iraq",
+      "venue": "Lincoln Financial Field, Philadelphia"
+    },
+    {
+      "match_id": "wc-042",
+      "kickoff_utc": "2026-06-23T00:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "home": "Norway",
+      "away": "Senegal",
+      "venue": "MetLife Stadium, East Rutherford"
+    },
+    {
+      "match_id": "wc-043",
+      "kickoff_utc": "2026-06-23T03:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "home": "Jordan",
+      "away": "Algeria",
+      "venue": "Levi's Stadium, Santa Clara"
+    }
+  ]
+}

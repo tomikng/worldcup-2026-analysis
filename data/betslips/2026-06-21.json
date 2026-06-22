@@ -13,14 +13,14 @@
           "line": null,
           "odds": 1.37,
           "model_prob": 0.78,
-          "edge": 0.050,
+          "edge": 0.05,
           "rationale": "Saudi Arabia have extremely limited attacking output (just one goal in MD1 against a far weaker defensive Uruguay) and Spain's backline, even without Carvajal, is unlikely to be breached; model assigns 78% to btts-no versus the market-implied 73%."
         }
       ],
       "combined_odds": 1.37,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 6.85,
+      "settled_at": "2026-06-22T07:09:05Z",
       "rationale": "Thin but positive edge on Saudi Arabia failing to score against a strong Spain defence; borderline qualifier at 5u minimum stake."
     },
     {
@@ -33,16 +33,16 @@
           "market": "btts",
           "selection": "no",
           "line": null,
-          "odds": 1.40,
-          "model_prob": 0.80,
+          "odds": 1.4,
+          "model_prob": 0.8,
           "edge": 0.086,
           "rationale": "Cabo Verde's attack managed only 6 shots against Spain and poses minimal threat to any organised defence; Uruguay's own MD1 performance showed defensive vulnerability but Cabo Verde are highly unlikely to score, and Uruguay's 60% win probability is largely built on a clean sheet; model assigns 80% to btts-no versus market-implied 71.4%."
         }
       ],
-      "combined_odds": 1.40,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 1.4,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-22T07:09:05Z",
       "rationale": "Solid edge on Cabo Verde failing to score; their MD1 output (6 shots, 0 goals vs Spain) and limited attacking personnel support a one-sided low-scoring match."
     },
     {
@@ -57,7 +57,7 @@
           "line": null,
           "odds": 1.37,
           "model_prob": 0.78,
-          "edge": 0.050,
+          "edge": 0.05,
           "rationale": "Saudi Arabia's attacking limitations against Spain's defence make a goal from the visitors very unlikely."
         },
         {
@@ -65,16 +65,16 @@
           "market": "btts",
           "selection": "no",
           "line": null,
-          "odds": 1.40,
-          "model_prob": 0.80,
+          "odds": 1.4,
+          "model_prob": 0.8,
           "edge": 0.086,
           "rationale": "Cabo Verde's minimal attacking output (6 shots vs Spain) and Uruguay's defensive priority make it unlikely both teams score."
         }
       ],
       "combined_odds": 1.918,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-22T07:09:05Z",
       "rationale": "Two independently value-positive btts-no legs from the Group H doubleheader; both outcomes grounded in MD1 evidence of weak attacking sides facing organised defences."
     }
   ]

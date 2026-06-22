@@ -1,17 +1,17 @@
 {
   "starting_bankroll": 1000.0,
-  "bankroll": 943.4,
-  "updated_at": "2026-06-21T07:21:46Z",
+  "bankroll": 950.25,
+  "updated_at": "2026-06-22T07:09:05Z",
   "stats": {
     "total_staked": 140.0,
-    "total_returned": 83.4,
-    "profit": -36.6,
-    "roi": -0.305,
-    "slips_won": 7,
-    "slips_lost": 9,
+    "total_returned": 90.25,
+    "profit": -49.75,
+    "roi": -0.3554,
+    "slips_won": 8,
+    "slips_lost": 11,
     "slips_void": 0,
-    "slips_pending": 3,
-    "hit_rate": 0.4375,
+    "slips_pending": 0,
+    "hit_rate": 0.4211,
     "by_market": {
       "totals": {
         "staked": 35.0,
@@ -21,9 +21,9 @@
       },
       "btts": {
         "staked": 85.0,
-        "returned": 34.5,
-        "won": 3,
-        "lost": 5
+        "returned": 41.35,
+        "won": 4,
+        "lost": 6
       }
     }
   },
@@ -80,7 +80,7 @@
     },
     {
       "date": "2026-06-21",
-      "bankroll": 943.4
+      "bankroll": 950.25
     }
   ]
 }
