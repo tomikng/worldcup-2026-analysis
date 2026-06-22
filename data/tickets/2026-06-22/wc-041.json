@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-041",
+  "date": "2026-06-22",
+  "home": "France",
+  "away": "Iraq",
+  "kickoff_utc": "2026-06-22T21:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_I",
+  "venue": "Lincoln Financial Field, Philadelphia",
+  "analysis": {
+    "summary": "France enter as overwhelming favorites after a commanding 3-1 win over Senegal on matchday 1, with Kylian Mbappe becoming France's all-time leading scorer and the attacking trident of Mbappe, Olise, and Barcola looking sharp. Iraq were beaten 4-1 by Norway in their opener, creating only 0.77 xG against a side weaker than France, and head coach Graham Arnold acknowledged this is their toughest assignment. This is the first-ever competitive meeting between these nations. France's superior squad depth, elite attackers, and Iraq's defensive frailty make a heavy France win the most likely outcome.",
+    "home_form": "France won 4 of last 5 matches including World Cup opener: 3-1 vs Senegal (Mbappe 2, Barcola), 3-1 vs Northern Ireland (friendly), 3-1 vs Colombia (friendly), 2-1 vs Brazil (friendly), 1-2 loss to Ivory Coast (friendly with PSG players rested). Mbappe is France's all-time scorer with 58 goals. Olise provided assists and a hat-trick in pre-tournament warm-up. France lineup vs Senegal: 4-2-3-1 with Maignan; Kounde, Upamecano, Saliba, T.Hernandez; Tchouameni, Rabiot; Olise, Dembele, Doue; Mbappe. Expected changes vs Iraq: Barcola to start (scored as sub vs Senegal), Digne and Kone also tipped to come in.",
+    "away_form": "Iraq lost 1-4 to Norway in their World Cup opener, creating just 0.77 xG (1 shot on target from 11 attempts). Aymen Hussein scored Iraq's sole goal (header, 39'). Iraq conceded twice before half-time and were overrun in the second half. During AFC qualifying, Iraq averaged only 0.77 goals conceded per game under Arnold, but Norway exposed them badly. Arnold's pragmatic 4-4-2 relies on defensive organization, but they were overwhelmed by Haaland and company. Iraq have been out of the World Cup since 1986. Zaid Tahseen picked up a yellow card vs Norway (86', caution only, no suspension). Arnold confirmed Ali Jassim is fit and expected to start.",
+    "h2h": "France and Iraq have never previously met in a senior international fixture — this is their first-ever encounter.",
+    "injuries_news": [
+      "France: No significant injuries or suspensions reported ahead of matchday 2. Deschamps expected to rotate with Barcola starting, Digne and Kone coming in. No yellow card accumulation concern after one game.",
+      "Iraq: Defender Ahmed Yahya missed the tournament with a hamstring injury (replaced by Ahmed Maknzi in squad). Goalkeeper Jalal Hassan also absent. Zaid Tahseen (yellow vs Norway) — no suspension risk yet. Ali Jassim confirmed fit by Arnold. Youssef Amyn had hamstring issues pre-tournament; status unconfirmed for this game."
+    ],
+    "key_factors": [
+      "France's attacking depth is world-class: Mbappe, Olise, Barcola, and Dembele all in peak form, capable of cutting open Iraq's 4-4-2 block repeatedly.",
+      "Iraq conceded 4 goals to Norway (xGA 2.59) — their defensive structure was repeatedly broken by crosses and movement. France's wide attacking play is likely to be even more damaging.",
+      "Iraq's offensive output was minimal (0.77 xG vs Norway); France's defense (Saliba, Upamecano, Maignan) is significantly stronger than Norway's, reducing Iraq's scoring chances further.",
+      "Tournament context: France need a win to maintain top position alongside Norway; Iraq must score to stay alive. Arnold has pledged to attack, which may open space for French counters.",
+      "First-ever meeting between these sides — no head-to-head adjustment needed, France's class differential is the dominant factor.",
+      "Philadelphia heat and a long trip from Boston for Iraq (6 days since last match). France had the same 6-day gap."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.87,
+      "draw": 0.08,
+      "away": 0.05
+    },
+    "predicted_score": "4-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.72,
+    "totals_3.5_over": 0.52,
+    "btts_yes": 0.28
+  },
+  "value_notes": "Market-implied probabilities (overround removed): France win 0.865, draw 0.099, Iraq win 0.036. My model puts France win at 0.87 — essentially in line with the market, no meaningful edge on h2h. On totals: market implies over 3.5 at 0.484 and over 2.5 at 0.522; my model is higher on both (over 3.5: 0.52, over 2.5: 0.72) — France's devastating attack vs Iraq's porous defense (4 conceded to Norway) supports over 2.5 at 0.72 vs market-implied 0.522, giving an edge of approximately +0.20 on totals_2.5_over. Over 3.5 at my 0.52 vs market 0.484 yields edge +0.036, below the 0.05 threshold. On BTTS: market-implied yes is approximately 0.357 (1/2.80); my model gives BTTS yes only 0.28, meaning I see value on BTTS no — edge approximately +0.077 on btts_no, though odds for 'no' were not provided in the supplied data. No Polymarket data available today (API 403).",
+  "sources": [
+    "https://worldcupwiki.com/standings/",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+    "https://www.espn.com/soccer/story/_/id/49082534/group-2026-world-cup-teams-records-stats-know-france-senegal-iraq-norway",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/france-senegal-highlights-match-report",
+    "https://www.espn.com/soccer/report/_/gameId/760432",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-norway-highlights-match-report",
+    "https://www.espn.com/soccer/report/_/gameId/760430",
+    "https://www.skysports.com/football/news/12098/13552715/world-cup-2026-iraq-1-4-norway-erling-haaland-scores-twice-on-tournament-debut-as-stale-solbakkens-side-make-winning-start",
+    "https://heavy.com/sports/soccer/world-cup/iraq-vs-norway-results-today-fifa-world-cup-2026-live-score-updates-stats/",
+    "https://worldsoccertalk.com/world-cup/iraq-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.iraqinews.com/sports/world-cup-2026-iraq-france-arnold-aymen-hussein-presser/",
+    "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/iraqs-arnold-promises-have-go-against-france-world-cup-4204851",
+    "https://theanalyst.com/articles/mbappe-dembele-olise-france-stars-power-them-to-world-cup-glory",
+    "https://www.france24.com/en/sport/20260616-france-senegal-live-mbappe-dembele-mane-kick-off-world-cup-campaign-group-i-showdown",
+    "https://sports.yahoo.com/articles/france-vs-iraq-predictions-picks-130000426.html",
+    "https://global.espn.com/football/story/_/id/49137803/iraq-coach-france-kylian-mbappe-3-goalkeepers-graham-arnold",
+    "https://www.espn.com/soccer/story/_/id/49123829/fifa-world-cup-2026-france-vs-iraq-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+  ],
+  "generated_at": "2026-06-22T14:30:00Z"
+}

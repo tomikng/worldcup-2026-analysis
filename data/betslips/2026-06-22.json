@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-22",
+  "slips": [
+    {
+      "slip_id": "2026-06-22-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-040",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.83,
+          "model_prob": 0.62,
+          "edge": 0.074,
+          "rationale": "Argentina kept a clean sheet vs Algeria and face a limited Austria attack; model puts BTTS No at 62% against the market-implied 55%, yielding a 7.4-point edge."
+        }
+      ],
+      "combined_odds": 1.83,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Argentina's defensive solidity (Romero, Otamendi, Martinez) and Austria's modest forward line make both teams scoring unlikely; sole qualifying edge on the card today."
+    }
+  ]
+}
