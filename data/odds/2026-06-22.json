@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-22",
+  "collected_at": "2026-06-22T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-040",
+      "h2h": {
+        "home": 1.54,
+        "draw": 4.10,
+        "away": 6.50
+      },
+      "double_chance": {
+        "1x": 1.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.00,
+        "under": 1.83
+      },
+      "btts": {
+        "yes": 2.00,
+        "no": 1.83
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/argentina-austria-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://www.oddsshark.com/soccer/world-cup/argentina-austria-picks-odds-2026",
+        "https://www.fanduel.com/research/argentina-vs-austria-prediction-preview-picks-lineups-and-best-bets-world-cup-group-j",
+        "https://dknetwork.draftkings.com/2026/06/21/argentina-vs-austria-prediction-pick-for-monday-6-22-26/"
+      ]
+    },
+    {
+      "match_id": "wc-041",
+      "h2h": {
+        "home": 1.09,
+        "draw": 9.50,
+        "away": 26.00
+      },
+      "totals": {
+        "line": 3.5,
+        "over": 1.95,
+        "under": 1.83
+      },
+      "totals_alt": [
+        {
+          "line": 2.5,
+          "over": 1.44,
+          "under": 1.57
+        }
+      ],
+      "btts": {
+        "yes": 2.80
+      },
+      "sources": [
+        "https://dknetwork.draftkings.com/2026/06/17/opening-odds-for-france-vs-iraq-in-the-fifa-2026-world-cup/",
+        "https://www.espn.com/soccer/odds/_/gameId/760457",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/france-vs-iraq-odds-prediction-062226-217160",
+        "https://www.covers.com/world-cup/france-vs-iraq-prediction-picks-odds-monday-6-22-2026"
+      ]
+    },
+    {
+      "match_id": "wc-042",
+      "h2h": {
+        "home": 2.30,
+        "draw": 3.40,
+        "away": 3.10
+      },
+      "double_chance": {
+        "1x": 1.30,
+        "12": 1.23,
+        "x2": 1.68
+      },
+      "dnb": {
+        "home": 1.64,
+        "away": 2.23
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.99,
+        "under": 1.85
+      },
+      "btts": {
+        "yes": 1.71
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760454",
+        "https://sports.betmgm.com/en/blog/world-cup/norway-vs-senegal-prediction-odds-preview-world-cup-june-22-bm16/",
+        "https://www.covers.com/world-cup/norway-vs-senegal-prediction-picks-odds-monday-6-22-2026",
+        "https://www.oddschecker.com/football/world-cup/norway-v-senegal/winner",
+        "https://stake.com/sports/soccer/international/world-cup/46511522-norway-senegal"
+      ]
+    },
+    {
+      "match_id": "wc-043",
+      "h2h": {
+        "home": 5.75,
+        "draw": 4.00,
+        "away": 1.60
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.91,
+        "under": 1.87
+      },
+      "btts": {
+        "yes": 1.91,
+        "no": 2.00
+      },
+      "correct_score": {
+        "1-2": 9.00
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760455",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/jordan-vs-algeria-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-abUG75Z79uPM/",
+        "https://sports.yahoo.com/articles/jordan-vs-algeria-picks-predictions-091822391.html",
+        "https://sports.yahoo.com/articles/jordan-vs-algeria-predictions-picks-180000484.html"
+      ]
+    }
+  ]
+}
