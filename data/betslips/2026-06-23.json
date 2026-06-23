@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-23",
+  "slips": [
+    {
+      "slip_id": "2026-06-23-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-046",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.78,
+          "model_prob": 0.65,
+          "edge": 0.088,
+          "rationale": "Panama failed to score in MD1 against Ghana and face a Croatia side resetting to a compact 4-2-3-1; model assigns only 35% chance both teams score, well below the market-implied 49%."
+        }
+      ],
+      "combined_odds": 1.78,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "BTTS No in Panama vs Croatia is the sole qualifying edge today — Panama's toothless attack (0 goals in MD1) and Croatia's defensive reset make the market's ~49% BTTS-yes implied probability significantly too high against our 35% model estimate."
+    }
+  ]
+}

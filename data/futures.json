@@ -96,6 +96,18 @@
       "status": "open",
       "resolved_at": null,
       "rationale": "Germany has clinched Group E with 6pts and +7 GD after two wins (7-1 vs Curacao, 2-1 vs Ivory Coast); Ivory Coast cannot overcome Germany's goal-difference advantage in R3, making Germany's group-win probability ~97% vs the market price of 0.75, yielding a +0.22 edge."
+    },
+    {
+      "position_id": "FUT-9",
+      "market_title": "World Cup Group I Winner",
+      "outcome": "Norway",
+      "entry_price": 0.22,
+      "stake": 5.0,
+      "url": "https://polymarket.com/event/world-cup-group-i-winner",
+      "opened": "2026-06-23",
+      "status": "open",
+      "resolved_at": null,
+      "rationale": "Norway are tied with France on 6pts after beating Senegal 3-2 in MD2; Norway need only beat France in MD3 to top the group, which the model estimates at ~33% probability vs the market's 22¢ price, yielding a +0.11 edge."
     }
   ]
 }
