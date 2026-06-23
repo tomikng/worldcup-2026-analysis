@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-23",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-044",
+      "h2h": {
+        "home": 1.22,
+        "draw": 7.00,
+        "away": 15.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.61,
+        "under": 2.35
+      },
+      "totals_alt": [
+        {
+          "line": 3.5,
+          "over": 2.37,
+          "under": 1.57
+        }
+      ],
+      "btts": {
+        "yes": 2.40,
+        "no": 1.56
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/portugal-uzbekistan-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://www.sportscasting.com/news/portugal-vs-uzbekistan-predictions-supercomputer-betting-picks-odds-world-cup/",
+        "https://betting.betfair.com/football/world-cup-2026/portugal-v-uzbekistan-world-cup-tips-best-bets-match-preview-prediction-1-220626-1063.html",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/portugal-vs-uzbekistan-odds-prediction-062326-217175",
+        "https://www.fanduel.com/research/portugal-vs-uzbekistan-prediction-lineups-preview-picks-and-best-bets-world-cup-2026"
+      ]
+    },
+    {
+      "match_id": "wc-045",
+      "h2h": {
+        "home": 1.21,
+        "draw": 6.50,
+        "away": 14.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.67,
+        "under": 2.28
+      },
+      "btts": {
+        "yes": 2.60,
+        "no": 1.50
+      },
+      "sources": [
+        "https://www.rotowire.com/soccer/article/england-vs-ghana-picks-tips-odds-best-bets-2026-world-cup-group-l-119332",
+        "https://bleacherreport.com/articles/25443797-england-vs-ghana-odds-live-stream-schedule-group-scenarios-world-cup-2026",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/england-vs-ghana-odds-prediction-062326-217179",
+        "https://news.williamhill.com/football/world-cup/england-v-ghana-prediction-odds-and-best-bets/",
+        "https://skybet.com/football/fifa-world-cup/england-v-ghana/e-35546840"
+      ]
+    },
+    {
+      "match_id": "wc-046",
+      "h2h": {
+        "home": 6.50,
+        "draw": 4.20,
+        "away": 1.55
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.06,
+        "under": 1.89
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.78
+      },
+      "sources": [
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/panama-vs-croatia-odds-prediction-062326-217183",
+        "https://www.covers.com/world-cup/croatia-vs-panama-prediction-picks-odds-tuesday-6-23-2026",
+        "https://winnersandwhiners.com/free-picks/world-cup/panama-vs-croatia-predictions-odds-and-line-movement-june-23-2026",
+        "https://www.sportscasting.com/news/croatia-vs-panama-predictions-supercomputer-betting-picks-odds/",
+        "https://www.espn.com/soccer/odds/_/gameId/760460"
+      ]
+    },
+    {
+      "match_id": "wc-047",
+      "h2h": {
+        "home": 1.52,
+        "draw": 4.25,
+        "away": 6.80
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.65
+      },
+      "btts": {
+        "yes": 2.25,
+        "no": 1.66
+      },
+      "sources": [
+        "https://www.covers.com/world-cup/colombia-vs-congo-prediction-picks-odds-tuesday-6-23-2026",
+        "https://www.oddschecker.com/us/soccer/world-cup/colombia-v-dr-congo",
+        "https://winnersandwhiners.com/free-picks/world-cup/colombia-vs-dr-congo-predictions-odds-and-line-movement-june-23-2026",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/colombia-vs-dr-congo-odds-prediction-062426-217189",
+        "https://www.sportscasting.com/news/colombia-vs-dr-congo-predictions-supercomputer-betting-picks-odds-world-cup/"
+      ]
+    }
+  ]
+}
