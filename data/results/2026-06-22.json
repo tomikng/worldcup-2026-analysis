@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-22",
+  "source": "web-research",
+  "fetched_at": "2026-06-23T07:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-040",
+      "home": "Argentina",
+      "away": "Austria",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 1,
+      "away_corners": 3,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760456/austria-argentina",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494",
+        "https://theanalyst.com/articles/argentina-vs-austria-stats-world-cup-2026-messi",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-22-live-updates-rcna351129",
+        "https://www.cbssports.com/soccer/news/argentina-austria-live-updates-world-cup-2026-score-result/live/"
+      ]
+    },
+    {
+      "match_id": "wc-041",
+      "home": "France",
+      "away": "Iraq",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760457/iraq-france",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021492",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/22/live-france-vs-iraq-world-cup-2026",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-22-live-updates-rcna351129"
+      ]
+    },
+    {
+      "match_id": "wc-042",
+      "home": "Norway",
+      "away": "Senegal",
+      "home_goals": 3,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760454/senegal-norway",
+        "https://www.skysports.com/football/norway-vs-senegal/549807",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-22-live-updates-rcna351129"
+      ]
+    },
+    {
+      "match_id": "wc-043",
+      "home": "Jordan",
+      "away": "Algeria",
+      "home_goals": 1,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760455/algeria-jordan",
+        "https://www.vavel.com/en-us/soccer/2026/06/23/1263975-jordan-vs-algeria-live-score-2026-fifa-world-cup.html",
+        "https://www.aljazeera.com/sports/2026/6/23/algeria-jordan-score-fifa-world-cup-2026",
+        "https://www.skysports.com/football/jordan-vs-algeria/report/549809"
+      ]
+    }
+  ]
+}

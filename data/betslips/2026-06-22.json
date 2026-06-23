@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.83,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 18.3,
+      "settled_at": "2026-06-23T07:07:07Z",
       "rationale": "Argentina's defensive solidity (Romero, Otamendi, Martinez) and Austria's modest forward line make both teams scoring unlikely; sole qualifying edge on the card today."
     }
   ]

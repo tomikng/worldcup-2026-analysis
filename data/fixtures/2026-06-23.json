@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-23",
+  "source": "web-research",
+  "fetched_at": "2026-06-23T10:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-044",
+      "kickoff_utc": "2026-06-23T17:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "venue": "NRG Stadium, Houston"
+    },
+    {
+      "match_id": "wc-045",
+      "kickoff_utc": "2026-06-23T20:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "home": "England",
+      "away": "Ghana",
+      "venue": "Gillette Stadium, Foxborough"
+    },
+    {
+      "match_id": "wc-046",
+      "kickoff_utc": "2026-06-23T23:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "home": "Panama",
+      "away": "Croatia",
+      "venue": "BMO Field, Toronto"
+    },
+    {
+      "match_id": "wc-047",
+      "kickoff_utc": "2026-06-24T02:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "venue": "Estadio Akron, Guadalajara"
+    }
+  ]
+}
