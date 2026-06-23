@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-046",
+  "date": "2026-06-23",
+  "home": "Panama",
+  "away": "Croatia",
+  "kickoff_utc": "2026-06-23T23:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_L",
+  "venue": "BMO Field, Toronto",
+  "analysis": {
+    "summary": "Both Panama and Croatia arrive at BMO Field with zero points after Matchday 1 defeats, making this a de facto elimination game. Croatia, despite their 4-2 loss to England, retain a significant quality advantage over Panama (FIFA rank 11 vs 34) and are heavy favorites. Panama's compact 3-4-3 low-block setup is their primary weapon, but their attacking limitations — they failed to score against Ghana — make it difficult to see them grinding out a result against a Croatia side that will control possession.",
+    "home_form": "Panama lost 1-0 to Ghana in MD1 of the World Cup, managing to dominate spells of play without converting. In their last 5 competitive/semi-competitive matches: W (4-2 vs Dominican Republic), D (1-1 vs Bosnia-Herzegovina), L (1-0 vs Ghana WC2026), W (2-1 vs South Africa), L (6-2 vs Brazil). Panama are organized defensively under Thomas Christiansen in a back-three system but lack creativity going forward.",
+    "away_form": "Croatia lost 4-2 to England in their WC2026 opener, a match in which Modrić's early foul leading to a Kane penalty proved pivotal. Dalić's side have scored 8 but conceded 10 across their last 5 matches with no clean sheets: W (2-1 vs Slovenia), W (2-1 vs Colombia), L (3-1 vs Brazil friendly), L (2-0 vs Belgium friendly), L (4-2 vs England WC2026). Dalić is reverting to a more familiar 4-2-3-1 with Mateo Kovacic returning to the starting XI alongside Modrić.",
+    "h2h": "This is the first-ever competitive meeting between Panama and Croatia. No head-to-head history exists between the two nations.",
+    "injuries_news": [
+      "Croatia: No injuries or suspensions reported. Full squad available. Luka Modrić expected to start in what would be his 200th international cap.",
+      "Panama: No confirmed injuries ruled out. Adalberto Carrasquilla had a pre-tournament groin concern but was included in the squad — fitness unconfirmed for this match.",
+      "Panama booking risk: Carlos Harvey and Cesar Blackman are both on yellow card tightropes (one more booking = suspension for MD3), which may limit their pressing aggression.",
+      "Dalić to make system changes: Croatia reverting to 4-2-3-1 from the system used vs England, with Kovacic set to start and more attacking players (Perisic, Baturina, Sucic) in advanced roles."
+    ],
+    "key_factors": [
+      "Must-win pressure on both sides: a defeat makes Group L advancement almost impossible for either team, creating a high-stakes atmosphere that may favor Croatia's superior squad quality.",
+      "Croatia's tactical reset: Dalić's reversion to 4-2-3-1 with Kovacic alongside Modrić should stabilize the midfield that was disrupted against England.",
+      "Panama's yellow card tightropes (Harvey, Blackman) will reduce their ability to press and disrupt Croatia's buildup play, giving Croatia more space in midfield.",
+      "Panama's attacking limitations: Los Canaleros failed to score in MD1 against Ghana, and their forward line (Rodriguez, Waterman) faces a significant step up in quality against Croatia's defense.",
+      "Modrić's 200th cap provides extra motivation for Croatia's talisman and sets an emotional tone that could inspire the team.",
+      "BMO Field conditions (Toronto, June): no altitude or extreme heat concerns. Six days' rest for both sides since MD1.",
+      "Croatia's leaky defense (10 conceded in 5 matches) is a concern, but Panama's attacking output is far below England's — this significantly reduces the risk Croatia faced in MD1."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.15,
+      "draw": 0.20,
+      "away": 0.65
+    },
+    "predicted_score": "0-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42,
+    "btts_yes": 0.35
+  },
+  "value_notes": "Market-implied probabilities (normalized from overround): Panama 0.148, Draw 0.230, Croatia 0.622. My model: Panama 0.15, Draw 0.20, Croatia 0.65. Croatia away has a marginal edge of +0.028 over market — below the 0.05 threshold to flag as value. For totals (over 2.5), market implies 0.478 but my model estimates 0.42, giving under 2.5 an edge of +0.044 over market (market-implied under = 0.522, my estimate 0.58) — just below the 0.05 threshold. For BTTS yes, market implies 0.465 but my model estimates 0.35, creating an edge of +0.115 for BTTS No — this EXCEEDS the 0.05 threshold. The market is pricing BTTS Yes at 46.5% implied probability but Panama's failure to score against Ghana, their attacking limitations, and Croatia's defensive reset under 4-2-3-1 suggest BTTS Yes is significantly overpriced. BTTS No at 1.78 (implied 0.535, model 0.65) represents a model edge of approximately +0.115 and is the clearest value selection in this match.",
+  "sources": [
+    "https://www.compare.bet/news/panama-vs-croatia-betting-preview-predictions-tips-and-live-odds",
+    "https://shekicks.net/panama-v-croatia-predictions/",
+    "https://www.squawka.com/us/news/world-cup/match-preview-panama-vs-croatia-06-23-26-world-cup-2026/",
+    "https://www.espn.com/soccer/match/_/gameId/760460/croatia-panama",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511",
+    "https://www.rotowire.com/soccer/article/panama-vs-croatia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-l-119188",
+    "https://www.sportsmole.co.uk/football/panama/world-cup-2026/preview/panama-vs-croatia-prediction-team-news-lineups_599736.html",
+    "https://www.sportsmole.co.uk/football/panama/world-cup-2026/team-news/panama-vs-croatia-injury-suspension-list-predicted-xis_599789.html",
+    "https://www.croatiaweek.com/croatia-dalic-lineup-changes-panama-toronto-world-cup/",
+    "https://www.101greatgoals.com/football/world-cup-news/panama-v-croatia-predicted-line-ups-preview-where-to-watch-group-l-clash/",
+    "https://www.sportsgambler.com/injuries/football/fifa-world-cup/",
+    "https://heavy.com/sports/soccer/world-cup/luka-modric-croatia-age-appearances-stats/",
+    "https://worldsoccertalk.com/world-cup/croatia-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/possible-panama-lineup-vs-mosquera-leads-los-canaleros-in-a-key-2026-world-cup-clash-2026-06-23",
+    "https://khelnow.com/football/panama-vs-croatia-top-five-players-to-watch-out-for-in-fifa-world-cup-2026-ft-luka-modric-amir-murillo"
+  ],
+  "generated_at": "2026-06-23T17:45:00Z"
+}

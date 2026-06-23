@@ -1,0 +1,56 @@
+{
+  "match_id": "wc-045",
+  "date": "2026-06-23",
+  "home": "England",
+  "away": "Ghana",
+  "kickoff_utc": "2026-06-23T20:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_L",
+  "venue": "Gillette Stadium, Foxborough",
+  "analysis": {
+    "summary": "England (ranked 4th globally) enter as heavy favorites needing only a draw to seal knockout qualification, having demolished Croatia 4-2 in MD1 with Harry Kane, Jude Bellingham and Marcus Rashford all on target. Ghana, ranked 73rd, edged Panama 1-0 with a stoppage-time winner and are severely depleted by the absence of star attacker Mohammed Kudus (knee) and defender Mohammed Salisu (ACL), though they gain Thomas Partey back in midfield after he was denied entry to Canada for the opener. This is a significant class mismatch but Ghana have shown they can grind out results and threaten on the counter.",
+    "home_form": "England won their World Cup opener 4-2 vs Croatia in a high-scoring but defensively patchy performance — Kane (2), Bellingham and Rashford on target, 22 shots created. Pre-tournament form was strong, with Tuchel's side showing attacking depth and creativity. Bukayo Saka is managing an Achilles problem and is expected on the bench, while Declan Rice and Rashford have returned to full training after minor niggles from the Croatia game.",
+    "away_form": "Ghana beat Panama 1-0 on June 17 thanks to a Yirenkyi stoppage-time goal, though they were second best in the first half and barely created chances. Pre-tournament friendlies resulted in defeats to Austria, Germany and Mexico, with only a draw vs Wales for consolation. Without Kudus (Ghana's primary creative outlet) and Salisu, the squad balance is noticeably weakened. Antoine Semenyo (Man City) and Jordan Ayew remain the key attacking threats; Thomas Partey returns at the base of midfield.",
+    "h2h": "England and Ghana have met only once at senior level — a 1-1 friendly at Wembley in March 2011. There is no meaningful competitive head-to-head history to draw upon.",
+    "injuries_news": [
+      "England: Bukayo Saka (Achilles) did not train with the main group on Monday and is expected to start on the bench; Declan Rice (hamstring/lower back) and Marcus Rashford (muscular) have both returned to full training and are expected to start; Tino Livramento (calf) replaced by Trevoh Chalobah — tournament over for Livramento.",
+      "Ghana: Mohammed Kudus (quadriceps/rehab setback) ruled out of the entire tournament; Mohammed Salisu (ACL rupture) ruled out of the entire tournament; Thomas Partey (visa issue in Canada) returns and is expected to start vs England in the USA."
+    ],
+    "key_factors": [
+      "Class gap is significant: England ranked 4th in the world vs Ghana ranked 73rd, and Ghana are missing their best creative player (Kudus) and a key defender (Salisu).",
+      "Partey's return adds midfield steel and experience for Ghana but does not compensate for the absence of Kudus as an attacking weapon.",
+      "England's defensive vulnerability (conceded 2 to Croatia) could be exploited by Ghana's pace on the counter — Semenyo in particular poses a threat in behind England's high full-backs.",
+      "Saka expected on the bench reduces England's attacking width and creativity from the right flank, though the squad depth remains high (Madueke, Gordon, Rashford all available).",
+      "England need a win or draw to guarantee knockout qualification; Ghana need at minimum a point. Stakes are high for both sides but pressure weighs more heavily on England to press forward.",
+      "Venue is Foxborough near Boston — neutral ground but with likely strong England support given the US diaspora community."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.76, "draw": 0.15, "away": 0.09},
+    "predicted_score": "2-0",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.60,
+    "btts_yes": 0.33
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.786, draw 0.146, away 0.068; totals_2.5_over 0.578; btts_yes 0.366. My model sets home at 0.76 (slightly below market), away at 0.09 (above market implied 0.068), and draw at 0.15 (above market implied 0.146). No single selection reaches the required 0.05 edge threshold. On totals, I estimate over 2.5 at 0.60 vs market implied 0.578 — edge of only 0.022, below threshold. On btts, I estimate yes at 0.33 vs market implied 0.366 — the market slightly overprices Ghana scoring given their toothless attack without Kudus; edge of 0.036 on btts_no but still below the 0.05 threshold. No qualifying edges found; no bets recommended for this match.",
+  "sources": [
+    "https://www.skysports.com/football/news/12016/13554613/world-cup-2026-tino-livramento-suffers-hamstring-injury-and-replaced-by-trevoh-chalobah-in-england-squad",
+    "https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://ghanasoccernet.com/the-price-of-casualties-how-injuries-fractured-ghanas-world-cup-2026-squad-balance",
+    "https://www.espn.com/soccer/story/_/id/49100116/ghana-panama-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.aljazeera.com/sports/2026/6/18/ghana-beat-panama-1-0-in-chaotic-charged-world-cup-group-l",
+    "https://www.espn.com/soccer/story/_/id/49099495/england-croatia-world-cup-2026-recap-score-harry-kane-jude-bellingham-marcus-rashford",
+    "https://www.skysports.com/football/news/12309/13552729/world-cup-2026-england-4-2-croatia-harry-kane-jude-bellingham-and-marcus-rashford-on-target-as-three-lions-make-winning-start",
+    "https://www.espn.com/soccer/story/_/id/49147003/ghana-thomas-partey-ready-england-denied-entry-world-cup-opener",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/injuries-and-suspensions/rice-saka-rashford-latest-england-injury-suspension-list-vs-ghana_599679.html",
+    "https://www.goal.com/en/lists/thomas-tuchel-england-marcus-rashford-declan-rice-fitness-bukayo-saka-bench/blt572afb621d608389",
+    "https://www.espn.com/espn/story/_/id/48878999/antoine-semenyo-thomas-partey-headline-ghana-provisional-fifa-world-cup-squad-injured-mohammed-kudus-out",
+    "https://www.sportsmole.co.uk/football/ghana/world-cup-2026/predicted-lineups/will-partey-be-available-predicted-ghana-xi-vs-england_599723.html",
+    "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama",
+    "https://khelnow.com/football/world-football-england-vs-ghana-head-to-head-fifa-world-cup-202606"
+  ],
+  "generated_at": "2026-06-23T14:30:00Z"
+}
