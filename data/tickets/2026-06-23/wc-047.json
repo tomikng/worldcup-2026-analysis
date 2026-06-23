@@ -1,0 +1,58 @@
+{
+  "match_id": "wc-047",
+  "date": "2026-06-23",
+  "home": "Colombia",
+  "away": "DR Congo",
+  "kickoff_utc": "2026-06-24T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_K",
+  "venue": "Estadio Akron, Guadalajara",
+  "analysis": {
+    "summary": "Colombia enter as clear favorites on the back of a convincing 3-1 win over Uzbekistan in MD1, sitting top of Group K with a full complement of stars including James Rodriguez and Luis Diaz both in form. DR Congo earned a remarkable 1-1 draw with Portugal in their historic World Cup return, with Yoane Wissa's first-half equalizer showing their counter-attacking threat is real. Colombia need only a draw to secure qualification but their aggressive 4-2-3-1 setup under Lorenzo means they will look to win; DR Congo must avoid defeat to keep advancement alive. The match is played at Estadio Akron in Guadalajara at moderate altitude (1,560m), a setting that suits the South American side more than the African one.",
+    "home_form": "Colombia arrive in excellent shape: W3-D0-L2 in their last five competitive matches, scoring 10 and conceding 7. Recent results include a 3-1 win over Costa Rica, a 2-0 win over Jordan, a 2-1 friendly loss to Croatia, a 1-3 loss to France, and most recently a 3-1 World Cup Group K win over Uzbekistan (goals from Munoz, Diaz, Campaz). James Rodriguez pulled strings at No.10 and Luis Diaz was their most dangerous outlet. No confirmed injuries or suspensions affecting the first-choice XI.",
+    "away_form": "DR Congo's last five matches: D1-1 Portugal (WC MD1), L1-2 Chile (friendly), D0-0 Denmark AET (friendly/playoff), W1-0 Jamaica (inter-confederation playoff), W2-0 Bermuda (qualifier). They qualified via an inter-confederation playoff and showed resilience against Portugal, taking the lead into half-time through Wissa's header. Defender Rocky Bushiri withdrew injured pre-tournament and was replaced by Aaron Tshibola. Captain Chancel Mbemba (107 caps) leads a disciplined back line that includes Aaron Wan-Bissaka. No confirmed suspensions from MD1.",
+    "h2h": "Colombia and DR Congo have never met in recorded international history before this World Cup 2026 fixture. This is the first all-time meeting between the two nations, making direct head-to-head data unavailable as a reference point.",
+    "injuries_news": [
+      "Colombia: No confirmed injuries or suspensions reported. Full first-choice squad expected to be available.",
+      "DR Congo: Rocky Bushiri (defender) withdrew injured pre-tournament and was replaced in the squad by Aaron Tshibola. Yoane Wissa returned from a difficult injury-affected club season but started and scored vs Portugal; his fitness appears confirmed."
+    ],
+    "key_factors": [
+      "Colombia only need a draw to advance but their high-press 4-2-3-1 system under Lorenzo is inherently attacking, so expect them to push for a win and set the tempo from the start.",
+      "DR Congo must avoid defeat to keep their qualification hopes alive, creating a situation where they need to attack, which could open the game up and play into Colombia's counter-pressing strengths.",
+      "James Rodriguez as the fulcrum of Colombia's attack is the key tactical battle: if DR Congo's compact midfield (Moutoussamy, Pickel, Kayembe) can stifle him, they limit Colombia's creativity significantly.",
+      "Yoane Wissa is DR Congo's primary counter-attacking weapon; Colombia's central defenders Davinson Sanchez and Lucumi must handle his movement and physicality.",
+      "Estadio Akron sits at approximately 1,560m altitude — moderate but non-trivial, historically more familiar to South American sides from altitude-acclimatized qualifying environments. Both teams had six days rest since MD1.",
+      "Colombia's goal difference (+2) means a win here almost certainly secures Group K top spot ahead of the Portugal-Uzbekistan result, adding further incentive to attack."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.64,
+      "draw": 0.20,
+      "away": 0.16
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.46,
+    "btts_yes": 0.40
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.632, draw 0.226, away 0.141. My model: home 0.640, draw 0.200, away 0.160. The largest divergence is on the draw (market 0.226 vs my 0.200, difference -0.026) and away (market 0.141 vs my 0.160, difference +0.019). No single selection clears the 0.05 edge threshold required for a value bet recommendation. For totals: market implies over 2.5 at 0.423; my estimate is 0.460, a gap of +0.037 — below the threshold. For BTTS yes: market implies 0.425; my estimate is 0.400, so the market slightly overweights BTTS yes vs my model — again below the 0.05 edge threshold. No actionable value edge exists on any market for this match at these odds.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/18/luis-diaz-colombia-defeat-world-cup-2026-debutants-uzbekistan",
+    "https://www.espn.com/soccer/story/_/id/49100616/uzbekistan-colombia-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-congo-dr-highlights-match-report",
+    "https://www.espn.com/soccer/story/_/id/49096146/portugal-dr-congo-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.skysports.com/football/news/33694/13552727/world-cup-2026-portugal-1-1-dr-congo-cristiano-ronaldo-struggles-as-roberto-martinezs-side-slump-to-disappointing-draw-in-opener",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/n%C3%A9stor-lorenzo-s-official-colombia-squad-for-the-2026-fifa-world-cup-2026-05-25",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-dr-congo-players-squad-list-key-stats-schedule",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://tips.gg/article/colombia-vs-dr-congo-head-to-head-wc2026/",
+    "https://www.espn.co.uk/football/story/_/id/49135872/fifa-world-cup-2026-colombia-vs-congo-dr-channel-how-watch-kickoff-live-stream-referee-predicted-line-ups",
+    "https://en.wikipedia.org/wiki/Estadio_Akron",
+    "https://worldcupteams.com/venues/guadalajara.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K"
+  ],
+  "generated_at": "2026-06-23T10:45:00Z"
+}

@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-044",
+  "date": "2026-06-23",
+  "home": "Portugal",
+  "away": "Uzbekistan",
+  "kickoff_utc": "2026-06-23T17:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_K",
+  "venue": "NRG Stadium, Houston",
+  "analysis": {
+    "summary": "Portugal enter this matchday-2 fixture in desperate need of points after a disappointing 1-1 draw with DR Congo in the opener, where Joao Neves' early goal was cancelled out by Yoane Wissa. Uzbekistan, in their maiden World Cup appearance, lost 3-1 to Colombia but showed grit — scoring through Fayzullaev and staying compact for long stretches under Fabio Cannavaro's defensive system. Portugal are a class above on paper but must overcome their own attacking inefficiency; Ronaldo was wasteful in MD1 while Uzbekistan's organized low-block and counter-attacking threat via Shomurodov and Fayzullaev give them a narrow path to disruption. A commanding Portugal win is the most likely outcome, but Uzbekistan's defensive discipline and Portugal's recent struggle to convert chances add enough uncertainty to prevent a banker score.",
+    "home_form": "Portugal drew 1-1 with DR Congo (MD1, June 17) in what was considered a substandard performance — Ronaldo missed key chances, and Ruben Dias was absent through injury. Pre-tournament, Portugal were unbeaten in their final five competitive and friendly fixtures, including three straight wins leading into the World Cup. Roberto Martinez's side ranked among the top FIFA nations (top 6) with depth throughout the squad, but their MD1 result exposed some defensive fragility and forward profligacy.",
+    "away_form": "Uzbekistan made their World Cup debut against Colombia on June 17, losing 3-1. They were competitive for large stretches — Fayzullaev (loan at Istanbul Basaksehir) pulled one back in the 60th minute — but Colombia's greater quality showed in the end. Pre-tournament Uzbekistan were strong in AFC qualification, relying on defensive organization and counter-attacks through Shomurodov (44 goals in 92 caps) and Fayzullaev. They held 39% possession vs Colombia — indicative of their counter-punching style under Cannavaro.",
+    "h2h": "Only one historical meeting on record: Portugal beat Uzbekistan 5-2 in a September 2012 friendly, giving no meaningful competitive H2H data to draw on.",
+    "injuries_news": [
+      "Portugal: Ruben Dias (CB, Man City) missed MD1 vs DR Congo through a load-management issue but has returned to full training and is expected to start vs Uzbekistan — a significant defensive upgrade.",
+      "Portugal: Tomas Araujo (CB) dropped to the bench after training separately in recent days (unconfirmed whether he starts).",
+      "Uzbekistan: Rustam Ashurmatov (CB) was substituted off injured against Colombia and is a major doubt — his absence would meaningfully weaken Uzbekistan's defensive structure.",
+      "No confirmed suspensions for either side heading into this match."
+    ],
+    "key_factors": [
+      "Ruben Dias returning to Portugal's defense removes the main weakness that allowed DR Congo to equalize in MD1, and should make Portugal more difficult to break down while freeing them to push higher.",
+      "Portugal urgency: with only 1 point from MD1 and Colombia already on 3 points, a draw here could prove catastrophic for Portugal's last-16 hopes; expect a high-tempo attacking approach from the start.",
+      "Uzbekistan's defensive block under Cannavaro is disciplined and well-drilled, with Khusanov (Man City) anchoring the backline; however, Ashurmatov's doubt leaves them under-resourced at CB.",
+      "Shomurodov and Fayzullaev offer genuine counter-attacking threat and Portugal must be wary of transitions — DR Congo also scored on a Portugal counter-attack moment in MD1.",
+      "NRG Stadium has a retractable roof and full climate control, neutralizing Houston's extreme outdoor heat/humidity; no pitch-side weather disadvantage for either side.",
+      "Portugal's attacking quality (Ronaldo, Bruno Fernandes, Conceicao, Vitinha) is overwhelming on paper, and desperation to win should unleash sustained pressure on Uzbekistan's defense.",
+      "First World Cup experience for Uzbekistan players may lead to nervy moments under sustained pressure from a top-10 FIFA nation needing goals."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.78,
+      "draw": 0.15,
+      "away": 0.07
+    },
+    "predicted_score": "3-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.62,
+    "btts_yes": 0.35
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Portugal 0.796, Draw 0.139, Away 0.065. My model: Portugal 0.78, Draw 0.15, Away 0.07. No meaningful edge on the h2h winner market — model broadly aligns with the market, with a marginal reduction on Portugal (0.796 vs 0.78) offset by a small draw increase (0.139 vs 0.15); neither divergence reaches the 0.05 threshold. On totals, the market implies over 2.5 at ~59% (1/1.61 normalized); my model places it at 62% — a gap of only 0.03, insufficient for a qualifying edge. On BTTS yes, the market implies ~39% (1/2.40 normalized); my model is 35% — I actually discount BTTS relative to market due to Dias returning to shore up Portugal's defense. No selection in this match clears the 0.05 positive edge threshold against market-implied odds.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-congo-dr-highlights-match-report",
+    "https://www.espn.com/soccer/report/_/gameId/760435",
+    "https://www.espn.com/soccer/match/_/gameId/760461/uzbekistan-portugal",
+    "https://www.espn.com/soccer/story/_/id/49135037/fifa-world-cup-2026-portugal-vs-uzbekistan-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
+    "https://sports.yahoo.com/articles/ruben-dias-miss-portugals-world-024127027.html",
+    "https://onefootball.com/en/news/ruben-dias-hands-portugal-significant-fitness-update-ahead-of-uzbekistan-clash-43038989",
+    "https://worldsoccertalk.com/world-cup/uzbekistan-2026-world-cup-preview-squad-breakdown-key-player-and-tactical-analysis/",
+    "https://www.aljazeera.com/sports/2026/6/18/luis-diaz-colombia-defeat-world-cup-2026-debutants-uzbekistan",
+    "https://novastan.org/en/uzbekistan/uzbekistan-2026-world-cup-shomurodov-khusanov/",
+    "https://fwctimes.com/fabio-cannavaro/",
+    "https://www.fanorate.com/soccer-2026/venue-guides/nrg-stadium-fifa-world-cup-2026-houston-guide/"
+  ],
+  "generated_at": "2026-06-23T10:45:00Z"
+}
