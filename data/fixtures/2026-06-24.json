@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-24",
+  "source": "web-research",
+  "fetched_at": "2026-06-24T10:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-048",
+      "kickoff_utc": "2026-06-24T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "home": "Switzerland",
+      "away": "Canada",
+      "venue": "BC Place, Vancouver"
+    },
+    {
+      "match_id": "wc-049",
+      "kickoff_utc": "2026-06-24T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "venue": "Lumen Field, Seattle"
+    },
+    {
+      "match_id": "wc-050",
+      "kickoff_utc": "2026-06-24T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "home": "Morocco",
+      "away": "Haiti",
+      "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+      "match_id": "wc-051",
+      "kickoff_utc": "2026-06-24T22:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "home": "Scotland",
+      "away": "Brazil",
+      "venue": "Hard Rock Stadium, Miami"
+    },
+    {
+      "match_id": "wc-052",
+      "kickoff_utc": "2026-06-25T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "home": "South Africa",
+      "away": "South Korea",
+      "venue": "Estadio BBVA, Monterrey"
+    },
+    {
+      "match_id": "wc-053",
+      "kickoff_utc": "2026-06-25T01:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "home": "Czechia",
+      "away": "Mexico",
+      "venue": "Estadio Azteca, Mexico City"
+    }
+  ]
+}

@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.78,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 17.8,
+      "settled_at": "2026-06-24T07:06:24Z",
       "rationale": "BTTS No in Panama vs Croatia is the sole qualifying edge today — Panama's toothless attack (0 goals in MD1) and Croatia's defensive reset make the market's ~49% BTTS-yes implied probability significantly too high against our 35% model estimate."
     }
   ]

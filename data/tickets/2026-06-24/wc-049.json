@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-049",
+  "date": "2026-06-24",
+  "home": "Bosnia and Herzegovina",
+  "away": "Qatar",
+  "kickoff_utc": "2026-06-24T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_B",
+  "venue": "Lumen Field, Seattle",
+  "analysis": {
+    "summary": "Bosnia and Herzegovina host Qatar in a dead-rubber-turned-survival match, as both sides sit level on one point in Group B after Canada and Switzerland each secured four points. The winner jumps to four points and moves into strong contention for one of the eight best third-place berths; the loser is eliminated. Bosnia hold a clear talent edge through Edin Dzeko and Ermedin Demirovic, while Qatar arrive depleted by two red-card suspensions and having conceded a tournament-high 7.80 expected goals against across two matches.",
+    "home_form": "Bosnia drew 1-1 with Canada (MD1, Lukic 21') then fell 4-1 to Switzerland (MD2), conceding three late goals after Muharemovic's 80th-minute red card. They showed attacking intent throughout both games but defensive fragility has been costly. Dzeko (40 years old, 73 international goals) and Demirovic remain primary threats.",
+    "away_form": "Qatar drew 1-1 with Switzerland (MD1, equalizing in the 94th minute) then were humiliated 6-0 by Canada (MD2), finishing with nine men after red cards to Homam Ahmed and Assim Madibo via VAR review. They have conceded a tournament-high 58 shots and 7.80 xGA in two matches, the worst defensive record at the tournament.",
+    "h2h": "These sides have met twice in history: Qatar won 2-0 in Doha (January 2000) and the teams drew 1-1 in a friendly (August 2010). This is their first competitive meeting. Bosnia hold no head-to-head advantage but the historical sample is too small to be predictive.",
+    "injuries_news": [
+      "Bosnia and Herzegovina: Tarik Muharemovic suspended (red card vs Switzerland, MD2). Nidal Celik sidelined through injury. Dennis Hadzikadunic expected to start at centre-back.",
+      "Qatar: Assim Madibo suspended (red card upgraded by VAR vs Canada, MD2). Homam Ahmed (Homam El Amin) suspended (red card vs Canada, MD2). Sultan Al Brake and Ahmed Fathy expected to replace them. Qatar's defensive options are critically thin."
+    ],
+    "key_factors": [
+      "Qatar's double suspension removes two midfield/defensive contributors, weakening their ability to press and disrupt Bosnia in midfield.",
+      "Bosnia's suspension of Muharemovic at centre-back is notable but less damaging than Qatar's losses; Hadzikadunic is a credible replacement.",
+      "Qatar's defensive record (7.80 xGA, 58 shots conceded) is historically bad for this tournament, creating clear opportunity for Dzeko and Demirovic.",
+      "Both teams must win — draws effectively eliminate both from advancement. This mutual pressure suggests open, attack-minded play rather than caution.",
+      "Bosnia's superior UEFA qualifying pedigree and European-based squad depth gives them a structural quality edge over Qatar's AFC champions.",
+      "Lumen Field (Seattle) is at sea level; no altitude or heat disadvantage for either side."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.67,
+      "draw": 0.18,
+      "away": 0.15
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.63
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.62,
+    "btts_yes": 0.45
+  },
+  "value_notes": "Market-implied probabilities (overround-removed): home 0.678, draw 0.192, away 0.130. My model: home 0.670, draw 0.180, away 0.150. The main divergence is on the away side — market prices Qatar at 0.130 implied; I set 0.150, but this is a marginal 0.02 gap, below the 0.05 edge threshold, so no value on Qatar. For totals_2.5_over: market implied probability is approximately 0.53 (from over odds 1.62, normalized); my model sets 0.62 based on Qatar's catastrophic defensive record (7.80 xGA in 2 games), Bosnia's attacking quality, and both teams needing to score — edge of roughly +0.09, which meets the ≥0.05 threshold. For btts_yes: market implied is approximately 0.489 (odds 1.91, normalized); my model sets 0.45 given Qatar were shut out 6-0 by Canada and may struggle to score against Bosnia even with Bosnia's defensive absences — no value edge on btts. Best identified edge: totals_2.5_over (model 0.62 vs market implied 0.53, edge ~0.09).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B",
+    "https://www.skysports.com/football/news/12098/13543085/world-cup-2026-group-b-guide-fixtures-schedule-standings-and-odds-for-canada-bosnia-herzegovina-qatar-and-switzerland",
+    "https://www.rotowire.com/soccer/article/bosnia-and-herzegovina-vs-qatar-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119338",
+    "https://www.sportsmole.co.uk/football/bosnia-herzegovina/world-cup-2026/preview/bosnia-hvina-vs-qatar-prediction-team-news-lineups_599838.html",
+    "https://www.skysports.com/football/news/12098/13553619/world-cup-2026-switzerland-4-1-bosnia-herzegovina-johan-manzambi-scores-twice-as-swiss-take-giant-leap-towards-knockout-stages",
+    "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone",
+    "https://www.espn.com/soccer/story/_/id/49112625/canada-qatar-first-world-cup-win-2026-jonathan-david",
+    "https://www.sportsmole.co.uk/football/bosnia-herzegovina/world-cup-2026/head-to-head/bosnia-hvina-vs-qatar-head-to-head-record-and-past-meetings_599807.html",
+    "https://www.covers.com/world-cup/bosnia-vs-qatar-prediction-picks-odds-wednesday-6-24-2026",
+    "https://www.squawka.com/us/news/world-cup/match-preview-bosnia-herzegovina-vs-qatar-06-24-26-world-cup-2026/",
+    "https://www.sportytrader.com/en/betting-tips/bosnia-herzegovina-qatar-355766/",
+    "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/bosnia-and-herzegovina-vs-qatar-odds-prediction-062426-217195"
+  ],
+  "generated_at": "2026-06-24T10:15:00Z"
+}

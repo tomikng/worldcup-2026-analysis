@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-050",
+  "date": "2026-06-24",
+  "home": "Morocco",
+  "away": "Haiti",
+  "kickoff_utc": "2026-06-24T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_C",
+  "venue": "Mercedes-Benz Stadium, Atlanta",
+  "analysis": {
+    "summary": "Morocco enter Matchday 3 with four points from two games (1-1 draw vs Brazil, 1-0 win vs Scotland) and need at least a point to guarantee knockout-stage progression. Haiti are already eliminated, having lost 0-1 to Scotland and 0-3 to Brazil without scoring a single goal. Morocco are a heavy favourite in a match where they have both motivation (goal difference could matter vs Brazil) and a clear class advantage. The climate-controlled Mercedes-Benz Stadium removes any heat or humidity factor.",
+    "home_form": "Morocco drew 1-1 with Brazil in their opener (Saibari scored) then defeated Scotland 1-0 via a Saibari goal in just 71 seconds, their fastest-ever World Cup goal. Pre-tournament friendlies showed attacking sharpness: 4-0 vs Madagascar, 5-0 vs Burundi, and 1-1 vs Norway. They have not lost in any of their last five matches. Coach Mohamed Ouahbi (who replaced Walid Regragui in March 2026) has kept an unchanged lineup through both World Cup games and is expected to do so again. Key pre-tournament injuries to Nayef Aguerd (groin/pubic bone fracture) and Abde Ezzalzouli (collision injury) were resolved via squad replacements before the tournament; no new injury concerns reported heading into MD3.",
+    "away_form": "Haiti have been the weakest team in Group C by a considerable margin. They lost 0-1 to Scotland on Matchday 1 and 0-3 to Brazil on Matchday 2, failing to register a single shot on target of note. Duckens Nazon and Frantzdy Pierrot are Haiti's main attacking threats but neither has been able to influence matches at this level. Leverton Pierre was replaced pre-tournament by Garven Metusala due to injury; no further squad disruptions reported. Haiti are playing for national pride only, as their return to the World Cup for the first time since 1974 concludes here.",
+    "h2h": "Morocco and Haiti have no recorded prior meetings in any official competition. This World Cup fixture is the first-ever senior international match between the two nations.",
+    "injuries_news": [
+      "Morocco: Nayef Aguerd (groin/pubic bone fracture) and Abde Ezzalzouli (collision injury) both replaced in squad before tournament; no fresh injuries reported for MD3.",
+      "Haiti: Leverton Pierre replaced pre-tournament by Garven Metusala due to injury; no further injury news reported."
+    ],
+    "key_factors": [
+      "Morocco have already banked 4 points and effectively guaranteed at least second place; a win keeps alive the chance of topping Group C ahead of Brazil depending on other result.",
+      "Haiti are eliminated with 0 points, 0 goals scored, and 4 goals conceded across their two group matches — historically the weakest offensive record in the group.",
+      "Morocco's coach Ouahbi is expected to name an unchanged starting lineup, meaning their full-strength side (Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Diaz, Ounahi, El Khannouss; Saibari) takes the field.",
+      "Opta simulations (25,000 runs) gave Morocco an 81% win probability, Haiti 6.8%, and draw 12.3%.",
+      "Mercedes-Benz Stadium has a retractable climate-controlled roof — no heat or humidity disadvantage for either side.",
+      "Goal difference could be a decisive tiebreaker between Morocco and Brazil if both win on MD3; Morocco have an incentive to run up the score.",
+      "Haiti's 4-4-2 defensive structure has conceded 4 goals in 2 matches against quality opposition, suggesting Morocco's attacking play will find openings."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.84,
+      "draw": 0.11,
+      "away": 0.05
+    },
+    "predicted_score": "3-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.63,
+    "btts_yes": 0.12
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): home 0.802, draw 0.135, away 0.063; over 2.5 goals 0.599; btts yes 0.275. My model sets home win at 0.84 (edge +0.038 vs market, below the 0.05 threshold). The most significant divergence is on btts_yes: market normalizes to 0.275 implied but my model assigns only 0.12 — Haiti have scored zero goals in two World Cup matches against Scotland and Brazil, their attack is yet to register, and Morocco's defensive record is solid. At odds of 1.33 (implied 0.752 normalized for btts_no), my model prob for btts_no is 0.88, generating an edge of approximately 0.13 — this exceeds the 0.05 threshold and represents the clearest value in this match. On over 2.5 goals, my model (0.63) is marginally above market-implied (0.599), an edge of about 0.03, below threshold. No value identified on the h2h home or away selections relative to threshold.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://sports.yahoo.com/articles/world-cup-group-c-standings-162944655.html",
+    "https://www.espn.com/soccer/story/_/id/48975967/group-c-2026-world-cup-teams-records-stats-know-brazil-morocco-haiti-scotland",
+    "https://www.theblazingmusket.com/2026-fifa-world-cup-group-c-recaps-brazil-morocco-scotland-haiti-highlights/",
+    "https://www.skysports.com/football/news/12098/13543087/world-cup-2026-group-c-guide-fixtures-schedule-standings-and-odds-for-scotland-brazil-morocco-and-haiti",
+    "https://www.espn.com/soccer/story/_/id/49027277/morocco-cut-injured-aguerd-ezzalzouli-last-minute-world-cup-reshuffle",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mohamed-ouahbi-replaces-walid-regragui-morocco",
+    "https://www.espn.com/soccer/story/_/id/49141508/fifa-world-cup-2026-morocco-vs-haiti-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://theanalyst.com/articles/morocco-vs-haiti-prediction-world-cup-2026-match-preview",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/morocco-vs-haiti-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-ah7S64g5gWZJ/",
+    "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/morocco-vs-haiti-odds-prediction-062426-217205",
+    "https://www.aljazeera.com/sports/2026/6/20/morocco-beat-scotland-1-0-as-saibari-scores-fastest-world-cup-2026",
+    "https://www.concacaf.com/competitions/fifa-world-cup/news/haiti-closes-world-cup-campaign-against-morocco",
+    "https://footballgroundguide.com/news/which-2026-world-cup-stadiums-have-air-conditioning.html"
+  ],
+  "generated_at": "2026-06-24T12:30:00Z"
+}

@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-051",
+  "date": "2026-06-24",
+  "home": "Scotland",
+  "away": "Brazil",
+  "kickoff_utc": "2026-06-24T22:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_C",
+  "venue": "Hard Rock Stadium, Miami",
+  "analysis": {
+    "summary": "Scotland (3 pts, 3rd place) must beat Brazil to keep alive any realistic hope of advancing from Group C, while Brazil (4 pts, 1st on GD) need only a draw to qualify and can secure top spot with a win or by matching Morocco's result against Haiti. Brazil are historically dominant in this fixture (8W-2D-0L across all meetings, 16-3 on goals), have greater individual quality, and can call upon an in-form Vinicius Jr and Matheus Cunha who scored twice against Haiti. Scotland will likely set up compactly and look to hit on the counter, but the class gap and their woeful H2H record make an upset very difficult.",
+    "home_form": "Scotland beat Haiti 1-0 (McGinn 28') in MD1 to record their first World Cup win since 1990, then lost 0-1 to Morocco in MD2 — conceding after just 70 seconds from a Saibari goal. They have scored just one goal across two matches and have been largely defensive in their approach. Captain Andy Robertson and Scott McTominay are key leaders, but attacking output has been minimal.",
+    "away_form": "Brazil drew 1-1 with Morocco in MD1 (Marquinhos equaliser) before dominating Haiti 3-0 in MD2, with Matheus Cunha scoring twice and Vinicius Jr adding a third. Brazil have been dominant in attack when facing weaker opposition and are comfortably through with 4 points. Ancelotti has rotated carefully and the squad remains fresh despite early tournament friction in the Morocco draw.",
+    "h2h": "Scotland and Brazil have met 10 times with Brazil winning 8 and 2 draws — Scotland have never beaten Brazil. In World Cup history specifically, Scotland are 0W-1D-3L: a 0-0 draw in 1974, then losses in 1982 (4-1), 1990, and 1998. The most recent meeting was a 2-0 Brazil friendly win in March 2011. Brazil have scored 16 goals to Scotland's 3 across all 10 encounters.",
+    "injuries_news": [
+      "Brazil: Raphinha (Barcelona) ruled out with a right hamstring injury suffered in the Haiti match — his tournament return is uncertain but targeted for the knockout rounds. This is a significant attacking absence.",
+      "Brazil: Neymar declared fit after missing MD1 and MD2 with a calf injury; expected to feature off the bench rather than start. Lucas Paqueta retains the No.10 role.",
+      "Brazil: Wesley withdrew pre-tournament injured and was replaced by Ederson Silva.",
+      "Scotland: Kieran Tierney came off in the Morocco match but returned to training and is expected to feature.",
+      "Scotland: Scott McKenna nursing a calf injury and has not featured at this tournament; may replace Grant Hanley. Nathan Patterson expected again at right back in place of the absent Aaron Hickey.",
+      "Scotland: No confirmed suspensions going into this match."
+    ],
+    "key_factors": [
+      "Motivation asymmetry: Scotland need a win; Brazil need only a draw. Brazil may sit back and defend after going ahead, limiting open play and suppressing the total goal count.",
+      "Raphinha absence: Brazil lose their primary creative outlet on the right wing, though Vinicius Jr remains on the left and Rayan (19, Bournemouth) is expected to start on the right.",
+      "Neymar impact off the bench: Even as a substitute, Neymar's introduction could add a dimension Brazil haven't had in MD1 or MD2 and may alter the game's character in the second half.",
+      "Scotland's defensive structure has held up reasonably well (conceded just 1 goal in 2 games) but their attacking threat is very limited — just 1 goal scored across both matches.",
+      "Historical pattern favours Brazil controlling possession and limiting Scotland to counter-attacks; the 1-0 or 2-0 scoreline is a strong historical template in these matchups.",
+      "Hard Rock Stadium, Miami: effectively neutral venue; no meaningful crowd or altitude advantage for either side.",
+      "Best-case route for Scotland: They earn a draw or shock win and rely on Morocco beating Haiti to secure second, or match Morocco's result in goals — complex and improbable."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.10, "draw": 0.22, "away": 0.68},
+    "predicted_score": "0-2",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47,
+    "totals_2.5_under": 0.53
+  },
+  "value_notes": "Market-implied probabilities (after removing overround of ~6%): Scotland 0.118, Draw 0.189, Brazil 0.693. My model: Scotland 0.10 (-0.018 vs market), Draw 0.22 (+0.031 vs market), Brazil 0.68 (-0.013 vs market). No single outcome clears the 0.05 edge threshold on the h2h market. For totals: market implies Over 2.5 at 0.512 and Under 2.5 at 0.488 (after normalising the 5.6% overround). My model puts Under 2.5 at 0.53 — an edge of +0.042 — which is below the 0.05 threshold but directionally supported by Scotland's minimal attacking output (1 goal in 2 games), Brazil's motivation to protect a qualifying position, Raphinha's absence reducing Brazil's attacking fluidity, and the historical 1-0/2-0 pattern in H2H meetings. No selection meets the 0.05 minimum edge requirement for a recommended bet.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://bolavip.com/en/world-cup/group-c-standings-are-scotland-out-of-the-2026-world-cup-after-losing-to-morocco",
+    "https://sports.yahoo.com/articles/world-cup-group-c-standings-162944655.html",
+    "https://fansided.com/soccer/world-cup-group-c-standings-and-scenarios-what-brazil-morocco-scotland-need-to-advance-to-knockouts",
+    "https://www.espn.com/soccer/story/_/id/49119000/scotland-vs-morocco-latest-updates-commentary-score-world-cup-2026-live-result",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/scotland-morocco-match-report-highlights",
+    "https://www.espn.com/soccer/story/_/id/49129032/brazil-confirm-raphinha-hamstring-injury-world-cup-2026-return-uncertain-group-c",
+    "https://openthemagazine.com/sports/neymar-injury-update-brazil-star-nears-world-cup-comeback-ahead-of-scotland-clash",
+    "https://www.sportsmole.co.uk/football/scotland/injury-news/team-news/scotland-vs-brazil-injury-suspension-list-predicted-xis_599773.html",
+    "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/predicted-lineups/raphinha-blow-neymar-rayan-decisions-predicted-brazil-lineup-vs-scotland_599772.html",
+    "https://khelnow.com/football/world-football-scotland-vs-brazil-head-to-head-fifa-world-cup-202606",
+    "https://www.sportsmole.co.uk/football/scotland/head-to-head/scotland-vs-brazil-head-to-head-record-and-past-meetings_599774.html",
+    "https://www.thesoccerworldcups.com/head_to_head/scotland_vs_brazil.php",
+    "https://www.rotowire.com/soccer/article/scotland-vs-brazil-picks-tips-odds-best-bets-2026-world-cup-group-c-119474",
+    "https://www.espn.co.uk/football/story/_/id/49137398/scotland-brazil-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://au.sports.yahoo.com/brazil-xi-vs-scotland-confirmed-114147344.html",
+    "https://www.goal.com/en/news/scotland-brazil-world-cup-preview/blt7e5ff4d86c71b434"
+  ],
+  "generated_at": "2026-06-24T14:32:00Z"
+}

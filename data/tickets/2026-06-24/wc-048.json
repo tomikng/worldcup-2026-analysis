@@ -1,0 +1,68 @@
+{
+  "match_id": "wc-048",
+  "date": "2026-06-24",
+  "home": "Switzerland",
+  "away": "Canada",
+  "kickoff_utc": "2026-06-24T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_B",
+  "venue": "BC Place, Vancouver",
+  "analysis": {
+    "summary": "This is a Group B top-of-table decider between two sides level on four points after two games. Canada (GD +5) hold first place over Switzerland (GD +3) on goal difference, meaning a draw is sufficient for Canada to finish top and retain their Vancouver knockout-stage home advantage. Switzerland must win to claim first place. Both teams thrashed weaker opponents in MD2 (Canada 6-0 Qatar, Switzerland 4-1 Bosnia-Herzegovina), but this is a far tighter contest in what is expected to be a partisan home atmosphere for Canada at BC Place.",
+    "home_form": "Switzerland (home in fixture): W in MD2 (4-1 vs Bosnia, goals from Vargas, Xhaka pen, plus Manzambi brace as sub), D in MD1 (1-1 vs Qatar). In European qualifying for this tournament they topped their UEFA group with 4W-2D-0L, scoring 14 and conceding 2. Strong defensive record in competitive play; experienced campaigners under Murat Yakin.",
+    "away_form": "Canada (away in fixture, but playing in home city Vancouver): W in MD2 (6-0 vs Qatar, Jonathan David hat-trick plus goals from Larin and others), D in MD1 (1-1 vs Bosnia-Herzegovina). As co-hosts, Canada did not participate in qualifying; pre-tournament friendlies showed mixed form but David's hat-trick signals a tournament peak.",
+    "h2h": "Only one prior meeting: Canada 3-1 Switzerland in a friendly in St. Gallen, May 2002. No recent competitive history to draw upon; that match is too distant to be analytically relevant.",
+    "injuries_news": [
+      "Canada: Ismael Kone out for tournament (broken tibia and fibula vs Qatar, MD2). Defender Alfie Jones unavailable through injury.",
+      "Switzerland: Left-back Miro Muheim out through injury; Ricardo Rodriguez expected to fill the left-back role.",
+      "Canada: Derek Cornelius and Luc de Fougerolles are on a yellow card and at risk of suspension if booked.",
+      "No suspensions confirmed for either side ahead of this match."
+    ],
+    "key_factors": [
+      "Qualification incentive asymmetry: Canada need only a draw to finish first and keep Vancouver home advantage into the knockout rounds; Switzerland must win. This shapes Canada's likely conservative approach.",
+      "Home crowd effect: BC Place, Vancouver is effectively Canada's home ground with a retractable roof providing a controlled, loud atmosphere. Canada's home support is a meaningful edge.",
+      "Jonathan David in exceptional form: hat-trick in MD2, now the focal point of Canada's attack. Switzerland's centre-backs Akanji and Jaquez face their sternest test yet.",
+      "Switzerland's tournament experience: 12th World Cup appearance, experienced spine through Kobel, Akanji, Xhaka, Embolo. Unlikely to capitulate under pressure, but must take attacking risks they'd otherwise avoid.",
+      "Kone absence hurts Canada: the dynamic central midfielder was key in MD1 and MD2; his broken leg forces Canada into a midfield reshuffle, potentially reducing their pressing intensity.",
+      "Tactical shape: Switzerland expected in a structured 4-2-3-1 with Xhaka dictating tempo; Canada likely to press high early and absorb in a 4-4-2 / 4-2-3-1 if they protect a lead or draw.",
+      "BC Place closed retractable roof venue near sea level - no altitude or weather disadvantage for either side."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.36,
+      "draw": 0.31,
+      "away": 0.33
+    },
+    "predicted_score": "1-1",
+    "confidence": 0.66
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.42,
+    "btts_yes": 0.50
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Switzerland win 0.41, draw 0.30, Canada win 0.29. My model probabilities: Switzerland win 0.36, draw 0.31, Canada win 0.33. The key disagreement is on the Switzerland win (model -0.05 vs market) and Canada win (model +0.04 vs market). The market appears to underweight two compounding factors: (1) Canada's draw-suffices incentive shaping a defensively conservative gameplan that makes a Switzerland win harder to achieve, and (2) Canada plays in their home city with a massive partisan crowd. The edge on Canada win is approximately +0.04 (model 0.33 vs implied 0.29), just short of the 0.05 threshold at odds 3.30 (implied 0.303). The Switzerland win shows a negative edge by my model (0.36 model vs 0.41 implied), so no value there. No qualifying edge of 0.05 or greater is identified in h2h markets. For totals: market implies over 2.5 at 0.453 (normalized); my model gives 0.42 — slight lean under given both teams' incentive to play tight and Kone's absence reducing Canada's dynamism. For BTTS: market implies yes at 0.532 (normalized); model gives 0.50 — marginal lean toward no given Canada's likely conservative shape when protecting a draw. No market_probs edge reaches the 0.05 threshold required for a value bet recommendation.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-back-offensive-display-canada-switzerland",
+    "https://www.skysports.com/football/news/12098/13543085/world-cup-2026-group-b-guide-fixtures-schedule-standings-and-odds-for-canada-bosnia-herzegovina-qatar-and-switzerland",
+    "https://fansided.com/soccer/world-cup-group-b-standings-canada-and-switzerland-well-placed-how-bosnia-and-qatar-can-advance",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B",
+    "https://worldsoccertalk.com/world-cup/2026-world-cup-group-b-standings-updated-table-after-canadas-victory-over-qatar/",
+    "https://ca.news.yahoo.com/world-cup-2026-five-factors-that-will-decide-canadas-first-place-showdown-with-switzerland-212239028.html",
+    "https://www.tsn.ca/soccer/fifa-world-cup/article/tale-of-the-tape-how-canada-switzerland-match-up-ahead-of-crucial-clash-for-group-b/",
+    "https://www.sportsmole.co.uk/football/switzerland/world-cup-2026/team-news/switzerland-vs-canada-injury-suspension-list-predicted-xis_599748.html",
+    "https://www.sportsmole.co.uk/football/switzerland/world-cup-2026/preview/switzerland-vs-canada-prediction-team-news-lineups_599751.html",
+    "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup",
+    "https://www.skysports.com/football/switzerland-vs-bosnia-and-herzegovina/report/549791",
+    "https://theanalyst.com/articles/switzerland-vs-bosnia-herzegovina-stats-world-cup-2026-live",
+    "https://www.skysports.com/football/news/11095/13553620/world-cup-2026-canada-6-0-qatar-jonathan-david-scores-treble-but-ismael-kone-suffers-bad-injury-as-jesse-marschs-side-sit-on-brink-of-knockouts",
+    "https://www.nbcnews.com/sports/soccer/canada-jonathan-david-world-cup-qatar-results-rcna350819",
+    "https://www.cbssports.com/soccer/news/world-cup-group-b-scenarios-june-23-2026/",
+    "https://espn.com/soccer/story/_/id/49067208/why-indoor-venues-give-select-world-cup-teams-big-competitive-advantage",
+    "https://www.sportsmole.co.uk/football/head-to-head/switzerland-vs-canada-head-to-head-record-and-past-meetings_599746.html",
+    "https://www.sportytrader.com/en/betting-tips/switzerland-canada-355754/",
+    "https://news.bet365.com/en-us/article/canada-vs-switzerland-world-cup-odds-picks-predictions/2026062207310849256"
+  ],
+  "generated_at": "2026-06-24T07:30:00Z"
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-23",
+  "source": "web-research",
+  "fetched_at": "2026-06-24T08:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-044",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "home_goals": 5,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760461/uzbekistan-portugal",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/23/portugal-vs-uzbekistan-live-world-cup-2026",
+        "https://www.cbssports.com/soccer/news/portugal-vs-uzbekistan-live-updates-world-cup-2026-score-result/live/",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-portugal-vs-uzbekistan-jun-23-2026-game-boxscore-647660",
+        "https://theanalyst.com/articles/portugal-vs-uzbekistan-stats-world-cup-2026"
+      ]
+    },
+    {
+      "match_id": "wc-045",
+      "home": "England",
+      "away": "Ghana",
+      "home_goals": 0,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 9,
+      "away_corners": 2,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760458/ghana-england",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506",
+        "https://www.skysports.com/football/england-vs-ghana/report/549812",
+        "https://www.sportsmole.co.uk/football/england/world-cup-2026/result/england-struck-by-second-game-curse-again-in-frustrating-world-cup-draw-with-ghana_599937.html",
+        "https://www.nbcsports.com/soccer/live/england-vs-ghana-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-june-23"
+      ]
+    },
+    {
+      "match_id": "wc-046",
+      "home": "Panama",
+      "away": "Croatia",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/story/_/id/49157167/panama-croatia-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.espn.com/soccer/match/_/gameId/760460/croatia-panama",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-23-live-updates-rcna351348",
+        "https://www.skysports.com/football/news/11095/13554940/world-cup-2026-panama-0-1-croatia-ante-budimir-scores-from-bench-to-kickstart-2018-finalists-tournament",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-match-report-highlights"
+      ]
+    },
+    {
+      "match_id": "wc-047",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 5,
+      "away_corners": 4,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760459/congo-dr-colombia",
+        "https://www.espn.com/soccer/story/_/id/49157815/colombia-congo-dr-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://theanalyst.com/articles/colombia-vs-dr-congo-stats-world-cup-2026",
+        "https://www.squawka.com/en/news/world-cup/colombia-dr-congo-result-stats-24-06-2026/",
+        "https://www.vavel.com/en-us/soccer/2026/06/24/1264183-colombia-vs-dr-congo-live-score-2026-fifa-world-cup.html"
+      ]
+    }
+  ]
+}
