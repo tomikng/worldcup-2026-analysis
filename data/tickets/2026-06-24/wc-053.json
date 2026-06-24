@@ -1,0 +1,65 @@
+{
+  "match_id": "wc-053",
+  "date": "2026-06-24",
+  "home": "Czechia",
+  "away": "Mexico",
+  "kickoff_utc": "2026-06-25T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_A",
+  "venue": "Estadio Azteca, Mexico City",
+  "analysis": {
+    "summary": "Czechia (1 point, 3rd place) must win or draw to keep alive any hope of advancing as one of the eight best third-placed teams, while Mexico has already clinched first place with six points and will rotate their squad significantly. The altitude at Estadio Azteca (2,240m) and a massive pro-Mexico crowd still favour the hosts even with heavy rotation, but a desperate and well-organised Czech side under Koubek has real motivation to attack — making this a more competitive fixture than the raw standings suggest. Mexico's expected lineup changes — including starting veteran goalkeeper Memo Ochoa and promoting Santiago Gimenez — meaningfully reduce the gap between the sides relative to the first two matchdays.",
+    "home_form": "Czechia lost 2-1 to South Korea (MD1, June 12, Guadalajara): Krejci gave them the lead in the 59th minute before South Korea turned it around 67' and 80'. Drew 1-1 with South Africa (MD2, June 18, Atlanta): Sadilek scored in the 6th minute but conceded an 83rd-minute penalty to Mokoena. They have shown they can score first but struggle to hold leads. Patrik Schick is yet to score in the tournament despite strong club form (16 Bundesliga goals in 2025-26). Coach Koubek expected to return to an attacking 3-4-2-1 with Sulc and Provod behind Schick.",
+    "away_form": "Mexico have been dominant, beating South Africa 2-0 (MD1, June 11, Azteca) and South Korea 1-0 (MD2, June 18, Guadalajara). They are already confirmed group winners and the first team to reach the knockout stage. Manager Javier Aguirre will rotate heavily: Memo Ochoa starts in goal (his historic 6th World Cup appearance), Santiago Gimenez leads the attack, teenage sensation Gilberto Mora features in midfield, and first-choice defenders including Cesar Montes (back from suspension) rotate with Edson Alvarez trialling at centre-back. The rotated XI lowers Mexico's attacking ceiling versus the first-choice side.",
+    "h2h": "These sides have met only once, with Czechia winning 2-1 in a friendly at the 1999-2000 Carlsberg Cup (Hong Kong). There is also a historical footnote: Czechoslovakia met Mexico at the 1962 World Cup (Mexico won 3-1). The modern head-to-head sample is negligible and provides no meaningful predictive value.",
+    "injuries_news": [
+      "Czechia: LB David Jurasek remains sidelined with injury and has not featured in either group game. No new suspension concerns confirmed pre-match, though Ladislav Krejci is at yellow-card risk and would miss the round of 32 if booked while Czechia advance.",
+      "Mexico: Cesar Montes (suspended MD2 after MD1 red card) is available again and expected to start or be available. No new injury concerns reported for Mexico's squad heading into MD3. Rotational changes are tactical, not injury-forced."
+    ],
+    "key_factors": [
+      "Mexico squad rotation: Aguirre confirmed significant changes including Memo Ochoa in goal and Santiago Gimenez up front. A rotated XI is measurably weaker and gives Czechia a genuine route to goal.",
+      "Czechia motivation vs Mexico complacency: Czechia are fighting for their tournament lives (need at minimum a draw and preferably a win to have a credible third-place bid), while Mexico have nothing to gain from winning by more than 1-2 goals.",
+      "Estadio Azteca altitude (2,240m above sea level): Even with rotation, Mexico's squad is fully acclimatised after two weeks in country. Czechia's players face the same altitude challenge that slowed South Africa and South Korea.",
+      "Patrik Schick factor: Czechia's leading striker (26 international goals, 16 Bundesliga goals this season) is goalless in the tournament and overdue. He is the focal point of the Czech attack and will be motivated against a reshuffled Mexican defence.",
+      "Crowd factor: Estadio Azteca will be near-capacity with pro-Mexico support. Even a rotated Mexican side benefits enormously from atmosphere and familiarity.",
+      "Simultaneous kickoff (Group A MD3): South Korea vs South Africa kicks off at the same time. If South Korea are winning that game and news filters through, Czechia's exact qualification path may shift real-time, but their incentive to keep attacking remains constant regardless.",
+      "2026 format: Eight best third-placed teams advance. Czechia on 1 point with a GD of -1 (scored 2, conceded 3) would need to win and have a favourable goal difference among all group thirds to advance even from third — raising the stakes on margin of victory."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.24,
+      "draw": 0.26,
+      "away": 0.50
+    },
+    "predicted_score": "1-2",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Czechia 0.257, Draw 0.244, Mexico 0.499. My model: Czechia 0.24, Draw 0.26, Mexico 0.50. The market is broadly fair; no single outcome reaches the ≥0.05 edge threshold required to flag value. The closest divergence is the draw (my 0.26 vs market implied 0.244, delta +0.016) reflecting Mexico's expected heavy rotation and Czechia's compulsion to attack, but this edge is insufficient. On totals, the market implies over 2.5 at 0.442 (normalised from 2.19 odds); my model assigns 0.47, a delta of +0.028 — below the 0.05 threshold. No market odds were provided for btts, cards, or corners, so those cannot be assessed for edge. No selections meet the ≥0.05 edge threshold.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://worldsoccertalk.com/amp/world-cup/2026-world-cup-group-a-standings-updated-table-after-mexicos-victory-over-south-korea/",
+    "https://www.cbssports.com/soccer/news/world-cup-group-a-scenarios-june-23-2026/",
+    "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom",
+    "https://www.aljazeera.com/sports/liveblog/2026/6/18/czechia-vs-south-africa-live-world-cup-2026",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/czechia-south-africa-highlights-match-report",
+    "https://www.cbssports.com/soccer/news/mexico-vs-south-korea-live-updates-world-cup-2026-score-result/live/",
+    "https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game",
+    "https://sports.yahoo.com/articles/mexico-announces-memo-ochoa-historic-174512073.html",
+    "https://www.si.com/soccer/czechia-vs-mexico-world-cup-preview-predictions-lineups-6-24-26",
+    "https://lastwordonsports.com/football/2026/06/23/mexico-vs-czechia-team-news-and-predicted-lineups-a-farewell-game-for-guillermo-ochoa/",
+    "https://www.goal.com/en-sa/lists/edson-alvarez-obed-vargas-five-keys-mexico-vs-czechia/blt1254bd0340a5ea26",
+    "https://www.tsn.ca/soccer/fifa-world-cup/article/mexico-citys-altitude-poses-a-key-challenge-for-teams-at-the-2026-world-cup/",
+    "https://www.foxsports.com/articles/soccer/mexico-citys-altitude-poses-a-key-challenge-for-teams-at-the-2026-world-cup",
+    "https://khelnow.com/football/world-football-czechia-vs-mexico-head-to-head-fifa-world-cup-202606",
+    "https://bolavip.com/en/world-cup/2026-world-cup-why-isnt-cesar-montes-playing-today-for-mexico-vs-south-korea",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule",
+    "https://www.espn.com/soccer/story/_/id/49142462/czechia-vs-mexico-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+    "https://www.si.com/soccer/2026-world-cup-third-place-group-table-how-it-works-as-things-stand",
+    "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination"
+  ],
+  "generated_at": "2026-06-24T14:32:00Z"
+}

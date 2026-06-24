@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-24",
+  "slips": [
+    {
+      "slip_id": "2026-06-24-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-050",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.33,
+          "model_prob": 0.88,
+          "edge": 0.128,
+          "rationale": "Haiti have failed to score in both group games (0 goals, 0 shots on target of note) and Morocco's solid defensive structure makes it highly unlikely Haiti find the net, giving btts-no a strong probability advantage over the market-implied 75%."
+        }
+      ],
+      "combined_odds": 1.33,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Morocco vs Haiti btts-no is the only qualifying edge today: model assigns 88% to no-both-teams-score versus the book's 75% implied, driven by Haiti's complete attacking failure across two World Cup matches."
+    }
+  ]
+}

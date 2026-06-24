@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-052",
+  "date": "2026-06-24",
+  "home": "South Africa",
+  "away": "South Korea",
+  "kickoff_utc": "2026-06-25T01:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_A",
+  "venue": "Estadio BBVA, Monterrey",
+  "analysis": {
+    "summary": "South Africa enter Matchday 3 bottom of Group A on one point and must win to have any realistic chance of advancing, while South Korea sit second on three points and need only a draw to secure a knockout-stage place. The tie is severely undermined for South Africa by the absences of suspended midfielder Teboho Mokoena and forward Themba Zwane (three-match red-card ban), stripping Bafana Bafana of their two most influential attacking catalysts. South Korea, full strength and led by Son Heung-min, have both the quality and the tactical motivation to manage the game conservatively once they take the lead, pointing toward a controlled away win or a tight, low-scoring draw.",
+    "home_form": "South Africa lost 2-0 to Mexico (MD1) and drew 1-1 with Czechia via a late Mokoena penalty (MD2). They have scored just one goal and conceded three across two group games, looking physically competitive but limited in creativity. Prior to the tournament South Africa qualified from AFC/CAF via a 3-0 win over Rwanda to top their qualifying group, but competitive form at this level has been poor. Without Mokoena and Zwane their midfield and attack are considerably weaker.",
+    "away_form": "South Korea defeated Czechia 2-1 in MD1 (coming from behind through Hwang In-beom and Oh Hyeon-gyu) then lost 1-0 to Mexico in MD2, conceding a fortunate goalkeeper error goal. They have shown resilience and technical quality, controlling possession (62% vs Czechia) with Lee Kang-in and Son Heung-min driving the attack. Hong Myung-bo has a fully fit squad.",
+    "h2h": "The sides have met only a handful of times historically with limited competitive significance. South Korea won a 2016 friendly 2-1. The head-to-head record slightly favors South Korea but the sample is too small to be decisive. This is the first meeting between the two sides at a World Cup.",
+    "injuries_news": [
+      "South Africa - Teboho Mokoena suspended (second yellow card in MD2 vs Czechia; misses this match)",
+      "South Africa - Themba Zwane suspended (red card in MD1 vs Mexico upgraded to three-match ban; misses this match and any potential round of 32 game)",
+      "South Korea - no injuries or suspensions reported; full squad available"
+    ],
+    "key_factors": [
+      "South Africa must win; a draw eliminates them. This forces them to be open and attack, which may paradoxically expose gaps for South Korea to exploit on the counter.",
+      "South Korea only need a draw, giving them a strong tactical incentive to sit deep, absorb pressure, and manage the game conservatively once level or ahead.",
+      "The double suspension of Mokoena and Zwane severely weakens South Africa's midfield creativity and goal threat. Evidence Makgopa (1 WC goal so far) leads the line but lacks support.",
+      "South Korea's 3-4-2-1 with Son Heung-min and Lee Kang-in provides quality on the break; Kim Min-jae marshals a solid defensive back-three.",
+      "Both Group A matches kick off simultaneously (South Africa vs South Korea and Czechia vs Mexico), so teams will enter knowing their exact situation and will play accordingly from the start.",
+      "The match is in Monterrey at Estadio BBVA; no altitude factor (the venue is near sea level). Rest days are equal for both sides.",
+      "South Africa scored only one goal in two games; three of their recent four competitive matches produced under 2.5 total goals - a low-scoring match is the most probable scenario."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.15, "draw": 0.28, "away": 0.57},
+    "predicted_score": "0-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.39
+  },
+  "value_notes": "Market-implied probabilities (overround removed): South Africa 16.2%, draw 24.5%, South Korea 59.3%. My model: South Africa 15.0%, draw 28.0%, South Korea 57.0%. The most notable divergence is on the draw: my estimate of 28.0% is meaningfully higher than the market's 24.5% (edge +0.035), reflecting South Korea's strong tactical incentive to accept a draw once level, though this falls just short of the 0.05 threshold for a flagged value play. South Africa home win and South Korea win are both close to market-implied probabilities; no edge of 0.05 or greater identified on the h2h market. For totals: market-implied over 2.5 probability is approximately 44.1% (1/2.17 normalized); my model gives 39.0%, marginally supporting the under. No single market clears a 0.05 model-vs-market edge that would constitute a strong value recommendation.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.cbssports.com/soccer/news/world-cup-group-a-scenarios-june-23-2026/",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://bolavip.com/en/amp/world-cup/2026-world-cup-group-a-standings-updated-after-mexico-vs-south-korea",
+    "https://www.skysports.com/football/news/12098/13552607/world-cup-2026-south-korea-2-1-czech-republic-in-beom-hwang-inspires-comeback-win-after-ladislav-krejci-goal",
+    "https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico",
+    "https://briefly.co.za/sports/football/244522-teboho-mokoena-suspended-south-africas-crucial-world-cup-clash-south-korea/",
+    "https://www.sapeople.com/sport/fifa-world-cup-safa-decides-against-appealing-zwanes-red-card/",
+    "https://www.goal.com/en-us/lists/south-africa-are-still-alive-late-teboho-mokoena-penalty-earns-bafana-bafana-vital-world-cup-draw-with-czechia/blt3a5418be363e34be",
+    "https://soccer26live.com/world-cup-2026/teams/south-korea/",
+    "https://www.squawka.com/en/news/world-cup/group-a-permutations/",
+    "https://www.mlssoccer.com/competitions/fifa-world-cup/news/south-africa-vs-south-korea-mbokazi-son-battle-for-world-cup-knockout-spot",
+    "https://sports.yahoo.com/articles/south-africa-vs-south-korea-080344001.html",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/south-africa-vs-south-korea-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-afEgA7q1q3rv/",
+    "https://www.oddschecker.com/football/world-cup/south-africa-v-south-korea/winner",
+    "https://www.juvefc.com/south-africa-v-south-korea-predictions/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/south-africa/team-news",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/korea-republic/team-news"
+  ],
+  "generated_at": "2026-06-24T14:30:00Z"
+}
