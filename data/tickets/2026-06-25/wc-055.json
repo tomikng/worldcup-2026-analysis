@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-055",
+  "date": "2026-06-25",
+  "home": "Ecuador",
+  "away": "Germany",
+  "kickoff_utc": "2026-06-25T20:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_E",
+  "venue": "MetLife Stadium, East Rutherford",
+  "analysis": {
+    "summary": "Germany enter this final Group E fixture already qualified as group winners on six points, having beaten Curacao 7-1 and Ivory Coast 2-1. Ecuador are eliminated unless they win, sitting on one point (a goalless draw vs Curacao) after losing 1-0 to Ivory Coast on a 90th-minute Amad Diallo goal. Ecuador have been shot-shy despite creating chances (3.05 xG vs 0 goals against Curacao), while Germany's attacking firepower and squad depth make them heavy favorites even with limited rotation. Germany's Nico Schlotterbeck is ruled out for the tournament with an ankle injury (Antonio Rudiger expected to replace him), but coach Julian Nagelsmann has explicitly stated he will not rotate heavily, viewing this match as important for team momentum heading into the knockout rounds.",
+    "home_form": "Ecuador WC 2026: L 0-1 vs Ivory Coast (Jun 14, Amad Diallo 90+); D 0-0 vs Curacao (Jun 20, 3.05 xG created but 0 goals scored). Two matches, zero goals, one point. Ecuador's all-time top scorer Enner Valencia leads the line aiming for his 50th international goal, but the side has been wasteful in front of goal throughout the tournament.",
+    "away_form": "Germany WC 2026: W 7-1 vs Curacao (Jun 14, Houston); W 2-1 vs Ivory Coast (Jun 20, Toronto, Undav brace including 94th-min winner). Six points, nine goals scored, two conceded, already through as Group E winners. Germany showed both dominance and resilience across their two group matches.",
+    "h2h": "Germany lead the all-time head-to-head 2-0 (no draws). Previous meetings: Germany 3-0 Ecuador at 2006 World Cup (Klose x2, Podolski); Germany 4-2 Ecuador in May 2013 international friendly (Podolski x2, Bender x2). Germany have outscored Ecuador 7-2 across both historical meetings.",
+    "injuries_news": [
+      "Germany: Nico Schlotterbeck ruled out for rest of tournament with ankle injury sustained vs Ivory Coast; Antonio Rudiger expected to partner Jonathan Tah in central defence",
+      "Ecuador: No confirmed injuries or suspensions reported ahead of this fixture",
+      "Germany rotation (unconfirmed): Nagelsmann has stated no wholesale changes planned; fringe players including Goretzka, Stiller, Leweling, Amiri, Beier may start alongside regular starters"
+    ],
+    "key_factors": [
+      "Tournament context: Germany have nothing to lose (already first) and Ecuador must win to stay alive — creates asymmetric motivation, but Germany's superior quality negates this advantage",
+      "Ecuador scoring drought: Zero goals in 2 World Cup 2026 matches despite 3.05 xG vs Curacao in match 2; BTTS is a significant concern given Ecuador's poor conversion rate",
+      "Germany rotation: Nagelsmann has publicly dismissed wholesale rotation but Schlotterbeck injury forces at least one defensive change; overall squad depth means even rotated XI is strong",
+      "Enner Valencia milestone: Ecuador captain chasing his 50th international goal — significant motivator but not enough to change structural quality gap",
+      "Head-to-head history entirely favors Germany (2W 0D 0L, 7-2 aggregate)",
+      "MetLife Stadium open-air venue; June evening kickoff (20:00 UTC) means cooler conditions than afternoon games, no major altitude factor (sea-level venue)"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.21,
+      "draw": 0.23,
+      "away": 0.56
+    },
+    "predicted_score": "1-2",
+    "confidence": 0.66
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.58,
+    "totals_2.5_under": 0.42,
+    "btts_yes": 0.32,
+    "btts_no": 0.68
+  },
+  "value_notes": "Market-implied probabilities (overround removed, sum normalized from 1.053): home 0.237, draw 0.226, away 0.537. My model: home 0.21, draw 0.23, away 0.56. No significant edge on h2h — model is within 0.023 of market on all three outcomes, none meeting the >=0.05 threshold. BTTS: market implied btts_yes 0.564, btts_no 0.436 (after removing overround). My model: btts_yes 0.32, btts_no 0.68. Edge on btts_no = 0.68 - 0.455 (raw market implied) = +0.225, well above the 0.05 threshold. Ecuador have failed to score in both WC 2026 matches despite strong xG vs Curacao, while Germany are not a high-conceding side. The market significantly overestimates the probability of Ecuador scoring. Totals 2.5 over: market implied 0.546 (normalized); my model 0.58 — edge of +0.034, below the 0.05 threshold, no actionable value identified.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E",
+    "https://www.skysports.com/football/news/12098/13543089/world-cup-2026-group-e-guide-fixtures-schedule-standings-and-odds-for-germany-curacao-ivory-coast-and-ecuador",
+    "https://sports.yahoo.com/articles/world-cup-2026-germany-wins-020518343.html",
+    "https://www.business-standard.com/sports/fifa-world-cup/fifa-world-cup-2026-group-e-standings-and-qualification-scenarios-126062100068_1.html",
+    "https://www.espn.com/soccer/match/_/gameId/760446/curacao-ecuador",
+    "https://www.skysports.com/football/news/11095/13552703/world-cup-2026-ivory-coast-1-0-ecuador-amad-diallo-nets-90th-minute-winner-to-end-ecuadors-19-game-unbeaten-streak",
+    "https://khelnow.com/football/world-football-ecuador-vs-germany-head-to-head-record-ahead-of-fifa-world-cup-202606",
+    "https://www.thesoccerworldcups.com/head_to_head/germany_vs_ecuador.php",
+    "https://www.sportsmole.co.uk/football/germany/world-cup-2026/predicted-lineups/wholesale-changes-including-one-enforced-move-predicted-germany-lineup-vs-ecuador_599882.html",
+    "https://www.sportsmole.co.uk/football/germany/injury-news/team-news/ecuador-vs-germany-injury-suspension-list-predicted-xis_599883.html",
+    "https://www.bavarianfootballworks.com/germany-international-soccer/221000/germany-ecuador-world-cup-lineups-rotation-julian-nagelsmann-deniz-undav",
+    "https://www.bundesliga.com/en/bundesliga/news/germany-options-rotate-against-ecuador-world-cup-2026-37935",
+    "https://sports.yahoo.com/articles/world-cup-matchday-preview-ecuador-160000794.html"
+  ],
+  "generated_at": "2026-06-25T10:45:00Z"
+}
