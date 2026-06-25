@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-058",
+  "date": "2026-06-25",
+  "home": "Türkiye",
+  "away": "United States",
+  "kickoff_utc": "2026-06-26T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_D",
+  "venue": "SoFi Stadium, Inglewood",
+  "analysis": {
+    "summary": "This is a dead-rubber final group-stage fixture: the USA have won both games (4-1 vs Paraguay, 2-0 vs Australia) to lock up first place in Group D, while Türkiye are eliminated with zero points and zero goals after losses to Australia (0-2) and Paraguay (0-1 despite 32 attempts). Pochettino faces a genuine rotation dilemma — four key players (Adams, Balogun, Robinson, Richards) are on yellow cards and risk suspension if booked again, pointing toward mass changes — while Montella's side have nothing to lose and will push hard to salvage pride and break their goal drought. Even a heavily rotated USMNT should have enough quality at home soil to control this match, though Türkiye's desperate attacking intent makes a clean sheet unlikely.",
+    "home_form": "Türkiye lost 0-2 to Australia on June 14, then 0-1 to Paraguay on June 19 despite dominating possession and registering 32 shots. Eliminated after two defeats, they have been toothless in front of goal despite generating chances. Arda Güler, Kenan Yildiz, and Hakan Çalhanoğlu remain in the squad and are expected to play with the handbrake off. Coach Montella faces no rotation incentive and will field his strongest available lineup.",
+    "away_form": "USA are the group's dominant side: beat Paraguay 4-1 (Pulisic, Balogun key) and Australia 2-0 even without Pulisic. Already qualified as group winners with six points. Pulisic is expected to return after his calf injury but may be eased in carefully; Adams, Balogun, Antonee Robinson, and Chris Richards are on yellow cards and face suspension risk, making them likely to be rested. Rotation is near-certain, with Roldan, McKenzie, Arfsten, and Zendejas expected to start.",
+    "h2h": "This is the first competitive meeting between the sides. Their historical meetings are limited to friendlies: USA won 2-1 in May 2010 and 2-1 in June 2014; Turkey won 2-1 at the 2003 FIFA Confederations Cup. All recorded meetings ended 2-1 regardless of winner. No World Cup head-to-head precedent exists.",
+    "injuries_news": [
+      "Christian Pulisic (USA) — calf injury kept him out vs Australia; expected to return vs Türkiye but playing status unconfirmed and he may be managed carefully as a squad member on the tournament edge.",
+      "Tyler Adams, Folarin Balogun, Antonee Robinson, Chris Richards (USA) — all on yellow cards; likely to be rested to avoid suspension ahead of the Round of 32 (July 1).",
+      "No confirmed new injury absences reported for Türkiye; full squad available after two group games."
+    ],
+    "key_factors": [
+      "Dead-rubber context: USA have zero incentive to win and strong reason to rotate aggressively, while Türkiye are desperate to end the tournament with a goal and a performance.",
+      "USA rotation — a likely B-team including fringe players such as Roldan, McKenzie, Arfsten, Zendejas, and Pepi — meaningfully narrows the talent gap vs Turkey's likely first-choice XI.",
+      "Venue advantage: SoFi Stadium in Inglewood is effectively home turf for the co-host USA, with partisan crowd support.",
+      "Türkiye's attack (Güler, Yildiz, Çalhanoğlu) generated 32 attempts vs Paraguay with zero goals — wasteful finishing has been the key problem; they may finally score against a rotated US backline.",
+      "Referee Mustapha Ghorbal (Algeria) averages ~3.87 yellow cards per game in his career, showed 4 yellows in his WC 2026 match (Haiti-Scotland), indicating a moderate disciplinary approach.",
+      "Rest advantage: Türkiye had 6 days rest after June 19; USA had 6 days after June 19 as well — rest is even.",
+      "Altitude/heat: SoFi Stadium is at sea level and has a retractable roof; no significant environmental disadvantage for either side."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.24,
+      "draw": 0.26,
+      "away": 0.50
+    },
+    "predicted_score": "1-2",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.44,
+    "btts_yes": 0.40
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Türkiye 0.266, Draw 0.233, USA 0.501. My model: Türkiye 0.24, Draw 0.26, USA 0.50. The model edges are small: Draw is marginally higher (0.26 vs 0.233 implied) reflecting rotation uncertainty, while Turkey is marginally lower (0.24 vs 0.266 implied) given their goal-scoring failure in two games. No single h2h selection reaches the required +0.05 edge threshold. For totals 2.5 over: market implies 1/2.11 = 0.474; my model gives 0.44 — the under is therefore slightly favoured by the model (model under prob ~0.56 vs implied 0.526), but the edge is only ~0.034, below the 0.05 threshold. For BTTS yes: market implies 1/1.78 = 0.562; my model gives 0.40 — this represents a meaningful negative edge on BTTS yes (market overestimates Turkey scoring given their 0-goal record in 2 games), but this is a fade, not a qualifying bet under our staking rules. No market clears the 0.05 positive edge threshold on the away side given the near-parity with market implied probability on the USA. No value bets identified for this match.",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13543088/world-cup-2026-group-d-guide-fixtures-schedule-standings-and-odds-for-usa-paraguay-australia-and-turkey",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi",
+    "https://bolavip.com/en/amp/world-cup/2026-world-cup-group-d-standings-updated-as-usa-secures-top-spot-after-turkiye-vs-paraguay",
+    "https://www.aljazeera.com/sports/2026/6/20/turkiye-knocked-out-of-world-cup-2026-after-1-0-defeat-to-10-man-paraguay",
+    "https://www.espn.com/soccer/match/_/gameId/760421/turkiye-australia",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021460",
+    "https://sports.yahoo.com/soccer/live/usmnt-vs-australia-score-live-updates-where-to-watch-world-cup-2026-christian-pulisic-injury-news-lineups-170000908.html",
+    "https://www.nbclosangeles.com/world-cup/usmnt-paraguay-score-balogun-pulisic/3903779/",
+    "https://bleacherreport.com/articles/25445002-christian-pulisic-updates-injury-status-ahead-usa-vs-turkiye-world-cup-group-stage",
+    "https://www.turkiyetoday.com/sports/mustapha-ghorbal-veteran-referee-taking-charge-of-turkiye-vs-usa-3222462",
+    "https://www.whoscored.com/referees/3634/show/mustapha-ghorbal",
+    "https://www.sportsmole.co.uk/football/turkey/world-cup-2026/preview/turkey-vs-usa-prediction-team-news-lineups_599846.html",
+    "https://www.rotowire.com/soccer/article/turkiye-vs-usa-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-d-119483",
+    "https://www.sportsmole.co.uk/football/turkey/world-cup-2026/head-to-head/turkey-vs-usa-head-to-head-record-and-past-meetings_599961.html",
+    "https://www.juvefc.com/turkey-v-united-states-predictions/"
+  ],
+  "generated_at": "2026-06-25T12:00:00Z"
+}

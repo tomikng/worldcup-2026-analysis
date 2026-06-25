@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-057",
+  "date": "2026-06-25",
+  "home": "Tunisia",
+  "away": "Netherlands",
+  "kickoff_utc": "2026-06-25T23:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_F",
+  "venue": "GEHA Field at Arrowhead Stadium, Kansas City",
+  "analysis": {
+    "summary": "Netherlands enter this dead rubber as heavy favourites having scored 7 goals in two Group F games (5-1 vs Sweden, 2-2 vs Japan) while sitting level on 4 points with Japan but leading on goal difference. Tunisia are already eliminated having conceded 9 goals in two matches (lost 1-5 to Sweden, 0-4 to Japan), had their manager Sabri Lamouchi sacked mid-tournament, and have no points to play for. Ronald Koeman's side have strong tactical motivation to win and secure Group F top spot, which would earn them a Round of 32 match against Morocco rather than Brazil.",
+    "home_form": "Tunisia have been dismal at this World Cup: a 1-5 defeat to Sweden on Matchday 1 and a 0-4 loss to Japan on Matchday 2, conceding 9 goals with zero clean sheet potential. Their manager was dismissed after the Japan defeat. They scored only 1 goal across both matches (a consolation vs Sweden) and have shown severe defensive disorganisation.",
+    "away_form": "Netherlands have been in outstanding attacking form: a 2-2 draw vs Japan (underperforming xG slightly) followed by a dominant 5-1 win over Sweden. Brian Brobbey scored twice vs Sweden, Cody Gakpo added two more. The Dutch have scored 7 goals in 2 games but have conceded 3, failing to keep a clean sheet in any of their last 6 matches. Memphis Depay is a doubt with a thigh problem; Brian Brobbey carries a minor knock but is expected to start.",
+    "h2h": "Only three historical meetings: Netherlands won 4-0 in April 1978. The sides drew 2-2 in January 1994 and 1-1 in February 2009. This will be the first competitive fixture between the sides, so head-to-head history has limited predictive weight.",
+    "injuries_news": [
+      "Brian Brobbey (Netherlands) carrying a knock from the Sweden game; fitness uncertain but expected to start.",
+      "Memphis Depay (Netherlands) working back from a thigh problem; unlikely to start but in the squad.",
+      "Quinten Timber (Netherlands) returned from concussion and is in contention.",
+      "No confirmed injury or suspension news for Tunisia key players."
+    ],
+    "key_factors": [
+      "Netherlands have strong incentive to win: first place in Group F means facing Morocco (Group C runner-up) rather than Brazil (Group C winner) in the Round of 32.",
+      "Tunisia have conceded 9 goals in 2 games — the worst defensive record in their group — and have nothing to play for, suggesting minimal resistance.",
+      "Netherlands have failed to keep a clean sheet in their last 6 matches, meaning Tunisia may score via a set piece or error even against a heavily-rotated Dutch backline.",
+      "Koeman is expected to field near-full strength to secure top spot, making a dominant Dutch win the most likely outcome.",
+      "Kansas City's summer heat may reduce intensity in the second half, potentially limiting total goals below 5.",
+      "Group stage motivation gap: Netherlands motivated for seeding; Tunisia players competing for individual dignity only."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.05,
+      "draw": 0.06,
+      "away": 0.89
+    },
+    "predicted_score": "0-3",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_3.5_over": 0.55,
+    "btts_yes": 0.30,
+    "btts_no": 0.70,
+    "correct_score_0-3": 0.18,
+    "correct_score_0-4": 0.15,
+    "correct_score_0-2": 0.12
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.041, draw 0.095, away 0.864. My model: home 0.05, draw 0.06, away 0.89. No significant edge on the h2h market — the away selection is priced at 1.10 (implied 0.909 raw, 0.864 normalised) and my model gives 0.89, so edge is approximately +0.026, below the 0.05 threshold for a qualifying bet. On totals 3.5 over: market implied 1/2.25 = 0.444; my model gives 0.55, an edge of approximately +0.106 — this is the strongest value play. On btts yes: market implied 1/2.80 = 0.357; my model gives 0.30, so the market overrates BTTS yes — no value on yes side; btts no at 1.40 implies 0.714 against my 0.70 model prob, edge of -0.014, insufficient. Correct score 0-3 at 9.00 implies 0.111; my model gives 0.18, edge of +0.069 — qualifies as value. Correct score 0-4 at 11.00 implies 0.091; my model gives 0.15, edge of +0.059 — qualifies. Summary of qualifying edges: totals_3.5_over edge ~+0.106; correct_score 0-3 edge ~+0.069; correct_score 0-4 edge ~+0.059.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+    "https://www.skysports.com/football/news/12098/13543097/world-cup-2026-group-f-guide-fixtures-schedule-standings-and-odds-for-netherlands-japan-sweden-and-tunisia",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.tapmad.com/blog/tunisia-vs-netherlands-wc-2026-preview-team-analysis-lineups-and-key-players/6557-7-0",
+    "https://khelnow.com/football/world-football-tunisia-vs-netherlands-head-to-head-fifa-world-cup-202606",
+    "https://www.espn.com/soccer/story/_/id/49009665/group-f-2026-world-cup-teams-records-stats-know-netherlands-japan-tunisia-sweden",
+    "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/predicted-lineups/will-brobbey-start-netherlands-predicted-xi-vs-tunisia_599922.html",
+    "https://www.theblazingmusket.com/2026-fifa-world-cup-group-f-recaps-japan-netherlands-sweden-tunisia-goals-highlights/",
+    "https://www.business-standard.com/amp/sports/fifa-world-cup/fifa-world-cup-2026-group-f-standings-and-qualification-scenarios-126062100062_1.html",
+    "https://www.skysports.com/football/news/11095/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
+    "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-bracket-knockout-stage/",
+    "https://www.compare.bet/news/tunisia-vs-netherlands-betting-preview-predictions-tips-and-live-odds"
+  ],
+  "generated_at": "2026-06-25T10:30:00Z"
+}
