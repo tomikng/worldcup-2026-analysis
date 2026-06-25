@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-24",
+  "source": "web-research",
+  "fetched_at": "2026-06-25T00:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-048",
+      "home": "Switzerland",
+      "away": "Canada",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 2,
+      "away_corners": 7,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760463/canada-switzerland",
+        "https://www.sofascore.com/news/switzerland-2-1-canada-group-b-stats-that-mattered",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451"
+      ]
+    },
+    {
+      "match_id": "wc-049",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "home_goals": 3,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760462/qatar-bosnia-herzegovina",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/bosnia-and-herzegovina-qatar-highlights-match-report"
+      ]
+    },
+    {
+      "match_id": "wc-050",
+      "home": "Morocco",
+      "away": "Haiti",
+      "home_goals": 4,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760464/haiti-morocco",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-morocco-vs-haiti-jun-24-2026-game-boxscore-647667"
+      ]
+    },
+    {
+      "match_id": "wc-051",
+      "home": "Scotland",
+      "away": "Brazil",
+      "home_goals": 0,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760465/brazil-scotland",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/24/scotland-vs-brazil-live-world-cup-2026",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455"
+      ]
+    },
+    {
+      "match_id": "wc-052",
+      "home": "South Africa",
+      "away": "South Korea",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 4,
+      "away_corners": 6,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445",
+        "https://www.espn.com/soccer/story/_/id/49168091/south-africa-south-korea-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://sports.yahoo.com/soccer/live/world-cup-live-updates-scores-schedule-results-group-a-group-b-group-c-195336732.html"
+      ]
+    },
+    {
+      "match_id": "wc-053",
+      "home": "Czechia",
+      "away": "Mexico",
+      "home_goals": 0,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 5,
+      "away_corners": 1,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760467/mexico-czechia",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-czechia-vs-mexico-jun-24-2026-game-boxscore-647668"
+      ]
+    }
+  ]
+}

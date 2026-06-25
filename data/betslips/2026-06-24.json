@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.33,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-25T07:08:44Z",
       "rationale": "Morocco vs Haiti btts-no is the only qualifying edge today: model assigns 88% to no-both-teams-score versus the book's 75% implied, driven by Haiti's complete attacking failure across two World Cup matches."
     }
   ]
