@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-056",
+  "date": "2026-06-25",
+  "home": "Japan",
+  "away": "Sweden",
+  "kickoff_utc": "2026-06-25T23:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_F",
+  "venue": "AT&T Stadium, Arlington",
+  "analysis": {
+    "summary": "Japan and Sweden meet in a decisive Group F finale with contrasting incentives: Japan (4 pts, +4 GD) need only a draw to advance as group runners-up, while Sweden (3 pts, 0 GD) must win to guarantee progression. Japan have impressed with a 2-2 draw vs Netherlands and a dominant 4-0 win over Tunisia, whereas Sweden beat Tunisia 5-1 but were then thrashed 5-1 by the Netherlands. This asymmetry in match stakes strongly shapes the tactical outlook, with Japan likely to defend compactly and Sweden forced to press aggressively for a goal.",
+    "home_form": "Japan drew 2-2 with Netherlands on June 14 (twice coming from behind) then beat Tunisia 4-0 on June 20 (Ueda brace, Kamada and Ito also scoring). Four points from two games, goal difference +4. Key absentees: captain Wataru Endo (foot injury, retired from international football), Takefusa Kubo (knee, injured vs Netherlands), Kaoru Mitoma (hamstring, pre-tournament), Takumi Minamino (ACL, pre-tournament). Itakura Ko wearing the armband. Formation: 3-4-2-1 under Moriyasu with Ayase Ueda as lone striker, Kamada and Ito in the pockets, Doan and Nakamura as wing-backs.",
+    "away_form": "Sweden beat Tunisia 5-1 on June 14 (Ayari brace, Isak assist, Gyokeres goal, Svanberg goal), then lost 5-1 to Netherlands on June 20. Three points, GD 0. Both Alexander Isak and Viktor Gyokeres are fit and available. Gustafsson Gudmundsson received a yellow card against Netherlands (not suspension-triggering at this stage). Formation: 3-5-2 under Graham Potter with Isak and Gyokeres up front, Ayari, Karlstrom, and Gudmundsson in midfield.",
+    "h2h": "Limited head-to-head history. Japan lead the overall series with 2 wins, 2 draws, and 1 loss across five senior meetings, though all recent meetings since 1936 have been friendlies. Most recent meeting was a 1-1 friendly draw in May 2002. This is their first competitive senior international encounter. No meaningful historical pattern to extrapolate.",
+    "injuries_news": [
+      "Japan: Wataru Endo (captain) ruled out of entire tournament with foot injury — retired from international football. Significant midfield and leadership loss.",
+      "Japan: Takefusa Kubo ruled out vs Sweden with knee injury sustained vs Netherlands in matchday 1.",
+      "Japan: Kaoru Mitoma (hamstring) and Takumi Minamino (ACL) ruled out pre-tournament — Japan without several attacking options.",
+      "Sweden: No confirmed injuries or suspensions. Isak and Gyokeres both fit and expected to start.",
+      "Sweden: Alexander Isak was managed for minutes during the week but is confirmed available."
+    ],
+    "key_factors": [
+      "Incentive asymmetry: Japan need only a draw to qualify; Sweden must win. This structurally favors Japan's defensive setup and counter-attack strategy.",
+      "Japan's tactical discipline: Moriyasu's 3-4-2-1 is extremely hard to break down, built on narrow shape and rapid transitions. Sweden's 3-5-2 with two strikers will probe but may struggle vs packed Japan defense.",
+      "Sweden's attacking firepower: Isak (Newcastle) and Gyokeres (Sporting/Arsenal) form one of Europe's most dangerous strike partnerships. Even a disciplined Japan may not keep two clean sheets in the group stage.",
+      "Japan's key absences: Without Endo, Mitoma, Minamino, and Kubo, Japan lack width and creativity. This may limit their own attacking output, making a 1-0 or 1-1 scoreline more likely than a high-scoring game.",
+      "Venue: AT&T Stadium in Arlington has retractable roof and climate control — a fully enclosed environment removes heat/humidity as a factor. Both teams benefit equally from controlled conditions.",
+      "Rest: Both teams had their last match on June 20 (5 days' rest), so fatigue is not a differential factor.",
+      "Group context: Opta gives Sweden a 91.9% chance of advancing even with a draw, depending on goal difference vs third-place teams, so a draw might still allow both teams through. However, Sweden are seeking security and points.",
+      "Sweden's morale after 5-1 thrashing by Netherlands may affect their confidence but also their urgency to prove themselves."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.50, "draw": 0.28, "away": 0.22},
+    "predicted_score": "2-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.48,
+    "btts_yes": 0.50
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized): Japan 0.52, Draw 0.26, Sweden 0.22. My model: Japan 0.50, Draw 0.28, Sweden 0.22. No outcome clears the ≥0.05 edge threshold on the h2h market. For totals: market implies over 2.5 at 0.556 (odds 1.80); my model assigns 0.48 — the under at 2.05 has implied probability 0.488 vs my 0.52, giving a +0.032 edge, below the 0.05 threshold. For BTTS yes: market implies 0.599 (odds 1.67); my model assigns 0.50 — BTTS no at 2.15 has implied 0.465 vs my 0.50, giving a +0.035 edge, also below the 0.05 threshold. Japan's multiple key injuries (Endo, Mitoma, Kubo, Minamino) and Sweden's elite striking pair (Isak and Gyokeres) prevent a high-confidence lean toward the under/btts-no markets despite Japan's defensive incentive. No qualifying edge found for any market; ticket-builder should not stake this match.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+    "https://www.squawka.com/en/news/world-cup/japan-world-cup-2026-fixtures-results-squad-analysis/",
+    "https://www.skysports.com/football/news/12098/13543097/world-cup-2026-group-f-guide-fixtures-schedule-standings-and-odds-for-netherlands-japan-sweden-and-tunisia",
+    "https://www.espn.com/soccer/story/_/id/49009665/group-f-2026-world-cup-teams-records-stats-know-netherlands-japan-tunisia-sweden",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474",
+    "https://www.fifa.com/en/articles/japan-captain-endo-ruled-out-injury",
+    "https://worldsoccertalk.com/world-cup/why-isnt-takefusa-kubo-playing-for-japan-against-tunisia-at-the-2026-world-cup/",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-japan-wataru-endo-o",
+    "https://www.sportsmole.co.uk/football/japan/world-cup-2026/preview/japan-vs-sweden-prediction-team-news-lineups_599879.html",
+    "https://www.sportsmole.co.uk/football/japan/world-cup-2026/head-to-head/japan-vs-sweden-head-to-head-record-and-past-meetings_599955.html",
+    "https://theanalyst.com/articles/japan-vs-sweden-prediction-world-cup-2026-match-preview",
+    "https://www.rotowire.com/soccer/article/japan-vs-sweden-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-119486",
+    "https://sports.yahoo.com/articles/world-cup-2026-japan-vs-193002135.html",
+    "https://www.business-standard.com/sports/fifa-world-cup/fifa-world-cup-2026-group-f-standings-and-qualification-scenarios-126062100062_1.html",
+    "https://www.sofascore.com/news/netherlands-crush-sweden-with-dominant-world-cup-display-in-houston",
+    "https://www.lineups.com/betting/japan-vs-sweden-world-cup-match-preview-picks-odds-for-thursday-june-25-2026/"
+  ],
+  "generated_at": "2026-06-25T10:15:00Z"
+}
