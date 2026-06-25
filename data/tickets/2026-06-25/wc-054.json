@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-054",
+  "date": "2026-06-25",
+  "home": "Curaçao",
+  "away": "Ivory Coast",
+  "kickoff_utc": "2026-06-25T20:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_E",
+  "venue": "Lincoln Financial Field, Philadelphia",
+  "analysis": {
+    "summary": "Ivory Coast enter this Group E finale needing only a point to guarantee second place (they hold the head-to-head advantage over Ecuador), but a win also seals qualification outright and improves their knockout seeding. Curaçao are effectively eliminated — bottom on 1 point and -6 goal difference — and face a side ranked 49 places above them in the FIFA rankings (33rd vs 82nd). The quality gulf is enormous, though Curaçao demonstrated in their 0-0 draw with Ecuador that goalkeeper Eloy Room (15 saves) can be heroic and the team can defend deep.",
+    "home_form": "Curaçao lost 7-1 to Germany on matchday 1, then earned their first-ever World Cup point with a 0-0 draw against Ecuador on June 20 — primarily through an extraordinary 15-save performance from goalkeeper Eloy Room. In their last five competitive matches they have won once (4-0 friendly vs Aruba) and lost four, including conceding 7 to Germany. Their attack is limited but possess pace in Tahith Chong and experience in Jurgen Locadia up front.",
+    "away_form": "Ivory Coast have won four of their last five matches: they beat Ecuador 1-0 (Amad Diallo, 90') on matchday 1, beat France 2-1 in a June 4 friendly, and beat Scotland 1-0. Their only defeat was a agonising 2-1 loss to Germany on June 20 — Deniz Undav equalised (68') then won it in the 94th minute after Kessié had given Ivory Coast the lead. They are competitive at this level and carry genuine attacking quality through Amad Diallo, Ange-Yoan Bonny, and the creativity of Sangare and Kessie in midfield.",
+    "h2h": "This is the first-ever senior meeting between Curaçao and Ivory Coast. No head-to-head record exists prior to this World Cup fixture.",
+    "injuries_news": [
+      "Ivory Coast: Wilfried Singo (hamstring concern) likely to miss the match; Guela Doue expected to start at right-back. Medical examinations reportedly reassuring — not serious long-term. Rest of squad fit.",
+      "Curaçao: Jurgen Locadia (knock, substituted late vs Ecuador) is hopeful to be available. No confirmed suspension. Dick Advocaat has a largely fit squad."
+    ],
+    "key_factors": [
+      "Qualification stakes are asymmetric: Ivory Coast can qualify with a draw (if Ecuador fail to beat Germany), while Curaçao must win AND better Ecuador's result. Ivory Coast may not throw all caution to the wind.",
+      "Ivory Coast hold significant FIFA ranking advantage (33rd vs 82nd) and individually superior Premier League/Serie A players vs Curaçao's lower-tier squad.",
+      "Eloy Room's extraordinary 15-save display vs Ecuador shows Curaçao can frustrate superior opponents — but Ivory Coast attack (Amad Diallo, Bonny, Diomande) is more clinical and varied than Ecuador's.",
+      "Opta's 25,000-simulation model gave Ivory Coast an 82.2% win probability; Kalshi traders price Ivory Coast at 84%.",
+      "Singo's likely absence weakens Ivory Coast's right flank but Doue is a capable replacement.",
+      "Lincoln Financial Field, Philadelphia — neutral US venue, no altitude or heat concern at kick-off time of 16:00 EST.",
+      "Curaçao's only goal in the tournament came against Germany; they have limited attacking output when not pressed."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.04,
+      "draw": 0.13,
+      "away": 0.83
+    },
+    "predicted_score": "3-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.53,
+    "totals_2.5_under": 0.47,
+    "btts_yes": 0.28,
+    "btts_no": 0.72
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Curaçao win 0.053, Draw 0.118, Ivory Coast win 0.829. My model: Curaçao 0.04, Draw 0.13, Ivory Coast 0.83. No material edge on the h2h — market and model align well on the away win. BTTS: market implies Yes = 0.395, No = 0.605; my model puts BTTS No at 0.72 (edge +0.115 over market's 0.605 implied No), reflecting that Curaçao are unlikely to score against a quality Ivory Coast defence — Room's heroics vs Ecuador were exceptional and Curacao scored only once in 7-1 loss to Germany. Totals: market over 2.5 implied at 0.522; my model at 0.53 — no meaningful edge. Best identified edge: BTTS No (my 0.72 vs market implied 0.605 = +0.115 edge, exceeding the 0.05 threshold); market odds 1.49 implies 0.671, my model 0.72 gives edge of 0.049 — marginally below threshold after normalization. No selections reach the 0.05 edge threshold on normalized market-implied basis for h2h or totals.",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13553785/world-cup-2026-germany-2-1-ivory-coast-deniz-undav-scores-94th-minute-winner-in-group-e-clash",
+    "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point",
+    "https://www.skysports.com/football/news/11095/13552703/world-cup-2026-ivory-coast-1-0-ecuador-amad-diallo-nets-90th-minute-winner-to-end-ecuadors-19-game-unbeaten-streak",
+    "https://www.espn.com/soccer/match/_/gameId/760448/ivory-coast-germany",
+    "https://www.espn.com/soccer/match/_/gameId/760446/curacao-ecuador",
+    "https://www.espn.com/soccer/match/_/gameId/760423/ecuador-ivory-coast",
+    "https://www.sportsmole.co.uk/football/ivory-coast/world-cup-2026/predicted-lineups/singo-update-ndicka-boost-predicted-ivory-coast-lineup-vs-curacao_599887.html",
+    "https://theanalyst.com/articles/curacao-vs-ivory-coast-prediction-world-cup-2026-match-preview",
+    "https://www.squawka.com/us/news/world-cup/match-preview-curacao-vs-ivory-coast-06-25-26-world-cup-2026/",
+    "https://www.business-standard.com/sports/fifa-world-cup/fifa-world-cup-2026-group-e-standings-and-qualification-scenarios-126062100068_1.html",
+    "https://fwctimes.com/curacao-vs-ivory-coast-head-to-head/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ecuador-curacao-match-report-highlights",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-cote-divoire-match-report-highlights"
+  ],
+  "generated_at": "2026-06-25T10:45:00Z"
+}
