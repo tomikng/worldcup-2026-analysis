@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-25",
+  "collected_at": "2026-06-25T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-054",
+      "h2h": {
+        "home": 18.00,
+        "draw": 8.00,
+        "away": 1.14
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.83,
+        "under": 2.00
+      },
+      "totals_alt": [
+        {"line": 3.5, "over": 2.30, "under": 1.63}
+      ],
+      "btts": {
+        "yes": 2.28,
+        "no": 1.49
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760473",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/curacao-v-ivory-coast-35631960",
+        "https://www.oddschecker.com/us/soccer/world-cup/curacao-v-ivory-coast",
+        "https://www.covers.com/world-cup/ivory-coast-vs-curacao-prediction-picks-odds-thursday-6-25-2026"
+      ]
+    },
+    {
+      "match_id": "wc-055",
+      "h2h": {
+        "home": 4.00,
+        "draw": 4.20,
+        "away": 1.77
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.83,
+        "under": 2.00
+      },
+      "btts": {
+        "yes": 1.70,
+        "no": 2.20
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760468",
+        "https://www.fanduel.com/research/ecuador-vs-germany-prediction-lineups-preview-picks-and-best-bets-world-cup-2026-group-e",
+        "https://dknetwork.draftkings.com/2026/06/24/ecuador-vs-germany-picks-prediction-for-thursday-6-25-26/",
+        "https://www.covers.com/world-cup/germany-vs-ecuador-prediction-picks-odds-thursday-6-25-2026",
+        "https://www.oddschecker.com/us/soccer/world-cup/ecuador-v-germany"
+      ]
+    },
+    {
+      "match_id": "wc-056",
+      "h2h": {
+        "home": 1.83,
+        "draw": 3.60,
+        "away": 4.40
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.80,
+        "under": 2.05
+      },
+      "btts": {
+        "yes": 1.67,
+        "no": 2.15
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760471",
+        "https://www.tntsports.co.uk/betting/tips/japan-vs-sweden-prediction-tips-and-odds-world-cup-2026/",
+        "https://www.covers.com/world-cup/japan-vs-sweden-prediction-picks-odds-thursday-6-25-2026",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/japan-vs-sweden-odds-prediction-062526-217233"
+      ]
+    },
+    {
+      "match_id": "wc-057",
+      "h2h": {
+        "home": 23.00,
+        "draw": 10.00,
+        "away": 1.10
+      },
+      "totals": {
+        "line": 3.5,
+        "over": 2.25,
+        "under": 1.63
+      },
+      "btts": {
+        "yes": 2.80,
+        "no": 1.40
+      },
+      "correct_score": {
+        "0-3": 9.00,
+        "0-4": 11.00,
+        "0-2": 10.00
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760472",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/tunisia-v-netherlands-35631950",
+        "https://www.covers.com/world-cup/netherlands-vs-tunisia-prediction-picks-odds-thursday-6-25-2026",
+        "https://www.lineups.com/betting/tunisia-vs-netherlands-world-cup-match-preview-picks-odds-for-thursday-june-25-2026/",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/tunisia-vs-netherlands-betting-tips-predictions-team-news-odds-bet-builder-aPd0q4Q4DXe3/"
+      ]
+    },
+    {
+      "match_id": "wc-058",
+      "h2h": {
+        "home": 3.60,
+        "draw": 4.10,
+        "away": 1.91
+      },
+      "double_chance": {
+        "12": 1.22
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.11,
+        "under": 1.74
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 2.00
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760470",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/t%C3%BCrkiye-v-usa-35631688",
+        "https://www.oddschecker.com/us/soccer/world-cup/turkey-v-usa",
+        "https://www.vegasinsider.com/soccer/usa-turkey-odds-world-cup-2026/",
+        "https://www.covers.com/world-cup/united-states-vs-turkey-prediction-picks-odds-thursday-6-25-2026"
+      ]
+    },
+    {
+      "match_id": "wc-059",
+      "h2h": {
+        "home": 2.88,
+        "draw": 2.30,
+        "away": 3.93
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.35,
+        "under": 1.61
+      },
+      "totals_alt": [
+        {"line": 1.5, "over": 1.57, "under": 2.40}
+      ],
+      "btts": {
+        "yes": 2.06,
+        "no": 1.74
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760469",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/paraguay-v-australia-35626230",
+        "https://www.covers.com/world-cup/paraguay-vs-australia-prediction-picks-odds-thursday-6-25-2026",
+        "https://www.lineups.com/betting/paraguay-vs-australia-world-cup-match-preview-picks-odds-for-thursday-june-25-2026/"
+      ]
+    }
+  ]
+}
