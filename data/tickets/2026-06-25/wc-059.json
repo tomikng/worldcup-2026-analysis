@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-059",
+  "date": "2026-06-25",
+  "home": "Paraguay",
+  "away": "Australia",
+  "kickoff_utc": "2026-06-26T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_D",
+  "venue": "Levi's Stadium, Santa Clara",
+  "analysis": {
+    "summary": "This is a winner-takes-all Group D decider for second place. Both Paraguay and Australia enter on 3 points, but Australia hold a superior goal difference (0 vs -2) meaning a draw is sufficient for the Socceroos to advance as runners-up. Paraguay therefore need a victory and must attack against an opponent with every incentive to sit deep and frustrate. Paraguay are further hampered by the suspension of key midfielder Miguel Almirón, dismissed vs Turkey for covering his mouth under a new FIFA rule, while Australia are relatively fresh and tactically disciplined under Tony Popovic.",
+    "home_form": "Paraguay opened with a heavy 4-1 defeat to the USA (W) then rallied to beat Turkey 1-0 with 10 men, finishing the second game with an xG of only 0.32 against Turkey's 2.10 — a clear indication of their defensive, counter-attacking identity under Gustavo Alfaro. Their attack produced just two goals in two games and will now be without their most creative outlet in Almirón.",
+    "away_form": "Australia defeated Turkey 2-0 in their opener (a clean sheet, two goals) then were outplayed and lost 2-0 to the USA, with Popovic opting for a passive low-block that was punished by the co-hosts. The Socceroos have scored 2 and conceded 2 across their two games. A draw here advances them in second place, and Popovic's cautious approach vs the USA signals he may set up compactly again.",
+    "h2h": "Paraguay and Australia have met five times, all friendlies. Australia hold the all-time advantage: 2 wins, 3 draws, 0 losses for Paraguay. Scorelines: 0-0 (2000), 0-0 (2000), 2-1 AUS (2000), 1-1 (2006), 1-0 AUS (2010). Australia have never lost to Paraguay. This is their first-ever meeting at a World Cup tournament.",
+    "injuries_news": [
+      "Paraguay: Miguel Almirón suspended (one-match ban for red card vs Turkey — covering mouth under new FIFA rule). Diego Gomez listed as probable (minor injury, not confirmed out).",
+      "Australia: Riley McGree ruled out for the tournament with a hamstring injury. Mathew Leckie reported as questionable. Harry Souttar returned to fitness and expected to start at centre-back."
+    ],
+    "key_factors": [
+      "Tournament context is decisive: Australia need only a draw to advance, creating a massive incentive to defend and absorb. Paraguay must win and attack, which exposes them on the counter.",
+      "Almirón's absence is a significant blow — the former Newcastle man was Paraguay's most dynamic attacking player; his suspension removes a key creative threat and forces tactical reshuffling in a 4-4-2 or 4-2-3-1.",
+      "Paraguay's xG in the Turkey game (0.32) and Australia's disciplined defensive low-block vs USA both point to a low-scoring, tight affair.",
+      "Popovic's Australian side showed against the USA they are comfortable sitting in a compact 5-4-1 / 3-4-2-1 block and hitting on the counter — a tactic ideally suited to a game where a draw suffices.",
+      "Venue and timing: 7:00 PM Pacific kickoff at Levi's Stadium. Evening temperatures expected in the 70-80°F range — not extreme heat, unlikely to significantly affect tempo.",
+      "Australia lead on goal difference (0 vs -2); Paraguay must not only win but are aware even a one-goal win is enough — they have no need to chase an unlikely winning margin."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.30,
+      "draw": 0.45,
+      "away": 0.25
+    },
+    "predicted_score": "0-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.35,
+    "totals_2.5_under": 0.65,
+    "btts_yes": 0.34,
+    "btts_no": 0.66
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Paraguay win 33.5%, draw 41.9%, Australia win 24.6%. My model: Paraguay win 30.0%, draw 45.0%, Australia win 25.0%. The draw is the key divergence — I rate it at 0.45 vs market implied 0.419, a +0.031 difference (below the 0.05 threshold for flagged value). Australia win at 0.25 vs market implied 0.246 is also no edge. Paraguay win at 0.30 vs market implied 0.335 represents a slight negative edge, reflecting the meaningful impact of Almirón's suspension on an already limited attack. On totals: market implied over 2.5 at 42.6% (1/2.35), my model at 35% — the under at 1.61 (implied 62.1%) aligns closely with my 65% under estimate, so no significant edge. BTTS: market implied yes at 48.5% (1/2.06), my model at 34% — the 'no' at 1.74 (implied 57.5%) vs my 66% represents a potential edge of +0.085 for btts_no, which meets the 0.05 threshold. No single market edge reaches 0.05 on h2h or totals. The BTTS No market offers the clearest model-vs-market divergence: model 0.66 vs implied 0.575, edge +0.085.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/23/paraguays-almiron-suspended-for-one-game-after-red-card-for-covering-mouth",
+    "https://www.aljazeera.com/sports/2026/6/20/uncertain-world-cup-for-paraguays-almiron-sent-off-for-covering-his-mouth",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/turkiye-paraguay-match-report-highlights",
+    "https://www.espn.com/soccer/match/_/gameId/760443/paraguay-turkiye",
+    "https://www.skysports.com/football/news/17251/13553626/world-cup-2026-turkey-0-1-paraguay-vincenzo-montellas-side-eliminated-from-world-cup-after-back-to-back-defeats",
+    "https://www.espn.com/soccer/match/_/gameId/760442/australia-united-states",
+    "https://www.nbcnews.com/sports/soccer/live-blog/usa-australia-world-cup-2026-june-19-live-updates-rcna350750",
+    "https://www.espn.com/soccer/story/_/id/49096090/2026-fifa-world-cup-live-updates-united-states-vs-australia",
+    "https://www.espn.com/soccer/story/_/id/49123488/us-clinches-group-d-10-man-paraguay-edges-turkey",
+    "https://fansided.com/soccer/world-cup-group-d-standings-and-scenarios-united-states-bracket-scenarios-what-australia-paraguay-need-to-do",
+    "https://www.sportsmole.co.uk/football/paraguay/world-cup-2026/preview/paraguay-vs-australia-prediction-team-news-lineups_599899.html",
+    "https://www.si.com/soccer/paraguay-vs-australia-world-cup-preview-predictions-lineups-6-25-26",
+    "https://www.khelnow.com/football/world-football-paraguay-vs-australia-head-to-head-fifa-world-cup-202606",
+    "https://www.espn.com.au/football/story/_/id/49147185/inside-australia-socceroos-plans-make-history-world-cup-knockouts-paraguay-group-d",
+    "https://www.skysports.com/football/news/12098/13543088/world-cup-2026-group-d-guide-fixtures-schedule-standings-and-odds-for-usa-paraguay-australia-and-turkey",
+    "https://www.worldcupsantaclara.com/stadium"
+  ],
+  "generated_at": "2026-06-25T10:45:00Z"
+}
