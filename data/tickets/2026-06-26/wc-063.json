@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-063",
+  "date": "2026-06-26",
+  "home": "Uruguay",
+  "away": "Spain",
+  "kickoff_utc": "2026-06-27T00:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_H",
+  "venue": "Estadio Akron, Guadalajara",
+  "analysis": {
+    "summary": "This final Group H fixture is a high-stakes contest played simultaneously with Cape Verde vs Saudi Arabia. Spain top Group H with 4 points (W1 D1) and need only a draw to secure first place outright, while Uruguay sit second with 2 points after a 2-2 draw with Cape Verde and need a win to guarantee knockout qualification rather than relying on a best-third-place berth. Spain are clear technical favourites — defending Euro 2024 champions with a 4-0 demolition of Saudi Arabia already in the bank — but they are weakened by Pedri's two-yellow suspension, and Uruguay suffer a double injury blow with both Ronald Araujo (calf) and Giorgian de Arrascaeta (calf) absent. The moderate altitude of Estadio Akron (1,566m) may slightly slow late-game tempo but is not a decisive factor for either side.",
+    "home_form": "Uruguay drew 2-2 with Cape Verde on June 21 after leading 1-0, conceding twice in the second half and showing defensive vulnerability. They beat Saudi Arabia in their opener (result unconfirmed in detail). Bielsa's side press aggressively but are without two key players: Ronald Araujo in central defence and De Arrascaeta as a creative spark behind the striker. Darwin Nunez is expected to start and leads the line with pace and physicality. Manuel Ugarte and Federico Valverde anchor the midfield.",
+    "away_form": "Spain drew 0-0 with Cape Verde in their opener on June 15 before crushing Saudi Arabia 4-0 on June 21 with Lamine Yamal influential and in good health. They have 4 points and first place effectively secured with a draw. However, Pedri is suspended after collecting two yellow cards across the first two group games, and Luis de la Fuente must restructure his midfield around Rodri and Fabian Ruiz. Nico Williams is expected to start for the first time in the tournament, adding width and directness.",
+    "h2h": "Spain have never lost to Uruguay in 10 all-time meetings: Spain record stands at 5 wins, 5 draws, 0 defeats. Two previous World Cup clashes both ended in draws (1950 group stage and a later group stage 0-0). Spain have scored 9 goals to Uruguay's 4 across all meetings. Uruguay have historically struggled to find a way through Spain's organised defence.",
+    "injuries_news": [
+      "Uruguay: Ronald Araujo (calf) OUT — key central defender, major defensive blow",
+      "Uruguay: Giorgian de Arrascaeta (calf) OUT — primary creative midfielder, significant attacking loss",
+      "Spain: Pedri SUSPENDED after two yellow cards in the group stage; Fabian Ruiz or Dani Olmo expected to step in",
+      "Spain: Lamine Yamal returned from hamstring issue and is fit but minutes managed by De la Fuente; expected to start"
+    ],
+    "key_factors": [
+      "Qualification stakes asymmetry: Uruguay must win to guarantee knockout qualification; Spain need only a draw for first place, reducing Spain's incentive to attack recklessly",
+      "Spain's Pedri suspension forces a midfield reshuffle — Rodri-Fabian Ruiz/Dani Olmo axis less creative than the Rodri-Pedri pairing",
+      "Uruguay missing Araujo (best centre-back) and De Arrascaeta (best creator) — both calf injuries confirmed — weakens both defensive solidity and attacking build-up",
+      "Spain's quality gap is substantial: Lamine Yamal and Nico Williams provide elite wide threat against an already-weakened Uruguay backline",
+      "H2H record: Spain have never lost to Uruguay in 10 attempts; Uruguay have never beaten Spain",
+      "Simultaneous kickoffs mean both teams know their fate depends on their own result — no game-management based on other match score",
+      "Estadio Akron altitude (1,566m) is a moderate factor; may slightly favour teams accustomed to high-intensity aerobic work, neutral between these sides",
+      "Bielsa's high-intensity pressing system may disrupt Spain early, but Spain's technical ability and patience make them hard to press for 90 minutes"
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.14, "draw": 0.22, "away": 0.64},
+    "predicted_score": "1-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.52,
+    "btts_yes": 0.50
+  },
+  "value_notes": "Market-implied probabilities (overround removed, 2.7% vig): Uruguay 0.130, Draw 0.221, Spain 0.649. My model: Uruguay 0.14, Draw 0.22, Spain 0.64. No material edge on the h2h market — model is broadly in line with the market. Uruguay is very marginally above market (0.14 vs 0.130, edge 0.010) but below the 0.05 threshold required for a qualifying bet. Spain (0.64 vs market 0.649) shows no positive edge at 1.50. On totals: market-implied over 2.5 is 0.528, my model gives 0.52 — slight under value but insufficient edge. BTTS yes market-implied is approximately 0.524 (1/1.91), my model gives 0.50 — slight lean to under/no but no qualifying edge. No market edges reach the 0.05 threshold for recommendation. The Pedri suspension and Uruguay's double injury blow partially offset each other; Spain's structural superiority remains the dominant factor at these odds.",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13543099/world-cup-2026-group-h-guide-fixtures-schedule-standings-and-odds-for-spain-cape-verde-saudi-arabia-and-uruguay",
+    "https://www.espn.com/soccer/story/_/id/49072408/group-h-2026-world-cup-teams-records-stats-know-spain-cape-verde-uruguay-saudi-arabia",
+    "https://bolavip.com/en/world-cup/2026-world-cup-group-h-standings-updated-after-uruguay-tie-vs-cape-verde",
+    "https://www.aljazeera.com/sports/2026/6/25/world-cup-2026-uruguay-vs-spain-knockouts-prediction-lineups",
+    "https://www.aljazeera.com/sports/2026/6/22/cape-verde-fight-back-for-second-world-cup-draw-2-2-against-uruguay",
+    "https://www.sofascore.com/news/group-h-qualification-scenarios-explained-can-spain-uruguay-cape-verde-or-saudi-arabia-still-make-the-round-of-32",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/predicted-lineups/williams-yamal-decisions-how-spain-could-line-up-vs-spain_599995.html",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/uruguay-vs-spain-injury-suspension-list-predicted-xis_599993.html",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/predicted-lineups/double-injury-blow-for-uruguay-how-bielsas-side-could-line-up-vs-spain_599996.html",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/uruguay-vs-spain-prediction-team-news-lineups_599989.html",
+    "https://www.khelnow.com/football/world-football-uruguay-vs-spain-head-to-head-fifa-world-cup-202606",
+    "https://www.thesoccerworldcups.com/head_to_head/spain_vs_uruguay.php",
+    "https://www.si.com/soccer/uruguay-vs-spain-world-cup-preview-predictions-lineups-6-26-26",
+    "https://worldcupper.com/stadiums/estadio-akron",
+    "https://starting11.com/world-cup/venues",
+    "https://www.barcablaugranes.com/world-cup-2026/124644/barcelona-star-pedri-at-risk-of-missing-round-of-32-at-world-cup-2026-due-to-suspension",
+    "https://www.rotowire.com/soccer/article/uruguay-vs-spain-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-119634"
+  ],
+  "generated_at": "2026-06-26T10:30:00Z"
+}
