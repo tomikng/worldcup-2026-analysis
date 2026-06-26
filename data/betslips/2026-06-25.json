@@ -11,16 +11,16 @@
           "market": "btts",
           "selection": "no",
           "line": null,
-          "odds": 2.20,
+          "odds": 2.2,
           "model_prob": 0.68,
           "edge": 0.225,
           "rationale": "Ecuador have failed to score in both WC 2026 matches (0 goals vs Curaçao and Ivory Coast) while Germany are not a high-conceding side, making BTTS No at 2.20 a significant overlay vs the market's implied 45.5%."
         }
       ],
-      "combined_odds": 2.20,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 2.2,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-26T07:07:52Z",
       "rationale": "Ecuador's 0-goal campaign in 2026 World Cup action is structurally underweighted by the market; BTTS No offers 22.5 points of edge at generous 2.20 odds."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 2.25,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 22.5,
+      "settled_at": "2026-06-26T07:07:52Z",
       "rationale": "Netherlands' firepower vs Tunisia's collapsed defence creates genuine over-3.5 value at 10.6 points of edge over market implied."
     },
     {
@@ -55,16 +55,16 @@
           "market": "correct_score",
           "selection": "0-3",
           "line": null,
-          "odds": 9.00,
+          "odds": 9.0,
           "model_prob": 0.18,
           "edge": 0.069,
           "rationale": "A 3-0 Netherlands win is the model's most likely scoreline (18% vs 11.1% implied by 9.00 odds), consistent with Tunisia's defensive record (9 goals conceded) and Netherlands' typical winning margin against outclassed opponents."
         }
       ],
-      "combined_odds": 9.00,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 9.0,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-26T07:07:52Z",
       "rationale": "Correct score 0-3 is the modal outcome for this fixture; 9.00 odds undervalue a result the model prices at 18%."
     },
     {
@@ -84,9 +84,9 @@
         }
       ],
       "combined_odds": 1.74,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 17.4,
+      "settled_at": "2026-06-26T07:07:52Z",
       "rationale": "Almirón's suspension plus Australia's draw-is-enough incentive creates a structurally low-scoring game; BTTS No at 1.74 carries 8.5 points of edge over the market's 57.5% implied."
     },
     {
@@ -99,7 +99,7 @@
           "market": "btts",
           "selection": "no",
           "line": null,
-          "odds": 2.20,
+          "odds": 2.2,
           "model_prob": 0.68,
           "edge": 0.225,
           "rationale": "Ecuador have not scored in either World Cup 2026 match; Germany concede sparingly against weak opposition."
@@ -126,9 +126,9 @@
         }
       ],
       "combined_odds": 8.61,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-26T07:07:52Z",
       "rationale": "Three independent low-scoring / defensively-inclined outcomes across three different matches; combined at 8.61 with all three legs independently clearing the 0.05 edge threshold."
     }
   ]

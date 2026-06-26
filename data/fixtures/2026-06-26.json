@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-26",
+  "source": "web-research",
+  "fetched_at": "2026-06-26T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-060",
+      "kickoff_utc": "2026-06-26T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "home": "Norway",
+      "away": "France",
+      "venue": "Gillette Stadium, Foxborough"
+    },
+    {
+      "match_id": "wc-061",
+      "kickoff_utc": "2026-06-26T19:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "home": "Senegal",
+      "away": "Iraq",
+      "venue": "BMO Field, Toronto"
+    },
+    {
+      "match_id": "wc-062",
+      "kickoff_utc": "2026-06-27T00:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "venue": "NRG Stadium, Houston"
+    },
+    {
+      "match_id": "wc-063",
+      "kickoff_utc": "2026-06-27T00:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "home": "Uruguay",
+      "away": "Spain",
+      "venue": "Estadio Akron, Guadalajara"
+    },
+    {
+      "match_id": "wc-064",
+      "kickoff_utc": "2026-06-27T03:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "home": "Egypt",
+      "away": "Iran",
+      "venue": "Lumen Field, Seattle"
+    },
+    {
+      "match_id": "wc-065",
+      "kickoff_utc": "2026-06-27T03:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "venue": "BC Place, Vancouver"
+    }
+  ]
+}

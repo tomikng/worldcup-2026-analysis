@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-25",
+  "source": "web-research",
+  "fetched_at": "2026-06-26T10:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-054",
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "home_goals": 0,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 4,
+      "away_corners": 5,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760473/ivory-coast-curacao",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-curacao-vs-ivory-coast-jun-25-2026-game-boxscore-647671",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021468"
+      ]
+    },
+    {
+      "match_id": "wc-055",
+      "home": "Ecuador",
+      "away": "Germany",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 3,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 3,
+      "away_corners": 2,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760468/germany-ecuador",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-ecuador-vs-germany-jun-25-2026-game-boxscore-647670",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021466",
+        "https://theanalyst.com/articles/ecuador-vs-germany-stats-2026-world-cup"
+      ]
+    },
+    {
+      "match_id": "wc-056",
+      "home": "Japan",
+      "away": "Sweden",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 2,
+      "away_corners": 8,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760471/sweden-japan",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021471",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-japan-vs-sweden-jun-25-2026-game-boxscore-647673"
+      ]
+    },
+    {
+      "match_id": "wc-057",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "home_goals": 1,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760472/netherlands-tunisia",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-tunisia-vs-netherlands-jun-25-2026-game-boxscore-647672"
+      ]
+    },
+    {
+      "match_id": "wc-058",
+      "home": "Türkiye",
+      "away": "United States",
+      "home_goals": 3,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760470/united-states-turkiye",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459",
+        "https://www.npr.org/2026/06/25/nx-s1-5869807/2026-world-cup-fifa-usmnt-turkey",
+        "https://www.nbcsports.com/soccer/live/usa-vs-turkiye-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup"
+      ]
+    },
+    {
+      "match_id": "wc-059",
+      "home": "Paraguay",
+      "away": "Australia",
+      "home_goals": 0,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 1,
+      "away_corners": 3,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021461",
+        "https://www.espn.com/soccer/match/_/gameId/760469/australia-paraguay",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/australia-paraguay-13587199/",
+        "https://www.aljazeera.com/sports/2026/6/26/australia-paraguay-fifa-world-cup-2026-score-report-socceroos"
+      ]
+    }
+  ]
+}
