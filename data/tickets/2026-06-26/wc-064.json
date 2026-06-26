@@ -1,0 +1,55 @@
+{
+  "match_id": "wc-064",
+  "date": "2026-06-26",
+  "home": "Egypt",
+  "away": "Iran",
+  "kickoff_utc": "2026-06-27T03:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_G",
+  "venue": "Lumen Field, Seattle",
+  "analysis": {
+    "summary": "Egypt (4 pts) and Iran (2 pts) meet in the simultaneous Group G finale, with Egypt needing only a draw to advance as group winners while Iran must win to guarantee qualification. The Opta supercomputer gives Egypt a 42.9% win probability, 32.2% draw, and Iran 24.9%, broadly matching market prices. The asymmetric motivation — Egypt can defend a draw, Iran must come forward — creates the conditions for a tight, low-scoring encounter that the heavy under-2.5 market pricing (1.45) strongly reflects. Egypt's first-ever World Cup knockout qualification is within reach.",
+    "home_form": "Egypt opened with a 1-1 draw against Belgium before defeating New Zealand 3-1 on June 22, giving them 4 points and control of Group G. Mohamed Salah scored and assisted in the New Zealand win, and needs one more goal to become Egypt's all-time leading scorer outright with 69. Their attacking unit (Salah, Marmoush) is in good form but two defensive starters are unavailable.",
+    "away_form": "Iran drew 2-2 with New Zealand in their opener, then earned a disciplined 0-0 draw with 10-man Belgium, matching their solid defensive approach. Iran ranked last in Group G for shots (24), shots on target (7), and xG (2.1) across their two matches, reflecting a counter-attacking, defensive-first gameplan. Taremi's goal from a free kick against Belgium was disallowed for offside by VAR.",
+    "h2h": "Egypt and Iran have met only twice in senior international football, both friendlies. Iran won 2-1 in July 1975, and the sides drew 1-1 in June 2000. This is the first-ever competitive meeting between the two nations.",
+    "injuries_news": [
+      "Egypt: CB Hamdi Fathi ruled out with a hamstring injury suffered in the New Zealand game; CB Hossam Abdelmaguid also doubtful with a head injury. Ramy Rabia expected to start in central defence.",
+      "Iran: RB Roozbeh Cheshmi listed as questionable and not expected to start. Alireza Jahanbakhsh could return to the starting XI after featuring only in the second half against Belgium. Mehdi Taremi (33, 60 international goals) is fit and leads the line."
+    ],
+    "key_factors": [
+      "Asymmetric stakes: Egypt need only a draw to qualify; Iran must win. This heavily incentivises Egypt to absorb pressure and play on the counter, and Iran to commit men forward at significant risk of exposing their back line.",
+      "Iran's 5-4-1 defensive block has been extremely hard to break down — held Belgium to 0-0 even with 10 men — but their lack of attacking output (2.1 xG in two games) means goals are hard to come by.",
+      "Egypt's defensive cover is weakened by the Fathi/Abdelmaguid absences, potentially leaving gaps for Taremi or Jahanbakhsh to exploit in transition.",
+      "Mo Salah's motivation is heightened by the chance to break Egypt's all-time goals record; his individual quality could decide the match.",
+      "Both groups of fans will be aware of the simultaneous New Zealand vs Belgium result; if Egypt and Iran are drawing at half-time and Belgium are drawing, Iran's incentive to push on intensifies.",
+      "Seattle weather in late June is mild (around 18-20 C), presenting no altitude or heat stress. No significant travel disadvantage for either side as both have been based in North America for the tournament."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.38, "draw": 0.37, "away": 0.25},
+    "predicted_score": "1-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.32,
+    "btts_yes": 0.35
+  },
+  "value_notes": "Market-implied probabilities (overround-removed): home 0.389, draw 0.360, away 0.251. My model: home 0.38, draw 0.37, away 0.25. No material edge on the h2h market — all three outcomes are within 0.01 of market implied, so no edge threshold of 0.05 is met. For totals_2.5_over: market implied over = 0.345 (odds 2.75), my model gives over 0.32 — model is BELOW market, so no value on over; value is slightly on under (my 0.68 vs market implied 0.655), but edge is only 0.025, below the 0.05 threshold required for a bet. For btts_yes: market implied yes = 0.488 (odds 2.05), my model gives yes 0.35 — a meaningful gap of 0.138, suggesting the market overestimates the probability of both teams scoring given Iran's extremely low xG output and Egypt's likely conservative approach once leading or level. This is the strongest divergence found but note Iran's need to attack injects some uncertainty. No market odds available for corners or cards markets.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-egypt-storms-past-new-zealand-to-take-control-of-group-g-set-up-potential-knockout-round-match-vs-usa-040715429.html",
+    "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw",
+    "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-10-man-belgium-stumbles-to-a-0-0-draw-with-iran-as-group-g-looks-wide-open-210131077.html",
+    "https://www.sofascore.com/news/group-g-qualification-scenarios-explained-can-belgium-iran-egypt-or-new-zealand-still-make-the-round-of-32",
+    "https://www.espn.com/soccer/story/_/id/49072841/group-g-2026-world-cup-teams-records-stats-know-belgium-iran-new-zealand-egypt",
+    "https://theanalyst.com/articles/egypt-vs-iran-prediction-world-cup-2026-match-preview",
+    "https://www.sportsmole.co.uk/football/egypt/world-cup-2026/preview/egypt-vs-iran-prediction-team-news-lineups_599975.html",
+    "https://english.ahram.org.eg/WorldCup2026/AfricaInner.aspx?NewsContentID=571512",
+    "https://www.sportsmole.co.uk/football/egypt/world-cup-2026/predicted-lineups/salah-to-break-hassan-record-predicted-egypt-xi-vs-iran_600008.html",
+    "https://www.espn.com/soccer/story/_/id/49141716/fifa-world-cup-2026-egypt-vs-iran-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://sports.yahoo.com/articles/egypt-vs-iran-predictions-picks-180000348.html",
+    "https://khelnow.com/football/football-egypt-vs-iran-head-to-head-fifa-world-cup-202606",
+    "https://www.mexc.co/news/1170914"
+  ],
+  "generated_at": "2026-06-26T10:30:00Z"
+}
