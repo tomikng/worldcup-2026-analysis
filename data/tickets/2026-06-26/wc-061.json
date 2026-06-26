@@ -1,0 +1,55 @@
+{
+  "match_id": "wc-061",
+  "date": "2026-06-26",
+  "home": "Senegal",
+  "away": "Iraq",
+  "kickoff_utc": "2026-06-26T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_I",
+  "venue": "BMO Field, Toronto",
+  "analysis": {
+    "summary": "Both Senegal and Iraq enter this Group I finale with 0 points and are definitively out of the top-two qualification spots, but Senegal retain a realistic path to the knockout round as one of the eight best third-placed teams — provided they win, ideally by a significant margin to improve a -3 goal difference. Iraq (GD -6) have nothing to play for in the table but can act as a spoiler. The quality gap is substantial: Senegal are guided by Sadio Mane and a squad built for the African continent's top tournament, while Iraq leaked seven goals across their two group matches, making this a strong home-on-paper fixture despite multiple Senegalese injury concerns.",
+    "home_form": "Senegal lost both group stage matches: 1-3 to France (June 16, scored through Ibrahim Mbaye 90+5') and 2-3 to Norway (June 22, goals from Ismaila Sarr x2). They have shown attacking threat — scoring in both matches — but their defensive record (6 conceded in 2 games) is a concern. Sadio Mane provided the assist for Sarr's first goal versus Norway and remains fit and motivated as captain.",
+    "away_form": "Iraq lost 1-4 to Norway (June 16, Aymen Hussein scored their only tournament goal) and 0-3 to France (June 22). They have conceded 7 goals in two matches and their only strike came in an already-losing position against Norway. Their squad showed limited ability to build sustained attacks against organised defences. Aymen Hussein — who scored 8 goals in qualifying and their sole World Cup goal — is reportedly a fitness doubt for this match.",
+    "h2h": "This is the first senior international meeting between Senegal and Iraq. No prior head-to-head history exists. Senegal are unbeaten in two previous World Cup matches against AFC confederation sides: 2-2 vs Japan (2018) and 3-1 vs Qatar (2022).",
+    "injuries_news": [
+      "Senegal GK Edouard Mendy (Chelsea) out with a ligament injury suffered vs Norway; Mory Diaw expected to start in goal.",
+      "Senegal attackers Nicolas Jackson, Ismaila Sarr, and midfielder Pape Gueye all absent from training ahead of the match and listed under medical supervision; their availability is unconfirmed.",
+      "Iraq striker Aymen Hussein (sole tournament goalscorer, 8 goals in qualifying) reportedly a fitness doubt."
+    ],
+    "key_factors": [
+      "Senegal's strong motivation to win by a large margin: they need maximum points plus an improved goal difference to have any chance as best third-placed team; Iraq have zero table incentive.",
+      "Iraq's porous defence (7 goals conceded in 2 games) is highly vulnerable to Senegal's attacking unit even if Sarr and Jackson are limited or absent — Mane, Krepin Diatta, and Lamine Camara provide quality.",
+      "Simultaneous kickoff with Norway vs France means Senegal cannot manage the game based on other results; they must attack from the start.",
+      "Senegal's own defensive fragility (6 conceded in 2 games) and Mendy's absence in goal means Iraq can threaten on the counter despite their limited quality.",
+      "Toronto weather forecast: warm (~22°C), possible thunderstorms in early evening — unlikely to materially affect play at 19:00 UTC (3pm local).",
+      "This is the first-ever senior meeting between the two nations, removing any psychological head-to-head factor."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.75, "draw": 0.15, "away": 0.10},
+    "predicted_score": "3-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.60,
+    "totals_3.5_over": 0.47,
+    "btts_yes": 0.40
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Senegal win 0.780, draw 0.146, Iraq win 0.073. My model: Senegal win 0.75, draw 0.15, Iraq win 0.10. The home (Senegal) win probability is marginally below market implied (0.75 vs 0.780) given the multiple injury concerns to key attackers (Jackson, Sarr, Pape Gueye all in medical doubt). The away (Iraq) probability is notably above market (0.10 vs 0.073) — edge of +0.027, below the 0.05 threshold for a flag, but acknowledged. No single selection clears the 0.05 edge threshold for h2h. On totals: the market implies 49.8% for over 2.5 at odds 2.01; my model estimates 60%, yielding an edge of +0.102 — this is the primary value flag. Both teams have shown defensive vulnerability (Senegal 6 GA, Iraq 7 GA in 2 games each) and Senegal are highly motivated to score freely; the under is likely mispriced. For BTTS, market implies 46.5% at 2.15 but my estimate is 40% given Iraq's limited attacking output (1 goal in 2 games, key striker doubtful) — mild edge to BTTS No (not modelled here). No superior edge found on other markets without referee or corner data.",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13543102/world-cup-2026-group-i-guide-fixtures-schedule-standings-and-odds-for-france-senegal-iraq-and-norway",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.espn.com/soccer/story/_/id/49082534/group-2026-world-cup-teams-records-stats-know-france-senegal-iraq-norway",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490",
+    "https://africasoccer.com/world-cup-2026-senegal-mendy-injury-jackson-sarr-pape-gueye-iraq/",
+    "https://sportnewsafrica.com/en/posts/world-cup-2026-why-senegal-can-still-snatch-qualification",
+    "https://sports.yahoo.com/articles/senegal-qualify-world-cup-knockouts-055437723.html",
+    "https://www.espn.com/soccer/story/_/id/49165930/fifa-world-cup-2026-senegal-vs-iraq-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/iraq",
+    "https://www.theweathernetwork.com/en/news/weather/local-forecasts/toronto-on-weather-forecast-26-june"
+  ],
+  "generated_at": "2026-06-26T10:30:00Z"
+}
