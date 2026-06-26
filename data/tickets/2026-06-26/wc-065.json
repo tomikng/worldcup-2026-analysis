@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-065",
+  "date": "2026-06-26",
+  "home": "New Zealand",
+  "away": "Belgium",
+  "kickoff_utc": "2026-06-27T03:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_G",
+  "venue": "BC Place, Vancouver",
+  "analysis": {
+    "summary": "Belgium enter this must-win finale knowing that a victory guarantees passage to the Round of 32, having been held to draws by Egypt (1-1) and Iran (0-0) in their opening two matches. New Zealand sit bottom of Group G with one point — a draw with Iran (2-2) and a 3-1 defeat to Egypt — and require an outright win to have any realistic chance of advancing as one of the best third-placed sides. The quality gap between the two squads is substantial, but Belgium's motivation is high and their best XI returns after missing pieces in the Iran draw.",
+    "home_form": "New Zealand drew their opening Group G game 2-2 against Iran showing attacking intent, but were beaten 3-1 by Egypt in Matchday 2. The All Whites arrived at this World Cup as the lowest-ranked team in Group G and have shown resilience but limited firepower against stronger opposition. Coach Darren Bazeley has a fully fit squad available with no injuries or suspensions reported ahead of this fixture.",
+    "away_form": "Belgium drew 1-1 with Egypt on Matchday 1 and were held 0-0 by Iran in Matchday 2, a result that left them needing a win to guarantee qualification. Rudi Garcia's side drew with Iran without key winger Jeremy Doku (who had returned to England for his son's birth) and without Amadou Onana. Both players have since rejoined the squad. Defender Nathan Ngoy is suspended after a red card against Iran, with Arthur Theate expected to slot in. The rest of Belgium's first-choice XI — Courtois, De Bruyne, Lukaku, Trossard, Tielemans — is available.",
+    "h2h": "Belgium and New Zealand have met only once in men's senior international football — a 1-0 Belgium victory at the 2008 Beijing Olympic Games men's football tournament. New Zealand have never scored against Belgium in that single encounter.",
+    "injuries_news": [
+      "Belgium: Nathan Ngoy suspended (red card vs Iran); Arthur Theate expected to replace him at centre-back.",
+      "Belgium: Jeremy Doku has rejoined the squad after briefly returning to England for the birth of his son; expected to start.",
+      "Belgium: Zeno Debast was reported as a doubt ahead of this fixture (unconfirmed severity).",
+      "Belgium: Amadou Onana returns after being rested against Iran.",
+      "New Zealand: No injuries or suspensions reported; full squad available."
+    ],
+    "key_factors": [
+      "Belgium must win to secure top-two qualification; a draw may not be enough depending on the Egypt vs Iran result — this drives full attacking intent.",
+      "Belgium's best XI returns: Doku, Onana, and Theate all expected to feature after Matchday 2 absences.",
+      "The class differential is vast — Belgium rank around FIFA #10 while New Zealand are among the lowest-ranked teams in the tournament.",
+      "New Zealand's only path to advancement is an outright win combined with a favorable result in Egypt vs Iran — making a heavily defensive setup unlikely; they need to attack.",
+      "Both teams run simultaneously with Egypt vs Iran, meaning Belgium cannot afford to slow-play the result.",
+      "BC Place is effectively a neutral venue with no altitude or extreme climate concerns.",
+      "Lukaku arrives fitness-scarred (only about an hour of competitive football this club season) but Garcia selected him and he is expected to lead the line.",
+      "New Zealand showed they can score (2 vs Iran) so Belgium should not be impenetrable defensively despite their quality."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.07,
+      "draw": 0.10,
+      "away": 0.83
+    },
+    "predicted_score": "0-3",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.72,
+    "btts_yes": 0.38
+  },
+  "value_notes": "Market-implied probabilities (normalized, overround removed): Belgium away 0.788, draw 0.126, NZ home 0.086. My model sets Belgium away at 0.83 (+0.042 edge over market implied, below the 0.05 threshold for a value flag). The most notable divergence is on totals: market implies over 2.5 at approximately 0.60 (normalized), while my model puts it at 0.72 — a +0.12 edge against the 1.44 over price (implied 0.694 raw, normalized ~0.60), representing a genuine edge above 0.05. Belgium need goals urgently, deploy a full-strength attack for the first time this tournament, and face a New Zealand side that cannot simply park the bus if they want to advance. BTTS: market has btts_no at 1.57 (raw implied ~0.637), implying btts_yes at ~0.363; my model puts btts_yes at 0.38, a marginal upward adjustment reflecting New Zealand's two goals against Iran — edge is only +0.017, below threshold. No value flag on btts. Summary of value flags: totals_2.5_over at 0.72 model vs ~0.60 market-implied is the primary value edge (edge ~+0.12).",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13543098/world-cup-2026-group-g-guide-fixtures-schedule-standings-and-odds-for-belgium-egypt-iran-and-new-zealand",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/predicted-lineups/doku-to-get-immediate-recall-how-new-zealand-could-line-up-vs-belgium_599918.html",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/preview/new-zealand-vs-belgium-prediction-team-news-lineups_599916.html",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/team-news/new-zealand-vs-belgium-injury-suspension-list-predicted-xis_599919.html",
+    "https://www.rnz.co.nz/news/sport/620340/crunching-the-numbers-how-the-all-whites-can-still-progress-in-the-fifa-world-cup",
+    "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-how-the-all-whites-can-still-qualify-for-the-knockout-round/HXVGHPGXKBBDTOJQW43YHAE47M/",
+    "https://khelnow.com/football/new-zealand-vs-belgium-all-time-head-to-head-record-ahead-of-fifa-world-cup-2026",
+    "https://blueprint.ng/belgiums-doku-set-to-rejoin-world-cup-2026-squad-after-sons-birth/",
+    "https://thenewsmill.com/2026/06/fifa-world-cup-2026-jeremy-doku-rejoins-belgium-squad-after-birth-of-son-receives-warm-welcome-from-teammates/",
+    "https://www.sofascore.com/news/group-g-qualification-scenarios-explained-can-belgium-iran-egypt-or-new-zealand-still-make-the-round-of-32",
+    "https://www.espn.com/soccer/story/_/id/49165403/new-zealand-vs-belgium-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+    "https://sports.yahoo.com/articles/world-cup-2026-red-cards-205402638.html"
+  ],
+  "generated_at": "2026-06-26T10:30:00Z"
+}
