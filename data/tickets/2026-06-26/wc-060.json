@@ -1,0 +1,52 @@
+{
+  "match_id": "wc-060",
+  "date": "2026-06-26",
+  "home": "Norway",
+  "away": "France",
+  "kickoff_utc": "2026-06-26T19:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_I",
+  "venue": "Gillette Stadium, Foxborough",
+  "analysis": {
+    "summary": "Both Norway and France arrive at Matchday 3 already qualified for the Round of 32, each on 6 points, making this a straight fight for Group I top spot. France hold a fractionally superior goal difference (+5 vs +4), meaning a draw is enough for them to win the group and earn the easier R32 path (vs a third-placed team) rather than the runner-up path (vs Group E runner-up Ivory Coast). Didier Deschamps is absent after the death of his mother, with assistant Guy Stephan taking charge; both sides have been outstanding in attack but the tactical stakes — and Deschamps' absence — add meaningful uncertainty to France's approach.",
+    "home_form": "Norway have won both group games convincingly: 4-1 vs Iraq (MD1) and 3-2 vs Senegal (MD2). Erling Haaland has scored 4 goals in 2 matches and Martin Odegaard has been influential. Norway have scored 7 goals but have already conceded 3, showing some defensive vulnerability, particularly against well-organised forward lines. Overall in-tournament form is W2 D0 L0.",
+    "away_form": "France have been the group's most clinical side: 3-1 vs Senegal (MD1) and 3-0 vs Iraq (MD2). Kylian Mbappe has scored 4 tournament goals; Michael Olise and Ousmane Dembele have also contributed. France have conceded just 1 goal in two games, the best defensive record in the group. In-tournament form: W2 D0 L0.",
+    "h2h": "France lead the all-time head-to-head record with approximately 7 wins to Norway's 4-5 wins across 15-16 meetings. Their most recent meeting was a friendly in May 2014, which France won 4-0. This is their first ever meeting at a major tournament. France's historical dominance in this fixture is notable.",
+    "injuries_news": [
+      "France manager Didier Deschamps is absent for personal reasons (death of his mother); assistant Guy Stephan will lead the team from the touchline.",
+      "No confirmed player injuries for France ahead of this match.",
+      "Haaland and Odegaard are fit and expected to be available for Norway; rotation of either would be unconfirmed but has been discussed in previews.",
+      "No confirmed suspensions for either side."
+    ],
+    "key_factors": [
+      "Top-spot incentive is real but asymmetric: France need only a draw to win the group (superior GD), while Norway must win to claim first place. This creates a structural disincentive for France to chase an open game if they go level.",
+      "France's path as group winner (R32 vs third-placed team, likely Sweden) is markedly easier than runner-up path (vs Ivory Coast, then potentially Brazil/Netherlands). This incentive may keep France's stronger XI in play despite both teams being qualified.",
+      "Deschamps absence disrupts France's usual preparation and touchline communication; assistant Guy Stephan has experience but this is a noteworthy disruption heading into a high-stakes group decider.",
+      "Rotation risk: with both teams already through, Norway may rest Haaland and/or Odegaard; France may manage midfield minutes (Kante, Tchouameni). A rotated Norway XI would be considerably less threatening.",
+      "Both teams have been high-scoring (Norway 7 goals, France 6 in 2 games each), but this match features two organised, capable defensive units. Goals may be harder to come by than the group-stage averages suggest.",
+      "Haaland vs Mbappe is the headline individual battle, with both players on 4 tournament goals. If both start at full strength, this has the makings of a high-quality, open encounter."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.21, "draw": 0.26, "away": 0.53},
+    "predicted_score": "1-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.60,
+    "btts_yes": 0.51
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Norway 0.207, Draw 0.211, France 0.583. My model sits at Norway 0.21 (in line with market), Draw 0.26 (model +0.049 above market, just below the 0.05 edge threshold), France 0.53 (model -0.053 below market, meaning the market slightly overrates France relative to my view). The draw is the closest market to offering value given France's structural incentive to accept a draw to win the group; however, the edge does not quite reach the 0.05 threshold required for a recommended bet. For totals over 2.5 at 1.67 (implied 0.599), my model at 0.60 yields a marginal edge of approximately 0.001 — insufficient. For BTTS yes at 1.70 (implied 0.588), my model at 0.51 is materially below the market, suggesting the market overestimates the likelihood of both teams scoring given France's defensive solidity (just 1 goal conceded in 2 games). No selections clear the 0.05 edge threshold for recommended bets.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/25/norway-vs-france-at-world-cup-2026-mbappe-vs-haaland-team-news-lineups",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-france-manager-didier-deschamps-will-miss-match-vs-norway-to-attend-mothers-funeral-201309200.html",
+    "https://www.espn.com/soccer/story/_/id/49156450/france-boss-didier-deschamps-miss-norway-game-death-mother",
+    "https://www.espn.com/soccer/story/_/id/49146699/norway-senegal-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie",
+    "https://sports.yahoo.com/articles/world-cup-2026-knockout-round-110000062.html",
+    "https://www.skysports.com/football/news/12098/13543102/world-cup-2026-group-i-guide-fixtures-schedule-standings-and-odds-for-france-senegal-iraq-and-norway",
+    "https://www.espn.com/soccer/story/_/id/49082534/group-2026-world-cup-teams-records-stats-know-france-senegal-iraq-norway",
+    "https://fwctimes.com/norway-vs-france-head-to-head/"
+  ],
+  "generated_at": "2026-06-26T10:30:00Z"
+}
