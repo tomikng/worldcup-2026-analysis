@@ -1,0 +1,56 @@
+{
+  "match_id": "wc-062",
+  "date": "2026-06-26",
+  "home": "Cape Verde",
+  "away": "Saudi Arabia",
+  "kickoff_utc": "2026-06-27T00:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_H",
+  "venue": "NRG Stadium, Houston",
+  "analysis": {
+    "summary": "Cape Verde and Saudi Arabia meet in the simultaneous Group H finale with sharply asymmetric stakes: the Blue Sharks (2 pts, 3rd) advance with a win and likely with a draw, while Saudi Arabia (1 pt, 4th) must win and hope Spain beat Uruguay. Cape Verde have been the tournament's biggest surprise, holding Spain 0-0 with Vozinha's heroics before coming back from 2-1 down to draw 2-2 with Uruguay; Saudi Arabia drew 1-1 with Uruguay before being thrashed 4-0 by Spain. The Green Falcons enter under their third coaching regime in two years (Giorgos Donis replaced the sacked Herve Renard two months before the tournament), adding institutional instability to the psychological damage of the Spain humiliation.",
+    "home_form": "Cape Verde are unbeaten in two World Cup matches: a 0-0 draw against Spain in which 40-year-old goalkeeper Vozinha made seven saves to deny 27 Spanish shots, followed by a 2-2 draw against Uruguay in which Cape Verde came from behind after Kevin Pina scored the country's first-ever World Cup goal. The team operates in a 4-2-3-1 / 4-1-4-1 shape with intense pressing and rapid transitions. They conceded 2 goals in 2 games and have been defensively cohesive throughout. Sidny Lopes is suspended (second yellow), forcing a defensive reshuffle; Telmo Arcanjo and Jovane Cabral are doubtful with hamstring and knock concerns respectively.",
+    "away_form": "Saudi Arabia drew 1-1 with Uruguay in their opener (Al Amri 41', equalised by Araujo 80'), relying on goalkeeper Al-Owais's nine saves. They then suffered a 4-0 demolition by Spain — their worst World Cup defeat since the 5-0 to Russia in 2018 — with Spain scoring three times in the first half-hour. Donis acknowledged the team felt 'insecure' after the quick trio of Spanish goals. No suspensions or reported fresh injuries for this match. Probable lineup: Al-Owais; Abdulhamid, Al-Tambakti, Al-Lajami, Boushal; Kanno, Al-Khaibari, Al-Juwayr; Al-Dawsari, Al-Buraikan, Al-Shehri.",
+    "h2h": "No previous meetings between Cape Verde and Saudi Arabia in international football. This World Cup fixture on June 27, 2026 is the first encounter between these nations.",
+    "injuries_news": [
+      "Cape Verde: Sidny Lopes suspended (accumulated two yellow cards vs Uruguay, misses this match)",
+      "Cape Verde: Telmo Arcanjo (hamstring) — doubtful, needs assessment before matchday",
+      "Cape Verde: Jovane Cabral (knock) — doubtful, fitness to be assessed pre-match",
+      "Saudi Arabia: No reported suspensions or fresh injuries ahead of this match"
+    ],
+    "key_factors": [
+      "Qualification asymmetry: Cape Verde can qualify with a draw (likely) or win; Saudi Arabia must win AND need Uruguay not to beat Spain — meaning Saudi Arabia have almost nothing to gain from caution and will press forward",
+      "Saudi Arabia's psychological state: the 4-0 rout by Spain is the nation's joint-third-biggest World Cup defeat ever, and their manager Donis admitted the team felt destabilised; this fragility could surface in a high-pressure decider",
+      "Cape Verde's defensive identity vs Saudi Arabia's forced attack: Cape Verde absorbed 27 Spain shots in the opener and are built for low-block resilience plus counter-attacks — Saudi Arabia's need to commit players forward plays directly into the Blue Sharks' strengths",
+      "Coaching instability: Saudi Arabia sacked Herve Renard 55 days before the tournament (after losses to Egypt 4-0 and Serbia 2-1 in friendlies); Donis is their third manager in two years, limiting tactical cohesion at a high-pressure moment",
+      "Cape Verde's suspension-forced reshuffle: Sidny Lopes missing at left-back is a meaningful disruption; Joao Paulo expected to shift — Saudi Arabia's right-hand side (Abdulhamid) may target this weakened flank",
+      "Referee: Francois Letexier (France) appointed, averaging 4.72 total cards per match in 2025-26 season — he has a firm disciplinary style that could generate bookings in a must-win pressure environment; no World Cup red cards reported from his 2026 fixture so far",
+      "Venue and conditions: NRG Stadium Houston, indoor-domed venue with artificial turf and controlled climate — no weather factor; both teams have no home advantage"
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.41, "draw": 0.27, "away": 0.32},
+    "predicted_score": "1-1",
+    "confidence": 0.55
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.40
+  },
+  "value_notes": "Market implied probabilities (normalized from h2h odds 2.35/3.50/2.90): Cape Verde 0.40, draw 0.27, Saudi Arabia 0.33. Model sets Cape Verde marginally higher at 0.41 and Saudi Arabia slightly lower at 0.32, reflecting the Green Falcons' psychological damage from the 4-0 Spain loss and coaching instability under Donis. The edge on Cape Verde (model 0.41 vs implied 0.40) is only ~0.01 — below the 0.05 threshold for a qualifying bet. The more meaningful divergence is on totals: market implies over 2.5 at 0.44 (odds 2.25), while the model estimates 0.40 — a gap of 0.04 in favor of the under (implied under probability 0.56 vs model 0.60). This falls just short of the 0.05 threshold but directionally the under is the more defensible value given Cape Verde's excellent defensive structure (conceded 2 in 2 games, including shutout vs Spain) and Saudi Arabia's own scoring poverty (1 goal in 2 games). No selection clears the required 0.05 edge threshold from these odds.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/22/cape-verde-fight-back-for-second-world-cup-draw-2-2-against-uruguay",
+    "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-14m-followers",
+    "https://www.aljazeera.com/sports/2026/4/17/world-cup-2026-saudi-arabia-sack-coach-herve-renard-ahead-of-fifa-world-cup-2026",
+    "https://www.espn.com/soccer/match/_/gameId/760429/uruguay-saudi-arabia",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/saudi-arabia-uruguay-highlights-match-report",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-saudi-arabia-highlights-match-report",
+    "https://www.espn.com/soccer/story/_/id/49141810/fifa-world-cup-2026-cape-verde-vs-saudi-arabia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+    "https://www.sofascore.com/news/group-h-qualification-scenarios-explained-can-spain-uruguay-cape-verde-or-saudi-arabia-still-make-the-round-of-32",
+    "https://www.mlssoccer.com/news/how-cape-verde-can-advance-fifa-2026-world-cup-scenarios",
+    "https://www.npr.org/2026/06/16/nx-s1-5859915/cape-verde-goalkeeper",
+    "https://www.threads.com/@fifaworldcup/post/DZ39hpDEigI/group-h-standings-spain-uruguay-cabo-verde-saudi-arabia/",
+    "https://bolavip.com/en/world-cup/2026-world-cup-group-h-standings-updated-after-uruguay-tie-vs-cape-verde",
+    "https://worldcuplocaltime.com/2026-world-cup-referees/"
+  ],
+  "generated_at": "2026-06-26T10:30:00Z"
+}
