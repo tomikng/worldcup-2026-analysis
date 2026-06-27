@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-27",
+  "collected_at": "2026-06-27T14:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-066",
+      "h2h": {
+        "home": 15.0,
+        "draw": 7.0,
+        "away": 1.17
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.55,
+        "under": 2.70
+      },
+      "totals_alt": [
+        {
+          "line": 3.5,
+          "over": 2.15,
+          "under": 1.69
+        }
+      ],
+      "btts": {
+        "yes": 3.20,
+        "no": 1.33
+      },
+      "sources": [
+        "https://www.rotowire.com/soccer/article/panama-vs-england-picks-tips-odds-best-bets-2026-world-cup-group-l-119915",
+        "https://www.fanduel.com/research/panama-vs-england-prediction-picks-lineups-preview-and-best-bets-for-world-cup-2026",
+        "https://www.espn.com/soccer/odds/_/gameId/760485"
+      ]
+    },
+    {
+      "match_id": "wc-067",
+      "h2h": {
+        "home": 1.87,
+        "draw": 3.45,
+        "away": 3.80
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.58
+      },
+      "btts": {
+        "yes": 2.75,
+        "no": 1.44
+      },
+      "sources": [
+        "https://www.covers.com/world-cup/croatia-vs-ghana-prediction-picks-odds-saturday-6-27-2026",
+        "https://sports.yahoo.com/articles/croatia-vs-ghana-predictions-picks-174600905.html",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/croatia-v-ghana-35631940",
+        "https://www.espn.com/soccer/odds/_/gameId/760480"
+      ]
+    },
+    {
+      "match_id": "wc-068",
+      "h2h": {
+        "home": 4.00,
+        "draw": 3.70,
+        "away": 1.87
+      },
+      "double_chance": {
+        "1x": 2.30,
+        "12": 1.30,
+        "x2": 1.27
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.10,
+        "under": 1.78
+      },
+      "btts": {
+        "yes": 1.91,
+        "no": 1.87
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760481",
+        "https://dknetwork.draftkings.com/2026/06/24/opening-odds-for-colombia-vs-portugal-in-the-fifa-2026-world-cup/",
+        "https://sports.yahoo.com/articles/colombia-vs-portugal-2026-world-175220712.html",
+        "https://www.sportsline.com/insiders/colombia-vs-portugal-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/"
+      ]
+    },
+    {
+      "match_id": "wc-069",
+      "h2h": {
+        "home": 1.71,
+        "draw": 4.00,
+        "away": 4.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.87,
+        "under": 1.91
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/dr-congo-v-uzbekistan-35632063",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/dr-congo-vs-uzbekistan-odds-prediction-062726-217266",
+        "https://www.espn.com/soccer/odds/_/gameId/760482",
+        "https://www.oddschecker.com/football/world-cup/dr-congo-v-uzbekistan/winner"
+      ]
+    },
+    {
+      "match_id": "wc-070",
+      "h2h": {
+        "home": 16.00,
+        "draw": 8.00,
+        "away": 1.15
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.60,
+        "under": 2.30
+      },
+      "btts": {
+        "yes": 2.80,
+        "no": 1.40
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/jordan-v-argentina-35631930",
+        "https://www.espn.com/soccer/odds/_/gameId/760483",
+        "https://sports.betmgm.com/en/blog/world-cup/argentina-vs-jordan-prediction-odds-preview-world-cup-june-27-bm16/"
+      ]
+    },
+    {
+      "match_id": "wc-071",
+      "h2h": {
+        "home": 4.00,
+        "draw": 2.31,
+        "away": 2.90
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.50,
+        "under": 1.44
+      },
+      "btts": {
+        "yes": 1.83,
+        "no": 1.95
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/algeria-v-austria-35631937",
+        "https://www.espn.com/soccer/odds/_/gameId/760484",
+        "https://www.covers.com/world-cup/austria-vs-algeria-prediction-picks-odds-saturday-6-27-2026"
+      ]
+    }
+  ]
+}
