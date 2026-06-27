@@ -1,0 +1,65 @@
+{
+  "match_id": "wc-067",
+  "date": "2026-06-27",
+  "home": "Croatia",
+  "away": "Ghana",
+  "kickoff_utc": "2026-06-27T21:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_L",
+  "venue": "Lincoln Financial Field, Philadelphia",
+  "analysis": {
+    "summary": "Croatia and Ghana meet in a decisive Group L finale with second place on the line. Croatia (3 pts) need a win to guarantee second place; a draw leaves them relying on a best-third berth. Ghana (4 pts) are already virtually through — even a one-goal defeat likely keeps them in the top eight third-place teams — but winning would put them level with England on five points and potentially top the group. Croatia must push forward while Ghana, who held England to a remarkable 0-0 (78.8% English possession, 19 shots), have the tactical discipline and counter-attack quality to exploit the space Croatia will leave.",
+    "home_form": "Croatia lost their opener 2-4 to England and recovered with a narrow 1-0 win over Panama (Budimir off the bench, 200th cap for Modric). Their attack has shown inconsistency: they were exposed by England's pace behind the defense, and Panama created the better first-half chances before Croatia's quality told. They carry 3 pts into the final match and must attack.",
+    "away_form": "Ghana beat Panama 1-0 in their opener, then produced a resolute defensive performance to draw 0-0 with England — a result that highlighted the Black Stars' organized defensive shape under Carlos Queiroz. With 4 pts and +1 GD, Ghana are all but guaranteed progress. Key absentee Mohammed Kudus (quad injury) is out for the tournament, but Thomas Partey is available after missing the Panama match due to Canadian visa issues. Antoine Semenyo and Inaki Williams provide pace and directness on the counter.",
+    "h2h": "Croatia and Ghana have no verified prior head-to-head meetings in World Cup history before this match. This is effectively a first meeting at the tournament.",
+    "injuries_news": [
+      "Ghana: Mohammed Kudus OUT (season-ending quadriceps injury, not in squad). Thomas Partey AVAILABLE — missed Panama match due to Canadian visa issues but played vs England.",
+      "Croatia: No confirmed injuries or suspensions entering this match. Luka Modric (38 years old) fit; Ante Budimir available. Duje Caleta-Car returned from minor issue during pre-tournament warm-ups and is in the squad.",
+      "Suspensions: No confirmed suspension-triggering yellow card accumulation reported for either side going into this match."
+    ],
+    "key_factors": [
+      "Motivation asymmetry: Croatia must win to guarantee second place, creating imperative to attack and take risks. Ghana are satisfied with a draw (still advance) but a win unlocks group-winner path if England slip.",
+      "Ghana's defensive solidity: The 0-0 vs England with 78.8% English possession and 19 shots is one of the most impressive defensive displays of the tournament so far. Their low-block with Partey anchoring is well-drilled.",
+      "Croatia's defensive vulnerability: The 2-4 loss to England revealed fragility when opponents run in behind Gvardiol's side. Ghana's Williams and Semenyo have the pace to replicate that threat on the counter.",
+      "Ageing Croatia core: Modric (38), Perisic (35+) and Kovacic are quality but may tire in a Philadelphia summer match with just 3 rest days since the Panama game (June 24 vs Panama).",
+      "Referee Drew Fischer (Canada): averages 3.34 yellow cards per game across his career — a moderate-to-lenient average. A physical, tense final group match could push cards above his average.",
+      "Kudus absence hurts Ghana: Ghana's most dynamic creative outlet (West Ham's Mohammed Kudus) is absent. Ghana will rely more heavily on counter-attack width rather than central creativity.",
+      "Best-third calculation: A Croatia draw (4 pts, −1 GD) leaves them needing other groups' third-place teams to underperform; four points and negative GD is a risky position in a 12-group tournament with 8 best third-placers advancing. Croatia genuinely need a win."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.42,
+      "draw": 0.30,
+      "away": 0.28
+    },
+    "predicted_score": "1-1",
+    "confidence": 0.55
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (normalized from provided odds): Croatia 0.492, draw 0.267, Ghana 0.242. My model: Croatia 0.42, draw 0.30, Ghana 0.28. I am meaningfully below the market on Croatia (0.42 vs 0.492, gap of −0.072) and above on draw (0.30 vs 0.267, +0.033) and Ghana (+0.038). The market appears to underweight Ghana's defensive quality — holding England with 78.8% possession to 0 goals is elite-level organisation — and may overweight Croatia's quality given their recent defensive vulnerability (2-4 vs England) and a physically aging spine. However, neither the draw edge (+0.033 from raw odds check: 0.30 − 1/3.45 = 0.010) nor the Ghana away edge (0.28 − 1/3.80 = 0.017) reaches the 0.05 threshold required for a bet recommendation; the market does not diverge enough from my estimates on any single selection to generate a qualifying bet. For totals: market-implied over 2.5 = 0.412; my estimate 0.38 — lean under (consistent with Ghana's defensive record across both matches). For BTTS: market-implied yes = 0.344; my estimate 0.30 — lean no, consistent with Ghana's 0-0 vs England and disciplined defensive structure. No selections clear the ≥0.05 edge threshold for betslip inclusion.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.sportsmole.co.uk/football/croatia/world-cup-2026/preview/croatia-vs-ghana-prediction-team-news-lineups_600073.html",
+    "https://www.sportsmole.co.uk/football/ghana/world-cup-2026/predicted-lineups/stick-or-twist-in-the-sticks-predicted-ghana-xi-vs-croatia_600077.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+    "https://www.croatiaweek.com/croatia-world-cup-knockout-hopes-alive-after-panama-win/",
+    "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
+    "https://www.espn.com/soccer/story/_/id/49172894/fifa-world-cup-2026-croatia-vs-ghana-tv-channel-how-watch-kickoff-live-stream-injury-predicted-lineups",
+    "https://foot-africa.com/en/news/2026-world-cup-ghanas-qualification-scenarios-for-the-round-of-32-1256830/",
+    "https://www.espn.com/espn/story/_/id/48878999/antoine-semenyo-thomas-partey-headline-ghana-provisional-fifa-world-cup-squad-injured-mohammed-kudus-out",
+    "https://worldsoccertalk.com/world-cup/why-thomas-partey-is-missing-the-2026-world-cup-for-ghana/",
+    "https://karlobag.eu/en/sports/drew-fischer-to-referee-croatia-vs-ghana-in-philadelphia-as-group-l-world-cup-cl-9kjkb/",
+    "https://www.statshub.com/referee/drew-fischer/316122",
+    "https://www.skysports.com/football/england-vs-ghana/report/549812",
+    "https://theanalyst.com/articles/england-vs-ghana-stats-world-cup-2026",
+    "https://www.aljazeera.com/sports/2026/6/24/budimir-gives-croatia-a-1-0-win-to-eliminate-panama-from-the-world-cup",
+    "https://karlobag.eu/en/sports/croatia-vs-ghana-at-world-cup-2026-dalic-s-plan-modric-s-role-and-decisive-group-jvr0q/",
+    "https://africasoccer.com/world-cup-2026-croatia-vs-ghana-tactical-preview/",
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-group-stage-table-full-standings-for-all-12-groups"
+  ],
+  "generated_at": "2026-06-27T10:45:00Z"
+}

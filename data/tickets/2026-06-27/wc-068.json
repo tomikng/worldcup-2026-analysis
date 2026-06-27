@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-068",
+  "date": "2026-06-27",
+  "home": "Colombia",
+  "away": "Portugal",
+  "kickoff_utc": "2026-06-27T23:30:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_K",
+  "venue": "Hard Rock Stadium, Miami",
+  "analysis": {
+    "summary": "Group K's decisive matchday-3 fixture pits Colombia (6 pts, 1st) against Portugal (4 pts, 2nd) with both sides already through to the round of 32. Colombia need only a draw to clinch top spot and a theoretically easier round-of-32 path; Portugal must win to finish first. This structural asymmetry — Colombia can absorb, Portugal must attack — shapes the tactical dynamics alongside what is a genuinely high-quality encounter between two of the tournament's most dangerous attacking sides.",
+    "home_form": "Colombia have been the standout team in Group K: 3-1 over Uzbekistan (Munoz, Diaz, Campaz) then a disciplined 1-0 over DR Congo (Munoz). Six points from six, top of the group, qualification secured after two games. Attack led by Luis Diaz (pace, directness on left) and James Rodriguez (creative hub, set-piece specialist); the 4-2-3-1 structure has been compact and dangerous in transition. Conceded just one goal in two matches.",
+    "away_form": "Portugal dropped points in their opener against DR Congo (1-1; Joao Neves headed them ahead in the 6th minute before Yoane Wissa equalized in added time), then hammered Uzbekistan 5-0 with Ronaldo scoring twice to reach 975 career goals. The 5-0 win showcased Portugal's depth — Fernandes, Joao Neves, Bernardo Silva in midfield, Leao and Conceicao as wide threats alongside Ronaldo. Four points and second place; a win here seals first.",
+    "h2h": "This is the first competitive or friendly meeting ever recorded between Colombia and Portugal. There is no historical head-to-head data to draw on, making this entirely a form and context-based assessment.",
+    "injuries_news": [
+      "Luis Suarez (Colombia, not the Uruguayan) left the field against DR Congo with a shoulder concern but is reported fit to start.",
+      "Portugal manager Roberto Martinez has a fully fit squad available with no confirmed absences.",
+      "Cristiano Ronaldo recovered fully from a right-thigh muscle injury sustained in February/March 2026 and has been fit throughout the tournament, scoring twice vs Uzbekistan.",
+      "No suspensions confirmed in either camp heading into this fixture."
+    ],
+    "key_factors": [
+      "Structural asymmetry: a draw hands Colombia first place, so they have the luxury of defending a point; Portugal must open up and attack, exposing themselves to Colombia's counter-attacking pace via Diaz.",
+      "Colombia's creative hub James Rodriguez — set-piece deliveries, through balls, pressing trigger — is one of the most influential players in the group stage so far.",
+      "Portugal's firepower is extraordinary: Leao and Conceicao provide width and pace, Ronaldo is a clinical finisher in the box, and Fernandes drives from midfield with energy and shooting threat.",
+      "Referee Alireza Faghani (representing Australia) averages approximately 3.6-3.7 yellow cards per game across recent seasons, suggesting a moderately active card count expected.",
+      "Both teams played their previous matches on June 23, giving equal rest (4 days) heading into this fixture.",
+      "Hard Rock Stadium, Miami: evening kick-off (7:30pm local) in June heat, but both squads have already acclimatized to US conditions throughout the group stage.",
+      "Portugal's draw against DR Congo (conceding a 90th-minute equalizer) shows a vulnerability to late pressure, whereas Colombia have been composed when leading."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.27,
+      "draw": 0.30,
+      "away": 0.43
+    },
+    "predicted_score": "1-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47,
+    "btts_yes": 0.57
+  },
+  "value_notes": "Market-implied probabilities (overround-normalized from provided odds): Colombia win 0.237, Draw 0.256, Portugal win 0.507. My model: Colombia 0.27, Draw 0.30, Portugal 0.43. I shade Colombia and Draw upward versus Portugal downward, driven primarily by the structural incentive asymmetry (Colombia only need a draw for 1st place, incentivizing a defensive-minded approach that increases draw probability), and Colombia's more convincing tournament form (Portugal conceded a stoppage-time equalizer to DR Congo). Edge on Colombia h2h (my 0.27 vs market 0.237 — edge ~+0.033, below 0.05 threshold). Edge on Draw (my 0.30 vs market 0.256 — edge ~+0.044, just below 0.05 threshold). Neither h2h selection clears the 0.05 edge hurdle required by staking policy. For btts_yes: my model probability 0.57 vs market-implied 0.524 (from odds 1.91) — edge = 0.57 - 0.524 = +0.046, marginally below 0.05. Totals 2.5 over: my model 0.47 vs market-implied 0.476 (from odds 2.10) — no edge, slight under lean from model. No selection in this match clears the required ≥0.05 edge threshold for a betting recommendation.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505",
+    "https://www.skysports.com/football/news/12040/13543106/world-cup-2026-group-k-guide-fixtures-schedule-standings-and-odds-for-portugal-dr-congo-uzbekistan-and-colombia",
+    "https://www.espn.com/soccer/story/_/id/49095589/group-k-2026-world-cup-teams-records-stats-know-portugal-dr-congo-uzbekistan-colombia",
+    "https://worldsoccertalk.com/news/cristiano-ronaldo-2026-world-cup-safe-as-portugal-boss-roberto-martinez-reveals-injury-return-timeline/",
+    "https://www.sportsmole.co.uk/football/portugal/world-cup-2026/team-news/colombia-vs-portugal-injury-suspension-list-predicted-xis_600100.html",
+    "https://www.sportsmole.co.uk/football/portugal/world-cup-2026/preview/colombia-vs-portugal-prediction-team-news-lineups_600099.html",
+    "https://sports.yahoo.com/articles/colombia-vs-portugal-2026-world-175220712.html",
+    "https://www.espn.in/football/story/_/id/49172923/fifa-world-cup-2026-colombia-vs-portugal-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+    "https://mundialanalytics.com/colombia-national-team-analysis",
+    "https://esosoccer.com/2026-world-cup/colombias-2026-world-cup-squad-talent-tactics/",
+    "https://en.wikipedia.org/wiki/Alireza_Faghani",
+    "https://x.com/Pattystips/status/2066951147114647943",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/group-k-focus-teams-fixtures-standings"
+  ],
+  "generated_at": "2026-06-27T10:15:00Z"
+}
