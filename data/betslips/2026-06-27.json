@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-27",
+  "slips": [
+    {
+      "slip_id": "2026-06-27-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-066",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.33,
+          "model_prob": 0.85,
+          "edge": 0.098,
+          "rationale": "Panama have failed to score in either group match and are missing their key creative midfielder Carrasquilla; the model assigns only 15% to both teams scoring, well above the market's implied 29% for BTTS yes, making BTTS no at 1.33 a clear positive-expectation play."
+        }
+      ],
+      "combined_odds": 1.33,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Panama are scoreless in two group games and eliminated with no attacking incentive; BTTS no carries +0.098 edge against a market that underestimates England's ability to keep a clean sheet against the tournament's most toothless attack."
+    }
+  ]
+}
