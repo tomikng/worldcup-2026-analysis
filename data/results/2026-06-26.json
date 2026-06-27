@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-26",
+  "source": "web-research",
+  "fetched_at": "2026-06-27T07:06:46Z",
+  "matches": [
+    {
+      "match_id": "wc-060",
+      "home": "Norway",
+      "away": "France",
+      "home_goals": 1,
+      "away_goals": 4,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 4,
+      "away_corners": 5,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760475/france-norway",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021489",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/france-norway-13587229/"
+      ]
+    },
+    {
+      "match_id": "wc-061",
+      "home": "Senegal",
+      "away": "Iraq",
+      "home_goals": 5,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 1,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760474/iraq-senegal",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021493",
+        "https://www.tsn.ca/soccer/fifa-world-cup/video/2026/06/26/sulaka-shown-red-card-as-iraq-goes-down-to-10-men-early-against-senegal/",
+        "https://theanalyst.com/articles/senegal-vs-iraq-stats-world-cup-2026"
+      ]
+    },
+    {
+      "match_id": "wc-062",
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "home_goals": 0,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760478/saudi-arabia-cape-verde",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021485",
+        "https://rg.org/en-ca/news/soccer/cape-verde-saudi-arabia-world-cup-2026-knockout-stage"
+      ]
+    },
+    {
+      "match_id": "wc-063",
+      "home": "Uruguay",
+      "away": "Spain",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 4,
+      "away_cards": 1,
+      "home_reds": 1,
+      "away_reds": 0,
+      "home_corners": 1,
+      "away_corners": 6,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760479/spain-uruguay",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021484",
+        "https://rg.org/en-ca/news/soccer/spain-uruguay-world-cup-2026-canobbio-red-card",
+        "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/agust%C3%ADn-canobbio-loses-his-cool-the-red-card-that-reflected-uruguay-s-frustration-against-spain-at-the-world-cup-2026-06-27"
+      ]
+    },
+    {
+      "match_id": "wc-064",
+      "home": "Egypt",
+      "away": "Iran",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 7,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760476/iran-egypt",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021479",
+        "https://theanalyst.com/articles/egypt-vs-iran-stats-fifa-world-cup-2026",
+        "https://www.skysports.com/football/egypt-vs-iran/report/549826"
+      ]
+    },
+    {
+      "match_id": "wc-065",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "home_goals": 1,
+      "away_goals": 5,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760477/belgium-new-zealand",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021481",
+        "https://theanalyst.com/articles/new-zealand-vs-belgium-stats-fifa-world-cup-2026",
+        "https://www.nbcnews.com/sports/soccer/trossard-de-bruyne-score-belgium-defeats-new-zealand-advance-world-rcna352027"
+      ]
+    }
+  ]
+}

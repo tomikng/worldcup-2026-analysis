@@ -12,15 +12,15 @@
           "selection": "over",
           "line": 2.5,
           "odds": 2.01,
-          "model_prob": 0.60,
+          "model_prob": 0.6,
           "edge": 0.102,
           "rationale": "Senegal need goals urgently to improve their -3 GD for best-third-place contention, Iraq have leaked 7 goals across two group games, and the market's over-2.5 implied probability of 49.8% significantly underprices the combined attacking intent and defensive vulnerability in this fixture."
         }
       ],
       "combined_odds": 2.01,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 20.1,
+      "settled_at": "2026-06-27T07:07:23Z",
       "rationale": "The 2.01 over-2.5 line is meaningfully mispriced given Senegal's goalscoring imperative and Iraq's porous defence (7 GA in 2 games), yielding a 10.2% edge over the raw implied probability."
     }
   ]
