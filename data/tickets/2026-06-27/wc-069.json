@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-069",
+  "date": "2026-06-27",
+  "home": "DR Congo",
+  "away": "Uzbekistan",
+  "kickoff_utc": "2026-06-27T23:30:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_K",
+  "venue": "Mercedes-Benz Stadium, Atlanta",
+  "analysis": {
+    "summary": "DR Congo (1 point, 3rd in Group K) face already-eliminated Uzbekistan in a must-win Matchday 3 decider. A DR Congo win takes them to 4 points and into serious contention as a best third-place qualifier; anything less eliminates them. Uzbekistan have the worst defensive record at the tournament (8 goals conceded in 2 games) and have no advancement incentive, creating a sharp motivation gap. DR Congo's squad quality — anchored by Premier League players Yoane Wissa, Aaron Wan-Bissaka and Samuel Moutoussamy — comfortably exceeds Uzbekistan's in most positions.",
+    "home_form": "DR Congo drew 1-1 with Portugal (Matchday 1, Houston) — Yoane Wissa equalised — and lost 1-0 to Colombia (Matchday 2, Guadalajara). Both performances showed defensive organisation: DR Congo conceded just 0.65 xG to Portugal and 0.98 xG to Colombia. Coach Sébastien Desabre used a back five in both matches but is expected to open up to a back four against Uzbekistan to generate more attacking impetus. Cédric Bakambu led the team's attacking threat with the most attempts in the tournament so far.",
+    "away_form": "Uzbekistan, on their debut World Cup appearance, lost 3-1 to Colombia (Matchday 1) and 5-0 to Portugal (Matchday 2). Their goal difference stands at -7, the worst at the tournament. Abbosbek Fayzullaev scored Uzbekistan's historic first-ever World Cup goal (vs Colombia), while captain Eldor Shomurodov and Fayzullaev remain their main attacking outlets. Coach Fabio Cannavaro has been unable to address serial defensive lapses — Uzbekistan have conceded 8 goals in 180 minutes. The side are mathematically eliminated.",
+    "h2h": "DR Congo and Uzbekistan have never previously met in international football. This is the first ever competitive encounter between the two nations.",
+    "injuries_news": [
+      "DR Congo: No confirmed injuries or suspensions reported entering Matchday 3. Back five (5-3-2) expected to shift to 4-3-3 or 4-4-2 given the must-win context.",
+      "Uzbekistan: No confirmed injuries or suspensions. Midfielder Odiljon Hamrobekov carries a booking from Matchday 2 and will need to manage his discipline to avoid accumulation. Full squad available.",
+      "Referee: Felix Zwayer (Germany) appointed — an experienced FIFA referee. Specific card-rate data for this appointment unconfirmed from available sources."
+    ],
+    "key_factors": [
+      "Qualification pressure asymmetry: DR Congo desperately need three points; Uzbekistan are already eliminated and have nothing to play for — this is a decisive motivational edge for the Leopards.",
+      "Uzbekistan's catastrophic defensive record (8 goals conceded in 2 games) is the worst at the tournament; DR Congo's forwards Wissa and Bakambu should find space.",
+      "DR Congo expected to abandon their back five and push forward with a more attacking shape, increasing both their offensive output and their exposure to Uzbekistan's counter-threat.",
+      "Coach Desabre's side has shown defensive discipline (conceded 2 in 2 games vs high-quality opposition), suggesting a clean sheet is realistic.",
+      "Group K co-matches (Colombia vs Portugal) happening simultaneously — DR Congo know exactly how many points they need; a win locks in 4 points and a strong third-place case.",
+      "Mercedes-Benz Stadium is a comfortable, air-conditioned indoor venue (Atlanta) — conditions neutral, no altitude or extreme heat factor.",
+      "Uzbekistan's best attacking threat is Fayzullaev, who will be tracked tightly by Moutoussamy and Pickel in central midfield."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.62,
+      "draw": 0.19,
+      "away": 0.19
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.55,
+    "btts_yes": 0.38
+  },
+  "value_notes": "Market-implied probabilities (overround removed): DR Congo win 0.553, draw 0.237, Uzbekistan win 0.210. Totals 2.5 over implied at 0.505. My model sets DR Congo win at 0.62 (+0.067 over implied 0.553), giving a model edge of +0.035 against the book odds of 1.71 — this is below the 0.05 threshold required to flag as a value selection. The draw is modelled at 0.19 vs market 0.237, suggesting 'no draw' is slightly overpriced but no standalone bet is available for that. Uzbekistan win at 0.19 is in line with market implied 0.210. For totals, my over 2.5 estimate of 0.55 exceeds market implied 0.505 by 0.045 — just below the 0.05 edge threshold. No market selection clears the 0.05 edge threshold required for a recommended bet. The most credible narrative edge is DR Congo to win, but the market already prices them as a clear favourite at 1.71 and that odds is fairly reflective of the quality gap. Uzbekistan's poor defence (8 GA in 2) and eliminated status are not underpriced by the market in this case.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://bolavip.com/en/amp/world-cup/group-k-standings-updated-are-dr-congo-out-of-2026-world-cup-after-losing-to-colombia",
+    "https://www.sofascore.com/news/group-k-how-results-from-matchday-1-and-matchday-2-affect-world-cup-standings",
+    "https://www.espn.com/soccer/story/_/id/49095589/group-k-2026-world-cup-teams-records-stats-know-portugal-dr-congo-uzbekistan-colombia",
+    "https://www.skysports.com/football/news/12040/13543106/world-cup-2026-group-k-guide-fixtures-schedule-standings-and-odds-for-portugal-dr-congo-uzbekistan-and-colombia",
+    "https://www.goal.com/en/news/dr-congo-uzbekistan-world-cup-preview/blt925d87c611d43a99",
+    "https://www.rotowire.com/soccer/article/dr-congo-vs-uzbekistan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-k-119776",
+    "https://www.squawka.com/en/news/world-cup/dr-congo-world-cup-2026-fixtures-results-squad-analysis/",
+    "https://heavy.com/sports/soccer/world-cup/portugal-vs-uzbekistan-results-today-fifa-world-cup-2026-live-score-updates-stats/",
+    "https://sports.yahoo.com/articles/world-cup-2026-knockout-round-120000023.html",
+    "https://worldcuppass.com/world-cup-2026-third-place-teams/",
+    "https://www.sportsmole.co.uk/football/congo-dr/world-cup-2026/preview/congo-dr-vs-uzbekistan-prediction-team-news-lineups_600068.html",
+    "https://www.foxsports.com/stories/soccer/2026-world-cup-third-place-standings-whos-in-whos-bubble"
+  ],
+  "generated_at": "2026-06-27T12:45:00Z"
+}
