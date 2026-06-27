@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-066",
+  "date": "2026-06-27",
+  "home": "Panama",
+  "away": "England",
+  "kickoff_utc": "2026-06-27T21:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_L",
+  "venue": "MetLife Stadium, East Rutherford",
+  "analysis": {
+    "summary": "Panama, already eliminated with 0 points and 0 goals scored in two group matches, face England in a match that is essentially a dead rubber for the Central Americans. England, with 4 points and needing only a draw to qualify but requiring a win to guarantee top spot in Group L, have strong incentive to perform. The quality gap between these sides is enormous: England defeated Croatia 4-2 in MD1 and are a top-ten world side, while Panama have looked utterly outclassed against Ghana and Croatia. Tuchel confirmed 'moderate rotation' given injury concerns (Reece James out, Declan Rice doubtful with calf), but a rotated England XI will still vastly outclass a Panama team lacking their most important midfielder (Carrasquilla, adductor).",
+    "home_form": "Panama lost 0-1 to Ghana (MD1, June 17) and 0-1 to Croatia (MD2, June 23). They have failed to score in either match at the tournament and are officially eliminated. The team has lacked creativity and cohesion in attack, and lost key midfielder Adalberto Carrasquilla before the tournament started due to an adductor injury. Both defeats were narrow on the scoreline but Panama created very little. They arrive at this fixture with zero to play for and diminished squad quality.",
+    "away_form": "England beat Croatia 4-2 on MD1 (June 17) in an encouraging attacking display, then drew 0-0 with Ghana on MD2 (June 23) in a more laboured performance. They sit level on 4 points with Ghana at the top of Group L. England still need to win this match to guarantee finishing as group winners - a draw would leave them potentially overtaken by Ghana or Croatia if the concurrent Ghana-Croatia game produces a winner. Tuchel has confirmed moderate rotation given injury concerns but will field a competitive XI motivated to secure top spot.",
+    "h2h": "England and Panama have met only once in competitive football: the 2018 World Cup group stage in Russia, where England won 6-1 with Harry Kane scoring a hat-trick. Panama scored their first-ever World Cup goal in that match through Felipe Baloy but were comprehensively outclassed. No other competitive head-to-head meetings exist.",
+    "injuries_news": [
+      "Reece James (England, RB) - ruled out of the Panama match with a hamstring injury, did not train with the squad",
+      "Declan Rice (England, MF) - doubtful with a calf issue noticed after the Ghana match, fitness under assessment; expected to be rested or is a late call",
+      "Bukayo Saka (England, FW) - managing Achilles tendinitis, came off the bench vs Ghana for ~30 minutes; potentially in contention to start given favorable recovery; FourFourTwo reports him in contention",
+      "Djed Spence (England, RB) - ankle concern from the Ghana match, doubt for Panama",
+      "Adalberto Carrasquilla (Panama, MF) - has not featured at this World Cup due to an adductor injury, significant absence for Panama's most creative midfielder",
+      "Marcus Rashford (England, FW) - managed hamstring discomfort ahead of Ghana match but featured; expected to likely start vs Panama"
+    ],
+    "key_factors": [
+      "Panama are eliminated and have no competitive incentive - morale and intensity likely to be severely diminished",
+      "England need a win to guarantee Group L top spot and avoid a more dangerous Round of 32 opponent; this limits rotation and ensures competitive intent",
+      "Panama have failed to score in either group match and face an England defence that, even with rotation, is organised and experienced",
+      "England's quality in attack - Kane, Bellingham, Rashford/Saka - is far superior to Panama's depleted midfield without Carrasquilla",
+      "Only previous meeting ended 6-1 to England at the 2018 World Cup, demonstrating the historical gulf in class",
+      "England rotation will be moderate: Rice and James likely absent, but Kane, Bellingham expected to start and provide quality",
+      "MetLife Stadium, East Rutherford - neutral venue in USA reduces any home advantage for Panama",
+      "Panama's defensive shape (5-4-1 or 4-5-1) may keep the score respectable but is unlikely to generate any meaningful threat going forward"
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.04, "draw": 0.12, "away": 0.84},
+    "predicted_score": "0-3",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.60,
+    "btts_yes": 0.15,
+    "btts_no": 0.85
+  },
+  "value_notes": "Market implied probabilities (overround-normalized): home 0.063, draw 0.134, away 0.803. My model: home 0.04, draw 0.12, away 0.84. The largest divergence is on the away (England win) outcome where my model assigns 0.84 vs market's 0.803 - an edge of +0.037, below the 0.05 threshold required for flagging. The home and draw probabilities are very close to market. On BTTS: market implies yes at ~0.29 (normalized from 1/3.20), but my model assigns only 0.15 to BTTS yes, given Panama have not scored once in the tournament and are missing their key creative midfielder Carrasquilla. This represents a model edge of +0.14 on BTTS no (model 0.85 vs market-implied 0.71, normalized from 1/1.33 = 0.752 normalized ~0.71). BTTS no is the strongest value selection in this match. On totals over 2.5, market implies ~0.60 (normalized from 1/1.55), which aligns with my model estimate of 0.60 - no meaningful edge there. No edge on h2h markets. Summary: BTTS no carries the clearest edge (model 0.85 vs market-implied ~0.71, edge +0.14).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+    "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama",
+    "https://bolavip.com/en/world-cup/group-l-standings-updated-are-panama-out-of-2026-world-cup-after-loss-to-croatia",
+    "https://www.goal.com/en/lists/reece-james-ruled-out-england-panama-world-cup-thomas-tuchel-injury/blt05e30a9a52e4975e",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/panama-vs-england-injury-suspension-list-predicted-xis--world-cup-2026_600071.html",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/predicted-lineups/rice-dropped-rashford-starts-predicted-england-xi-vs-panama_600070.html",
+    "https://www.sportsmole.co.uk/football/panama/world-cup-2026/predicted-lineups/double-fitness-doubt-predicted-panama-xi-vs-england_600069.html",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/feature/england-bidding-to-top-group-l-saturdays-world-cup-predictions-and-previews_600135.html",
+    "https://www.espn.com/soccer/story/_/id/49173382/panama-vs-england-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/news/one-blow-one-doubt-tuchel-dealt-late-england-concern-before-panama-game_600178.html",
+    "https://www.fourfourtwo.com/team/england-world-cup-2026-squad",
+    "https://bleacherreport.com/articles/25446350-england-vs-panama-odds-live-stream-schedule-group-standings-scenarios-world-cup-2026",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/head-to-head/panama-vs-england-head-to-head-record-and-past-meetings_600072.html",
+    "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination"
+  ],
+  "generated_at": "2026-06-27T10:15:00Z"
+}
