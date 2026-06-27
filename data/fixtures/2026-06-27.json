@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-27",
+  "source": "web-research",
+  "fetched_at": "2026-06-27T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-066",
+      "kickoff_utc": "2026-06-27T21:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "home": "Panama",
+      "away": "England",
+      "venue": "MetLife Stadium, East Rutherford"
+    },
+    {
+      "match_id": "wc-067",
+      "kickoff_utc": "2026-06-27T21:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "home": "Croatia",
+      "away": "Ghana",
+      "venue": "Lincoln Financial Field, Philadelphia"
+    },
+    {
+      "match_id": "wc-068",
+      "kickoff_utc": "2026-06-27T23:30:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "home": "Colombia",
+      "away": "Portugal",
+      "venue": "Hard Rock Stadium, Miami"
+    },
+    {
+      "match_id": "wc-069",
+      "kickoff_utc": "2026-06-27T23:30:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+      "match_id": "wc-070",
+      "kickoff_utc": "2026-06-28T02:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "home": "Jordan",
+      "away": "Argentina",
+      "venue": "AT&T Stadium, Arlington"
+    },
+    {
+      "match_id": "wc-071",
+      "kickoff_utc": "2026-06-28T02:00:00Z",
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "home": "Algeria",
+      "away": "Austria",
+      "venue": "GEHA Field at Arrowhead Stadium, Kansas City"
+    }
+  ]
+}
