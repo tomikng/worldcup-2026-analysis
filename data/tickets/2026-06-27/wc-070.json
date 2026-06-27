@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-070",
+  "date": "2026-06-27",
+  "home": "Jordan",
+  "away": "Argentina",
+  "kickoff_utc": "2026-06-28T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_J",
+  "venue": "AT&T Stadium, Arlington",
+  "analysis": {
+    "summary": "This is a dead-rubber finale for Group J: Argentina have already clinched first place (6 pts, +5 GD from 3-0 over Algeria and 2-0 over Austria, with Messi scoring 5 goals), while Jordan are eliminated having lost 3-1 to Austria and 1-2 to Algeria. This is also the first-ever senior meeting between the two nations. Argentina coach Scaloni has confirmed significant squad rotation with Messi starting on the bench, giving fringe players valuable minutes ahead of the knockout stage. Jordan have no competitive incentive beyond honour and cannot alter their group position.",
+    "home_form": "Jordan lost their opening World Cup match 3-1 to Austria (Ali Olwan scored their first-ever World Cup goal) then lost 1-2 to Algeria in a match where they led 1-0 at halftime through Nizar Al-Rashdan but conceded twice from set pieces after the break. Eliminated after Matchday 2. Jordan are making their first-ever World Cup appearance and their squad, headlined by Mousa Al-Tamari (Stade Rennais), competed but were outclassed in both matches. They have scored 2 and conceded 5 across the group stage.",
+    "away_form": "Argentina have been imperious in Group J: beat Algeria 3-0 (Messi hat-trick) and Austria 2-0 (Messi brace, setting the all-time World Cup goalscoring record with 18 goals). No goals conceded. The defending champions are through to the Round of 32 as group winners. Despite planned rotation — Messi confirmed to start on the bench — Argentina's squad depth is exceptional, with Julian Alvarez, Lautaro Martinez, Nicolas Paz and Nico Barco all capable of starring.",
+    "h2h": "Argentina vs Jordan have never met before in any senior international match. This fixture at AT&T Stadium is the first-ever meeting between the two nations.",
+    "injuries_news": [
+      "Lionel Messi confirmed by coach Scaloni to start on the bench; may get second-half minutes.",
+      "Argentina's pre-tournament concern over Gonzalo Montiel (muscle tear, replaced by Giay/Capaldo) was resolved before the tournament; no current reported squad absentees.",
+      "Jordan midfielder Ibrahim Sabra withdrew injured before the tournament and was replaced by Mohammad Taha; no additional injury updates confirmed.",
+      "Jordan key forward Mousa Al-Tamari fitness unconfirmed ahead of this match."
+    ],
+    "key_factors": [
+      "Argentina squad rotation is confirmed and significant — Messi on bench, multiple new starters expected — but even Argentina's depth players are high-quality, and the side remains heavily favored.",
+      "Jordan are eliminated with nothing to play for except pride in their debut World Cup appearance.",
+      "Jordan scored in each of their two group matches, suggesting they can create chances even against strong opposition; however Argentina's defensive unit has been impeccable (zero goals conceded).",
+      "Argentina may be motivated to build a large goal difference margin in case it matters later in the tournament standings.",
+      "AT&T Stadium in Arlington, Texas: neutral-country venue, no home advantage for Jordan; large Argentine diaspora in the US provides de-facto home support.",
+      "First-ever meeting between these nations — Jordan lack any benchmark for facing South American champions of this caliber."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.05,
+      "draw": 0.12,
+      "away": 0.83
+    },
+    "predicted_score": "3-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.65,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Jordan 5.91%, Draw 11.83%, Argentina 82.26%. My model: Jordan 5.0%, Draw 12.0%, Argentina 83.0%. No edge reaches the 0.05 threshold on the h2h market. On totals 2.5, my model gives 65% to over vs 62.5% market-implied (edge +0.025, below threshold). On BTTS, my model gives 30% to yes vs 35.7% market-implied — I lean under the market here given Argentina's clean sheets in both prior games and even a rotated Argentina defence being organized. No market in this ticket meets the >=0.05 edge threshold required for a qualifying bet.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+    "https://www.skysports.com/football/news/12098/13543105/world-cup-2026-group-j-guide-fixtures-schedule-standings-and-odds-for-argentina-algeria-austria-and-jordan",
+    "https://www.espn.com/soccer/story/_/id/49191791/lionel-messi-argentina-bench-jordan-fifa-2026-world-cup",
+    "https://worldsoccertalk.com/world-cup/lionel-scaloni-planning-changes-to-messis-argentina-against-jordan-after-booking-world-cup-knockout-stage-berth/",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/predicted-lineups/will-messi-survive-scaloni-rotation-predicted-argentina-lineup-vs-jordan_600041.html",
+    "https://mundoalbiceleste.com/2026/06/24/nicolas-otamendi-to-start-for-argentina-vs-jordan-at-the-world-cup/",
+    "https://bolavip.com/en/world-cup/group-j-standings-updated-are-jordan-out-of-2026-world-cup-after-loss-to-algeria",
+    "https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026",
+    "https://www.aiscore.com/head-to-head/soccer-argentina-vs-jordan",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-preliminary-squad",
+    "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/06/jordanian-messi-mousa-al-tamari-ready-to-fulfil-world-cup-dream/",
+    "https://cryptobriefing.com/argentina-rotate-squad-jordan-rest-messi/",
+    "https://footballwhispers.com/blog/jordan-vs-argentina-prediction-betting-tips-and-preview-world-cup-2026/"
+  ],
+  "generated_at": "2026-06-27T10:30:00Z"
+}
