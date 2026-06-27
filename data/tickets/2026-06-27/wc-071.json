@@ -1,0 +1,67 @@
+{
+  "match_id": "wc-071",
+  "date": "2026-06-27",
+  "home": "Algeria",
+  "away": "Austria",
+  "kickoff_utc": "2026-06-28T02:00:00Z",
+  "stage": "GROUP_STAGE",
+  "group": "GROUP_J",
+  "venue": "GEHA Field at Arrowhead Stadium, Kansas City",
+  "analysis": {
+    "summary": "This Group J finale is the decisive clash for second place, with Algeria (3 pts, GD -2) needing a win to overtake Austria (3 pts, GD 0) and both teams publicly dismissing but facing genuine incentives to finish third and avoid Spain as R16 opponents. Algeria's top striker Mohamed Amoura is confirmed out with a hamstring injury, blunting their attacking threat significantly, though their set-piece delivery through Mahrez proved decisive in the 2-1 comeback win vs Jordan. Austria, under Rangnick's high-press system, arrive with a positive goal difference and a composed 3-1 win over Jordan on MD1 and lost narrowly 0-2 to Argentina on MD2. The match carries a heavy historical overlay: the only previous competitive meeting was Austria's 2-0 win in the infamous 1982 World Cup group stage, and the tactical dynamic here is similarly complex.",
+    "home_form": "Algeria beat Jordan 2-1 in MD2 (June 22), recovering from a 0-1 deficit via two set-piece headers after Mahrez corners in the 69th and 82nd minutes. MD1 saw a 0-3 loss to Argentina (all three Messi). Pre-tournament: beat Netherlands 1-0 (friendly) and Bolivia 4-0 (friendly). Under Petkovic overall: 21W-4D-3L in 28 matches. 2025 AFCON quarter-final exit. Predominantly 4-2-3-1 with Mahrez as the creative hub.",
+    "away_form": "Austria beat Jordan 3-1 in MD1 (June 17), with goals from Schmid, an own goal from a Alaba corner, and a Arnautovic penalty. Lost 0-2 to Argentina on MD2 (June 22), with Messi scoring in 38' and 90+5'. Strong UEFA qualifying campaign: 6W-1D-1L, 22 goals, GD +18. Pre-tournament: 5-1 vs Ghana, 1-0 vs South Korea (March), and a home friendly vs Tunisia (June 1). Rangnick's pressing system has been the cornerstone of Austria's resurgence.",
+    "h2h": "Algeria and Austria have met only once in competitive football, in the 1982 FIFA World Cup group stage, where Austria won 2-0 through goals from Schachner and Krankl. The 1982 tournament also featured the infamous 'Disgrace of Gijon' where West Germany and Austria played out a mutually convenient result that eliminated Algeria, creating a historical grievance that adds emotional weight to this fixture.",
+    "injuries_news": [
+      "Mohamed Amoura (Algeria, striker): Confirmed out with hamstring injury sustained in the Argentina match on June 17. He was Algeria's top scorer in qualifying with 10 goals in 8 matches. His absence is the single biggest team-news item for this match.",
+      "Luca Zidane (Algeria, GK): Included in squad despite having suffered a broken jaw in April with Granada; expected to play.",
+      "David Alaba (Austria, CB): Fit and expected to start. He returned from the long-term knee injury that ruled him out of Euro 2024 and has been anchoring Austria's defence this tournament.",
+      "Stefan Posch (Austria, RB): Played vs Argentina despite a previously reported broken jaw; considered available.",
+      "Tobias Lawal and Maximilian Woeber (Austria): Both missed squad selection through fitness issues before the tournament.",
+      "No suspensions confirmed for either side heading into MD3."
+    ],
+    "key_factors": [
+      "Strategic ambiguity - second place faces Spain (Group H leader); third place may face USA. Multiple reports confirm both benches are aware of this, creating potential for cautious play if scores become convenient for both.",
+      "Amoura absence: Algeria's go-to centre-forward and qualifying top scorer is out. Coach Petkovic must rely on Amine Gouiri as lone striker with Mahrez and Chaibi behind, reducing Algeria's direct threat.",
+      "Set-piece efficiency: Algeria's only goals this tournament came from Mahrez corner deliveries (both vs Jordan). Austria's 3-1 win vs Jordan also featured an own goal from an Alaba corner. Set pieces likely decisive.",
+      "Rangnick high press vs Algeria counter: Algeria's structured 4-2-3-1 is designed to absorb pressure and hit on the break. Rangnick's Austria press aggressively and punish space behind defensive lines. Algeria needing a win opens space for Austria's transitions.",
+      "Neutral venue: GEHA Field at Arrowhead Stadium is effectively a neutral site. The 02:00 UTC kickoff means a late evening local kick-off (9pm local), so heat should not be a major factor.",
+      "Historical and emotional motivation: The 1982 'Disgrace of Gijon' lends Algeria exceptional emotional motivation to win this fixture and settle a 44-year grievance. Algeria players and fans are acutely aware of the history.",
+      "Austria's superior goal difference (+0 vs -2) means a draw is as good as a win for Austria to secure second place, giving Rangnick's side incentive to sit and absorb rather than attack."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.25,
+      "draw": 0.42,
+      "away": 0.33
+    },
+    "predicted_score": "1-1",
+    "confidence": 0.58
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.35,
+    "btts_yes": 0.48
+  },
+  "value_notes": "Market implied probabilities (overround removed): Algeria 0.243, Draw 0.421, Austria 0.336. Model: Algeria 0.25, Draw 0.42, Austria 0.33. No outcome shows an edge of 0.05 or greater relative to the market — the market is well-calibrated for this fixture. The main model adjustment is a marginal uplift to Algeria (0.25 vs 0.243 implied) reflecting emotional motivation and set-piece threat, offset by Amoura's confirmed absence reducing their attacking potency. On totals, the market's over-2.5 implied probability is approximately 0.366; the model sits lower at 0.35, reflecting Amoura's absence and the potential for conservative play given both teams' incentive to avoid Spain. BTTS: market implies 0.516 yes; model at 0.48 is slightly below market given Amoura's absence and possible tactical caution. No selections meet the 0.05 edge threshold required for a recommended bet.",
+  "sources": [
+    "https://www.skysports.com/football/news/12098/13543105/world-cup-2026-group-j-guide-fixtures-schedule-standings-and-odds-for-argentina-algeria-austria-and-jordan",
+    "https://www.skysports.com/football/news/12098/13557299/world-cup-2026-why-austria-may-prefer-to-lose-their-final-world-cup-group-j-game-against-algeria",
+    "https://sports.yahoo.com/articles/world-cup-2026-knockout-round-120000451.html",
+    "https://brobible.com/sports/article/2026-fifa-world-cup-austria-algeria-group-j-spain/",
+    "https://www.espn.com/soccer/story/_/id/49154542/why-algeria-austria-2026-world-cup-biggest-grudge-match-west-germany-1982-disgrace-gijon",
+    "https://www.espn.com/soccer/story/_/id/49191332/austria-algeria-fifa-world-cup-2026-win-spain-knockout",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021499",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+    "https://africasoccer.com/world-cup-2026-algeria-amoura-absence-austria-match-update/",
+    "https://www.sportsmole.co.uk/football/algeria/world-cup-2026/team-news/algeria-vs-austria-injury-suspension-list-predicted-xis_600063.html",
+    "https://www.sportsmole.co.uk/football/algeria/world-cup-2026/preview/algeria-vs-austria-prediction-team-news-lineups_600058.html",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/vladimir-petkovi-s-official-algeria-squad-for-the-2026-fifa-world-cup-2026-05-31",
+    "https://www.squawka.com/en/news/world-cup/algeria-world-cup-2026-fixtures-results-players-analysis/",
+    "https://www.espn.com/soccer/match/_/gameId/760484/austria-algeria",
+    "https://www.sportsmole.co.uk/football/algeria/world-cup-2026/predicted-lineups/arnautovic-in-austria-predicted-xi-vs-algeria_600062.html",
+    "https://www.aljazeera.com/sports/2026/6/23/algeria-jordan-score-fifa-world-cup-2026"
+  ],
+  "generated_at": "2026-06-27T14:30:00Z"
+}
