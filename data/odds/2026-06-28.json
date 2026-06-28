@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-28",
+  "collected_at": "2026-06-28T14:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-072",
+      "h2h": {
+        "home": 5.50,
+        "draw": 3.50,
+        "away": 1.71
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.20,
+        "under": 1.66
+      },
+      "double_chance": {
+        "1x": 2.10
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/canada-vs-south-africa-odds-prediction-time-2026-world-cup-round-of-32-picks/",
+        "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-canada-les-rouges",
+        "https://sports.yahoo.com/soccer/betting/article/world-cup-2026-early-odds-picks-for-round-of-32-matches-including-usa-vs-bosnia-and-herzegovina-south-africa-vs-canada-151127175.html",
+        "https://www.oddsshark.com/soccer/world-cup/canada-south-africa-picks-odds-2026",
+        "https://dknetwork.draftkings.com/2026/06/25/opening-odds-for-canada-vs-south-africa-in-the-fifa-2026-world-cup/",
+        "https://www.espn.com/soccer/odds/_/gameId/760486"
+      ]
+    }
+  ]
+}

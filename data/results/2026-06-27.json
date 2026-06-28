@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-27",
+  "source": "web-research",
+  "fetched_at": "2026-06-28T10:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-066",
+      "home": "Panama",
+      "away": "England",
+      "home_goals": 0,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 3,
+      "away_corners": 7,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508",
+        "https://www.espn.com/soccer/match/_/gameId/760485/england-panama",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-panama-vs-england-jun-27-2026-game-boxscore-647682",
+        "https://www.skysports.com/football/panama-vs-england/549837"
+      ]
+    },
+    {
+      "match_id": "wc-067",
+      "home": "Croatia",
+      "away": "Ghana",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 3,
+      "away_corners": 2,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021509",
+        "https://www.espn.com/soccer/match/_/gameId/760480/ghana-croatia",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-croatia-vs-ghana-jun-27-2026-game-boxscore-647683",
+        "https://heavy.com/sports/soccer/world-cup/croatia-vs-ghana-results-today-fifa-world-cup-2026-live-score-updates-stats/"
+      ]
+    },
+    {
+      "match_id": "wc-068",
+      "home": "Colombia",
+      "away": "Portugal",
+      "home_goals": 0,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 0,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 5,
+      "away_corners": 2,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505",
+        "https://www.espn.com/soccer/match/_/gameId/760481/portugal-colombia",
+        "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-colombia-vs-portugal-jun-27-2026-game-boxscore-647684"
+      ]
+    },
+    {
+      "match_id": "wc-069",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "home_goals": 3,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 3,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 2,
+      "away_corners": 3,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021500",
+        "https://www.espn.com/soccer/match/_/gameId/760482/uzbekistan-congo-dr",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-congo-dr-vs-uzbekistan-jun-27-2026-game-boxscore-647685",
+        "https://www.skysports.com/football/news/11095/13556707/world-cup-2026-dr-congo-3-1-uzbekistan-yoane-wissa-stars-as-the-leopards-complete-comeback-win-to-set-up-last-32-clash-against-england"
+      ]
+    },
+    {
+      "match_id": "wc-070",
+      "home": "Jordan",
+      "away": "Argentina",
+      "home_goals": 1,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": 3,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021495",
+        "https://www.espn.com/soccer/match/_/gameId/760483/argentina-jordan",
+        "https://www.espn.com/soccer/story/_/id/49200394/jordan-argentina-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.skysports.com/football/jordan-vs-argentina/report/549833"
+      ]
+    },
+    {
+      "match_id": "wc-071",
+      "home": "Algeria",
+      "away": "Austria",
+      "home_goals": 3,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 0,
+      "away_corners": 3,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497",
+        "https://www.espn.com/soccer/match/_/gameId/760484/austria-algeria",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-algeria-vs-austria-jun-27-2026-game-boxscore-647687",
+        "https://theanalyst.com/articles/algeria-vs-austria-stats-world-cup-2026-live"
+      ]
+    }
+  ]
+}

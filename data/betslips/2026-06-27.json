@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.33,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 13.3,
+      "settled_at": "2026-06-28T07:06:18Z",
       "rationale": "Panama are scoreless in two group games and eliminated with no attacking incentive; BTTS no carries +0.098 edge against a market that underestimates England's ability to keep a clean sheet against the tournament's most toothless attack."
     }
   ]

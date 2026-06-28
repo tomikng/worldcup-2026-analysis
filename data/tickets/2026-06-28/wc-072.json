@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-072",
+  "date": "2026-06-28",
+  "home": "South Africa",
+  "away": "Canada",
+  "kickoff_utc": "2026-06-28T19:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "SoFi Stadium, Inglewood",
+  "analysis": {
+    "summary": "South Africa and Canada meet in the Round of 32 in a historic first knockout fixture for both nations. Canada enter as clear favourites on the back of Jonathan David's hat-trick heroics against Qatar (6-0) and superior squad depth, while South Africa advanced as Group A runners-up on four points after beating South Korea 1-0 in their final group game. South Africa are severely hampered by the three-game suspension of playmaker Themba Zwane (red card vs Mexico), and their group-stage goal tally of just two flags a meaningful attacking limitation against a well-organised Canadian defence.",
+    "home_form": "South Africa finished Group A with W1-D1-L1, collecting four points. They lost 2-0 to Mexico, drew 1-1 with Czechia, then edged South Korea 1-0 (Maseko 63') to qualify for the knockouts for the first time in their history. They scored only 2 goals in the group stage — their lowest-ever World Cup group tally — and conceded 3. Coach Hugo Broos has built a compact, defensively disciplined unit that relies on pace and counter-attack through Appollis and Mofokeng. Key midfielder Teboho Mokoena returns after serving his one-game suspension in the South Korea match.",
+    "away_form": "Canada finished Group B runners-up with W1-D1-L1, collecting four points. They drew 1-1 with Bosnia-Herzegovina (opener), thrashed Qatar 6-0 (Jonathan David hat-trick, Larin, Saliba, Mohamed Manai og), then lost 2-1 to Switzerland. Canada scored 8 goals in the group stage but conceded 3, and registered the highest corner average at the tournament (11.67 per game). Alphonso Davies missed all three group games with a hamstring injury and is expected to begin on the bench but available; Ismael Kone is out for the tournament with a broken leg sustained against Qatar.",
+    "h2h": "The sides have met only once in recorded history: South Africa defeated Canada 2-0 in an international friendly on 20 November 2007. This World Cup Round of 32 tie is effectively their first meaningful competitive encounter.",
+    "injuries_news": [
+      "South Africa - Themba Zwane: 3-match suspension (red card vs Mexico, Game 1); misses this match — significant blow to South Africa's creative output",
+      "South Africa - Teboho Mokoena: returns to lineup after one-game suspension served in the South Korea match",
+      "Canada - Alphonso Davies: hamstring injury; missed all three group stage games; expected to start on the bench but reportedly available for this match",
+      "Canada - Ismael Kone: out for the tournament with a broken leg sustained against Qatar"
+    ],
+    "key_factors": [
+      "Zwane suspension is the single most disruptive piece of team news for South Africa; he was a key creator and his absence leaves Bafana Bafana even more limited offensively",
+      "Canada's attacking depth — David (4 tournament goals), Larin, Buchanan, Oluwaseyi — substantially outclasses South Africa's forward options, especially without Zwane",
+      "South Africa will look to sit deep in a compact 4-2-3-1 block and hit Canada on the counter through the pace of Appollis and Mofokeng; this approach could make for a tight, cagey game",
+      "With both sides in the knockout stage for the first time, psychological pressure is comparable, but Canada's home-continent advantage (co-hosts) and crowd support at SoFi Stadium provide a modest edge",
+      "Alphonso Davies' potential return from the bench gives Canada an attacking trump card that South Africa will struggle to handle",
+      "Expert analyst lean is strongly toward Under 2.5 goals: South Africa's low-scoring group stage and defensive compact block, combined with Canada's mixed results vs organized defences (drew 1-1 vs Bosnia), points to a narrow margin win rather than a high-scoring affair",
+      "Knockout format: no draw after 90+ET, so the 90-minute h2h odds still encompass an AET scenario — South Africa's organised backline could drag this to extra time even if they are eventually eliminated"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.16,
+      "draw": 0.24,
+      "away": 0.60
+    },
+    "predicted_score": "1-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.43
+  },
+  "value_notes": "Market-implied probabilities (normalized from h2h odds, removing 5.2% overround): South Africa 0.173, Draw 0.272, Canada 0.556. My model sets Canada at 0.60 (+0.044 vs market) and South Africa at 0.16 (-0.013 vs market), with draw at 0.24 (-0.032). The Zwane suspension materially weakens South Africa's already limited attack (only 2 goals in group stage); this is a factor the opening odds may only partially price in. No edge meets the 0.05 threshold on any single h2h outcome. For totals, market-implied over 2.5 is approximately 0.430 (1/2.20 normalized); my model also sits at 0.43, so no edge on that market either. No market odds available for btts or corners in this fixture's odds entry, so those markets are omitted. No Polymarket data available for this match.",
+  "sources": [
+    "https://www.olympics.com/en/news/canada-fifa-world-cup-2026-les-rouges-results-scores-and-standings-full-list",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://www.olympics.com/en/news/south-africa-fifa-world-cup-2026-football-results-scores-standings",
+    "https://www.sportsmole.co.uk/football/south-africa/world-cup-2026/team-news/south-africa-vs-canada-injury-suspension-list-predicted-xis_600165.html",
+    "https://www.sportsmole.co.uk/football/canada/world-cup-2026/preview/south-africa-vs-canada-prediction-team-news-lineups_600163.html",
+    "https://www.nbcnews.com/sports/soccer/jonathan-david-world-cup-qatar-results-rcna350819",
+    "https://www.nbcnews.com/sports/soccer/south-africa-reaches-world-cup-knockouts-1st-time-stunning-south-korea-rcna351700",
+    "https://theanalyst.com/articles/south-africa-vs-canada-prediction-world-cup-2026-match-preview",
+    "https://www.sportsline.com/insiders/south-africa-vs-canada-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+    "https://www.cbssports.com/soccer/news/canada-vs-south-africa-odds-prediction-time-2026-world-cup-round-of-32-picks/",
+    "https://sports.yahoo.com/soccer/betting/article/world-cup-2026-early-odds-picks-for-round-of-32-matches-including-usa-vs-bosnia-and-herzegovina-south-africa-vs-canada-151127175.html",
+    "https://www.sportsmole.co.uk/football/south-africa/world-cup-2026/head-to-head/south-africa-vs-canada-head-to-head-record-and-past-meetings_600133.html",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-canada-south-africa-round-32-head-to-head-full-schedule-watch",
+    "https://www.juvefc.com/world-cup-r32-match-1-predictions/"
+  ],
+  "generated_at": "2026-06-28T14:30:00Z"
+}
