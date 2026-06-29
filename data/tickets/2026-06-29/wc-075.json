@@ -1,0 +1,68 @@
+{
+  "match_id": "wc-075",
+  "date": "2026-06-29",
+  "home": "Netherlands",
+  "away": "Morocco",
+  "kickoff_utc": "2026-06-30T01:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Estadio BBVA, Monterrey",
+  "analysis": {
+    "summary": "Netherlands enter as Group F winners after a dominant campaign (10 goals in 3 games: 2-2 Japan, 5-1 Sweden, 3-1 Tunisia), while Morocco qualified as Group C runners-up behind Brazil (6 goals: 1-1 Brazil, 1-0 Scotland, 4-2 Haiti). The Dutch possess the tournament's most prolific attack so far, but Morocco are proven knockout operators who reached the 2022 semi-finals and have Ismael Saibari in inspired form with 3 goals in 3 games. The 90-minute implied probabilities (Netherlands ~42%, Draw ~31%, Morocco ~27%) shift toward Netherlands after factoring ET/penalties (~59% vs ~41%). The Monterrey heat and humidity (30°C+ at kickoff) are a genuine physical factor that may compress the game and favour Morocco's disciplined defensive setup.",
+    "home_form": "Netherlands topped Group F with 7 points and +6 goal difference. Cody Gakpo (2 goals) and Brian Brobbey (3 goals) are in exceptional form; Gakpo is level with Van Persie as Netherlands' most prolific group-stage scorer in World Cup history. Frenkie de Jong has been composed in midfield, and the 4-3-3 system under Ronald Koeman is fluid and high-scoring. Pre-tournament losses: Jurrien Timber (groin, replaced by Geertruida) and Xavi Simons (ACL) are notable absences, and Memphis Depay's role is limited. Dumfries and Brobbey both passed late fitness tests and are expected to start.",
+    "away_form": "Morocco finished second in Group C with 7 points. Ismael Saibari became the first African player to score in each of three group-stage matches at a single World Cup (3 goals), and his move to Bayern Munich this summer reflects his elite status. Pre-tournament, Morocco lost Nayef Aguerd (groin surgery, pubic bone fracture) and Abde Ezzalzouli from their squad. However, Noussair Mazraoui, Issa Diop, Ayyoub Bouaddi, and Azzedine Ounahi are expected to return to the starting XI for the knockout match. Walid Regragui's side have retained the compact, counter-attacking identity that made them 2022 semi-finalists.",
+    "h2h": "Netherlands and Morocco have met three times: Netherlands won 2-1 in the 1994 World Cup group stage; Morocco won 2-1 in a 1999 friendly; Netherlands won 2-1 in a 2017 friendly. All three matches have finished 2-1, suggesting closely contested affairs with a single-goal margin the consistent outcome. Netherlands lead the overall record 2-1.",
+    "injuries_news": [
+      "Netherlands: Jurrien Timber ruled out pre-tournament (groin, replaced by Geertruida). Xavi Simons ruled out pre-tournament (ACL, April). Denzel Dumfries declared fit after minor knock. Brian Brobbey declared fit after minor knock.",
+      "Morocco: Nayef Aguerd ruled out pre-tournament (pubic bone fracture/groin surgery). Abde Ezzalzouli ruled out pre-tournament (injury). No confirmed injuries or suspensions within the tournament squad for the Round of 32."
+    ],
+    "key_factors": [
+      "Netherlands scored 10 goals in the group stage — the most attacking output of any team alongside a select few — giving them the tournament's best-performing attack heading into the knockouts.",
+      "Morocco's defensive solidity in big knockout matches (5 clean sheets in 7 matches at the 2022 World Cup) is a major factor; their compact low-block will test Netherlands' build-up.",
+      "Ismael Saibari's form (3 goals, fastest goal of WC2026 vs Scotland at 71 seconds) makes Morocco a genuine counter-attacking threat. Achraf Hakimi's overlapping runs and Brahim Diaz's creativity add width.",
+      "Monterrey heat and humidity: kickoff is at 9 PM local time (01:00 UTC) but temperatures will still be 30°C+. This physically demanding environment historically favours less possession-heavy sides and may reduce goal volume.",
+      "Morocco has 5 rest days (last played June 24) vs Netherlands' 4 rest days (last played June 25) — a marginal advantage for Morocco.",
+      "All three historical meetings between these sides ended 2-1; tight, one-goal margins are the pattern.",
+      "ROUND_OF_32 knockout context: Netherlands are slight favourites but Morocco are highly capable of taking this deep into extra time or penalties, where they excel."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.59,
+      "draw": 0.0,
+      "away": 0.41
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.40,
+    "totals_2.5_under": 0.60,
+    "btts_yes": 0.48,
+    "btts_no": 0.52
+  },
+  "value_notes": "Market-implied probabilities (overround removed): Netherlands 44.5%, Draw 29.0%, Morocco 26.6% (90-min h2h). After redistribution for ET/pens, market implies Netherlands ~57%, Morocco ~43%. My model puts Netherlands ~59%, Morocco ~41% after ET — roughly in line with market, so no meaningful edge on h2h. On totals: market implies Over 2.5 at 42.3%, but my model sets it at 40.0%, aligning with the Under 2.5 given Morocco's defensive structure in knockout football and the Monterrey heat compressing the game — modest support for the Under (market 57.7% vs model 60.0%, edge ~+0.023, below the 0.05 threshold). On BTTS: market implies Yes at 50.7%, my model 48.0% — no qualifying edge. No selections exceed the 0.05 edge threshold required for ticket-builder action.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-group-f-netherlands-tops-group-with-win-over-tunisia-as-japan-and-sweden-draw-012333588.html",
+    "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup",
+    "https://www.espn.com/soccer/match/_/gameId/760472/netherlands-tunisia",
+    "https://www.aljazeera.com/sports/2026/6/26/netherlands-beat-tunisia-3-1-enter-world-cup-knockouts-as-group-winners",
+    "https://www.aljazeera.com/sports/2026/6/20/morocco-beat-scotland-1-0-as-saibari-scores-fastest-world-cup-2026-goal",
+    "https://www.espn.com/soccer/match/_/gameId/760464/haiti-morocco",
+    "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+    "https://www.espn.com/soccer/story/_/id/49027277/morocco-cut-injured-aguerd-ezzalzouli-last-minute-world-cup-reshuffle",
+    "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/team-news/netherlands-vs-morocco-injury-suspension-list-predicted-xis_600223.html",
+    "https://www.goal.com/en/news/netherlands-morocco-world-cup-preview/blt3172427e299982cd",
+    "https://www.rotowire.com/soccer/article/netherlands-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120071",
+    "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/preview/netherlands-vs-morocco-prediction-team-news-lineups_600222.html",
+    "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/predicted-lineups/double-fitness-boost-how-netherlands-could-line-up-vs-morocco_600224.html",
+    "https://khelnow.com/football/world-football-netherlands-vs-morocco-head-to-head-fifa-world-cup-202606",
+    "https://www.moroccofootballtribune.com/morocco-vs-netherlands-head-to-head-history-results-and-memorable-matches/",
+    "https://fiido.com/blogs/news/estadio-bbva-world-cup-2026-stadium-mobility-guide",
+    "https://www.fifaworldcupnews.com/estadio-bbva-monterrey-world-cup-2026/",
+    "https://www.cafonline.com/fifa-world-cup/news/saibari-strike-sends-morocco-top-and-makes-world-cup-history-after-tense-win-over-scotland/"
+  ],
+  "generated_at": "2026-06-29T12:00:00Z"
+}

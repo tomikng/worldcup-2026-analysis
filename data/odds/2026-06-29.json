@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-29",
+  "collected_at": "2026-06-29T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-073",
+      "h2h": {
+        "home": 1.69,
+        "draw": 3.70,
+        "away": 5.20
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.05,
+        "under": 1.77
+      },
+      "btts": {
+        "yes": 1.91,
+        "no": 1.80
+      },
+      "sources": [
+        "https://www.cbssports.com/soccer/news/brazil-japan-odds-prediction-time-2026-world-cup-round-32-picks/",
+        "https://sports.yahoo.com/articles/brazil-vs-japan-predictions-picks-194300747.html",
+        "https://dknetwork.draftkings.com/2026/06/26/opening-odds-for-brazil-vs-japan-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://www.oddsshark.com/soccer/world-cup/brazil-japan-odds-june-29-2026-2537487"
+      ]
+    },
+    {
+      "match_id": "wc-074",
+      "h2h": {
+        "home": 1.36,
+        "draw": 5.00,
+        "away": 9.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.73,
+        "under": 2.06
+      },
+      "btts": {
+        "yes": 2.10,
+        "no": 1.70
+      },
+      "sources": [
+        "https://www.oddsshark.com/soccer/world-cup/germany-paraguay-odds-picks-2026",
+        "https://dknetwork.draftkings.com/2026/06/27/opening-odds-for-germany-vs-paraguay-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://www.sportsline.com/insiders/germany-vs-paraguay-odds-predictions-2026-world-cup-round-of-32-picks-from-proven-soccer-expert/",
+        "https://www.rotowire.com/soccer/article/germany-vs-paraguay-picks-tips-odds-best-bets-2026-world-cup-round-of-32-120210"
+      ]
+    },
+    {
+      "match_id": "wc-075",
+      "h2h": {
+        "home": 2.15,
+        "draw": 3.30,
+        "away": 3.60
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.65
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 2.00
+      },
+      "sources": [
+        "https://dknetwork.draftkings.com/2026/06/26/opening-odds-for-netherlands-vs-morocco-in-the-fifa-2026-world-cup/",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/netherlands-vs-morocco-odds-prediction-063026-217277",
+        "https://www.oddsshark.com/soccer/world-cup/netherlands-morocco-picks-odds-2026",
+        "https://www.oddsshark.com/soccer/world-cup/netherlands-morocco-odds-june-29-2026-2537490"
+      ]
+    }
+  ]
+}

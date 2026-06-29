@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-28",
+  "source": "web-research",
+  "fetched_at": "2026-06-29T00:05:00Z",
+  "matches": [
+    {
+      "match_id": "wc-072",
+      "home": "South Africa",
+      "away": "Canada",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/report/_/gameId/760486",
+        "https://www.cbssports.com/soccer/news/canada-vs-south-africa-live-updates-world-cup-2026-score-resultlive/live/",
+        "https://www.cbc.ca/sports/livestory/canada-vs-south-africa-june-28-live-updates-fifa-world-cup-2026-9.7249028",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021518",
+        "https://theanalyst.com/articles/south-africa-vs-canada-stats-world-cup-2026"
+      ]
+    }
+  ]
+}

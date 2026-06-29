@@ -1,0 +1,66 @@
+{
+  "match_id": "wc-073",
+  "date": "2026-06-29",
+  "home": "Brazil",
+  "away": "Japan",
+  "kickoff_utc": "2026-06-29T17:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "NRG Stadium, Houston",
+  "analysis": {
+    "summary": "Brazil enter as heavy favourites after winning Group C with seven points, led by Vinicius Jr. (four goals in three matches) and Matheus Cunha (three goals). Japan finished second in a competitive Group F unbeaten but carry a significant injury burden — captain Wataru Endo (foot surgery), Kaoru Mitoma (hamstring), and Takumi Minamino (ACL) are all absent — stripping them of key creators and their most dangerous wide threat. Brazil are the stronger side on paper and should advance, but Japan have demonstrated counter-attacking ability and beat Brazil 3-2 in a friendly in October 2025, making a Japanese goal highly plausible.",
+    "home_form": "Brazil won Group C with 7 points (W2 D1): 1-1 draw with Morocco (Vinicius equaliser), 3-0 win over Haiti (Raphinha injury, Cunha brace), 3-0 win over Scotland (Vinicius brace, Cunha). Vinicius Jr. has 4 tournament goals; Cunha 3. Neymar came off the bench vs Scotland. Pre-tournament losses of Rodrygo (ACL), Militao (hamstring), Estevao, and Wesley weakened the squad depth; Raphinha suffered a hamstring tear vs Haiti and is expected to miss the Round of 32.",
+    "away_form": "Japan finished second in Group F with 5 points (W1 D2): 2-2 draw with Netherlands (Kamada, Doan goals), 4-0 win over Tunisia (Ueda brace, Kamada goal), 1-1 draw with Sweden. Kamada and Ueda are the top scorers with two goals each. Japan were unbeaten but the 4-0 margin against Tunisia flatters their form; the Netherlands and Sweden draws both required late resilience.",
+    "h2h": "Brazil lead the all-time head-to-head 11 wins to 1, with two draws, scoring 37 goals to Japan's 8 across 14 meetings. The sole WC meeting was at the 2006 group stage, where Brazil won 4-1 (Japan led briefly). Japan's only win came in a 3-2 friendly in October 2025, a remarkable comeback after trailing 2-0 at half-time, with goals from Minamino, Nakamura, and Ueda — though Minamino is now absent through injury.",
+    "injuries_news": [
+      "Brazil OUT: Raphinha (hamstring tear sustained vs Haiti, ruled out for Round of 32, quarterfinal return possible), Rodrygo (torn ACL, season-ending pre-tournament), Militao (hamstring surgery, pre-tournament), Estevao (hamstring, pre-tournament), Wesley (pre-tournament).",
+      "Brazil CONCERN: Casemiro was substituted at half-time vs Morocco; status for this match is unconfirmed.",
+      "Japan OUT (pre-tournament): Wataru Endo (captain, foot surgery), Kaoru Mitoma (hamstring), Takumi Minamino (ACL).",
+      "Japan CONCERN: Ko Itakura (defensive fitness monitored), Takehiro Tomiyasu (recently recalled to squad after lengthy absence, fitness unconfirmed).",
+      "Yellow card slate wiped clean after group stage — no carry-over suspensions into Round of 32 under 2026 FIFA rules."
+    ],
+    "key_factors": [
+      "Japan's triple injury crisis removes Endo (midfield engine and captain), Mitoma (main wide threat), and Minamino (the scorer in the 2025 comeback win) — their creative ceiling in this match is significantly lower than in that friendly.",
+      "Vinicius Jr. is in peak tournament form with four goals in three matches; without Raphinha on the opposite flank, the burden falls heavily on him and Cunha, but that combination was already highly effective vs Scotland.",
+      "NRG Stadium's retractable roof is expected to be closed with air conditioning active for the 17:00 UTC (12:00 local) kickoff, neutralising Houston's extreme June heat and humidity for both sides.",
+      "Brazil had five days' rest after their June 24 Scotland match; Japan had four days after their June 25 Sweden draw — rest differential is minimal.",
+      "Japan's counter-attacking structure (Kubo, Doan, Kamada, Ueda) can punish any high defensive line Brazil adopt, as demonstrated in the 2025 friendly comeback.",
+      "This is a ROUND_OF_32 knockout fixture — the h2h market settles on the result after extra time. A 90-minute draw leads to extra time and potentially penalties, where Brazil's experience and depth provide additional edge."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.58,
+      "draw": 0.25,
+      "away": 0.17
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.67
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.47,
+    "btts_yes": 0.47
+  },
+  "value_notes": "Market-implied probabilities (overround-adjusted): Brazil 0.562, Draw 0.256, Japan 0.182. Model probabilities: Brazil 0.58, Draw 0.25, Japan 0.17. Brazil home edge = 0.58 - 0.562 = +0.018, below the 0.05 threshold. No h2h selection meets the value threshold. For totals 2.5 over: market implied 1/2.05 = 0.488; model estimate 0.47 — market is slightly generous on over, no value. For BTTS yes: market implied 1/1.91 = 0.524; model estimate 0.47 — model is below market, no value on yes; BTTS no has edge 0.53 - (1 - 0.524) = 0.006, below threshold. No selections reach the required 0.05 edge for recommendation. Note: Japan's injury crisis (Endo, Mitoma, Minamino all absent) is the primary factor pushing the model slightly above market on Brazil, but not by enough to generate a qualifying edge given Brazil's own absentees (Raphinha, Rodrygo, Militao) and Japan's demonstrated ability to score at this tournament.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+    "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
+    "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/head-to-head/brazil-vs-japan-head-to-head-record-and-past-meetings_600201.html",
+    "https://www.espn.com/soccer/story/_/id/49129032/brazil-confirm-raphinha-hamstring-injury-world-cup-2026-return-uncertain-group-c",
+    "https://www.espn.com/soccer/story/_/id/49164178/brazil-raphinha-world-cup-everything-my-power-play-again",
+    "https://www.espn.com/soccer/story/_/id/48775615/kaoru-mitoma-ruled-world-cup-injury-takehiro-tomiyasu-recalled-japan-squad",
+    "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/japan-captain-endo-ruled-out-injury",
+    "https://www.aljazeera.com/sports/2026/6/25/vinicius-nets-twice-and-neymar-returns-as-brazil-ease-by-scotland",
+    "https://www.aljazeera.com/sports/2026/6/21/japan-tunisia-4-0-fifa-world-cup-2026-ayase-ueda-daichi-kamada-junya-ito",
+    "https://www.espn.com/soccer/story/_/id/49133799/daichi-kamada-reiterates-japan-goal-win-world-cup-record-win",
+    "https://www.espn.com/soccer/story/_/id/49169240/fifa-world-cup-2026-stats-vinicius-joins-ronaldo-5-neymar-joins-pele-4-alajbegovic-breaks-kylian-mbappe-record",
+    "https://www.sciencetimes.com/articles/61911/20260604/houston-faces-unprecedented-world-cup-heat-danger-wet-bulb-heat-threatens-players-fans-beyond.htm",
+    "https://www.fanorate.com/soccer-2026/venue-guides/nrg-stadium-fifa-world-cup-2026-houston-guide/",
+    "https://sports.yahoo.com/articles/world-cup-yellow-card-suspension-200649478.html",
+    "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/team-news/brazil-vs-japan-injury-suspension-list-predicted-xis_600208.html",
+    "https://www.mexc.com/news/1178440"
+  ],
+  "generated_at": "2026-06-29T08:45:00Z"
+}
