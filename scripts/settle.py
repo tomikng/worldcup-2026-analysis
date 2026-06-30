@@ -36,7 +36,28 @@ def grade_leg(leg: dict, result: dict) -> str:
     market, selection = leg["market"], leg["selection"]
 
     if market == "h2h":
-        outcome = "home" if home > away else "away" if away > home else "draw"
+        if home > away:
+            outcome = "home"
+        elif away > home:
+            outcome = "away"
+        else:
+            # Tied after ET in knockouts — determine winner from penalty_winner
+            # field or by parsing the notes string ("X won N-M on penalties...")
+            pw = result.get("penalty_winner")
+            if pw is None:
+                notes = result.get("notes", "")
+                # notes pattern: "<Team> won <N>-<M> on penalties after ..."
+                import re as _re
+                m = _re.search(r"^(\S+(?:\s+\S+)?)\s+won\s+\d+-\d+\s+on\s+penalties", notes)
+                if m:
+                    winner_name = m.group(1).lower()
+                    home_name = result["home"].split()[-1].lower()
+                    away_name = result["away"].split()[-1].lower()
+                    if winner_name in home_name or home_name in winner_name:
+                        pw = "home"
+                    elif winner_name in away_name or away_name in winner_name:
+                        pw = "away"
+            outcome = pw if pw in ("home", "away") else "draw"
         return "won" if selection == outcome else "lost"
 
     if market == "double_chance":

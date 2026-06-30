@@ -1,0 +1,70 @@
+{
+  "date": "2026-06-29",
+  "source": "web-research",
+  "fetched_at": "2026-06-30T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-073",
+      "home": "Brazil",
+      "away": "Japan",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 3,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760487/japan-brazil",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021516",
+        "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html",
+        "https://dknetwork.draftkings.com/2026/06/29/brazil-vs-japan-live-updates-stats-odds-for-2026-world-cup/"
+      ]
+    },
+    {
+      "match_id": "wc-074",
+      "home": "Germany",
+      "away": "Paraguay",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "notes": "Paraguay won 4-3 on penalties after 1-1 AET",
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760489/paraguay-germany",
+        "https://www.cbssports.com/soccer/news/germany-vs-paraguay-live-updates-world-cup-2026-score-result/live/",
+        "https://www.skysports.com/football/news/17251/13558815/world-cup-2026-germany-1-1-paraguay-3-4-on-penalties-four-time-winners-dumped-out-in-stunning-last-32-exit",
+        "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/paraguay-germany-13532362/"
+      ]
+    },
+    {
+      "match_id": "wc-075",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "notes": "Morocco won 3-2 on penalties after 1-1 AET",
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760488/morocco-netherlands",
+        "https://www.espn.com/soccer/story/_/id/49220087/netherlands-morocco-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.cbssports.com/soccer/news/netherlands-vs-morocco-world-cup-2026-updates-live-score-result/live/",
+        "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html"
+      ]
+    }
+  ]
+}

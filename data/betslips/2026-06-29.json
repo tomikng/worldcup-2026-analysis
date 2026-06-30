@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.36,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-30T07:07:26Z",
       "rationale": "Germany are structurally superior in every phase; the 10.5-point edge over market reflects Paraguay's suspended key player, their 4-1-0-2 record against organised sides, and Germany's +7 group-stage goal difference."
     },
     {
@@ -33,16 +33,16 @@
           "market": "btts",
           "selection": "no",
           "line": null,
-          "odds": 1.70,
-          "model_prob": 0.70,
+          "odds": 1.7,
+          "model_prob": 0.7,
           "edge": 0.112,
           "rationale": "Model assigns 70% probability to BTTS No versus market-implied 58.8%; Paraguay scored in only one of three group games, and that was against host nation USA — they were blanked by Australia and drew 0-0 in their defensive shutout, while Germany's Rudiger-Tah backline is well-organised."
         }
       ],
-      "combined_odds": 1.70,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 1.7,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-30T07:07:26Z",
       "rationale": "Paraguay's attacking output (1 goal in 3 games, 1.04 xG average) and the absence of set-piece taker Gomez make it highly probable they fail to score against Germany's defence."
     },
     {
@@ -55,16 +55,16 @@
           "market": "h2h",
           "selection": "away",
           "line": null,
-          "odds": 3.60,
+          "odds": 3.6,
           "model_prob": 0.41,
           "edge": 0.132,
           "rationale": "Morocco's ET/penalty-adjusted win probability of 41% is well above the market-implied 27.8%; their 2022 World Cup pedigree (five clean sheets in seven knockout matches), Saibari's in-form three-goal tournament campaign, and the Monterrey heat favouring Morocco's compact counter-attacking system all support significant overlay."
         }
       ],
-      "combined_odds": 3.60,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 3.6,
+      "status": "won",
+      "payout": 36.0,
+      "settled_at": "2026-06-30T07:08:52Z",
       "rationale": "Morocco are priced as decided underdogs but the market has not fully accounted for their knockout-match specialist identity, tactical discipline, and the physical conditions in Monterrey that historically compress possession-dominant teams."
     },
     {
@@ -87,16 +87,16 @@
           "market": "h2h",
           "selection": "away",
           "line": null,
-          "odds": 3.60,
+          "odds": 3.6,
           "model_prob": 0.41,
           "edge": 0.132,
           "rationale": "Morocco to advance after ET: specialist knockout operators priced at a 13-point overlay versus model, with heat and defensive structure in their favour."
         }
       ],
-      "combined_odds": 4.90,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 4.9,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-06-30T07:07:26Z",
       "rationale": "Two independent value legs from different matches — a near-certainty German win combined with a Morocco upset at generous odds delivers strong expected value at flat 5 units."
     }
   ]

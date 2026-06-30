@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-30",
+  "source": "web-research",
+  "fetched_at": "2026-06-30T00:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-076",
+      "kickoff_utc": "2026-06-30T17:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "venue": "Dallas Stadium, Arlington"
+    },
+    {
+      "match_id": "wc-077",
+      "kickoff_utc": "2026-06-30T21:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "France",
+      "away": "Sweden",
+      "venue": "New York New Jersey Stadium, East Rutherford"
+    },
+    {
+      "match_id": "wc-078",
+      "kickoff_utc": "2026-07-01T01:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Mexico",
+      "away": "Ecuador",
+      "venue": "Estadio Azteca, Mexico City"
+    }
+  ]
+}
