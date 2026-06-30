@@ -1,0 +1,69 @@
+{
+  "match_id": "wc-077",
+  "date": "2026-06-30",
+  "home": "France",
+  "away": "Sweden",
+  "kickoff_utc": "2026-06-30T21:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "New York New Jersey Stadium, East Rutherford",
+  "analysis": {
+    "summary": "France, the 2018 world champions and dominant Group I winners with 10 goals scored and only 2 conceded in three matches, face a Sweden side that scraped through as one of the eight best third-place finishers with a 7-7 goal difference. France are heavy favourites on all metrics but Sweden carry a genuinely dangerous strike pair in Viktor Gyokeres and Alexander Isak, who can punish any defensive lapse. Sweden's key defensive injury (Isak Hien, hamstring) and their 5-1 thrashing by the Netherlands expose structural vulnerabilities that France's front line — headlined by Mbappe and Dembele (who scored a hat-trick in 32 minutes vs Norway) — should ruthlessly exploit. This is France's first-ever World Cup meeting with Sweden.",
+    "home_form": "France swept Group I with three wins: 3-1 vs Senegal, 3-0 vs Iraq, 4-1 vs Norway (Dembele hat-trick in first half, Doue added fourth). Total: 10 goals scored, 2 conceded, 9 points. Mbappe scored in all three group games (4 goals); Dembele finished with 4 goals in the group stage. France conceded only to Senegal (1 goal) and Norway (1 goal; Norway played a rotated side). Playing in a 4-2-3-1 with Mbappe leading the line, Dembele, Olise, and Barcola behind him, and Tchouameni-Rabiot in midfield. Saliba started vs Norway after a back problem but appears available; Marcus Thuram (calf) is considered doubtful.",
+    "away_form": "Sweden finished 3rd in Group F with 4 points: beat Tunisia 5-1 (Gyokeres and Isak both scored), lost to Netherlands 5-1 (exposed defensively), drew Japan 1-1 (Isak Hien forced off with hamstring, confirmed out of tournament). Group record: 7 goals for, 7 against — the only qualifier with an even goal difference among the third-place sides. Playing a 3-4-3/5-4-1 under Graham Potter, deploying Gyokeres and Isak as twin strikers with Elanga in support. Victor Lindelof was shifted from midfield back into the back three to cover Hien, with teenage Lucas Bergvall stepping into midfield. Forsberg is available and deployed in midfield/attacking midfield role.",
+    "h2h": "France and Sweden have never met at a World Cup — this is the first-ever meeting between the two nations at the tournament. All-time, France lead the head-to-head with 12 wins to Sweden's 6, with 6 draws across 24 meetings in all competitions. In major tournaments they have met twice: a 1-1 draw at EURO 1992 (Sweden home tournament) and a 2-0 Sweden win at EURO 2012 (Ibrahimovic overhead kick). In 2018 World Cup qualifying, each side won their home leg 2-1. Most recent meetings (Nations League 2020): France won 4-2. France's superior record and current form make them clear favourites even when accounting for tournament variance.",
+    "injuries_news": [
+      "Sweden: Isak Hien (CB, Atalanta) — ruled out of the tournament with a left hamstring injury sustained against Japan; he will not feature vs France. This is a significant defensive blow as he was Sweden's most reliable centre-back.",
+      "Sweden: Victor Lindelof (CB/MF) — moved from midfield into the back three to replace Hien; Lucas Bergvall (teenager, Tottenham) steps into the midfield engine room in a positional reshuffle that weakens both areas.",
+      "France: Marcus Thuram (CF) — calf issue, unlikely to be available or feature in the squad. His absence is partially mitigated by Mbappe, Dembele, Olise, Barcola all fit.",
+      "France: William Saliba (CB, Arsenal) — had a back problem pre-tournament but played vs Norway and expected to start; Deschamps managing him carefully but available.",
+      "Antoine Griezmann: retired from international football before the tournament and is NOT in the squad. France operate without their 2022 World Cup best-performing midfielder."
+    ],
+    "key_factors": [
+      "France's firepower vs Sweden's reshuffled defence: Mbappe (4 group goals) and Dembele (4 goals, including hat-trick) face a back three missing their best defender. France averaged 3.33 goals per group game.",
+      "Sweden's attack is genuinely dangerous: Gyokeres (Arsenal PL winner 2024-25, 19 club goals) and Isak (Liverpool) are proven PL top scorers who scored together vs Tunisia. A France clean sheet is not guaranteed.",
+      "Sweden's defensive vulnerabilities confirmed: 5-1 loss to Netherlands in the group stage showed they can ship goals in bunches. France's attack is at least comparable to the Dutch.",
+      "Knockout compression: both teams will be more conservative in a single-elimination format, which could tighten a match that open play suggests should be a blowout. Sweden have a credible chance of reaching 120 minutes.",
+      "Hien absence: losing their most physical CB to injury disrupts Sweden's back three structure at the worst possible time against the most potent attack they have faced.",
+      "France's bench depth: Camavinga, Kounde, Doue, Fofana all provide high-quality cover. Sweden's bench offers little upgrade over the starting XI.",
+      "Venue (East Rutherford) and rest days: both teams had roughly 4 days rest. No altitude or heat concerns at MetLife/New Jersey Stadium.",
+      "This is France's first World Cup knockout game and Sweden's first knockout since 2018 — tournament experience slight edge to France."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.65,
+      "draw": 0.22,
+      "away": 0.13
+    },
+    "predicted_score": "3-1",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.68,
+    "btts_yes": 0.48
+  },
+  "value_notes": "Market-implied probabilities (overround removed): France 0.751, Draw 0.161, Sweden 0.087. My model sets France at 0.65, Draw at 0.22, Sweden at 0.13. I am materially BELOW market on France (0.65 vs 0.751, delta -0.101) and materially ABOVE market on Draw (0.22 vs 0.161, delta +0.059) and Sweden outright (0.13 vs 0.087, delta +0.043). No edge on France win (market prices it too richly). The draw at 5.90 (implied 0.161 normalised) has a model-implied edge of +0.059 (just above the 0.05 threshold) — knockout compression and Sweden's attack with Gyokeres/Isak mean France could be held to 90 minutes without a decision more often than the market allows. Sweden outright at 11.00 (implied 0.087 normalised) shows a model edge of +0.043 — slightly below threshold. On totals: over 2.5 at 1.49 implies 0.671; my model at 0.68 gives edge of +0.009, negligible. BTTS yes at 1.95 implies 0.513; my model at 0.48 is marginally below — no edge. Ticket builder: the only qualifying edge (>=0.05) is Draw at 5.90 with model edge of approximately +0.059.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+    "https://www.espn.com/soccer/story/_/id/49196824/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+    "https://www.skysports.com/football/news/12098/13556679/world-cup-2026-norway-1-4-france-ousmane-dembele-scores-first-half-hat-trick-as-les-bleus-top-group-i",
+    "https://www.skysports.com/football/news/12098/13552698/world-cup-2026-sweden-5-1-tunisia-viktor-gyokeres-and-alexander-isak-guide-graham-potters-side-to-victory",
+    "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026",
+    "https://sports.yahoo.com/soccer/breaking-news/article/frances-ousmane-dembele-records-second-fastest-hat-trick-in-world-cup-history-in-4-1-win-over-norway-195324171.html",
+    "https://www.sabcsport.com/soccer/news/sweden-lose-isak-hien-as-injury-ends-world-cup-dream-ahead-of-france-clash",
+    "https://www.sportsmole.co.uk/football/france/world-cup-2026/preview/france-vs-sweden-prediction-team-news-lineups_600264.html",
+    "https://www.sportsmole.co.uk/football/sweden/world-cup-2026/predicted-lineups/who-replaces-hien-predicted-sweden-xi-vs-france_600279.html",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/france-sweden-first-meeting",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/group-stage-statistics-stats",
+    "https://worldsoccertalk.com/world-cup/why-antoine-griezmann-is-missing-the-2026-world-cup-for-france/",
+    "https://openthemagazine.com/sports/france-fifa-wc-2026-squad-deschamps-draws-his-final-line-camavinga-and-griezmann-pay-the-price/",
+    "https://www.sportsmole.co.uk/football/france/world-cup-2026/feature/the-worst-possible-draw-can-sweden-find-a-way-to-upset-france_600354.html",
+    "https://www.covers.com/world-cup/france-vs-sweden-prediction-picks-odds-tuesday-6-30-2026",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/france-v-sweden-35765183",
+    "https://dknetwork.draftkings.com/2026/06/27/opening-odds-for-france-vs-sweden-in-the-2026-fifa-world-cup-round-of-32/",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/france-vs-sweden-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aX7uo8L8FtZ8/"
+  ],
+  "generated_at": "2026-06-30T14:22:00Z"
+}
