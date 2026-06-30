@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-30",
+  "slips": [
+    {
+      "slip_id": "2026-06-30-S1",
+      "type": "single",
+      "stake": 15.0,
+      "legs": [
+        {
+          "match_id": "wc-076",
+          "market": "dnb",
+          "selection": "away",
+          "line": null,
+          "odds": 1.94,
+          "model_prob": 0.671,
+          "edge": 0.156,
+          "rationale": "Norway's DNB implied probability is only 51.5% yet the model — anchored by Haaland's full fitness, two convincing group wins, and a rested squad — puts their win probability at 67.1%; the draw scenario is neutralised and the value is substantial."
+        }
+      ],
+      "combined_odds": 1.94,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Strong model edge on Norway DNB: Haaland rested and primed, Ivory Coast's attack modest (3 group goals), climate-controlled dome removes the one potential equaliser of Texas heat."
+    },
+    {
+      "slip_id": "2026-06-30-S2",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-076",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 2.25,
+          "model_prob": 0.50,
+          "edge": 0.056,
+          "rationale": "Market prices btts Yes at 1.67 (implied 59.9%) but the model puts both-teams-scoring at only 50%, reflecting Norway's rotated-squad-induced 'clean sheet drought' stat versus an Ivory Coast attack that managed just 3 goals in the group stage, two of which came against weakest opposition Curacao."
+        }
+      ],
+      "combined_odds": 2.25,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Market overestimates Ivory Coast's ability to score against a full-strength Norway backline; btts No at 2.25 offers a marginal but real edge."
+    },
+    {
+      "slip_id": "2026-06-30-S3",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-077",
+          "market": "h2h",
+          "selection": "draw",
+          "line": null,
+          "odds": 5.90,
+          "model_prob": 0.22,
+          "edge": 0.051,
+          "rationale": "Market's normalised draw probability is only 16.1% but knockout compression and Sweden's genuine threat via Gyokeres and Isak — proven Premier League scorers who hurt Tunisia together — means 22% feels right and the 5.90 price offers a slender but valid edge."
+        }
+      ],
+      "combined_odds": 5.90,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Draw at 5.90 compensates for single-elimination conservatism; Sweden's attack is credible enough to deny France a winner in 90 minutes at a rate the market underprices."
+    },
+    {
+      "slip_id": "2026-06-30-S4",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-078",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.63,
+          "model_prob": 0.72,
+          "edge": 0.107,
+          "rationale": "Mexico kept three clean sheets in the group stage and Ecuador scored only twice in three games (once via a shock upset of Germany); the model puts btts Yes at just 28% against the market's implied 44.4%, a 16-percentage-point gap that the Azteca altitude and Mexico's tight defensive block support."
+        }
+      ],
+      "combined_odds": 1.63,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Mexico's defensive impermeability (0 goals conceded in group stage) and Ecuador's misfiring attack (2 goals in 3 games) combine to make btts No a high-conviction bet at a price that underestimates Mexico's backline quality."
+    }
+  ]
+}
