@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-30",
+  "collected_at": "2026-06-30T12:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-076",
+      "h2h": {
+        "home": 3.50,
+        "draw": 3.40,
+        "away": 2.10
+      },
+      "dnb": {
+        "home": 2.40,
+        "away": 1.94
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.97,
+        "under": 1.95
+      },
+      "btts": {
+        "yes": 1.67,
+        "no": 2.25
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/ivory-coast-v-norway-35764745",
+        "https://dknetwork.draftkings.com/2026/06/27/opening-odds-for-ivory-coast-vs-norway-in-the-fifa-2026-world-cup/",
+        "https://www.espn.com/soccer/odds/_/gameId/760490",
+        "https://shekicks.net/world-cup-r32-cote-d-ivoire-norway-predictions/",
+        "https://www.cbssports.com/soccer/news/norway-ivory-coast-odds-prediction-time-2026-world-cup-round-of-32-picks/"
+      ]
+    },
+    {
+      "match_id": "wc-077",
+      "h2h": {
+        "home": 1.27,
+        "draw": 5.90,
+        "away": 11.00
+      },
+      "dnb": {
+        "home": 1.11,
+        "away": 7.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.49,
+        "under": 2.65
+      },
+      "totals_alt": [
+        {
+          "line": 3.5,
+          "over": 2.36,
+          "under": 1.59
+        }
+      ],
+      "btts": {
+        "yes": 1.95,
+        "no": 1.87
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/france-v-sweden-35765183",
+        "https://dknetwork.draftkings.com/2026/06/27/opening-odds-for-france-vs-sweden-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://www.espn.com/soccer/odds/_/gameId/760492",
+        "https://www.oddschecker.com/us/soccer/world-cup/france-v-sweden",
+        "https://www.covers.com/world-cup/france-vs-sweden-prediction-picks-odds-tuesday-6-30-2026"
+      ]
+    },
+    {
+      "match_id": "wc-078",
+      "h2h": {
+        "home": 2.15,
+        "draw": 3.10,
+        "away": 4.00
+      },
+      "dnb": {
+        "home": 1.55,
+        "away": 2.48
+      },
+      "totals": {
+        "line": 1.5,
+        "over": 1.61,
+        "under": 2.35
+      },
+      "btts": {
+        "yes": 2.25,
+        "no": 1.63
+      },
+      "corners": {
+        "line": 7.5,
+        "over": 1.80,
+        "under": 1.91
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/mexico-v-ecuador-35764745",
+        "https://www.espn.com/soccer/odds/_/gameId/760491",
+        "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-ecuador",
+        "https://www.oddsshark.com/soccer/world-cup/mexico-ecuador-odds-june-30-2026-2538441",
+        "https://www.covers.com/world-cup/mexico-vs-ecuador-prediction-picks-odds-tuesday-6-30-2026"
+      ]
+    }
+  ]
+}
