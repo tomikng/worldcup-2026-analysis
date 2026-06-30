@@ -1,0 +1,66 @@
+{
+  "match_id": "wc-076",
+  "date": "2026-06-30",
+  "home": "Ivory Coast",
+  "away": "Norway",
+  "kickoff_utc": "2026-06-30T17:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Dallas Stadium, Arlington",
+  "analysis": {
+    "summary": "Ivory Coast and Norway meet in the World Cup Round of 32 for the first time ever in competitive football. Norway arrive as clear favourites, powered by Erling Haaland's four-goal group-stage haul, while Ivory Coast are making their maiden knockout appearance in World Cup history. Norway's manager strategically rested Haaland and key players against France (a 4-1 defeat) to ensure full freshness for this tie, making their real form from the first two group games — a 4-1 win over Iraq and 3-2 win over Senegal — the true benchmark. Ivory Coast were solid and organised under Emerse Fae, going 6 points from 3 games with a +1 goal difference, but their attacking output was modest: three goals across the group, largely built on defensive structure rather than firepower.",
+    "home_form": "Ivory Coast finished second in Group E with 6 points: beat Ecuador 1-0 (Amad Diallo, late), lost 2-1 to Germany (Kessie scored, conceded in stoppage time), beat Curacao 2-0 (Pepe brace). Total: 3 goals scored, 2 conceded. Defensively disciplined in a 4-3-3 under Fae. Key attackers: Nicolas Pepe (2 goals), Amad Diallo (1 goal), Yan Diomande. Midfield anchor: Franck Kessie and Ibrahim Sangare. Making their first-ever World Cup knockout appearance.",
+    "away_form": "Norway finished second in Group I with 6 points: beat Iraq 4-1 (Haaland brace), beat Senegal 3-2 (Haaland brace, Pedersen goal), lost to France 4-1 (fully rotated squad, Haaland unused substitute — result irrelevant to form assessment). Real form in competitive play: 7 goals scored, 3 conceded in two meaningful matches. Haaland has 4 World Cup goals in just 2 games (59 international goals overall in 52 caps). Odegaard provides creativity. Norway operating in a 4-3-3. Returned to knockout stages for first time since 1998.",
+    "h2h": "No previous competitive head-to-head meetings on record between Ivory Coast and Norway. This is their first competitive encounter at a World Cup.",
+    "injuries_news": [
+      "Ivory Coast: Wilfried Singo (centre-back, Galatasaray) is a doubt with a hamstring injury suffered before the Curacao game; expected to miss or be a late fitness test. Odilon Kossounou and Ousmane Diomande likely to partner in central defence.",
+      "Norway: Julian Ryerson (right-back, Borussia Dortmund) is a doubt after missing training with a thigh injury; if unavailable Fredrik Aursnes may shift to right-back with Patrick Berg entering midfield.",
+      "Erling Haaland: fit and fully rested — did not feature against France (rested by Solbakken deliberately for the knockouts)."
+    ],
+    "key_factors": [
+      "Haaland fully rested with 4 goals in 2 games — the most dangerous individual player in the tournament.",
+      "AT&T Stadium is a climate-controlled indoor dome — negates the Texas heat that caused Norwegian cramping in group stage and removes a potential Ivory Coast advantage.",
+      "Norway's defensive record was 7 goals conceded in Group I, but 4 came in the heavily rotated France game; their first-choice backline conceded 3 in two wins.",
+      "Ivory Coast's attacking output was modest (3 goals, 2 coming against weakest group opponent Curacao); their style is transition-based and they may cede possession.",
+      "No competitive head-to-head history creates genuine uncertainty around match dynamics.",
+      "Ivory Coast are historically in a first knockout match (historic milestone) while Norway have only ever lost their two previous World Cup knockout games.",
+      "Market and Opta simulation both strongly favour Norway (Opta: 56.1% Norway win in 90 minutes vs 21.6% Ivory Coast win).",
+      "Norway haven't kept a clean sheet in 10 international matches — Ivory Coast's pacey wingers Amad Diallo and Yan Diomande could exploit that."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.24,
+      "draw": 0.27,
+      "away": 0.49
+    },
+    "predicted_score": "1-2",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.50,
+    "btts_yes": 0.50
+  },
+  "value_notes": "Market-implied probabilities (after removing overround of 5.6%): Ivory Coast 0.271, Draw 0.279, Norway 0.451. My model probabilities: Ivory Coast 0.24, Draw 0.27, Norway 0.49. My Norway probability (0.49) exceeds the market-implied (0.451) by 0.039 — below the 0.05 edge threshold, no qualifying edge on Norway. My Ivory Coast probability (0.24) is below market (0.271), so no edge there either. On totals: market implies over 2.5 at 50.8% (1/1.97); my estimate is 50% — no meaningful edge. On btts: market implies btts_yes at 59.9% (1/1.67); my estimate is 50% — model is 9.9 percentage points BELOW the market, suggesting btts_no (odds 2.25, implied 44.4%) may carry value if my assessment of Ivory Coast's modest attack is correct (edge vs market: ~0.50 vs 0.444 = 0.056, marginally above 0.05 threshold on the NO side). No single market clears a clean 0.05 edge on the favoured side with high confidence; the clearest divergence is btts_no where I estimate Norway may be more likely to keep a clean sheet than the market prices suggest given Ivory Coast's limited attacking output.",
+  "sources": [
+    "https://worldcuppass.com/ivory-coast-world-cup-squad-2026/",
+    "https://www.flashscore.com/news/soccer-world-championship-norway-coach-solbakken-wary-of-physical-ivory-coast-in-world-cup-round-of-32/Qwj0j3QQ/",
+    "https://www.espn.com/soccer/story/_/id/49146699/norway-senegal-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-erling-haaland-was-an-unused-sub-during-a-much-changed-norways-4-1-loss-to-france-175723626.html",
+    "https://www.sportsmole.co.uk/football/ivory-coast/world-cup-2026/team-news/ivory-coast-vs-norway-injury-suspension-list-predicted-xis_600307.html",
+    "https://www.sportsmole.co.uk/football/ivory-coast/world-cup-2026/preview/ivory-coast-vs-norway-prediction-team-news-lineups_600294.html",
+    "https://www.rotowire.com/soccer/article/ivory-coast-vs-norway-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120216",
+    "https://www.espn.com/soccer/match/_/gameId/760430/norway-iraq",
+    "https://www.france24.com/en/sport/20260625-world-cup-2026-ecuador-beat-germany-round-of-32-curacao-eliminated",
+    "https://www.espn.com/soccer/story/_/id/49178155/ivory-coast-curacao-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://sports.yahoo.com/articles/norway-vs-ivory-coast-predictions-184000427.html",
+    "https://www.si.com/soccer/cote-divoire-vs-norway-world-cup-preview-predictions-lineups-6-30-26",
+    "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/world-cup-r32-cote-d-ivoire-norway-predictions",
+    "https://www.fanduel.com/research/ivory-coast-vs-norway-prediction-picks-lineups-preview-and-best-bets-world-cup-2026",
+    "https://sports.yahoo.com/articles/everything-know-norway-vs-ivory-033003995.html",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/ivory-coast-v-norway-35764745",
+    "https://dknetwork.draftkings.com/2026/06/27/opening-odds-for-ivory-coast-vs-norway-in-the-fifa-2026-world-cup/",
+    "https://shekicks.net/world-cup-r32-cote-d-ivoire-norway-predictions/"
+  ],
+  "generated_at": "2026-06-30T10:45:00Z"
+}

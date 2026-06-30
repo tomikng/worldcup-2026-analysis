@@ -1,0 +1,67 @@
+{
+  "match_id": "wc-078",
+  "date": "2026-06-30",
+  "home": "Mexico",
+  "away": "Ecuador",
+  "kickoff_utc": "2026-07-01T01:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Estadio Azteca, Mexico City",
+  "analysis": {
+    "summary": "Mexico enter this Round of 32 clash as heavy favourites after an immaculate group stage — three wins, six goals scored and none conceded — the first time El Tri have swept all three group games in World Cup history. Ecuador qualified as one of the best third-placed teams after a rocky path (loss to Ivory Coast, goalless draw with Curaçao) that was rescued by a 2-1 upset over Germany in their final game. The altitude at the Azteca (2,200m above sea level) compounds a partisan 83,000-strong home crowd advantage and represents a significant physiological burden on an Ecuador side not acclimatised to those conditions.",
+    "home_form": "Mexico won all three group stage games: 2-0 vs South Africa (Quiñones 9', second goal), 1-0 vs South Korea, 3-0 vs Czech Republic (Chávez 55', Quiñones 61', Fidalgo 90+). Six goals scored, zero conceded — the only host nation to keep a perfect group stage record. Raúl Jiménez rested against Czechia and is expected back in the XI. Álvaro Fidalgo, Roberto Alvarado, and teenage midfielder Gilberto Mora have been key contributors. Manager Javier Aguirre deploying a disciplined 4-3-3 with high defensive organisation.",
+    "away_form": "Ecuador lost 1-0 to Ivory Coast (June 14), drew 0-0 with Curaçao (June 20), then beat Germany 2-1 (June 25) with goals from Nilson Angulo (9') and Gonzalo Plata (77'). Advanced with 4 points as one of the best third-placed teams. Scored only 2 goals in 3 games but conceded just 2 overall (once from Ivory Coast, once from Germany before rallying to win). Defensive structure anchored by Willian Pacho, Piero Hincapié, and Moisés Caicedo. Sebastian Beccacece's 4-4-2 has been pragmatic and counter-attack-focused.",
+    "h2h": "In 28 all-time meetings, Mexico lead with 17 wins to Ecuador's 4, with 7 draws. Most recent meeting was a 1-1 friendly in October 2025 (Guadalajara). This is the first World Cup knockout encounter between the sides. Mexico's historical dominance is clear but recent meetings have been closer — two of the last three ended level. Goals per game historically averages around 2.69 across all meetings.",
+    "injuries_news": [
+      "Hirving 'Chucky' Lozano was not selected for Mexico's World Cup squad after fitness and disciplinary issues at club level (San Diego FC) — a significant attacking absence.",
+      "Edson Álvarez (Mexico captain) returned from ankle surgery in February 2026. He was rested for Mexico's opening game vs South Africa due to fitness concerns but has played since; his sharpness for a knockout match remains a mild question mark.",
+      "Ecuador: No confirmed injuries or suspensions reported entering this match. Enner Valencia (36, 49 international goals) started and completed 90 minutes in all group games. Moisés Caicedo has been named new Ecuador captain after Valencia stepped aside mid-tournament.",
+      "Both squads otherwise expected at full strength per pre-match reports."
+    ],
+    "key_factors": [
+      "Estadio Azteca altitude (2,200m) causes roughly 23% lower oxygen delivery per breath — a persistent fatigue factor against a visiting Ecuador side not altitude-acclimatised.",
+      "Mexico's 4-3-3 defensive organisation has been impenetrable (0 goals conceded in 3 group games); Ecuador's finishing has been the problem all tournament (2 goals in 3 games).",
+      "Ecuador's counter-attacking 4-4-2 with Valencia and Plata in attack may seek to sit deep and play on the break, which suits their strengths but requires them to score against Mexico's tight backline.",
+      "Moisés Caicedo is world-class and can break up play and drive forward — if he wins midfield battles, Ecuador can be dangerous on the transition.",
+      "Julian Quiñones (2 tournament goals) and Raúl Jiménez (returning to XI) give Mexico genuine attacking threat; Roberto Alvarado provides creativity.",
+      "Mexico undefeated in their last 24 home matches at the Azteca and have not lost an official home fixture there in 60 years."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.47,
+      "draw": 0.30,
+      "away": 0.23
+    },
+    "predicted_score": "1-0",
+    "confidence": 0.64
+  },
+  "market_probs": {
+    "totals_1.5_over": 0.55,
+    "btts_yes": 0.28,
+    "corners_7.5_over": 0.47
+  },
+  "value_notes": "Market-implied probabilities (overround removed): home 0.448, draw 0.311, away 0.241. My model: home 0.47, draw 0.30, away 0.23. The only meaningful edge is on btts_no: my model gives btts_yes just 0.28 probability vs market-implied ~0.43 (from btts_yes odds 2.25, implied ~0.444), an edge of +0.15 on the no side (odds 1.63, implied 0.61, my model 0.72 — edge of approximately +0.11 on btts_no). This is grounded in Mexico keeping three clean sheets in group stage and Ecuador scoring only 2 goals in 3 games. Totals 1.5 under also shows mild value: market implies ~0.38 for under (1/2.35=0.426), my model puts under 1.5 at 0.45, edge ~+0.024 — below the 0.05 threshold. The h2h home edge (+0.022) is also below threshold. No Polymarket data available.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E",
+    "https://www.foxsports.com/stories/soccer/mexico-sweeps-group-stage-first-time-world-cup-history-i-dreamed-this",
+    "https://www.foxsports.com/stories/soccer/mexico-world-cup-ecuador-round-of-32",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-round-of-32-full-bracket-matchups-schedule-and-how-each-team-qualified-164942403.html",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-ecuador-beats-group-e-winner-germany-to-reach-knockout-round-where-theyll-be-joined-by-first-timer-ivory-coast-221316028.html",
+    "https://www.espn.com/soccer/story/_/id/49196824/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+    "https://www.espn.com/soccer/story/_/id/49179704/ecuador-germany-fifa-world-cup-2026-knockout-stage-group-e",
+    "https://theanalyst.com/articles/world-cup-2026-knockout-stage-predictions-opta-supercomputer",
+    "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/team-news/mexico-vs-ecuador-injury-suspension-list-predicted-xis_600277.html",
+    "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/predicted-lineups/can-el-tri-continue-perfect-run-predicted-mexico-xi-vs-ecuador_600283.html",
+    "https://worldsoccertalk.com/world-cup/why-hirving-lozano-is-missing-the-2026-world-cup-for-mexico/",
+    "https://worldsoccertalk.com/world-cup/why-isnt-edson-alvarez-playing-for-mexico-in-2026-world-cup-opening-game-against-south-africa/",
+    "https://www.goal.com/en/lists/chelsea-s-moises-caicedo-named-new-captain-of-ecuador-enner-valencia-gives-up-armband-during-world-cup-squad-meeting/blt0d2d691ebf6f6b3a",
+    "https://bolavip.com/en/world-cup/why-is-hirving-chucky-lozano-not-playing-at-the-2026-world-cup-with-mexico",
+    "https://khelnow.com/football/world-football-mexico-vs-ecuador-head-to-head-fifa-world-cup-202606",
+    "https://www.tsn.ca/soccer/fifa-world-cup/article/mexico-citys-altitude-poses-a-key-challenge-for-teams-at-the-2026-world-cup/",
+    "https://www.fourfourtwo.com/competition/azteca-atmosphere-and-altitude-things-to-look-out-for-in-2026-world-cups-opening-game-between-mexico-and-south-africa",
+    "https://bolavip.com/en/world-cup/2026-world-cup-group-e-final-standings-after-ecuador-defeat-germany-and-ivory-coast-beat-curacao"
+  ],
+  "generated_at": "2026-06-30T14:22:00Z"
+}
