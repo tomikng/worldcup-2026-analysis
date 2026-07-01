@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-01",
+  "collected_at": "2026-07-01T06:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-079",
+      "h2h": {
+        "home": 1.27,
+        "draw": 5.75,
+        "away": 13.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.00,
+        "under": 1.91
+      },
+      "btts": {
+        "yes": 2.68,
+        "no": 1.45
+      },
+      "sources": [
+        "https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-england-vs-dr-congo-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/england-v-dr-congo-35768296",
+        "https://www.espn.com/soccer/odds/_/gameId/760495",
+        "https://www.fanduel.com/research/england-vs-dr-congo-prediction-picks-preview-lineups-and-best-bets-world-cup-2026",
+        "https://www.oddschecker.com/us/soccer/world-cup/england-v-dr-congo"
+      ]
+    },
+    {
+      "match_id": "wc-080",
+      "h2h": {
+        "home": 2.15,
+        "draw": 3.10,
+        "away": 3.60
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.15,
+        "under": 1.71
+      },
+      "btts": {
+        "yes": 1.80
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/belgium-v-senegal-35768305",
+        "https://www.espn.com/soccer/odds/_/gameId/760493",
+        "https://www.sportytrader.com/en/odds/belgium-senegal-8579681/",
+        "https://www.oddsshark.com/soccer/world-cup/belgium-senegal-odds-july-1-2026-2538447",
+        "https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-belgium-vs-senegal-in-the-2026-fifa-world-cup-round-of-32/"
+      ]
+    },
+    {
+      "match_id": "wc-081",
+      "h2h": {
+        "home": 1.36,
+        "draw": 4.80,
+        "away": 9.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.77,
+        "under": 2.00
+      },
+      "btts": {
+        "yes": 2.25
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/usa-v-bosnia-35759162",
+        "https://www.espn.com/soccer/odds/_/gameId/760494",
+        "https://www.vegasinsider.com/soccer/usa-bosnia-herzegovina-odds-world-cup-2026/",
+        "https://www.oddsshark.com/soccer/world-cup/usa-bosnia-herzegovina-odds-july-1-2026-2537493",
+        "https://www.lineups.com/betting/usa-vs-bosnia-herzegovina-world-cup-match-preview-picks-odds-for-wednesday-july-1-2026/"
+      ]
+    }
+  ]
+}
