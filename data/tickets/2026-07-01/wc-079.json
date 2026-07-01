@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-079",
+  "date": "2026-07-01",
+  "home": "England",
+  "away": "DR Congo",
+  "kickoff_utc": "2026-07-01T16:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Mercedes-Benz Stadium, Atlanta",
+  "analysis": {
+    "summary": "England topped Group L with six goals scored in three games and will enter this Round of 32 fixture as strong favourites against a DR Congo side making their debut knockout-stage appearance. DR Congo qualified as one of the best third-place teams after drawing Portugal 1-1, losing narrowly to Colombia, and beating Uzbekistan 3-1, showing both counter-attack threat and defensive discipline. England's ability to break down deep defensive blocks is the key question — they were held 0-0 by Ghana in the group stage — while DR Congo's pace on the break makes a clean sheet far from guaranteed. The talent gap is substantial but the tactical matchup suits the underdog.",
+    "home_form": "England won Group L with 7 points (W2 D1), beating Croatia 4-2 in their opener, drawing 0-0 with Ghana in a game where they struggled against a low block, then defeating Panama 2-0. Harry Kane scored three times in the group stage; Jude Bellingham and Bukayo Saka (returned from Achilles issue vs Panama) are also key contributors. England have averaged 2.0 goals per game and conceded 2 in 3 matches.",
+    "away_form": "DR Congo finished third in Group K with 4 points (W1 D1 L1): drew 1-1 with Portugal, lost 0-1 to Colombia, then beat Uzbekistan 3-1 to advance. They scored 4 goals and conceded 2 across three games. Yoane Wissa (Brentford) and Cedric Bakambu are the main attacking threats; Chancel Mbemba leads the defence with 107 caps. The Leopards rely on a disciplined low block and lethal counter-attacks, as demonstrated by holding Portugal to a draw.",
+    "h2h": "England and DR Congo have no prior competitive or recorded international meetings — this is the first-ever encounter between the two nations.",
+    "injuries_news": [
+      "England: Reece James (hamstring) ruled out of this match.",
+      "England: Jarell Quansah (twisted ankle, sustained vs Panama) ruled out of this match.",
+      "England: Tino Livramento (calf) was already absent from the squad before the tournament; Trevoh Chalobah called up as replacement.",
+      "England: Djed Spence expected to fill in at right-back.",
+      "DR Congo: Rocky Bushiri (injury) missed the tournament; Aaron Tshibola called up late. No other confirmed injuries reported for this fixture."
+    ],
+    "key_factors": [
+      "England's right-back position is weakened by the absences of James and Quansah — Wissa's pace and DR Congo's counter-attack down that flank is a genuine threat.",
+      "England were held scoreless by Ghana's low block (0-0) in the group stage; DR Congo are likely to deploy an even more disciplined 5-4-1 or 4-5-1 defensive shape.",
+      "DR Congo drew Portugal 1-1 — Portugal are a higher-ranked side than England — demonstrating their defensive capacity at this level.",
+      "Kane, Bellingham and Saka provide elite quality to unlock a packed defence through individual moments and set pieces.",
+      "Atlanta venue: July heat and humidity could favour a lower-tempo match and could slightly help DR Congo's game plan of absorbing pressure.",
+      "Tournament context: England must win in 90 or ET (no draw possible in knockout stage); extra time available if needed adds 30 minutes of fatigue.",
+      "DR Congo are playing at their debut knockout stage with high motivation but relatively little experience of high-pressure elimination football."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.83, "draw": 0.00, "away": 0.17},
+    "predicted_score": "2-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.45,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market-implied probabilities (overround removed, draw zeroed for knockout): England win ~91%, DR Congo win ~9%. My model sits at England 83% / DR Congo 17% — I give DR Congo a meaningful edge on the counter given England's low-block struggles (Ghana 0-0) and right-back injuries exposing space for Wissa; the market may underweight this given raw rankings. No edge flagged on England (market is tighter than my estimate, not wider). On totals, market implies 50% over 2.5 (odds 2.00); my model puts it at 45% — DR Congo's defensive structure makes sub-3-goal games likely, but the edge on under is only ~5%, borderline. On btts: market implies 37.3% (odds 2.68); my model puts BTTS-yes at ~30%, meaning btts_no at ~70% vs market-implied 69% — negligible edge. No selection clears the 0.05 edge threshold cleanly on the goal markets. The only potential value identification: DR Congo to advance at 13.00 (implied 7.4%) vs my 17% estimate gives an edge of ~0.096, which exceeds the 0.05 threshold — ticket-builder should consider DR Congo h2h away at 13.00.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+    "https://www.espn.co.uk/football/story/_/id/49204379/world-cup-2026-today-blog-28-06-2026-live-updates-news-fixtures-schedule-results-england-top-group-congo-dr",
+    "https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-colombia-wins-group-k-thanks-to-portugal-draw-as-dr-congo-also-advances-015100806.html",
+    "https://www.espn.com/espn/story/_/id/49202106/2026-fifa-world-cup-recap-portugal-colombia-argentina-jordan-england-panama-croatia-ghana-uzbekistan-congo-dr-algeria-austria",
+    "https://www.skysports.com/football/news/12098/13559299/england-2026-world-cup-news-reece-james-and-jarell-quansah-to-miss-last-32-clash-vs-dr-congo-with-injury",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/england-vs-dr-congo-injury-suspension-list-predicted-xis_600341.html",
+    "https://www.rotowire.com/soccer/article/england-vs-dr-congo-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120375",
+    "https://theanalyst.com/articles/england-vs-dr-congo-prediction-world-cup-2026-match-preview",
+    "https://worldcuppass.com/group-k-world-cup-2026/",
+    "https://tips.gg/article/england-vs-d-r-congo-head-to-head-record-stats-form-updated-june-2026/"
+  ],
+  "generated_at": "2026-07-01T07:00:00Z"
+}
