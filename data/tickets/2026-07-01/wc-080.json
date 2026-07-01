@@ -1,0 +1,54 @@
+{
+  "match_id": "wc-080",
+  "date": "2026-07-01",
+  "home": "Belgium",
+  "away": "Senegal",
+  "kickoff_utc": "2026-07-01T20:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Lumen Field, Seattle",
+  "analysis": {
+    "summary": "Belgium enter the Round of 32 as Group G winners (5 pts, GD +4: 1-1 vs Egypt, 0-0 vs Iran, 5-1 vs New Zealand) while Senegal qualified as one of the best third-placed sides despite conceding 6 goals in 3 group games (1-3 France, 2-3 Norway, 5-0 Iraq). Belgium have clear quality superiority with De Bruyne, Lukaku and Trossard available, but Senegal possess dangerous forwards in Mane, Sarr and Jackson and have shown they can score prolifically. This is a first-ever competitive meeting between the two nations, removing any head-to-head reference point.",
+    "home_form": "Belgium topped Group G with 5 points and a +4 goal difference. After back-to-back draws (1-1 Egypt, 0-0 Iran), they exploded with a 5-1 victory over New Zealand, with Trossard (2), De Bruyne, Lukaku and Saelemaekers all on the scoresheet. The Golden Generation veterans De Bruyne and Lukaku are fit and available; Zeno Debast is the only confirmed absentee (leg injury). Predicted XI: Courtois; Castagne, Ngoy, Mechele, De Cuyper; Vanaken, Tielemans; Doku, De Bruyne, Trossard; De Ketelaere.",
+    "away_form": "Senegal advanced as a third-placed team with 3 points (W1 D0 L2, GF 8, GA 6). They were beaten 3-1 by France and 3-2 by Norway before a convincing 5-0 win over Iraq — the first time an African side had scored five in a single World Cup game. Sadio Mane is fit and available. First-choice goalkeeper Edouard Mendy sustained a knee injury vs Norway and missed the Iraq game; he has returned to the Senegal camp after an assessment in Jeddah and could be fit to start, though remains uncertain. Backup Mory Diaw played the Iraq match. Predicted XI: Mendy (or Diaw); Diatta, Seck, Niakhate, Jakobs; I.Gueye, P.Gueye, Camara; Sarr, Jackson, Mane.",
+    "h2h": "Belgium and Senegal have no recorded competitive head-to-head meetings in international football. This World Cup Round of 32 fixture on 1 July 2026 is a historic first meeting between the two nations.",
+    "injuries_news": [
+      "Belgium - Zeno Debast (leg): confirmed absentee for the Round of 32; squad otherwise fully available.",
+      "Senegal - Edouard Mendy (knee): missed the Iraq match, returned to camp after medical assessment in Saudi Arabia; fitness for Belgium match uncertain. Mory Diaw is backup.",
+      "Senegal - Sadio Mane: fit and confirmed to start."
+    ],
+    "key_factors": [
+      "Belgium's attacking depth (De Bruyne, Lukaku, Trossard, Doku) gives them a clear edge over Senegal's defence that shipped 6 goals in the group stage.",
+      "Mendy's fitness is the single biggest variable: if the first-choice goalkeeper is not at full fitness, Senegal's already-tested back line is more exposed.",
+      "Senegal have their own firepower — Mane, Sarr and Nicholas Jackson pose a real threat on the counter, as they proved with 8 group stage goals.",
+      "Lumen Field sits at near sea level in Seattle; mild July conditions (avg highs ~24C) pose no altitude or heat disadvantage to either side.",
+      "Both teams had the same rest period (last played June 26, five days before this match).",
+      "This is a knockout match — a winner must emerge through 90 minutes, extra time, or a penalty shootout if necessary."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.62, "draw": 0.00, "away": 0.38},
+    "predicted_score": "2-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.50,
+    "btts_yes": 0.52
+  },
+  "value_notes": "Market h2h odds (Belgium 2.15, Draw 3.10, Senegal 3.60) imply 90-min probabilities of Belgium 43.7%, Draw 30.3%, Senegal 26.1% (after overround removal). Redistributed for the knockout format (no draw), market implies Belgium 62.6% and Senegal 37.4%. My model lands at Belgium 62% / Senegal 38% — essentially aligned with the market and with the Opta supercomputer estimate (45.6% Belgium 90-min win, 27% Senegal, ~27% draw). No h2h selection clears the 0.05 edge threshold. On totals 2.5 over, market implies 46.5% (1/2.15); my model estimates 50% — edge of ~0.035, below the 0.05 threshold. On BTTS yes, market implies 55.6% (1/1.80); my model estimates 52% — my estimate is BELOW market, so no value on BTTS yes. No market selections with edge ≥ 0.05 identified; the market is efficiently priced for this fixture.",
+  "sources": [
+    "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+    "https://www.espn.com/soccer/match/_/gameId/760474/iraq-senegal",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491",
+    "https://theanalyst.com/articles/belgium-vs-senegal-prediction-world-cup-2026-match-preview",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/preview/belgium-vs-senegal-prediction-team-news-lineups_600358.html",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/predicted-lineups/is-debast-back-for-the-knockouts-predicted-belgium-xi-vs-senegal_600367.html",
+    "https://worldsoccertalk.com/world-cup/is-sadio-mane-playing-senegal-vs-iraq-projected-lineups-for-the-2026-world-cup-group-i-game/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/de-bruyne-and-lukaku-named-in-belgium-world-cup-squad-despite-injuries-2026-05-15",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/belgium-v-senegal-35768305",
+    "https://www.oddsshark.com/soccer/world-cup/belgium-senegal-odds-july-1-2026-2538447"
+  ],
+  "generated_at": "2026-07-01T07:00:00Z"
+}
