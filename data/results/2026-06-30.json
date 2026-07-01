@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-30",
+  "source": "web-research",
+  "fetched_at": "2026-07-01T00:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-076",
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "home_goals": 1,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021514",
+        "https://www.espn.com/soccer/match/_/gameId/760490/norway-ivory-coast",
+        "https://www.tsn.ca/soccer/fifa-world-cup/article/haaland-nets-game-winner-as-norway-wins-a-world-cup-knockout-game-for-first-time-beating-cote-divoire/"
+      ]
+    },
+    {
+      "match_id": "wc-077",
+      "home": "France",
+      "away": "Sweden",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
+        "https://www.espn.com/soccer/match/_/gameId/760492/sweden-france",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-france-vs-sweden-jun-30-2026-game-boxscore-607907"
+      ]
+    },
+    {
+      "match_id": "wc-078",
+      "home": "Mexico",
+      "away": "Ecuador",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": 4,
+      "home_reds": 0,
+      "away_reds": 1,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760491/ecuador-mexico",
+        "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html",
+        "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-mexico-vs-ecuador-jun-30-2026-game-boxscore-607909"
+      ]
+    }
+  ]
+}

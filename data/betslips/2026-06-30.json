@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.94,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 29.1,
+      "settled_at": "2026-07-01T07:04:31Z",
       "rationale": "Strong model edge on Norway DNB: Haaland rested and primed, Ivory Coast's attack modest (3 group goals), climate-controlled dome removes the one potential equaliser of Texas heat."
     },
     {
@@ -34,15 +34,15 @@
           "selection": "no",
           "line": null,
           "odds": 2.25,
-          "model_prob": 0.50,
+          "model_prob": 0.5,
           "edge": 0.056,
           "rationale": "Market prices btts Yes at 1.67 (implied 59.9%) but the model puts both-teams-scoring at only 50%, reflecting Norway's rotated-squad-induced 'clean sheet drought' stat versus an Ivory Coast attack that managed just 3 goals in the group stage, two of which came against weakest opposition Curacao."
         }
       ],
       "combined_odds": 2.25,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-01T07:04:31Z",
       "rationale": "Market overestimates Ivory Coast's ability to score against a full-strength Norway backline; btts No at 2.25 offers a marginal but real edge."
     },
     {
@@ -55,16 +55,16 @@
           "market": "h2h",
           "selection": "draw",
           "line": null,
-          "odds": 5.90,
+          "odds": 5.9,
           "model_prob": 0.22,
           "edge": 0.051,
           "rationale": "Market's normalised draw probability is only 16.1% but knockout compression and Sweden's genuine threat via Gyokeres and Isak — proven Premier League scorers who hurt Tunisia together — means 22% feels right and the 5.90 price offers a slender but valid edge."
         }
       ],
-      "combined_odds": 5.90,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 5.9,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-01T07:04:31Z",
       "rationale": "Draw at 5.90 compensates for single-elimination conservatism; Sweden's attack is credible enough to deny France a winner in 90 minutes at a rate the market underprices."
     },
     {
@@ -84,9 +84,9 @@
         }
       ],
       "combined_odds": 1.63,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 16.3,
+      "settled_at": "2026-07-01T07:04:31Z",
       "rationale": "Mexico's defensive impermeability (0 goals conceded in group stage) and Ecuador's misfiring attack (2 goals in 3 games) combine to make btts No a high-conviction bet at a price that underestimates Mexico's backline quality."
     }
   ]
