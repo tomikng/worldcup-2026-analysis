@@ -1,0 +1,59 @@
+{
+  "match_id": "wc-081",
+  "date": "2026-07-01",
+  "home": "United States",
+  "away": "Bosnia and Herzegovina",
+  "kickoff_utc": "2026-07-02T00:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Levi's Stadium, San Jose",
+  "analysis": {
+    "summary": "The United States, Group D winners with 8 goals scored in three games, host Bosnia and Herzegovina at their near-home Levi's Stadium in the first knockout round. Bosnia qualified as one of the best third-placed teams (W1-D1-L1, 5 goals scored, 6 conceded) and are heavy underdogs, but carry a genuine forward threat through Edin Dzeko and Ermedin Demirovic. USA's main XI is defensively solid and well-organised under Pochettino; their 3-2 loss to Turkey was played with nine rotated starters after Group D was already secured and is not indicative of first-choice quality. This is an elimination match played in front of a vocal home crowd, strongly favouring the hosts.",
+    "home_form": "USA topped Group D: beat Paraguay 4-1 (Jun 12, Balogun brace, Pulisic and McKennie instrumental), beat Australia 2-0 (Jun 19), then rotated against Turkey losing 3-2 (Jun 25) with nine starters changed. Across their competitive starting XI, the team averaged over 3 goals per 90 minutes and conceded sparingly. Christian Pulisic, Folarin Balogun and Weston McKennie are the attacking spine; Tyler Adams and Tillman anchor midfield. Full-strength lineup expected: Freese; Freeman, Ream, Richards, Robinson; Adams, Tillman; Dest, McKennie, Pulisic; Balogun.",
+    "away_form": "Bosnia and Herzegovina posted W1-D1-L1 in Group B: drew Canada 1-1 (Jun 12), lost 4-1 to Switzerland (Jun 18) exposing defensive frailty, and beat Qatar 3-1 (Jun 24) to secure progression as a best third-placed team. Edin Dzeko (40, out of retirement) captains and leads the line alongside Stuttgart striker Ermedin Demirovic and teenager Kerim Alajbegovic. Defence was exposed badly by Switzerland's pressing. Centre-back Tarik Muharemovic returns from suspension, which is a significant boost to their backline.",
+    "h2h": "USA lead the all-time head-to-head 2-0-1 in three previous friendlies: USA won 4-3 in Sarajevo (August 2013, Altidore hat-trick), drew 0-0 in Carson (January 2018), and USA won 1-0 in Santa Clara (December 2021). The teams have never met in a competitive fixture before this match.",
+    "injuries_news": [
+      "USA: no confirmed injury or suspension concerns heading into the match; first-choice XI expected to be available.",
+      "Bosnia and Herzegovina: centre-back Tarik Muharemovic returns from suspension (key boost to backline); no other confirmed injuries reported.",
+      "Edin Dzeko (Bosnia, 40 years old) started all three group games but his influence waned against Switzerland's high press — fitness is unconfirmed for a full 90 minutes at knockout pace.",
+      "USA fielded 9 rotated starters vs Turkey (3-2 loss); first-choice defensive unit of Ream, Richards, Robinson has conceded only 1 goal together."
+    ],
+    "key_factors": [
+      "Home crowd advantage: Levi's Stadium in the San Francisco Bay Area is effectively USA's backyard, providing a major psychological and atmospheric edge.",
+      "Quality gap at key positions: USA's midfield (Adams, Tillman, McKennie) and attack (Pulisic, Balogun) are considerably higher-profile than Bosnia's equivalents.",
+      "Bosnia's defensive vulnerability: a 4-1 thrashing by Switzerland revealed fragility under pressure; the Swiss press blueprint is exactly what USA's forward unit will replicate.",
+      "Bosnia's counter-threat is real: Demirovic and Alajbegovic have pace and can get in behind, and USA's full-backs (Freeman in particular) push high — Bosnia can create on the break.",
+      "Dzeko factor: the 40-year-old captain provides experience and aerial presence but is unlikely to carry Bosnia for 90+ minutes in a knockout game at this intensity.",
+      "Knockout context: USA last won a World Cup knockout game in 2002; this is a must-win for national momentum and Pochettino's squad will be fully focused.",
+      "USA's Turkey loss context: irrelevant to this game — nine starters rotated when group was already decided; the main XI is the strongest it will be.",
+      "No Polymarket data available for this match; analysis relies on bookmaker odds."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.78, "draw": 0.00, "away": 0.22},
+    "predicted_score": "2-1",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.58,
+    "btts_yes": 0.45
+  },
+  "value_notes": "Market-implied probabilities (normalised from provided h2h odds, overround ~5.5%): home 0.699, draw 0.197, away 0.105. Per CLAUDE.md, draw is set to 0.00 in knockout stages and probabilities reflect 90-min+ET outcome. Redistributing the market draw probability proportionally to home/away using a 60/40 ET split (USA slight home edge): market-implied knockout win = USA ~0.817, Bosnia ~0.183. My model assigns USA 0.78 (vs market-implied ~0.82), so the market is slightly more bullish on USA than my model — no edge on USA home win. Bosnia win: my model 0.22 vs market-implied ~0.18, a +0.04 gap — below the 0.05 threshold for a flagged edge. Totals 2.5 over: market-implied ~0.530 (normalised from 1.77 odds, ~6% overround), my model 0.58 — edge of +0.05, minimal but at threshold. BTTS yes: market-implied ~0.44 (1/2.25), my model 0.45 — no meaningful edge. No selection clears the ≥0.05 edge threshold convincingly except possibly totals over 2.5 (edge ~0.05 at threshold boundary). No Polymarket data available.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.ussoccer.com/stories/2026/06/usmnt/match-preview-vs-bosnia-herzegovina-san-francisco-bay-california-fifa-world-cup",
+    "https://www.ussoccer.com/stories/2026/06/usmnt/vs-bosnia-herzegovina-round-of-32-knockout-stage-world-cup",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-switzerland-claims-group-b-over-canada-bosnia-and-herzegovina-moves-top-among-third-place-teams-205847839.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B",
+    "https://www.foxsports.com/stories/soccer/usmnt-world-cup-paraguay-history-pulisic-balogun-mckennie",
+    "https://www.foxsports.com/stories/soccer/usa-bosnia-herzegovina-world-cup-round-32-knockout",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/turkiye-usa-match-report-highlights",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-bosnia-and-herzegovina-emerges-as-usmnts-likeliest-round-of-32-opponent-after-eliminating-qatar-205943100.html",
+    "https://khelnow.com/football/world-football-usa-vs-bosnia-and-herzegovina-head-to-head-fifa-world-cup-202606",
+    "https://www.rotowire.com/soccer/article/usa-vs-bosnia-and-herzegovina-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120374",
+    "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-time-2026-world-cup-round-of-32-picks/",
+    "https://www.fourfourtwo.com/team/bosnia-world-cup-2026-squad",
+    "https://sports.betmgm.com/en/blog/world-cup/usa-vs-bosnia-head-to-head-meetings-bm16/"
+  ],
+  "generated_at": "2026-07-01T07:00:00Z"
+}
