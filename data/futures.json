@@ -9,8 +9,8 @@
       "stake": 10.0,
       "url": "https://polymarket.com/event/world-cup-group-a-winner",
       "opened": "2026-06-11",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-06-25T23:59:00Z",
       "rationale": "Mexico play all group games at altitude at home, are unbeaten in 8 (including a 5-1 rout of Serbia), and face a qualitatively weaker Group A; model probability ~0.65 vs market 0.565 yields a +0.085 edge."
     },
     {
@@ -21,8 +21,8 @@
       "stake": 10.0,
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
       "opened": "2026-06-11",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-07-01T18:00:00Z",
       "rationale": "England top Group L favorites (0.685 to win the group) alongside only Croatia as a credible rival; model probability of a top-2 finish ~0.87 vs market 0.735 yields a +0.135 edge."
     },
     {
@@ -33,8 +33,8 @@
       "stake": 15.0,
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
       "opened": "2026-06-11",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-07-01T03:15:00Z",
       "rationale": "Mexico's R16 probability (top-2 of 4 in Group A) is logically bounded below by their 0.565 group-win price; model estimates ~0.82 for top-2 finish against South Korea, Czechia, and South Africa, giving a +0.285 edge vs the 0.535 market price."
     },
     {
@@ -57,8 +57,8 @@
       "stake": 5.0,
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
       "opened": "2026-06-11",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-06-30T19:15:00Z",
       "rationale": "Norway at 0.255 to win Group I and Senegal and Iraq as the only other challengers behind France gives Norway a ~0.60 probability of a top-2 finish, against a market price of 0.54 for a +0.06 edge."
     },
     {
@@ -69,8 +69,8 @@
       "stake": 15.0,
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
       "opened": "2026-06-15",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-07-01T22:30:00Z",
       "rationale": "Belgium are the clear quality leader in Group G (FIFA 9th) vs Egypt, Iran, and New Zealand; even with De Bruyne returning from injury and Lukaku match-unfit, a top-2 finish from this quartet is ~86% likely, yielding a +0.235 edge over the 0.625 market price."
     },
     {
@@ -93,8 +93,8 @@
       "stake": 15.0,
       "url": "https://polymarket.com/event/world-cup-group-e-winner",
       "opened": "2026-06-21",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-06-25T23:59:00Z",
       "rationale": "Germany has clinched Group E with 6pts and +7 GD after two wins (7-1 vs Curacao, 2-1 vs Ivory Coast); Ivory Coast cannot overcome Germany's goal-difference advantage in R3, making Germany's group-win probability ~97% vs the market price of 0.75, yielding a +0.22 edge."
     },
     {

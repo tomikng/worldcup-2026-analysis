@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-02",
+  "collected_at": "2026-07-02T10:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-082",
+      "h2h": {
+        "home": 1.33,
+        "draw": 5.25,
+        "away": 10.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.91,
+        "under": 1.90
+      },
+      "btts": {
+        "yes": 2.28,
+        "no": 1.61
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760497",
+        "https://www.fanduel.com/research/spain-vs-austria-prediction-picks-lineups-and-best-bets-today-world-cup-2026-round-of-32",
+        "https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-spain-vs-austria-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://www.covers.com/world-cup/spain-vs-austria-prediction-picks-odds-thursday-7-2-2026"
+      ]
+    },
+    {
+      "match_id": "wc-083",
+      "h2h": {
+        "home": 1.77,
+        "draw": 3.60,
+        "away": 5.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.09,
+        "under": 1.75
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760496",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/portugal-v-croatia-35768297",
+        "https://heavy.com/sports/soccer/world-cup/portugal-croatia-round-32-betting-odds/",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-portugal-vs-croatia-jul-02-2026-game-boxscore-607914",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/portugal-vs-croatia-odds-prediction-070226-217148"
+      ]
+    },
+    {
+      "match_id": "wc-084",
+      "h2h": {
+        "home": 2.02,
+        "draw": 3.10,
+        "away": 3.94
+      },
+      "dnb": {
+        "home": 1.48,
+        "away": 3.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.18,
+        "under": 1.72
+      },
+      "btts": {
+        "yes": 1.80,
+        "no": 1.96
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760498",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/switzerland-v-algeria-35768366",
+        "https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-switzerland-vs-algeria-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://www.compare.bet/news/switzerland-vs-algeria-betting-preview-predictions-tips-and-live-odds"
+      ]
+    }
+  ]
+}

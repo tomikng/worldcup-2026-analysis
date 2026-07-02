@@ -11,16 +11,16 @@
           "market": "h2h",
           "selection": "away",
           "line": null,
-          "odds": 13.00,
+          "odds": 13.0,
           "model_prob": 0.17,
           "edge": 0.093,
           "rationale": "Market prices DR Congo's knockout win at 7.7% implied probability, but model assigns 17% given England's right-back injuries, their 0-0 struggle against Ghana's low block, and DR Congo's counter-attack threat through Wissa."
         }
       ],
-      "combined_odds": 13.00,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 13.0,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-02T07:46:39Z",
       "rationale": "DR Congo at 13.00 offers genuine value against a market overconfident in England; the 9.3% edge reflects England's proven vulnerability to defensive blocks and exposed right flank."
     }
   ]

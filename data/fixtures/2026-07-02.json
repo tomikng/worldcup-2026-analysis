@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-02",
+  "source": "web-research",
+  "fetched_at": "2026-07-02T07:06:15Z",
+  "matches": [
+    {
+      "match_id": "wc-082",
+      "kickoff_utc": "2026-07-02T19:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Spain",
+      "away": "Austria",
+      "venue": "SoFi Stadium, Inglewood"
+    },
+    {
+      "match_id": "wc-083",
+      "kickoff_utc": "2026-07-02T23:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Portugal",
+      "away": "Croatia",
+      "venue": "BMO Field, Toronto"
+    },
+    {
+      "match_id": "wc-084",
+      "kickoff_utc": "2026-07-03T03:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Switzerland",
+      "away": "Algeria",
+      "venue": "BC Place, Vancouver"
+    }
+  ]
+}

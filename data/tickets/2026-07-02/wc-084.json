@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-084",
+  "date": "2026-07-02",
+  "home": "Switzerland",
+  "away": "Algeria",
+  "kickoff_utc": "2026-07-03T03:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "BC Place, Vancouver",
+  "analysis": {
+    "summary": "Switzerland, Group B winners with seven points and only three goals conceded, face Algeria at BC Place — the same stadium where Switzerland beat Canada 2-1 eight days ago. Algeria qualified as a third-place team from Group J with four points, and arrive without Ismael Bennacer (absent from the entire squad due to injury) and without Mohamed Amoura (hamstring, out for approximately 15 days from ~June 19, ruling him out of this fixture). Switzerland's defensive organisation under Murat Yakin, superior rest advantage (8 days vs Algeria's 5), zero travel disruption, and a compromised Algerian attack all point firmly to a Swiss victory, though Riyad Mahrez retains the capacity to create danger in transition.",
+    "home_form": "Switzerland topped Group B unbeaten: drew 1-1 vs Qatar (June 12), won 4-1 vs Bosnia and Herzegovina (June 18), won 2-1 vs Canada (June 24, at BC Place). Seven goals scored, three conceded across three matches. The squad is cohesive under Yakin with Granit Xhaka anchoring midfield in his fourth consecutive World Cup. Johan Manzambi (brace vs Bosnia) and Ruben Vargas provided attacking depth beyond Breel Embolo.",
+    "away_form": "Algeria reached the Round of 32 as a third-place qualifier after a turbulent Group J campaign: lost 0-3 to Argentina (June 16), beat Jordan 2-1 (June 22), drew 3-3 with Austria (June 27). Five goals scored, seven conceded — the worst defensive record of any Round of 32 team per group stage data. Riyad Mahrez scored twice in the dramatic 3-3 draw with Austria (60', 90+3') to secure qualification. The team plays with counter-attacking flair but is prone to conceding in large batches (three conceded vs Argentina, three vs Austria).",
+    "h2h": "Switzerland and Algeria have met only twice, both in friendlies during the 1980s. Switzerland won 2-1 (November 1983) and 2-0 (May 1986). The World Cup Round of 32 is their first competitive meeting; the historical sample is too small to draw tactical conclusions beyond noting Switzerland's perfect record against Algeria.",
+    "injuries_news": [
+      "Algeria: Ismael Bennacer absent from the entire 2026 World Cup squad — knee/fitness issues meant he was not named in head coach Vladimir Petkovic's final 26 despite being Algeria's best central midfielder.",
+      "Algeria: Mohamed El Amine Amoura (hamstring injury sustained in training before the Jordan group match, ~June 19) ruled out for approximately 15 days; effectively unavailable for this Round of 32 fixture. Could potentially return for a Round of 16 if Algeria progress.",
+      "Switzerland: Minor doubts over right-back Silvan Widmer and left-back Miro Muheim, but no confirmed absences from the core XI. Predicted lineup largely unchanged from the Canada win."
+    ],
+    "key_factors": [
+      "Switzerland has 8 days rest (last match June 24) vs Algeria's 5 days (last match June 27).",
+      "Switzerland played their final group game at BC Place and face no travel; Algeria travelled to Vancouver from their Group J base.",
+      "Algeria are without both their key central midfielder (Bennacer, absent from squad) and a key forward (Amoura, injured), significantly limiting their attacking build-up.",
+      "Referee Yael Falcon Perez (Argentina) is among the most card-happy at this World Cup, averaging 5.35 yellow cards per game across his career — elevated card risk for both sides in a contested knockout tie.",
+      "Algeria's defensive record (7 conceded in 3 group games) is a structural weakness against a Switzerland side that scored 7 goals in the group stage.",
+      "This is a ROUND_OF_32 knockout fixture; draw probability is 0.00 (result determined after extra time if necessary)."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.62,
+      "draw": 0.00,
+      "away": 0.38
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.63
+  },
+  "market_probs": {
+    "btts_yes": 0.40,
+    "totals_2.5_over": 0.42
+  },
+  "value_notes": "Market h2h odds (home 2.02, draw 3.10, away 3.94) appear to be priced on a 90-minute 3-way basis (draw option present), while our knockout probs settle after extra time (draw = 0.00). On a 90-minute basis the market implies Switzerland win at 0.462 (normalized); our 90-min Swiss win estimate is ~0.47, giving an edge of roughly +0.008 — well below the 0.05 threshold. No actionable edge on h2h. BTTS is the clearest value signal: our model gives btts_yes = 0.40 (btts_no = 0.60), while market-implied btts_yes is 0.521 (normalized from yes=1.80, no=1.96 with 6.6% overround). Edge on btts_no = 0.60 − (1/1.96) = 0.60 − 0.510 = 0.090, which exceeds the ≥0.05 threshold. The market appears to overstate Algeria's scoring probability given Amoura's absence, Bennacer's absence from the squad, and Switzerland's group-stage defensive record (3 conceded in 3 games). Totals under 2.5: model gives 0.58 vs market-implied 0.581 (1/1.72) — negligible edge, below threshold.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+    "https://www.espn.com/soccer/story/_/id/49223711/fifa-world-cup-2026-switzerland-vs-algeria-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+    "https://www.sportsmole.co.uk/football/algeria/world-cup-2026/predicted-lineups/forward-dilemma-predicted-algeria-xi-vs-switzerland_600427.html",
+    "https://www.sportsmole.co.uk/football/switzerland/world-cup-2026/preview/switzerland-vs-algeria-prediction-team-news-lineups_600371.html",
+    "https://dailysports.net/news/algeria-announce-2026-world-cup-squad-as-riyad-mahrez-returns-and-ismael-bennacer-misses-out/",
+    "https://khelnow.com/football/football-players-left-out-algerias-fifa-world-cup-final-squad-202606",
+    "https://www.statshub.com/referee/falcon-perez-yael/787023",
+    "https://www.sportsmole.co.uk/football/switzerland/world-cup-2026/head-to-head/switzerland-vs-algeria-head-to-head-record-and-past-meetings_600441.html",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-algeria-live-stream-team-news-tickets-and-more",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/how-and-where-to-watch-switzerland-vs-algeria-in-the-round-of-32-of-the-2026-fifa-world-cup-2026-07-02"
+  ],
+  "generated_at": "2026-07-02T10:30:00Z"
+}

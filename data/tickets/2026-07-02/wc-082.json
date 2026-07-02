@@ -1,0 +1,73 @@
+{
+  "match_id": "wc-082",
+  "date": "2026-07-02",
+  "home": "Spain",
+  "away": "Austria",
+  "kickoff_utc": "2026-07-02T19:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "SoFi Stadium, Inglewood",
+  "analysis": {
+    "summary": "Spain, the reigning European champions and one of the tournament co-favorites, enter this Round of 32 clash as heavy favorites after topping Group H without conceding a single goal across three matches. Austria, guided by Ralf Rangnick's high-intensity pressing system, qualified from Group J in second place despite a rocky campaign that included a 0-2 defeat to Argentina. The talent gap is significant, but Austria's willingness to press aggressively and score in all three group games gives them a slim path if Spain's attack — already weakened by the confirmed absences of Nico Williams and Yeremy Pino — misfires.",
+    "home_form": "Spain drew 0-0 with Cape Verde (wc-012), beat Saudi Arabia 4-0 (wc-036), and beat Uruguay 1-0 (wc-063) to top Group H with 7 points. Their defense has not conceded in 430 minutes of World Cup football. In possession Spain averaged approximately 74% against Cape Verde and 65% against Uruguay, accumulating around 11 corners per game. Key attackers Lamine Yamal and Mikel Oyarzabal are available; Rodri, Pedri, Fabian Ruiz and Merino anchor the midfield.",
+    "away_form": "Austria beat Jordan 3-1 (wc-019), lost 0-2 to Argentina (wc-040), and drew 3-3 with Algeria (wc-071) to finish second in Group J on 4 points. They scored in all three group games but also conceded in all three, highlighting an attacking threat alongside defensive vulnerability. Rangnick's 4-2-3-1 with aggressive pressing was effective against lesser opposition but was nullified by Argentina.",
+    "h2h": "Spain lead the all-time head-to-head record with 10 wins from 16 meetings (Austria 4 wins, 2 draws). Spain are unbeaten in the last five encounters (4W 1D). Spain's most emphatic win was a 9-0 in a Euro 2000 qualifier in 1999; the last meeting, an international friendly in 2009, ended 5-1 to Spain. Austria's only victory over Spain in a World Cup came at the 1978 tournament (2-1).",
+    "injuries_news": [
+      "Nico Williams (adductor, right) — confirmed out for this match after limping off vs Uruguay; will remain in squad for potential later rounds.",
+      "Yeremy Pino (acromioclavicular sprain, shoulder) — confirmed out for this match; no fracture but unable to participate.",
+      "Victor Munoz (thigh) — doubtful; likely to miss the match.",
+      "Austria: David Alaba (minor knee discomfort) — expected to start after precautionary substitution vs Algeria; Rangnick downplayed severity.",
+      "Austria: Marko Arnautovic (minor knee knock) — expected to start; scored vs Algeria, came off as precaution only.",
+      "No confirmed suspensions for either side heading into this match."
+    ],
+    "key_factors": [
+      "Spain's defensive solidity (zero goals conceded in group stage) presents the biggest obstacle for Austria, who failed to score against Argentina.",
+      "Austria's Rangnick high-press may paradoxically suit Spain — de la Fuente's side is built to play through pressure with technical midfielders, creating space in behind for Yamal and Baena.",
+      "The absences of Nico Williams and Yeremy Pino reduce Spain's directness on the flanks; Alex Baena and Lamine Yamal are expected to carry the width.",
+      "Austria accumulated 4 yellow cards in 3 group games (Xaver Schlager led Group J in fouls); aggressive pressing against Spain's skilful ball-carriers could produce more bookings.",
+      "Spain averaged approximately 11 corners per group game (34 total) versus Austria's significantly lower output; Spain's territorial dominance in this fixture should push the corner count high.",
+      "SoFi Stadium in Inglewood (Los Angeles) is a neutral venue effectively; the indoor/retractable-roof configuration removes weather as a variable. No altitude or heat concerns compared to some other WC venues.",
+      "Spain had 4 days' rest after their June 26 final group game; Austria similarly had 4-5 days, so rest differential is negligible."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.76,
+      "draw": 0.00,
+      "away": 0.24
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "totals_2.5_under": 0.62,
+    "btts_yes": 0.28,
+    "btts_no": 0.72
+  },
+  "value_notes": "Market-implied probabilities (3-way, overround removed): Spain 72.1%, draw 18.3%, Austria 9.6%. Converting to knockout-stage 2-way by redistributing draw 50/50 gives Spain ~81.3% and Austria ~18.7%. My model places Spain at 76% and Austria at 24%, reflecting modest uncertainty from the Williams/Pino absences that the market may underweight slightly; however, the edge on the h2h market does not reach the 0.05 threshold either way. The clearest value is on BTTS No (market implied ~58.6%, model 72%): edge +0.099 — Spain has conceded zero in the tournament and Austria went scoreless against Argentina; the market appears to be over-indexing on Austria's scoring record against weaker Group J opponents. Totals Under 2.5 (market implied ~50.1%, model 62%): edge +0.094 — Spain's tight defensive structure and only moderate finishing efficiency (5 goals in 3 games, with 4 coming in one blowout) supports under, and Austria's best attacking performances came against Jordan and Algeria. Both BTTS No and Totals Under 2.5 carry model edges above 0.05.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://www.nbcmiami.com/world-cup/spain-wins-its-world-cup-group-beating-uruguay-1-0/3826411/",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d159556fdf-60d8385f463f-1000--spain-at-the-world-cup-2026-squad-fixtures-group-and-history/",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d159406296-f54718194327-1000--austria-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/spain-vs-austria-injury-suspension-lists-predicted-xis_600400.html",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-austria-prediction-team-news-lineups_600390.html",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/predicted-lineups/will-alaba-arnautovic-be-fit-predicted-austria-xi-vs-spain_600398.html",
+    "https://www.espn.com/soccer/story/_/id/49200729/spain-nico-williams-injury-yeremy-pino-2026-world-cup",
+    "https://worldsoccertalk.com/world-cup/nico-williams-and-yeremy-pino-could-return-for-spain-in-the-2026-world-cup-knockout-stage-despite-injuries/",
+    "https://www.espn.com/soccer/story/_/id/49193963/spain-2026-world-cup-injury-yeremy-pino-nico-williams",
+    "https://onefootball.com/en/news/good-news-for-spain-pino-and-nico-will-stay-at-the-world-cup-43066309",
+    "https://worldsoccertalk.com/world-cup/why-alvaro-morata-is-missing-the-2026-world-cup-for-spain/",
+    "https://www.khelnow.com/football/spain-vs-austria-head-to-head-fifa-world-cup-2026",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/head-to-head/spain-vs-austria-head-to-head-record-and-past-meetings_600401.html",
+    "https://theanalyst.com/articles/world-cup-2026-knockout-stage-predictions-opta-supercomputer",
+    "https://theanalyst.com/articles/spain-vs-austria-prediction-world-cup-2026-match-preview",
+    "https://www.covers.com/world-cup/spain-vs-austria-prediction-picks-odds-thursday-7-2-2026",
+    "https://tips.gg/article/spain-vs-austria-head-to-head-wc2026/",
+    "https://www.tbsnews.net/sports/world-cup-2026-group-stage-lights-goals-spain-mexico-set-defensive-benchmark-1474541",
+    "https://www.squawka.com/en/news/world-cup/stat-leaders-world-cup-2026-corners/"
+  ],
+  "generated_at": "2026-07-02T14:30:00Z"
+}

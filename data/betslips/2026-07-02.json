@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-02",
+  "slips": [
+    {
+      "slip_id": "2026-07-02-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-082",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.61,
+          "model_prob": 0.72,
+          "edge": 0.099,
+          "rationale": "Spain have not conceded in the tournament and Austria failed to score against Argentina; the market at 1.61 overestimates Algeria's scoring probability against Spain's watertight defence."
+        }
+      ],
+      "combined_odds": 1.61,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Model assigns 72% to BTTS No versus a book-implied 62%, a 9.9pp edge driven by Spain's clean-sheet record and Austria's blank against Argentina."
+    },
+    {
+      "slip_id": "2026-07-02-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-082",
+          "market": "totals",
+          "selection": "under",
+          "line": 2.5,
+          "odds": 1.90,
+          "model_prob": 0.62,
+          "edge": 0.094,
+          "rationale": "Spain's defensive solidity (zero conceded in group stage) and only moderate finishing efficiency (5 goals across three games, with 4 in one blowout) point to a low-scoring knockout encounter against Austria."
+        }
+      ],
+      "combined_odds": 1.90,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Model places 62% on Under 2.5 versus book-implied 53%, a 9.4pp edge; Spain's disciplined shape and Austria's scoring reliance on weaker Group J opposition support the under."
+    },
+    {
+      "slip_id": "2026-07-02-S3",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-084",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.96,
+          "model_prob": 0.60,
+          "edge": 0.090,
+          "rationale": "Algeria are without Bennacer (absent from the squad) and Amoura (hamstring), severely limiting their attacking build-up, while Switzerland's group-stage defence conceded only three goals; the 1.96 market price overestimates Algeria's scoring likelihood."
+        }
+      ],
+      "combined_odds": 1.96,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Model gives 60% to BTTS No versus book-implied 51%, a 9.0pp edge underpinned by Algeria's two key absences and Switzerland's defensive record."
+    },
+    {
+      "slip_id": "2026-07-02-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-082",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.61,
+          "model_prob": 0.72,
+          "edge": 0.099,
+          "rationale": "Spain's clean-sheet run and Austria's blank against Argentina make both teams scoring unlikely."
+        },
+        {
+          "match_id": "wc-084",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.96,
+          "model_prob": 0.60,
+          "edge": 0.090,
+          "rationale": "Algeria's attacking absences (Bennacer, Amoura) and Switzerland's solid defence support BTTS No across the Vancouver tie."
+        }
+      ],
+      "combined_odds": 3.16,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Both knockout ties feature a defensively superior favourite against an attack-depleted or outclassed opponent; pairing the two BTTS No selections for a 3.16 combined return."
+    }
+  ]
+}

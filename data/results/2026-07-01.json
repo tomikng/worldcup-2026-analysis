@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-01",
+  "source": "web-research",
+  "fetched_at": "2026-07-02T07:12:01Z",
+  "matches": [
+    {
+      "match_id": "wc-079",
+      "home": "England",
+      "away": "DR Congo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021512",
+        "https://www.espn.com/soccer/match/_/gameId/760495/congo-dr-england",
+        "https://www.sofascore.com/news/england-vs-dr-congo-ht-congo-clings-to-the-lead-as-england-presses",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-congo-dr-review-highlights"
+      ]
+    },
+    {
+      "match_id": "wc-080",
+      "home": "Belgium",
+      "away": "Senegal",
+      "home_goals": 3,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "notes": "AET: 2-2 at 90 min (Lukaku 86', Tielemans 89' for BEL; Diarra 25', Sarr 51' for SEN). Tielemans scored winning penalty in 125' after VAR review for Camara foul on Tielemans. Latest winning goal in World Cup history (124'44\").",
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021525",
+        "https://www.espn.com/soccer/match/_/gameId/760493/senegal-belgium",
+        "https://theanalyst.com/articles/belgium-vs-senegal-stats-world-cup-2026",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-senegal-review-highlights"
+      ]
+    },
+    {
+      "match_id": "wc-081",
+      "home": "United States",
+      "away": "Bosnia and Herzegovina",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 1,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760494/bosnia-herzegovina-united-states",
+        "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
+        "https://www.cnn.com/2026/07/01/sport/live-news/world-cup-usa-bosnia-herzegovina-score",
+        "https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-083",
+  "date": "2026-07-02",
+  "home": "Portugal",
+  "away": "Croatia",
+  "kickoff_utc": "2026-07-02T23:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "BMO Field, Toronto",
+  "analysis": {
+    "summary": "Portugal (Group K runners-up, 5 pts) face Croatia (Group L runners-up, 6 pts) at BMO Field in the first knockout round. Portugal carry superior individual quality — Ronaldo, Fernandes, Dias — and a dominant historical head-to-head record (7 wins, 1 loss, 2 draws in 10 all-time meetings). Croatia responded sharply after an opening 4-2 loss to England by winning their final two group games via disciplined, compact performances. Both nations have large diaspora communities in Toronto, largely neutralising any crowd advantage. The knockout format (result decided after 90 minutes plus extra time; penalties if level) strongly favours the better-resourced Portugal side, though Croatia's tournament resilience and Modric's orchestration give them a realistic path.",
+    "home_form": "Portugal drew 1-1 with DR Congo (June 17), thrashed Uzbekistan 5-0 with two first-half Ronaldo goals (June 23), then played out a goalless draw with group-winners Colombia (June 27) — in which they were outshot 24-13. Ronaldo has played every minute of Portugal's three group matches (270-plus minutes of stoppage-included time), making his physical state a legitimate concern at age 41. The front line of Fernandes (No.10), Felix and Neto provides creative depth, but Portugal's midfield lacked dominance against organised opponents.",
+    "away_form": "Croatia lost 2-4 to England on June 17 in an open, high-tempo game, then tightened up to beat Panama 1-0 (Budimir, 54th minute) and Ghana 2-1 (Vlasic decisive). Their group stage tally of 5 goals scored and 5 conceded reflects a team capable of attacking fluency but also defensive vulnerability against top-tier opposition. Livakovic performed strongly in goal throughout. Luka Modric (40, AC Milan) and Mateo Kovacic continue to dictate from midfield. Josip Gvardiol is expected to return to the centre of defence after being rested, strengthening the backline.",
+    "h2h": "Portugal hold a 7-1-2 advantage in 10 all-time meetings. Key historical results: Portugal won 1-0 after extra time in the Euro 2016 Round of 16; Portugal won 4-1 and 3-2 in 2020 UEFA Nations League meetings; Croatia earned their first win in this fixture with a 2-1 friendly in June 2024; the most recent meeting (Nations League, autumn 2024) ended 1-1. This is the first-ever competitive World Cup encounter between the two nations.",
+    "injuries_news": [
+      "No confirmed injuries or suspensions for Portugal ahead of this fixture.",
+      "No confirmed injuries or suspensions for Croatia ahead of this fixture.",
+      "Cristiano Ronaldo fatigue concern: he has played all 270-plus minutes of Portugal's group stage — Roberto Martinez has shown no public intention to rotate him.",
+      "Josip Gvardiol expected to return to Croatia's central defence, with Ivan Perisic shifting back to his natural wing role."
+    ],
+    "key_factors": [
+      "Knockout format: result decided after 90 minutes plus extra time, with penalties if still level — draw probability is 0.0 for full-match outcome.",
+      "Portugal's dominant all-time H2H record (7-1-2), including winning the last-16 knockout at Euro 2016 after extra time.",
+      "Ronaldo workload (300-plus minutes in group stage) is a genuine physical concern at age 41; Martinez is expected to start him regardless.",
+      "Croatia conceded 5 goals in three group games; the 4-2 loss to England exposed defensive gaps against quick, incisive attacks.",
+      "BMO Field hosts large Croatian and Portuguese diaspora communities in Toronto — crowd advantage is minimal for either side.",
+      "Croatia's mental resilience: won two consecutive games after the England defeat, showing tactical adaptability and composure.",
+      "Portugal's inconsistency: outshot 24-13 by Colombia in their final group game and drew 1-1 vs DR Congo, raising questions about midfield control against well-organised defences.",
+      "Referee Espen Eskas (Norway) averages 3.42 yellow cards per game in his career — a moderate-discipline official who is unlikely to produce a card-heavy match."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.65, "draw": 0.00, "away": 0.35},
+    "predicted_score": "2-1",
+    "confidence": 0.67
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.48,
+    "btts_yes": 0.42
+  },
+  "value_notes": "Market h2h odds (home 1.77, draw 3.60, away 5.00) are standard 90-minute bookmaker odds. Normalised 90-min market-implied probabilities after removing the 4.3% overround: Portugal 54.2%, Draw 26.7%, Croatia 19.2%. Converting to full-match knockout outcome (splitting drawn-at-90-min matches 50/50 for ET/penalties): Portugal ~67.5%, Croatia ~32.5%. My model gives Portugal 65.0% and Croatia 35.0% for the full match — a gap of -2.5pp on Portugal and +2.5pp on Croatia, both well below the 0.05 edge threshold. Croatia at 5.00 (implied full-match win ~32.5%) is the closest to value given my 35% estimate, but the +2.5pp gap does not reach threshold. For the totals market (line 2.5, over 2.09 / under 1.75), normalised market-implied over probability is ~45.6%. My model estimates 48% for over 2.5 — an edge of approximately +2.4pp — based on Croatia's defensive record (5 conceded in 3 group games) vs Portugal's attacking quality, partly offset by knockout-stage tactical caution and Portugal's 0-0 draw vs Colombia. This also falls below the 0.05 threshold. No market selection meets the minimum ≥0.05 edge criterion; no value bets are signalled.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+    "https://www.espn.com/espn/story/_/id/49202106/2026-fifa-world-cup-recap-portugal-colombia-argentina-jordan-england-panama-croatia-ghana-uzbekistan-congo-dr-algeria-austria",
+    "https://www.espn.com/soccer/story/_/id/49203383/could-overworked-ronaldo-hurt-portugal-world-cup-chances",
+    "https://www.rotowire.com/soccer/article/portugal-vs-croatia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120534",
+    "https://www.croatiaweek.com/croatia-beat-ghana-2-1-reach-fifa-world-cup-last-32/",
+    "https://www.sportsmole.co.uk/football/portugal/world-cup-2026/head-to-head/portugal-vs-croatia-head-to-head-record-and-past-meetings_600434.html",
+    "https://worldofsports.io/a/the-star/portugal-croatia-toronto-diaspora-world-cup-1782945164",
+    "https://www.goal.com/en/news/portugal-croatia-world-cup-preview/blt9fb0907531786204",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-group-l-england-reigns-croatia-and-ghana-advance-234026991.html",
+    "https://www.statshub.com/referee/espen-eskas",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021526"
+  ],
+  "generated_at": "2026-07-02T11:00:00Z"
+}
