@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.61,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 16.1,
+      "settled_at": "2026-07-03T07:44:24Z",
       "rationale": "Model assigns 72% to BTTS No versus a book-implied 62%, a 9.9pp edge driven by Spain's clean-sheet record and Austria's blank against Argentina."
     },
     {
@@ -33,16 +33,16 @@
           "market": "totals",
           "selection": "under",
           "line": 2.5,
-          "odds": 1.90,
+          "odds": 1.9,
           "model_prob": 0.62,
           "edge": 0.094,
           "rationale": "Spain's defensive solidity (zero conceded in group stage) and only moderate finishing efficiency (5 goals across three games, with 4 in one blowout) point to a low-scoring knockout encounter against Austria."
         }
       ],
-      "combined_odds": 1.90,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 1.9,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-03T07:44:24Z",
       "rationale": "Model places 62% on Under 2.5 versus book-implied 53%, a 9.4pp edge; Spain's disciplined shape and Austria's scoring reliance on weaker Group J opposition support the under."
     },
     {
@@ -56,15 +56,15 @@
           "selection": "no",
           "line": null,
           "odds": 1.96,
-          "model_prob": 0.60,
-          "edge": 0.090,
+          "model_prob": 0.6,
+          "edge": 0.09,
           "rationale": "Algeria are without Bennacer (absent from the squad) and Amoura (hamstring), severely limiting their attacking build-up, while Switzerland's group-stage defence conceded only three goals; the 1.96 market price overestimates Algeria's scoring likelihood."
         }
       ],
       "combined_odds": 1.96,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 19.6,
+      "settled_at": "2026-07-03T07:44:24Z",
       "rationale": "Model gives 60% to BTTS No versus book-implied 51%, a 9.0pp edge underpinned by Algeria's two key absences and Switzerland's defensive record."
     },
     {
@@ -88,15 +88,15 @@
           "selection": "no",
           "line": null,
           "odds": 1.96,
-          "model_prob": 0.60,
-          "edge": 0.090,
+          "model_prob": 0.6,
+          "edge": 0.09,
           "rationale": "Algeria's attacking absences (Bennacer, Amoura) and Switzerland's solid defence support BTTS No across the Vancouver tie."
         }
       ],
       "combined_odds": 3.16,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 15.78,
+      "settled_at": "2026-07-03T07:44:24Z",
       "rationale": "Both knockout ties feature a defensively superior favourite against an attack-depleted or outclassed opponent; pairing the two BTTS No selections for a 3.16 combined return."
     }
   ]
