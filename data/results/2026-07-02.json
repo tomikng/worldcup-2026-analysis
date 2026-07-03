@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-02",
+  "source": "web-research",
+  "fetched_at": "2026-07-03T08:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-082",
+      "home": "Spain",
+      "away": "Austria",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 9,
+      "away_corners": 0,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519",
+        "https://www.espn.com/soccer/match/_/gameId/760497/austria-spain",
+        "https://www.si.com/soccer/spain-vs-austria-world-cup-live-score-match-stats",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-july-2-live-updates-rcna352733"
+      ]
+    },
+    {
+      "match_id": "wc-083",
+      "home": "Portugal",
+      "away": "Croatia",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021526",
+        "https://www.espn.com/soccer/story/_/id/49251703/portugal-croatia-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://sports.yahoo.com/articles/portugal-vs-croatia-live-score-180001817.html",
+        "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var",
+        "https://www.nbcsports.com/soccer/live/portugal-vs-croatia-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup"
+      ]
+    },
+    {
+      "match_id": "wc-084",
+      "home": "Switzerland",
+      "away": "Algeria",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021527",
+        "https://www.espn.com/soccer/story/_/id/49253886/switzerland-algeria-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye",
+        "https://www.skysports.com/football/switzerland-vs-algeria/report/549848"
+      ]
+    }
+  ]
+}

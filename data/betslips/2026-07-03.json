@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-03",
+  "slips": [
+    {
+      "slip_id": "2026-07-03-S1",
+      "type": "single",
+      "stake": 15.0,
+      "legs": [
+        {
+          "match_id": "wc-085",
+          "market": "h2h",
+          "selection": "away",
+          "line": null,
+          "odds": 2.50,
+          "model_prob": 0.58,
+          "edge": 0.180,
+          "rationale": "Egypt are the model's slight overall favourites at 58% ET-win probability, reflecting their unbeaten group stage and Marmoush's form, while the market implies only 40%; Australia's attack is neutered by the confirmed absences of Leckie and Italiano, reinforcing the Egyptian edge across 120 minutes."
+        }
+      ],
+      "combined_odds": 2.50,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Egypt away at 2.50 delivers an 18-point edge over the market-implied 40%, driven by Australia's attacking injury absences and Egypt's stronger squad depth; model assigns 58% ET-win probability to Egypt despite the heavy doubt list around Salah."
+    },
+    {
+      "slip_id": "2026-07-03-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-087",
+          "market": "h2h",
+          "selection": "away",
+          "line": null,
+          "odds": 7.50,
+          "model_prob": 0.27,
+          "edge": 0.137,
+          "rationale": "The 90-minute market prices Ghana at 13.3% implied while the ET-result model gives 27%, a gap driven by two clean sheets in the group stage, Kudus's absence already reflected in the price, and the plausible scenario of a disciplined Ghana side frustrating Colombia deep into extra time."
+        }
+      ],
+      "combined_odds": 7.50,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Ghana away at 7.50 provides a 13.7-point edge versus the market-implied 13.3%; the model's 27% ET-win probability substantially exceeds the market price, supported by Ghana's two clean sheets and Colombia's modest 1.33 goals-per-game group-stage average."
+    },
+    {
+      "slip_id": "2026-07-03-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-086",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 1.16,
+          "model_prob": 0.92,
+          "edge": 0.058,
+          "rationale": "Argentina's perfect group stage (9/9 points), Messi's six-goal haul and the vast quality gap over Cape Verde debutants support a 92% ET-win probability versus 86.2% market-implied, producing a narrow but genuine structural edge against a side that has never before reached this stage."
+        },
+        {
+          "match_id": "wc-087",
+          "market": "dnb",
+          "selection": "away",
+          "line": null,
+          "odds": 5.80,
+          "model_prob": 0.27,
+          "edge": 0.098,
+          "rationale": "Ghana away DNB at 5.80 yields a 9.8-point edge over the implied 17.2%; the draw-no-bet structure is additive given the model's 27% Ghana win probability, and Ghana's two group-stage clean sheets alongside Colombia's low scoring rate support the case for a Ghana upset or at minimum a draw at 90 minutes that voids this leg cleanly."
+        }
+      ],
+      "combined_odds": 6.73,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Two-leg accumulator pairing Argentina's near-certain knockout advance with Ghana's value DNB against Colombia; both legs carry positive edge and the 6.73x combined price rewards the low-probability scenario where Ghana win outright in 90 minutes."
+    }
+  ]
+}

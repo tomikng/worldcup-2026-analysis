@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-086",
+  "date": "2026-07-03",
+  "home": "Argentina",
+  "away": "Cape Verde",
+  "kickoff_utc": "2026-07-03T22:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Hard Rock Stadium, Miami Gardens",
+  "analysis": {
+    "summary": "Argentina, the defending world champions, enter this Round of 32 clash as massive favourites after topping Group J with a perfect 9-point record (3-0 Algeria, 2-0 Austria, 3-1 Jordan), with Messi scoring six goals including a hat-trick. Cape Verde made World Cup history as debutants reaching the knockout stage, drawing all three Group H matches (0-0 Spain, 2-2 Uruguay, 0-0 Saudi Arabia), showcasing defensive discipline but limited attacking output. The quality gap between these two sides is enormous — Argentina's attack is arguably the most potent at the tournament while Cape Verde face the biggest match in their football history. A comprehensive Argentina victory is the overwhelming expectation, with Cape Verde's best hope being to frustrate and contain for as long as possible.",
+    "home_form": "Dominant group stage: 3-0 Algeria (Messi hat-trick), 2-0 Austria (Messi brace, Mac Allister benched in final game), 3-1 Jordan. Nine points from nine, eight goals scored, one conceded. Messi leads the tournament with six goals and 19 World Cup career goals total — both all-time records. Full-strength attacking XI expected with Messi and Mac Allister returning to the starting lineup after both were rested vs Jordan.",
+    "away_form": "Three draws from three group games: 0-0 vs Spain (Vozinha made 10+ saves against 27 shots), 2-2 vs Uruguay (Kevin Pina free-kick), 0-0 vs Saudi Arabia. Qualified as Group H runners-up with three points — the first World Cup debutant to reach the knockout stage since Slovakia in 2010. Cape Verde conceded two goals in three matches and only managed two themselves, signalling a conservative, compact defensive shape. Against elite opposition (Spain, Saudi Arabia) they were shut out; the 2-2 with Uruguay came against a more open game.",
+    "h2h": "Argentina and Cape Verde have never previously met in either a competitive fixture or a friendly international. This match on July 3, 2026 is the first encounter in football history between the two nations, removing all head-to-head data as a predictive variable.",
+    "injuries_news": [
+      "Cape Verde: Telmo Arcanjo (midfielder) is out with a muscle injury sustained during the group stage.",
+      "Cape Verde: Captain Ryan Mendes is under a New Zealand police investigation following an allegation made in March 2026; FIFA has stated it is in contact with authorities, but as of match day Mendes has not been suspended and is expected to start.",
+      "Argentina: No confirmed injuries or suspensions reported. Cristian Romero is fit and expected to start. Messi and Mac Allister return to the XI after being rested against Jordan."
+    ],
+    "key_factors": [
+      "Messi's form is historic — six group-stage goals (hat-trick, brace, one), 19 career World Cup goals — and Lautaro Martinez and Julian Alvarez give Scaloni three independent attacking threats.",
+      "Cape Verde goalkeeper Vozinha (age 39) produced a heroic shut-out against Spain and will be central to any shock; however, Messi-level precision at pace is a different proposition from Spain's patient possession.",
+      "Cape Verde's defensive structure (three draws, including two 0-0s) suggests they will sit deep and compact, reducing Argentina's space in behind, but the quality and movement of Argentina's front three should still create high-volume chances.",
+      "Hard Rock Stadium in Miami will be filled predominantly with Argentina supporters (large Latin American diaspora), creating an effective home environment for the defending champions.",
+      "Cape Verde have not previously played at this stage of a World Cup; experience and composure under sustained pressure from a dominant Argentina side represents a significant unknown.",
+      "This is a knockout match extending to extra time and penalties if level after 90 minutes; draw outcome is impossible (result settles after ET). Cape Verde holding Argentina through 120 minutes would be extraordinary."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.92, "draw": 0.00, "away": 0.08},
+    "predicted_score": "3-0",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.51,
+    "btts_yes": 0.28
+  },
+  "value_notes": "Market h2h odds (home 1.16 / draw 8.00 / away 17.75) appear to be structured as a 90-minute 3-way market. Two-way normalized (home vs away only, excluding draw) implies Argentina 93.9%, Cape Verde 6.1%. My model for the full match result including ET: Argentina 92%, Cape Verde 8% — no material edge on either side of h2h. For totals 2.5: market normalized over = 57.0% (odds 1.69), under = 43.0% (odds 2.24). My model assigns 51% to over 2.5, implying 49% under — a 6-point edge on under 2.5 that just clears the 5% threshold. This is driven by Cape Verde's demonstrated ability to shut out top-class opposition (0-0 vs Spain, 0-0 vs Saudi Arabia); Argentina must score three or more without Cape Verde scoring for over to land if the Sharks hold out — Argentina scoring exactly two (a plausible outcome given Cape Verde's structure) results in under 2.5. Note: if ET is required, additional goals could push total over the line. No market odds supplied for btts; model estimates btts_yes at 28% given Cape Verde's limited scoring output against elite opponents. No selection reaches a confident ≥0.05 edge on h2h outcome. The narrow under 2.5 edge (6%) is the only market where model and market diverge meaningfully.",
+  "sources": [
+    "https://www.intermiamicf.com/news/match-preview-messi-and-de-paul-s-argentina-faces-cape-verde-in-the-round-of-32-at-the-fifa-world-cup-2026tm",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina",
+    "https://www.espn.com/soccer/story/_/id/49203555/lionel-messi-scores-again-seal-perfect-group-stage-argentina-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49203483/fifa-world-cup-2026-stats-lionel-messi-sets-another-world-cup-record-cristiano-ronaldo-second-25-harry-kane-11-best-england-luka-modric-record-40",
+    "https://www.skysports.com/football/news/11095/13556682/world-cup-2026-cape-verde-0-0-saudi-arabia-cape-verde-reach-round-of-32-as-group-h-runners-up-with-saudi-knocked-out",
+    "https://www.france24.com/en/sport/20260627-world-cup-2026-saudi-spain-cape-verde-uruguay",
+    "https://heavy.com/sports/soccer/world-cup/ryan-mendes-investigation-world-cup/",
+    "https://heavy.com/sports/soccer/world-cup/cape-verde-best-players-world-cup-2026/",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/preview/argentina-vs-cape-verde-prediction-team-news-lineups_600481.html",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/predicted-lineups/messi-returns-romero-boost-predicted-argentina-xi-vs-cape-verde_600514.html",
+    "https://www.nbcnews.com/sports/soccer/messi-becomes-first-score-7-straight-world-cup-games-goals-rord-rcna352089",
+    "https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-argentina-vs-cape-verde-in-the-2026-fifa-world-cup-round-of-32/",
+    "https://sports.yahoo.com/articles/world-cup-2026-r32-argentina-092500864.html"
+  ],
+  "generated_at": "2026-07-03T14:30:00Z"
+}

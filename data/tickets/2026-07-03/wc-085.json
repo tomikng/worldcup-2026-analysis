@@ -1,0 +1,66 @@
+{
+  "match_id": "wc-085",
+  "date": "2026-07-03",
+  "home": "Australia",
+  "away": "Egypt",
+  "kickoff_utc": "2026-07-03T18:00:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "AT&T Stadium, Arlington",
+  "analysis": {
+    "summary": "Australia and Egypt meet in a Round of 32 encounter that is historically significant for both sides: Egypt are appearing in their first-ever World Cup knockout match, while the Socceroos look to extend their tournament run after finishing second in Group D. Egypt enter as slight market favourites on the back of an unbeaten group stage (5 goals scored), but are undermined by a lengthy injury list — most critically Mohamed Salah's hamstring strain suffered against Iran — while Australia are themselves without veterans Mathew Leckie and Jacob Italiano. The controlled indoor climate at AT&T Stadium removes any altitude or heat advantage.",
+    "home_form": "Australia went W-L-D in Group D: beat Turkey 2-0 (Irankunda 27', Metcalfe), lost to USA 0-2, and drew Paraguay 0-0. Two goals scored, two conceded across three games. The back-line has been compact but the attack is limited without Leckie (hamstring, out). Young winger Nestory Irankunda (20) is the creative outlet alongside Connor Metcalfe; goalkeeper Mathew Ryan (100+ caps) provides leadership behind an organised defensive block.",
+    "away_form": "Egypt were unbeaten in Group G: drew Belgium 1-1, beat New Zealand 3-1, drew Iran 1-1. Five goals scored (Marmoush, Salah, Trezeguet among contributors), three conceded. Omar Marmoush (Manchester City) demonstrated he can lead the attack if Salah is limited. Egypt have never previously won a knockout World Cup match and the occasion carries historical weight alongside nervous energy.",
+    "h2h": "Australia and Egypt have met twice. In 1987 (President's Cup, Seoul) the sides drew 0-0 and Australia won 4-3 on penalties. In November 2010 (international friendly) Egypt won 3-0. This is the first competitive FIFA World Cup meeting between the two nations.",
+    "injuries_news": [
+      "Mathew Leckie (Australia, hamstring) — confirmed out of the tournament.",
+      "Jacob Italiano (Australia, groin) — confirmed out.",
+      "Mohamed Salah (Egypt, hamstring strain suffered vs Iran 57') — game-time decision; coach Hossam Hassan indicated Salah has been in training but sessions have been inconsistent; will not start unless confirmed 100% fit.",
+      "Ahmed Fattouh (Egypt, hamstring tear) — expected to miss the match.",
+      "Hamdy Fathy (Egypt, groin) — doubt.",
+      "Mohamed Abdelmonem (Egypt, ankle bruising) — doubt, being prepared for the game.",
+      "Hossam Abdelmaguid (Egypt, head) — doubt.",
+      "Ahmed El Fotouh (Egypt, hamstring) — doubt."
+    ],
+    "key_factors": [
+      "Salah fitness: Egypt with a fit Salah at full pace is meaningfully more dangerous; even a 60-70% Salah changes their threat level significantly.",
+      "Egypt's depth of injury list is unusually long; if multiple doubts (Fathy, Abdelmonem, Fattouh) are ruled out, Egypt's XI is notably weakened beyond Salah.",
+      "Australia's defensive solidity: only 2 goals conceded in three group games, including a disciplined 0-0 vs Paraguay. A low-scoring, tight match favours Australian chances.",
+      "Egypt's first-ever knockout match — debut tension is a legitimate factor for a squad with limited experience at this stage.",
+      "Irankunda's pace on the break could exploit Egypt's makeshift defensive setup if central defenders are affected by injury.",
+      "AT&T Stadium is domed and climate-controlled; no conditions-based advantage for either side.",
+      "Marmoush as safer Egypt attacking bet if Salah is absent or limited — had strong club season at Manchester City."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.42,
+      "draw": 0.0,
+      "away": 0.58
+    },
+    "predicted_score": "0-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.29,
+    "btts_yes": 0.36
+  },
+  "value_notes": "Market-implied final-result probabilities (using DNB odds, overround removed): Australia 0.426, Egypt 0.574. My model gives Australia 0.42, Egypt 0.58 — both within 0.006 of market; no h2h edge reaches the 0.05 threshold. On extra markets: totals 2.5 over — model 0.29 vs market-implied 0.32 (raw 1/2.98 normalised), no positive edge on over; totals 2.5 under — model 0.71 vs market-implied 0.68, edge +0.03, below threshold. btts_yes — model 0.36 vs market-implied 0.41 (raw 1/2.30 normalised), no edge on yes; btts_no — model 0.64 vs market-implied 0.59 (raw 1/1.60 normalised), edge +0.05, exactly at threshold but not exceeding it. No single selection meets the strict edge >= 0.05 criterion with confidence given the uncertainty around Salah and Egypt's multiple injury doubts.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://www.olympics.com/en/news/australia-at-fifa-world-cup-2026-socceroos-results-scores-and-standings-full-list",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-how-to-watch-australia-vs-egypt-in-the-round-of-32-head-to-head-full-schedule",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/egypt-injury-worries-australia-mohamed-salah",
+    "https://www.espn.com/soccer/story/_/id/49252258/mohamed-salah-recovers-hamstring-egypt-australia",
+    "https://www.cafonline.com/fifa-world-cup/news/egypt-sweat-on-salah-fitness-ahead-of-historic-world-cup-clash-with-australia/",
+    "https://www.si.com/soccer/australia-vs-egypt-world-cup-preview-predictions-lineups-7-3-26",
+    "https://onefootball.com/en/news/man-city-2026-world-cup-watch-omar-marmoush-shines-in-egypts-1-3-win-vs-new-zealand-43040746",
+    "https://www.espn.com/soccer/story/_/id/49213238/australia-vs-egypt-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+    "https://www.rotowire.com/soccer/article/australia-vs-egypt-picks-tips-odds-best-bets-2026-world-cup-round-of-32-120837",
+    "https://sports.yahoo.com/articles/world-cup-2026-r32-australia-082000795.html",
+    "https://www.sportsmole.co.uk/football/australia/world-cup-2026/head-to-head/australia-vs-egypt-head-to-head-record-and-past-meetings_600463.html",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/australia-v-egypt-35765620"
+  ],
+  "generated_at": "2026-07-03T14:30:00Z"
+}

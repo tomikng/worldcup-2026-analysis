@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-03",
+  "collected_at": "2026-07-03T14:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-085",
+      "h2h": {
+        "home": 3.30,
+        "draw": 2.90,
+        "away": 2.50
+      },
+      "dnb": {
+        "home": 2.25,
+        "away": 1.67
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.98,
+        "under": 1.40
+      },
+      "totals_alt": [
+        {"line": 1.5, "over": 1.59, "under": 2.35}
+      ],
+      "btts": {
+        "yes": 2.30,
+        "no": 1.60
+      },
+      "corners": {
+        "line": 8.5,
+        "over": 1.94,
+        "under": 1.85
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/australia-v-egypt-35765620",
+        "https://www.cbssports.com/soccer/news/australia-egypt-odds-prediction-time-2026-world-cup-round-32-picks/",
+        "https://www.espn.com/soccer/odds/_/gameId/760499",
+        "https://www.oddschecker.com/us/soccer/world-cup/australia-v-egypt",
+        "https://www.pinnacle.com/en/soccer/fifa-world-cup/australia-vs-egypt/1632164518/",
+        "https://dknetwork.draftkings.com/2026/06/27/opening-odds-for-australia-vs-egypt-in-the-2026-fifa-world-cup-round-of-32/"
+      ]
+    },
+    {
+      "match_id": "wc-086",
+      "h2h": {
+        "home": 1.16,
+        "draw": 8.00,
+        "away": 17.75
+      },
+      "dnb": {
+        "home": 1.04,
+        "away": 15.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.69,
+        "under": 2.24
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/argentina-v-cape-verde-35765186",
+        "https://www.espn.com/soccer/odds/_/gameId/760500",
+        "https://www.oddschecker.com/us/soccer/world-cup/argentina-v-cape-verde",
+        "https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-argentina-vs-cape-verde-in-the-2026-fifa-world-cup-round-of-32/",
+        "https://sports.yahoo.com/articles/world-cup-2026-r32-argentina-092500864.html"
+      ]
+    },
+    {
+      "match_id": "wc-087",
+      "h2h": {
+        "home": 1.51,
+        "draw": 3.80,
+        "away": 7.50
+      },
+      "dnb": {
+        "home": 1.17,
+        "away": 5.80
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.28,
+        "under": 1.65
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/colombia-v-ghana-35768299",
+        "https://www.espn.com/soccer/odds/_/gameId/760501",
+        "https://www.oddschecker.com/us/soccer/world-cup/colombia-v-ghana",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/colombia-vs-ghana-odds-prediction-070426-217156",
+        "https://sports.yahoo.com/articles/colombia-vs-ghana-predictions-odds-150000546.html"
+      ]
+    }
+  ]
+}

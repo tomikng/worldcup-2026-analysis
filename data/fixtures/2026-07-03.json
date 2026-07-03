@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-03",
+  "source": "web-research",
+  "fetched_at": "2026-07-03T08:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-085",
+      "kickoff_utc": "2026-07-03T18:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Australia",
+      "away": "Egypt",
+      "venue": "AT&T Stadium, Arlington"
+    },
+    {
+      "match_id": "wc-086",
+      "kickoff_utc": "2026-07-03T22:00:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Argentina",
+      "away": "Cape Verde",
+      "venue": "Hard Rock Stadium, Miami Gardens"
+    },
+    {
+      "match_id": "wc-087",
+      "kickoff_utc": "2026-07-04T01:30:00Z",
+      "stage": "ROUND_OF_32",
+      "group": null,
+      "home": "Colombia",
+      "away": "Ghana",
+      "venue": "Kansas City Stadium, Kansas City"
+    }
+  ]
+}

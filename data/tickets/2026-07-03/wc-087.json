@@ -1,0 +1,61 @@
+{
+  "match_id": "wc-087",
+  "date": "2026-07-03",
+  "home": "Colombia",
+  "away": "Ghana",
+  "kickoff_utc": "2026-07-04T01:30:00Z",
+  "stage": "ROUND_OF_32",
+  "group": null,
+  "venue": "Kansas City Stadium, Kansas City",
+  "analysis": {
+    "summary": "Colombia, ranked 11th in the world, finished top of Group K with seven points (W vs Uzbekistan 3-1, W vs DR Congo 1-0, D vs Portugal 0-0) and enter this Round of 32 as heavy favourites against a Ghana side that scraped through as one of the eight best third-placed teams with four points. The quality gap between the sides is substantial — Colombia's attack features Luis Diaz (Bayern Munich), James Rodriguez and Luis Suarez against a Ghana defensive unit that was disciplined but limited. Ghana's best-case scenario is a compact, low-block performance that exploits Colombia on the counter, but without Mohammed Kudus (injured, ruled out of the tournament) their attacking threat is significantly curtailed.",
+    "home_form": "Colombia topped Group K unbeaten: 3-1 vs Uzbekistan, 1-0 vs DR Congo, 0-0 vs Portugal (seven points, group winners). Daniel Munoz (2 goals) and Luis Diaz led the scoring. In their last six competitive matches Colombia won four and drew one. Opta simulations gave Colombia a 64.8% win probability against Ghana. Manager Nestor Lorenzo's 4-3-3 has been cohesive, with Jefferson Lerma anchoring midfield and the front trio of Diaz, Suarez and Rodriguez providing sustained creative output. Luis Suarez recovered from a minor fitness doubt that kept him to a substitute role against Portugal and is expected to start.",
+    "away_form": "Ghana collected four points in Group L: 1-0 vs Panama (Yirenkyi stoppage-time goal), 0-0 vs England, 1-2 vs Croatia. Two clean sheets reflect defensive organisation under Carlos Queiroz, but only two goals scored across three games indicates limited attacking punch. In their last six competitive matches Ghana won one, drew two and lost three (0.83 points per game). Ghana, ranked 65th globally, advanced as a third-placed team and face their first World Cup quarter-final bid since 2010.",
+    "h2h": "No confirmed competitive head-to-head record exists between Colombia and Ghana; the 4 July 2026 fixture is reported to be the first or one of very few meetings between the two nations at senior international level. No meaningful historical precedent exists to adjust probabilities.",
+    "injuries_news": [
+      "Ghana: Mohammed Kudus (Tottenham, forward) ruled out of the entire tournament through injury — a significant blow to Ghana's creative threat.",
+      "Ghana: Antoine Semenyo (Manchester City) has an ankle knock sustained against Croatia but is expected to start against Colombia.",
+      "Colombia: No confirmed injury or suspension concerns; full squad available. Luis Suarez has shaken off the minor fitness issue that limited him against Portugal."
+    ],
+    "key_factors": [
+      "Quality gap: Colombia ranked 11th globally vs Ghana 65th — the largest FIFA ranking differential of any Round of 32 fixture.",
+      "Kudus absence: Ghana's most direct, dangerous attacker is out; Jordan Ayew (34) and Kamaldeen Sulemana must carry the attack without their most potent threat.",
+      "Colombia's depth and fitness: full squad available, seven points from the group stage, dominant xG vs Portugal (1.63 vs 0.69) shows underlying quality above results.",
+      "Ghana's defensive structure: two clean sheets in the group stage; Thomas Partey's experience as a midfielder and a back four that has been hard to break down make Colombia's task non-trivial even as heavy favourites.",
+      "Knockout dynamics: if the match is level late, Colombia's superior bench and individual quality give them a decisive edge in extra time.",
+      "Venue: Kansas City Stadium (sea-level, July heat) — no significant altitude or travel disadvantage for either side."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.73,
+      "draw": 0.00,
+      "away": 0.27
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.65
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.37,
+    "btts_yes": 0.36
+  },
+  "value_notes": "The provided h2h odds (Colombia 1.51, Draw 3.80, Ghana 7.50) are 90-minute result odds; per the settlement rules, knockout h2h settles on the ET result (draw is impossible), so direct comparison to my ET-result probabilities is imprecise but is the only available basis. Raw market-implied probabilities: Colombia 66.2%, Draw 26.3%, Ghana 13.3%. My model (ET result): Colombia 73%, Draw 0%, Ghana 27%. Edge vs raw market implied: Colombia home +6.8% (73% minus 66.2%, edge ≥ 0.05 — flagged); Ghana away +13.7% (27% minus 13.3%, edge ≥ 0.05 — flagged, but this edge is partly structural since the 90-min draw probability would redistribute in Colombia's favour after ET redistribution, reducing the true ET-result edge for Ghana). The draw option at 3.80 carries zero settlement value in a knockout and should be avoided. On totals: my model gives 37% probability for over 2.5 goals (Poisson model anchored on Colombia's 1.33 goals per game and Ghana's 0.67 goals per game in the group stage, expected combined ~2.0 goals); market-normalised over probability is ~42%, so under 2.5 at 1.65 has slight model support but edge is below the 0.05 threshold (~5% raw). Primary selections with edge ≥ 0.05: Colombia home h2h (edge ~0.068 on raw comparison) and, with caution, Ghana away h2h (edge ~0.137 on raw comparison, but inflated by 90-min vs ET mismatch).",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-group-k-colombia-wins-the-group-thanks-to-0-0-tie-with-portugal-as-dr-congo-also-advances-015100806.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://worldcuppass.com/ghana-world-cup-squad-2026/",
+    "https://sports.yahoo.com/articles/ghana-still-qualify-world-cup-230841917.html",
+    "https://www.rotowire.com/soccer/article/colombia-vs-ghana-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120687",
+    "https://www.sportsmole.co.uk/football/colombia/world-cup-2026/head-to-head/colombia-vs-ghana-head-to-head-record-and-past-meetings_600465.html",
+    "https://www.espn.com/espn/story/_/id/49224579/colombia-vs-ghana-kick-team-news-how-watch-world-cup-round-32-clash",
+    "https://www.goal.com/en/news/colombia-ghana-world-cup-preview/bltc918b39193cee468",
+    "https://www.sportsmole.co.uk/football/colombia/world-cup-2026/team-news/colombia-vs-ghana-injury-suspension-list-predicted-xis_600510.html",
+    "https://www.espn.com/espn/story/_/id/49202106/2026-fifa-world-cup-recap-portugal-colombia-argentina-jordan-england-panama-croatia-ghana-uzbekistan-congo-dr-algeria-austria",
+    "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/colombia-v-ghana-35768299",
+    "https://www.oddschecker.com/us/soccer/world-cup/colombia-v-ghana",
+    "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/colombia-vs-ghana-odds-prediction-070426-217156"
+  ],
+  "generated_at": "2026-07-03T14:30:00Z"
+}
