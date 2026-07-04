@@ -45,8 +45,8 @@
       "stake": 15.0,
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
       "opened": "2026-06-11",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-07-02T23:59:00Z",
       "rationale": "Switzerland are Group B favorites at 0.565 to win the group outright, so their top-2 finish probability is far higher (~0.83); the 0.565 R16 market price is definitionally mispriced relative to the group-win market, giving a +0.265 edge."
     },
     {
@@ -81,8 +81,8 @@
       "stake": 10.0,
       "url": "https://polymarket.com/event/world-cup-nation-to-reach-round-of-16",
       "opened": "2026-06-15",
-      "status": "open",
-      "resolved_at": null,
+      "status": "won",
+      "resolved_at": "2026-07-02T23:59:00Z",
       "rationale": "Spain are Euro 2024 champions facing Cape Verde (debutants), Saudi Arabia, and Uruguay in Group H; a top-2 finish is ~96% likely for the tournament co-favorites, giving a +0.185 edge over the 0.775 market price."
     },
     {

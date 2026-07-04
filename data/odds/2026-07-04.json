@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-04",
+  "collected_at": "2026-07-04T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-088",
+      "h2h": {
+        "home": 4.70,
+        "draw": 3.30,
+        "away": 1.83
+      },
+      "dnb": {
+        "home": 3.75,
+        "away": 1.33
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.25,
+        "under": 1.65
+      },
+      "btts": {
+        "yes": 1.89,
+        "no": 1.89
+      },
+      "correct_score": {
+        "0-1": 6.00,
+        "0-2": 8.50
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/canada-v-morocco-35774254",
+        "https://www.espn.com/soccer/odds/_/gameId/760502",
+        "https://www.cbssports.com/soccer/news/canada-morocco-odds-prediction-time-2026-world-cup-round-of-16-picks/",
+        "https://www.covers.com/world-cup/canada-vs-morocco-prediction-picks-odds-saturday-7-4-2026",
+        "https://www.oddsshark.com/soccer/world-cup/canada-morocco-odds-picks-2026",
+        "https://dknetwork.draftkings.com/2026/06/30/opening-odds-for-canada-vs-morocco-in-the-fifa-2026-world-cup/"
+      ]
+    },
+    {
+      "match_id": "wc-089",
+      "h2h": {
+        "home": 15.88,
+        "draw": 7.00,
+        "away": 1.19
+      },
+      "dnb": {
+        "home": 13.00,
+        "away": 1.05
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.63,
+        "under": 2.34
+      },
+      "btts": {
+        "yes": 2.86,
+        "no": 1.48
+      },
+      "corners": {
+        "line": 9.5,
+        "over": 1.87,
+        "under": 1.83
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/navigation/fifa-world-cup",
+        "https://www.espn.com/soccer/odds/_/gameId/760503",
+        "https://www.covers.com/world-cup/france-vs-paraguay-prediction-picks-odds-saturday-7-4-2026",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_5_par_fra",
+        "https://www.oddschecker.com/us/soccer/world-cup/paraguay-v-france",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/paraguay-vs-france-odds-prediction-070426-217161",
+        "https://dknetwork.draftkings.com/2026/07/01/opening-odds-for-paraguay-vs-france-in-the-fifa-2026-world-cup/"
+      ]
+    }
+  ]
+}

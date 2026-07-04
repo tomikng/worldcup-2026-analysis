@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-03",
+  "source": "web-research",
+  "fetched_at": "2026-07-04T08:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-085",
+      "home": "Australia",
+      "away": "Egypt",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "penalty_winner": "away",
+      "home_cards": 0,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 4,
+      "away_corners": 7,
+      "notes": "Egypt won 4-2 on penalties after AET 1-1. Scorers: Ashour 13' (EGY), Mohamed Hany OG 55' (AUS). Australia missed: H.Souttar (over), L.Herrington (crossbar). Egypt YC: H.Hassan 105', Y.Ibrahim 120'.",
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021515",
+        "https://www.espn.com/soccer/match/_/gameId/760499",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/egypt-australia-13532374/",
+        "https://theanalyst.com/articles/australia-vs-egypt-stats-world-cup-2026",
+        "https://www.skysports.com/football/australia-vs-egypt/549851"
+      ]
+    },
+    {
+      "match_id": "wc-086",
+      "home": "Argentina",
+      "away": "Cape Verde",
+      "home_goals": 3,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "notes": "AET 3-2 (90-min score 1-1). Scorers: Messi 29' (ARG), D.Duarte 59' (CPV), L.Martinez 101' (ARG), S.Lopes Cabral 103' (CPV), D.Borges OG 111' (ARG). ARG YC: G.Montiel 115'. CPV YC: K.Pina 68'.",
+      "stats_sources": [
+        "https://www.aljazeera.com/sports/liveblog/2026/7/3/live-argentina-vs-cape-verde-fifa-world-cup-2026",
+        "https://www.espn.com/soccer/match/_/gameId/760500/cape-verde-argentina",
+        "https://www.skysports.com/football/news/12026/13558801/world-cup-2026-argentina-3-2-cape-verde",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/cape-verde-argentina-13532376/",
+        "https://www.nbcsports.com/soccer/live/argentina-vs-cape-verde-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-july-3"
+      ]
+    },
+    {
+      "match_id": "wc-087",
+      "home": "Colombia",
+      "away": "Ghana",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 3,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 3,
+      "away_corners": 2,
+      "notes": "Scorer: J.Arias 14' (COL). COL YC: J.Arias 12', R.Rios 78'. GHA YC: C.Yirenkyi 49', A.Fatawu 66', A.Seidu 76'.",
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021517",
+        "https://www.espn.com/soccer/story/_/id/49262158/colombia-ghana-live-world-cup-2026",
+        "https://sports.yahoo.com/soccer/fifa-world-cup/ghana-colombia-13532375/",
+        "https://theanalyst.com/articles/colombia-vs-ghana-stats-world-cup-2026",
+        "https://www.skysports.com/football/colombia-vs-ghana/report/549853"
+      ]
+    }
+  ]
+}

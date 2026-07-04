@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-04",
+  "source": "web-research",
+  "fetched_at": "2026-07-04T08:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-088",
+      "kickoff_utc": "2026-07-04T17:00:00Z",
+      "stage": "ROUND_OF_16",
+      "group": null,
+      "home": "Canada",
+      "away": "Morocco",
+      "venue": "NRG Stadium, Houston"
+    },
+    {
+      "match_id": "wc-089",
+      "kickoff_utc": "2026-07-04T21:00:00Z",
+      "stage": "ROUND_OF_16",
+      "group": null,
+      "home": "Paraguay",
+      "away": "France",
+      "venue": "Lincoln Financial Field, Philadelphia"
+    }
+  ]
+}

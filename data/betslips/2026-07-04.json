@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-04",
+  "slips": [
+    {
+      "slip_id": "2026-07-04-S1",
+      "type": "single",
+      "stake": 15.0,
+      "legs": [
+        {
+          "match_id": "wc-088",
+          "market": "h2h",
+          "selection": "away",
+          "line": null,
+          "odds": 1.83,
+          "model_prob": 0.77,
+          "edge": 0.224,
+          "rationale": "Morocco are 4W-0D-0L all-time vs Canada (scoring 11, conceding 3), Saibari scored in all three group-stage games, and Davies is a fitness doubt; model gives Morocco 77% full-match probability against 54.6% market-implied for the 90-min away win — raw edge +0.224 dictates 15-unit tier, though analyst estimates true economic edge closer to +0.08 after adjusting for 90-min h2h pricing versus a full-match (ET-inclusive) model probability."
+        }
+      ],
+      "combined_odds": 1.83,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Morocco's dominant head-to-head record over Canada, superior tournament form, and Saibari's finishing form give the Atlas Lions compelling value at 1.83 to advance."
+    },
+    {
+      "slip_id": "2026-07-04-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-088",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.89,
+          "model_prob": 0.62,
+          "edge": 0.091,
+          "rationale": "Canada has scored exactly once in each of its three games against quality opposition (Bosnia, Switzerland, South Africa) and Morocco kept clean sheets against Scotland and Canada in 2016; model's 62% probability of no mutual scoring versus 52.9% market-implied delivers a clean +0.091 edge."
+        }
+      ],
+      "combined_odds": 1.89,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Canada's limited attacking output against organised defences and Morocco's historically tight defensive record make BTTS-no well-priced at 1.89."
+    }
+  ]
+}

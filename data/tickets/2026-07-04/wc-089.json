@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-089",
+  "date": "2026-07-04",
+  "home": "Paraguay",
+  "away": "France",
+  "kickoff_utc": "2026-07-04T21:00:00Z",
+  "stage": "ROUND_OF_16",
+  "group": null,
+  "venue": "Lincoln Financial Field, Philadelphia",
+  "analysis": {
+    "summary": "France arrive as tournament heavyweights and one of the title favourites, having won all four matches with 13 goals scored and just two conceded. Paraguay are the tournament's great upsetters, eliminating Germany in penalties after a 1-1 draw, but their attacking output has been modest (3 goals in 4 games) and they have relied on goalkeeper Orlando Gill's heroics and an organised low block. The quality gap between these sides is stark: France's attacking quartet of Mbappe, Dembele, Olise, and Barcola are firing together at a level that has dismantled every opponent in the tournament, while Paraguay's survival strategy depends on limiting chances and riding their luck. A comfortable France win is the overwhelming probability.",
+    "home_form": "Paraguay qualified from Group D in third place with 4 points (4-1 loss to USA, 1-0 win vs Turkey, 0-0 draw with Australia). In the Round of 32, they beat Germany 4-3 on penalties after a 1-1 draw through 120 minutes. Julio Enciso scored their tournament goal vs Germany. Goalkeeper Orlando Gill made six saves in 120 minutes and saved two penalties in the shootout. Paraguay's tactical approach is a compact 4-4-2 block, defending deep, targeting set pieces through captain Gustavo Gomez, and relying on a rare counter or individual moment from Enciso.",
+    "away_form": "France topped Group I with a perfect record: 3-1 vs Senegal, 3-0 vs Iraq, 4-1 vs Norway. They beat Sweden 3-0 in the Round of 32 with Mbappe scoring twice and Olise providing two assists. France have scored three or more goals in all four tournament matches, a record for any side in World Cup history. Mbappe has 6 goals in the tournament. The preferred lineup is a 4-2-3-1 with Mbappe as a centre-forward supported by Dembele, Olise, and Barcola, with no confirmed absences ahead of this fixture.",
+    "h2h": "France lead the all-time head-to-head 3W-2D-0L. In World Cup meetings, France won 7-3 in the 1958 group stage and 1-0 via Laurent Blanc's golden goal in the 1998 Round of 16 (114th minute). France have never lost to Paraguay.",
+    "injuries_news": [
+      "Paraguay CB Omar Alderete (knee) did not start against Germany and remains a doubt; Jose Canale started in his place. Status unconfirmed for France match.",
+      "Paraguay MF Diego Gomez is expected to return to midfield after being managed carefully in the Germany fixture.",
+      "France: no confirmed injuries or suspensions. Deschamps is expected to name an unchanged XI from the Sweden Round of 32 win.",
+      "France GK Mike Maignan fit and playing. William Saliba recovered from his earlier back issue and has been a regular starter throughout."
+    ],
+    "key_factors": [
+      "France have scored 3+ goals in every tournament match; Paraguay concede on average across their four games. The one-sided possession and pressure dynamic favours France heavily.",
+      "Paraguay's only realistic route to an upset is a penalty shootout. Their goalkeeper Orlando Gill is in outstanding form (6 saves + 2 penalty saves vs Germany) and their defensive discipline could drag this to ET.",
+      "Michael Olise (12 tournament corners taken), Ousmane Dembele (7), and Kylian Mbappe (3) generate corners from wide positions constantly. With Paraguay defending deep, France will concede many defensive clearances from wide positions, generating corner volume.",
+      "Against Germany, the corner count was 22 in total (Germany 16, Paraguay 6) as Germany pressed relentlessly late. France's approach will be more controlled but their wide-attacking style still generates high corner numbers (France took 9 alone vs Sweden).",
+      "July 4 in Philadelphia: estimated temperatures around 28-32C. Hot conditions slightly favour South American sides physically but France's depth means they can rotate intensity without sacrificing quality.",
+      "Paraguay have not scored more than once in any single match in this tournament (USA game was 1-4, ie they scored once). BTTS requires Paraguay to score against a France side that has kept clean sheets in half their matches.",
+      "Both sides have had 4-5 days rest since their Round of 32 matches (Paraguay: June 29, France: June 30). No meaningful rest disadvantage."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.08,
+      "draw": 0.00,
+      "away": 0.92
+    },
+    "predicted_score": "0-3",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.65,
+    "btts_yes": 0.28,
+    "corners_9.5_over": 0.57
+  },
+  "value_notes": "Market-implied probabilities (normalized from DNB odds home 13.00 / away 1.05): Paraguay ~7.5%, France ~92.5%. Model: Paraguay 8%, France 92% — essentially in line with the market; no edge on the h2h. Totals over 2.5: model 65% vs market-implied 61.4% (1/1.63); edge 0.037 — below the 0.05 threshold. France's 4-from-4 over-2.5 record in this tournament supports the lean, but Paraguay's defensive structure (Germany scored only once vs them) tempers conviction. BTTS no: model 72% vs market-implied 67.6% (1/1.48); edge 0.044 — also below 0.05 threshold. Paraguay has scored in only half their games, France holds a 50% clean-sheet rate; this is the nearest near-miss to a qualifying value selection. Corners over 9.5: model 57% vs market-implied 53.5% (1/1.87); edge 0.035 — below 0.05 threshold. France's wide-attacking style and Paraguay's deep block support a corners-heavy match but not at the line and juice currently offered. No selection reaches the required 0.05 edge threshold. The ticket-builder should produce zero qualifying bets from this match.",
+  "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760489/paraguay-germany",
+    "https://www.espn.com/soccer/story/_/id/49230019/kylian-mbappe-france-sweden-world-cup-knockout-goal-record-2026",
+    "https://www.aljazeera.com/sports/2026/6/30/mbappe-and-barcola-score-as-france-shine-in-2-0-world-cup-defeat-of-sweden",
+    "https://www.sportsmole.co.uk/football/paraguay/head-to-head/paraguay-vs-france-head-to-head-record-and-past-meetings_600507.html",
+    "https://www.rotowire.com/soccer/article/paraguay-vs-france-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-120852",
+    "https://www.rotowire.com/soccer/article/2026-world-cup-penalty-corner-and-free-kick-takers-by-team-114076",
+    "https://www.rotowire.com/soccer/headlines/omar-alderete-injury-not-starting-vs-germany-521601",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-emotional-story-behind-orlando-gill-paraguay-s-hero-in-the-penalty-shootout-against-germany-2026-07-02",
+    "https://sports.yahoo.com/articles/france-vs-paraguay-world-cup-230119095.html",
+    "https://www.covers.com/world-cup/france-vs-paraguay-prediction-picks-odds-saturday-7-4-2026",
+    "https://sportsbook.fanduel.com/navigation/fifa-world-cup",
+    "https://tips.gg/article/paraguay-head-to-head-france-wc2026/",
+    "https://www.espn.com/soccer/story/_/id/49227768/france-sweden-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.espn.com/soccer/story/_/id/49217994/germany-vs-paraguay-live-2026-world-cup-round-32-updates"
+  ],
+  "generated_at": "2026-07-04T10:45:00Z"
+}
