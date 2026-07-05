@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-05",
+  "collected_at": "2026-07-05T13:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-090",
+      "h2h": {
+        "home": 1.37,
+        "away": 3.10
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.74,
+        "under": 2.16
+      },
+      "btts": {
+        "yes": 1.60,
+        "no": 2.30
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760504",
+        "https://dknetwork.draftkings.com/2026/06/30/world-cup-2026-brazil-vs-norway-odds/",
+        "https://www.fanduel.com/research/brazil-vs-norway-prediction-picks-lineups-preview-and-best-bets-tomorrow-world-cup",
+        "https://www.rotowire.com/soccer/article/brazil-vs-norway-picks-tips-odds-best-bets-2026-world-cup-round-of-16-121152"
+      ]
+    },
+    {
+      "match_id": "wc-091",
+      "h2h": {
+        "home": 2.12,
+        "away": 1.74
+      },
+      "dnb": {
+        "home": 2.22,
+        "away": 1.69
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.45,
+        "under": 1.59
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.83
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760505",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/mexico-v-england-35780302",
+        "https://www.foxsports.com/stories/soccer/world-cup-mexico-odds",
+        "https://dknetwork.draftkings.com/2026/07/01/opening-odds-for-england-vs-mexico-in-the-fifa-2026-world-cup/"
+      ]
+    }
+  ]
+}

@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.83,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 27.45,
+      "settled_at": "2026-07-05T07:45:06Z",
       "rationale": "Morocco's dominant head-to-head record over Canada, superior tournament form, and Saibari's finishing form give the Atlas Lions compelling value at 1.83 to advance."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 1.89,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 18.9,
+      "settled_at": "2026-07-05T07:45:06Z",
       "rationale": "Canada's limited attacking output against organised defences and Morocco's historically tight defensive record make BTTS-no well-priced at 1.89."
     }
   ]

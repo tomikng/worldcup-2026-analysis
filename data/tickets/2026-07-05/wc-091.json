@@ -1,0 +1,67 @@
+{
+  "match_id": "wc-091",
+  "date": "2026-07-05",
+  "home": "Mexico",
+  "away": "England",
+  "kickoff_utc": "2026-07-06T00:00:00Z",
+  "stage": "ROUND_OF_16",
+  "group": null,
+  "venue": "Estadio Azteca, Mexico City",
+  "analysis": {
+    "summary": "Mexico enter as the tournament's form team with four wins and zero goals conceded, playing at the high-altitude Estadio Azteca where they have never lost a World Cup match. England topped Group L and beat DR Congo 2-1 in the Round of 32 but were unimpressive, needed two late Kane headers to rescue the tie, and face a severe physiological disadvantage having arrived in Mexico City only approximately 49 hours before kickoff — insufficient time to acclimatize to the 2,240m altitude. Mexico's defensive organisation, home-crowd atmosphere, and the altitude factor tilt this fixture in El Tri's favour despite England carrying greater individual quality on paper.",
+    "home_form": "Mexico won all four World Cup 2026 matches without conceding a single goal: 2-0 vs South Africa (GS), 1-0 vs South Korea (GS), 3-0 vs Czech Republic (GS), 2-0 vs Ecuador (R32). Julián Quiñones leads with 3 goals and 1 assist; Raúl Jiménez has 2 goals; Roberto Alvarado has 3 assists — the most by a Mexican player in a single World Cup edition. All matches played at Estadio Azteca with massive home support.",
+    "away_form": "England won Group L: 4-2 vs Croatia, 0-0 vs Ghana, 2-0 vs Panama, then survived vs DR Congo 2-1 in the Round of 32 after conceding in the 7th minute before two late Harry Kane headers. Kane has 4 goals at this tournament (11 total WC goals, England all-time record). Jude Bellingham was dangerous vs DR Congo but denied three times. Bukayo Saka has been managing an injury and entered only as a substitute in the last match. England have looked inconsistent, particularly in the second halves of matches.",
+    "h2h": "This will be the 10th all-time meeting and second ever World Cup clash. Overall England lead 6W-1D-2L, but Mexico has never lost to England on Mexican soil: Mexico won 1-0 at Azteca in 1985 and drew 0-0 at Azteca in 1969. The only prior World Cup meeting was England 2-0 Mexico in 1966 (played in England). Mexico's home record vs England historically underlines the significance of playing at Azteca.",
+    "injuries_news": [
+      "England: Reece James (unspecified, out for tournament), Jarell Quansah (ankle injury sustained vs Panama, out vs Mexico), Bukayo Saka (managing injury, likely to start but not at full fitness per DR Congo match).",
+      "England: Declan Rice has reported hamstring tightness after the DR Congo match but is expected to start — a key availability concern given his importance to England's midfield structure.",
+      "Mexico: No confirmed injuries or suspensions heading into the Round of 16."
+    ],
+    "key_factors": [
+      "Altitude: Estadio Azteca sits at 2,240m (7,220 feet). England arrived approximately 49 hours before kickoff — FIFA research indicates teams should either fully acclimatize (10+ days) or arrive on matchday; England have neither option. The estimated physiological penalty is a 3-4% reduction in aerobic output, worth roughly half a goal advantage to Mexico per 1,000m of altitude.",
+      "Mexico's World Cup Azteca fortress: Mexico have played 10 World Cup matches at Estadio Azteca and never lost. The crowd effect, combined with altitude, creates an almost unique advantage in knockout football.",
+      "Mexico's defensive record is exceptional: 4 clean sheets across 4 World Cup matches is the best defensive record in the tournament. England (Croatia 4-2, DR Congo 2-1) have shown vulnerability at both ends.",
+      "England's defensive absences: Quansah (ankle) and James are both unavailable, weakening England's backline quality against Mexico's dangerous wide attackers Quiñones and Alvarado.",
+      "Harry Kane aerial threat: Despite altitude affecting aerobic capacity, Kane's heading ability (3 headed goals at this tournament) could be exploited from set-pieces — Mexico must be alert to England's dead-ball delivery.",
+      "England's inconsistency: The Three Lions were outplayed for long spells by DR Congo and needed a heroic Kane cameo; altitude will further compound their ability to maintain high pressing intensity across 90 minutes."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.53,
+      "draw": 0.0,
+      "away": 0.47
+    },
+    "predicted_score": "1-0",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.36,
+    "btts_yes": 0.40
+  },
+  "value_notes": "Market-implied probabilities (normalized, removing overround): Mexico advances 0.451, England advances 0.549. My model: Mexico 0.530, England 0.470. Edge on Mexico to advance: +0.079 (exceeds 0.05 threshold). Key drivers the market underweights: (1) England's severe altitude disadvantage with only ~49 hours to acclimatize to 2,240m — a documented 3-4% aerobic performance penalty; (2) Mexico's historically perfect World Cup record at Azteca (10 played, 0 lost); (3) Mexico's exceptional tournament defensive record (4 clean sheets); (4) England's injury-weakened defense (Quansah, James both out) and Rice's fitness concerns. For totals: model gives over 2.5 at 0.36 vs market-implied 0.393 — no meaningful edge. For btts: model gives btts_yes 0.40 vs market-implied 0.484 — edge on btts_no of +0.084, supported by Mexico's 4 consecutive clean sheets and altitude reducing England's offensive output, though England's individual quality (Kane, Bellingham) means this is not a lock.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.givemesport.com/mexico-record-estadio-azteca/",
+    "https://www.espn.com/soccer/story/_/id/48539270/england-route-2026-world-cup-final-road-knockouts-group-l-mexico-brazil-argentina-france-spain-portugal",
+    "https://www.skysports.com/football/news/11095/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7-000-feet",
+    "https://www.espn.com/soccer/story/_/id/49260461/how-england-overcome-mexico-altitude-world-cup-round-16",
+    "https://www.forbes.com/sites/marshallshepherd/2026/07/03/elevation-or-altitude-englands-world-cup-challenge-in-mexico/",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-azteca-altitude-england-disadvantage-mexico-clash",
+    "https://www.si.com/soccer/mexico-vs-england-head-to-head-record",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/head-to-head/mexico-vs-england-head-to-head-record-and-past-meetings_600615.html",
+    "https://www.khelnow.com/football/mexico-vs-england-head-to-head-fifa-world-cup-2026",
+    "https://www.englandfootball.com/articles/2026/Jul/02/app-england-mexico-world-cup-stat-pack-20260207",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/mexico-vs-england-injury-suspension-list-predicted-xis_600613.html",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/injuries-and-suspensions/rice-james-quansah-latest-england-injury-suspension-list-vs-mexico_600617.html",
+    "https://www.skysports.com/football/news/11095/13558802/world-cup-2026-england-2-1-dr-congo-harry-kane-scores-twice-as-three-lions-come-from-behind-to-set-up-last-16-tie-against-co-hosts-mexico",
+    "https://www.espn.com/soccer/match/_/gameId/760491/ecuador-mexico",
+    "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie",
+    "https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup",
+    "https://theanalyst.com/articles/mexico-vs-england-prediction-world-cup-2026-match-preview",
+    "https://www.tntsports.co.uk/betting/tips/mexico-vs-england-prediction-tips-and-odds-world-cup-2026/",
+    "https://www.espn.com/soccer/odds/_/gameId/760505",
+    "https://www.olympics.com/en/news/fifa-world-cup2026-harry-kane-england-all-time-top-scorer"
+  ],
+  "generated_at": "2026-07-05T10:30:00Z"
+}

@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-090",
+  "date": "2026-07-05",
+  "home": "Brazil",
+  "away": "Norway",
+  "kickoff_utc": "2026-07-05T20:00:00Z",
+  "stage": "ROUND_OF_16",
+  "group": null,
+  "venue": "MetLife Stadium, East Rutherford",
+  "analysis": {
+    "summary": "Brazil enter as clear favourites having topped Group C (W2 D1, 7 goals scored, 1 conceded) and edging Japan 2-1 late in the Round of 32. Norway finished second in Group I — thrashing Iraq 4-1 and beating Senegal 3-2 before a heavy 4-1 loss to France — then squeezed past Ivory Coast 2-1 courtesy of a late Haaland winner. The h2h hoodoo (Norway unbeaten in all 4 prior meetings including a 1998 World Cup upset) adds intrigue, but a significant quality gap and Brazil's superior defensive structure still make them comfortable favourites. Paqueta's tournament-ending thigh injury is the main concern for Brazil, while Haaland (five tournament goals) is Norway's primary threat.",
+    "home_form": "Brazil topped Group C: drew 1-1 with Morocco (June 13), beat Haiti 3-0 (June 20) and Scotland 3-0 (June 24), then beat Japan 2-1 (Casemiro 56', Martinelli 90+5') in the Round of 32 on June 29. Attack led by Vinicius Jr. and Matheus Cunha; Alisson's defence conceded only once in 4 games. Manager: Carlo Ancelotti.",
+    "away_form": "Norway won Group I runner-up spot: beat Iraq 4-1 (June 16), beat Senegal 3-2 (June 22), then lost 4-1 to France (June 26). Beat Ivory Coast 2-1 in Round of 32 (Nusa 39', Haaland 86') on June 30. Haaland has scored 5 goals in 4 tournament matches. Defense has conceded in every game (8 group-stage goals allowed, 1 in Round of 32).",
+    "h2h": "Four all-time meetings; Norway unbeaten (W2 D2, L0). 1988: draw (friendly). 1997: Norway 4-2 Brazil (friendly). 1998: Norway 2-1 Brazil (1998 World Cup group stage — Rekdal penalty in 89'). 2006: 1-1 draw (friendly). Brazil have never beaten Norway in a competitive fixture, though all meetings predate the current generations.",
+    "injuries_news": [
+      "Brazil — Lucas Paqueta: RULED OUT with thigh injury sustained in Japan match, expected to miss tournament unless Brazil reach final.",
+      "Brazil — Raphinha: doubtful (hamstring), has resumed individual training; may make bench.",
+      "Brazil — Neymar: could return to starting XI after playing only 14 minutes of the tournament.",
+      "Brazil — Casemiro: minor knock from Japan match but expected to feature.",
+      "Norway — Julian Ryerson: RULED OUT with thigh injury."
+    ],
+    "key_factors": [
+      "Paqueta's absence removes Brazil's chief creative-midfield link; Ancelotti likely reshuffles to a more defensive midfield block.",
+      "Haaland (5 goals, all 4 Norway matches) is the single biggest danger — Brazil have no confirmed 'anti-Haaland plan' per Ancelotti's press conference.",
+      "Norway's defence has been porous all tournament (9 conceded in 4 games, BTTS in every match) — favours over-2.5 and BTTS outcomes.",
+      "Norway's historical unbeaten record against Brazil provides psychological edge but most meetings are over 16 years old.",
+      "MetLife is a closed dome; heat and altitude are non-factors, making a fluid, high-tempo game more likely.",
+      "Brazil have 5 days rest (beat Japan June 29); Norway have 4 days rest (beat Ivory Coast June 30) — minimal fatigue advantage."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.52,
+      "draw": 0.27,
+      "away": 0.21
+    },
+    "predicted_score": "2-1",
+    "confidence": 0.63
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.63,
+    "btts_yes": 0.68
+  },
+  "value_notes": "Market-implied advancement probabilities (h2h, post-ET): Brazil 0.730 (1/1.37), Norway 0.323 (1/3.10). My post-ET estimates: Brazil ~0.70, Norway ~0.30 — model is fractionally below market on both sides, so no h2h edge. For totals_2.5_over: market implied 0.575 (1/1.74); my model 0.63 — edge +0.055 (≥0.05 threshold met). Norway went over 2.5 total goals in 3 of 4 tournament matches; Brazil went over in 3 of 4; both attacks are genuine threats. For btts_yes: market implied 0.625 (1/1.60); my model 0.68 — edge +0.055 (≥0.05 threshold met). Norway has recorded BTTS in all four tournament games including vs France; Brazil BTTS in both competitive-level matches (Morocco, Japan). Selections with flagged edge: totals_2.5_over (+0.055) and btts_yes (+0.055).",
+  "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760487/japan-brazil",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021516",
+    "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
+    "https://www.skysports.com/football/news/12098/13558812/world-cup-2026-ivory-coast-1-2-norway-erling-haaland-scores-dramatic-winner-to-set-up-last-16-clash-with-brazil",
+    "https://www.espn.com/soccer/story/_/id/49227955/norway-ivory-coast-erling-haaland-world-cup-match-report-last-32",
+    "https://sports.yahoo.com/articles/hoodoo-brazil-never-beaten-norway-193200997.html",
+    "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/head-to-head/brazil-vs-norway-head-to-head-record-and-past-meetings_600633.html",
+    "https://www.goal.com/en/lists/bruno-guimaraes-erling-haaland-martin-odegaard-brazil-norway-world-cup/blt3c7b27e4ac632e8a",
+    "https://worldsoccertalk.com/world-cup/neymar-could-return-to-the-starting-team-as-brazil-rule-out-lucas-paqueta-for-round-of-16-clash-vs-norway/",
+    "https://www.caughtoffside.com/2026/07/02/brazil-hit-with-injury-blow-as-second-starter-is-ruled-out-of-norway-world-cup-clash/",
+    "https://www.espn.com/soccer/story/_/id/49256507/brazil-vs-norway-fifa-world-cup-2026-tv-channel-how-watch-kickoff-live-stream-injury-predicted-lineups",
+    "https://www.espn.com/soccer/odds/_/gameId/760504",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I"
+  ],
+  "generated_at": "2026-07-05T10:30:00Z"
+}
