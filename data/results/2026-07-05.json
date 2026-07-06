@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-05",
+  "source": "web-research",
+  "fetched_at": "2026-07-06T08:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-090",
+      "home": "Brazil",
+      "away": "Norway",
+      "home_goals": 1,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 0,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760504/norway-brazil",
+        "https://www.cbssports.com/soccer/news/brazil-norway-live-updates-world-cup-2026-score-result/live/",
+        "https://www.nbcsports.com/soccer/live/brazil-vs-norway-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-july-5"
+      ]
+    },
+    {
+      "match_id": "wc-091",
+      "home": "Mexico",
+      "away": "England",
+      "home_goals": 2,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 6,
+      "home_reds": 0,
+      "away_reds": 1,
+      "home_corners": 8,
+      "away_corners": null,
+      "notes": "Match delayed ~1 hour due to thunderstorm; actual kickoff approx 01:00 UTC July 6. England won with 10 men from 54' after Quansah red card.",
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760505/england-mexico",
+        "https://www.cbssports.com/soccer/news/mexico-england-live-updates-world-cup-2026-score-result/live/",
+        "https://www.nbcsports.com/soccer/live/mexico-vs-england-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup"
+      ]
+    }
+  ]
+}

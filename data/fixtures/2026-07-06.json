@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-06",
+  "source": "web-research",
+  "fetched_at": "2026-07-06T08:10:00Z",
+  "matches": [
+    {
+      "match_id": "wc-092",
+      "kickoff_utc": "2026-07-06T19:00:00Z",
+      "stage": "ROUND_OF_16",
+      "group": null,
+      "home": "Portugal",
+      "away": "Spain",
+      "venue": "AT&T Stadium, Arlington, Texas"
+    },
+    {
+      "match_id": "wc-093",
+      "kickoff_utc": "2026-07-07T00:00:00Z",
+      "stage": "ROUND_OF_16",
+      "group": null,
+      "home": "USA",
+      "away": "Belgium",
+      "venue": "Lumen Field, Seattle, Washington"
+    }
+  ]
+}

@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.74,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 8.7,
+      "settled_at": "2026-07-06T07:13:07Z",
       "rationale": "Norway's porous defence and Brazil's relentless attack make over 2.5 goals the play with a clear 5.5-point edge over the book."
     },
     {
@@ -33,16 +33,16 @@
           "market": "btts",
           "selection": "yes",
           "line": null,
-          "odds": 1.60,
+          "odds": 1.6,
           "model_prob": 0.68,
           "edge": 0.055,
           "rationale": "Norway registered BTTS in all four tournament matches including against France; Brazil conceded in both competitive-level fixtures — model puts BTTS-yes at 68% versus market-implied 62.5%."
         }
       ],
-      "combined_odds": 1.60,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 1.6,
+      "status": "won",
+      "payout": 8.0,
+      "settled_at": "2026-07-06T07:13:07Z",
       "rationale": "Norway's inability to keep a clean sheet all tournament combined with Brazil's two-way open games gives a reliable BTTS-yes edge."
     },
     {
@@ -62,9 +62,9 @@
         }
       ],
       "combined_odds": 2.12,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-06T07:13:07Z",
       "rationale": "The market underweights Mexico's altitude fortress and England's documented physiological penalty — best edge of the day at 5.8 points."
     },
     {
@@ -78,15 +78,15 @@
           "selection": "no",
           "line": null,
           "odds": 1.83,
-          "model_prob": 0.60,
+          "model_prob": 0.6,
           "edge": 0.054,
           "rationale": "Mexico's four consecutive clean sheets and England's aerobic-output penalty at 2,240m altitude (estimated 3-4% reduction) put BTTS-no at 60% versus market-implied 54.6%."
         }
       ],
       "combined_odds": 1.83,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-06T07:13:07Z",
       "rationale": "Mexico's exceptional defensive record this tournament and altitude-impaired England attack support BTTS-no at a 5.4-point edge."
     }
   ]
