@@ -1,0 +1,64 @@
+{
+  "match_id": "wc-092",
+  "date": "2026-07-06",
+  "home": "Portugal",
+  "away": "Spain",
+  "kickoff_utc": "2026-07-06T19:00:00Z",
+  "stage": "ROUND_OF_16",
+  "group": null,
+  "venue": "AT&T Stadium, Arlington, Texas",
+  "analysis": {
+    "summary": "Portugal and Spain meet in an Iberian heavyweight clash at AT&T Stadium in the Round of 16. Spain arrive as the tournament's most complete side, unbeaten in 34 matches and the only team yet to concede a goal across four World Cup games, while Portugal have been inconsistent and needed a Ramos stoppage-time winner to edge past Croatia in the Round of 32. Spain are clear favorites on form, but Portugal's 2024-25 Nations League Final victory over this same opponent on penalties adds genuine uncertainty should the game go deep.",
+    "home_form": "Portugal finished second in Group K (5 pts) after a 1-1 draw with DR Congo, a 5-0 win over Uzbekistan (Ronaldo scored twice), and a 0-0 draw with Colombia. In the Round of 32 on July 3 they trailed Croatia 0-1 before Ronaldo converted a penalty in the 68th minute and Ramos headed a winner in the 90th+4 to escape 2-1. Portugal have averaged only 3.8 shots on target per game — below the level expected of a top-eight contender — and despite controlling 61% possession across five matches their attack has been ponderous.",
+    "away_form": "Spain topped Group H with 7 points: 0-0 vs Cape Verde, 4-0 vs Saudi Arabia, 1-0 vs Uruguay, then dismantled Austria 3-0 in the Round of 32 on July 2 (Oyarzabal brace, Porro). They have kept four consecutive clean sheets — the first time Spain have done so across four World Cup games — and are unbeaten across their last 34 competitive matches. Joint-top scorer Mikel Oyarzabal has four tournament goals; Lamine Yamal supplies consistent width from the right.",
+    "h2h": "Spain lead the all-time series 17 wins to 6 wins for Portugal (18 draws) across 41 meetings. In four recent competitive meetings the average has been 3.3 goals per game. Memorable encounters include the 2018 World Cup 3-3 (Ronaldo hat-trick) and the 2024-25 UEFA Nations League Final where Portugal won on penalties after a 1-1 draw, with Ronaldo scoring the 61st-minute equalizer. Ronaldo has scored four career goals against Spain, joint-most of any player. Recent competitive head-to-head is effectively balanced.",
+    "injuries_news": [
+      "Spain: Nico Williams (right adductor injury suffered vs Uruguay) did not start vs Austria but was named on the bench; he is reported to be trending toward available for this match and may feature.",
+      "Spain: Yeremy Pino (collar bone injury) is expected to miss the remainder of the tournament.",
+      "Portugal: No confirmed injuries or suspensions entering this fixture."
+    ],
+    "key_factors": [
+      "Spain's tournament-best defensive record — four clean sheets with no goals conceded — will test Portugal's underwhelming attack (3.8 shots on target per game).",
+      "Cristiano Ronaldo's personal motivation ('this will be my last World Cup') and his four career goals against Spain introduce an emotional wildcard; he scored the late equalizer in the 2024-25 Nations League Final vs this opponent.",
+      "Both teams average over 60% possession: the midfield duel between Rodri/Pedri and Vitinha/Joao Neves/Bruno Fernandes is likely to define attacking opportunities.",
+      "Potential return of Nico Williams would give Spain an additional width option against Portugal's right side (Cancelo) and increase their goal threat.",
+      "Rest advantage is negligible: Spain played July 2, Portugal July 3 — both have three days' recovery.",
+      "AT&T Stadium in Arlington is a neutral indoor venue with no altitude or weather concern; conditions are equal.",
+      "Portugal beat Spain on penalties in the 2024-25 Nations League Final — if this match goes to a shootout, Portugal's recent penalty record is an asset."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.36,
+      "draw": 0.00,
+      "away": 0.64
+    },
+    "predicted_score": "1-2",
+    "confidence": 0.72
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.45,
+    "totals_2.5_under": 0.55,
+    "btts_yes": 0.45,
+    "btts_no": 0.55
+  },
+  "value_notes": "Market-implied 90-min probabilities (overround removed): Portugal 0.231, Draw 0.263, Spain 0.506. My model provides full-match probabilities (including extra time) because this is a knockout fixture — direct comparison of my 0.36/0.64 against the 90-min odds is not like-for-like, so no h2h edge is flagged here. On side markets: btts_no shows the clearest edge — my model assigns 0.55 probability vs market implied 0.421 (odds 2.24), edge +0.129, above the 0.05 threshold. This is grounded in Spain's four clean sheets and Portugal's tepid shot-on-target rate of 3.8 per game. totals_2.5_under also shows a modest edge: my model 0.55 vs market implied 0.494 (odds 2.00), edge +0.056. No actionable edge found on btts_yes (my 0.45 < market implied 0.579) or totals over (my 0.45 < market implied 0.507). No Polymarket data available for this fixture.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://www.espn.com/soccer/story/_/id/49278881/cristiano-ronaldo-world-cup-2026-portugal",
+    "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+    "https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49200729/spain-nico-williams-injury-yeremy-pino-2026-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49266158/fifa-world-cup-2026-portugal-vs-spain-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+    "https://www.skysports.com/football/news/11095/13558808/world-cup-2026-portugal-2-1-croatia-cristiano-ronaldos-dreams-survive-after-late-var-drama-forces-luka-modric-farewell",
+    "https://www.aljazeera.com/sports/2026/7/5/world-cup-portugal-vs-spain-key-talking-points-ronaldo-yamal-prediction",
+    "https://theanalyst.com/articles/portugal-vs-spain-prediction-world-cup-2026-match-preview",
+    "https://www.si.com/soccer/portugal-vs-spain-head-to-head-record",
+    "https://sports.yahoo.com/articles/spain-vs-portugal-history-european-021258469.html",
+    "https://sports.yahoo.com/articles/spain-xi-vs-portugal-confirmed-185630668.html",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021526",
+    "https://www.foxsports.com/stories/soccer/yamal-vs-ronaldo-part-2-spain-portugal-meet-world-cup-round-16"
+  ],
+  "generated_at": "2026-07-06T12:30:00Z"
+}
