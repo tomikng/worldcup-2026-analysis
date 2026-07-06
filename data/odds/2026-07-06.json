@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-06",
+  "collected_at": "2026-07-06T14:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-092",
+      "h2h": {
+        "home": 4.10,
+        "draw": 3.60,
+        "away": 1.87
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.95,
+        "under": 2.00
+      },
+      "btts": {
+        "yes": 1.63,
+        "no": 2.24
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/portugal-v-spain-35784105",
+        "https://www.espn.com/soccer/odds/_/gameId/760506",
+        "https://www.cbssports.com/soccer/news/spain-portugal-odds-prediction-time-2026-world-cup-round-16-picks/",
+        "https://sports.yahoo.com/articles/spain-vs-portugal-predictions-odds-110000105.html"
+      ]
+    },
+    {
+      "match_id": "wc-093",
+      "h2h": {
+        "home": 2.65,
+        "draw": 3.45,
+        "away": 2.60
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.67,
+        "under": 2.25
+      },
+      "dnb": {
+        "home": 1.95,
+        "away": 1.91
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/usa-v-belgium-35780854",
+        "https://sports.yahoo.com/soccer/betting/article/world-cup-2026-odds-usmnt-opens-as-small-favorite-vs-belgium-in-round-of-16-165955306.html",
+        "https://www.oddschecker.com/us/soccer/world-cup/usa-v-belgium",
+        "https://www.cbssports.com/soccer/news/united-states-belgium-odds-prediction-time-2026-world-cup-round-of-16-picks/",
+        "https://www.vegasinsider.com/soccer/usa-belgium-odds-world-cup-2026/",
+        "https://www.rotowire.com/soccer/article/usa-vs-belgium-picks-tips-odds-best-bets-2026-world-cup-round-of-16-121309"
+      ]
+    }
+  ]
+}
