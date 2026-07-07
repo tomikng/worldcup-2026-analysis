@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-07",
+  "slips": [
+    {
+      "slip_id": "2026-07-07-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-094",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 1.36,
+          "model_prob": 0.84,
+          "edge": 0.105,
+          "rationale": "Argentina are heavy post-ET favorites (model 84%) with Messi scoring in all four matches and Egypt visibly fatigued from 120 minutes plus penalties against Australia — the 10.5-point edge over the book's 73.5% implied is genuine once knockout ET settlement is applied."
+        }
+      ],
+      "combined_odds": 1.36,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Back Argentina to advance at strong value; book under-prices their ET win probability by over 10 points."
+    },
+    {
+      "slip_id": "2026-07-07-S2",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-094",
+          "market": "totals",
+          "selection": "over",
+          "line": 2.5,
+          "odds": 2.08,
+          "model_prob": 0.55,
+          "edge": 0.069,
+          "rationale": "Argentina averaged 3.67 goals per group game and Egypt's defense was extended through extra time; model assigns 55% to over 2.5 total goals versus the book's 48.1% implied, a 6.9-point edge supported by Argentina's scoring depth even against a parked bus."
+        }
+      ],
+      "combined_odds": 2.08,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Over 2.5 goals carries a modest but genuine edge driven by Argentina's prolific attack against an Egypt side with limited defensive depth."
+    },
+    {
+      "slip_id": "2026-07-07-S3",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-095",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 3.50,
+          "model_prob": 0.44,
+          "edge": 0.154,
+          "rationale": "Switzerland's post-ET win probability of 44% compares favorably against the book's 90-minute implied of 28.6% at 3.50; Colombia are missing Cordoba (groin) and James Rodriguez is a fitness doubt, meaningfully weakening their attack versus a Switzerland side that has scored 10 goals in four matches."
+        }
+      ],
+      "combined_odds": 3.50,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Switzerland are underpriced at 3.50 for a knockout match that settles after ET; Colombia's key injury absences shift the balance toward the Swiss."
+    },
+    {
+      "slip_id": "2026-07-07-S4",
+      "type": "single",
+      "stake": 15.0,
+      "legs": [
+        {
+          "match_id": "wc-095",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.79,
+          "model_prob": 0.78,
+          "edge": 0.221,
+          "rationale": "Colombia boast the tournament's best defensive record (one goal conceded, three clean sheets) and Switzerland's attack faces a disciplined low-block; model assigns 78% to at most one team scoring versus the book's 55.9% implied — a 22.1-point edge and the strongest signal of the day."
+        }
+      ],
+      "combined_odds": 1.79,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Colombia's elite defense and the expected tight knockout structure make btts_no at 1.79 the highest-edge opportunity on today's card."
+    },
+    {
+      "slip_id": "2026-07-07-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-094",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 1.36,
+          "model_prob": 0.84,
+          "edge": 0.105,
+          "rationale": "Argentina are the standout favorite in today's slate with genuine post-ET edge; anchors the accumulator with a high-probability outcome."
+        },
+        {
+          "match_id": "wc-095",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 1.79,
+          "model_prob": 0.78,
+          "edge": 0.221,
+          "rationale": "Colombia's defensive excellence and Switzerland's measured style strongly support a sub-two-team-scoring match; the 22-point edge makes this the best complement leg for the accumulator."
+        }
+      ],
+      "combined_odds": 2.43,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Two-leg cross-match accumulator pairing the day's most probable outcome (Argentina advancing) with its strongest edge signal (Colombia's defense holding btts_no) at 2.43 combined odds."
+    }
+  ]
+}

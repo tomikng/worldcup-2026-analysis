@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-06",
+  "source": "web-research",
+  "fetched_at": "2026-07-07T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-092",
+      "home": "Portugal",
+      "away": "Spain",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "notes": "Spain won 1-0 with Mikel Merino substitute goal at 90+1'. No extra time or penalties needed. Cristiano Ronaldo's final World Cup match.",
+      "home_cards": 2,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 3,
+      "away_corners": 7,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760506/spain-portugal",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-spain-match-report-highlights",
+        "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16",
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-portugal-vs-spain-round-16-score-lineups-live-updates",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-portugal-vs-spain-jul-06-2026-game-boxscore-607923"
+      ]
+    },
+    {
+      "match_id": "wc-093",
+      "home": "USA",
+      "away": "Belgium",
+      "home_goals": 1,
+      "away_goals": 4,
+      "status": "FINISHED",
+      "notes": "Belgium won 4-1. Goals: De Ketelaere (9', 33'), Vanaken (57'), Lukaku (90+3'); USA: Tillman (31'). No extra time needed. Pre-match controversy: FIFA suspended Balogun's red-card ban from prior match allowing him to play.",
+      "home_cards": 2,
+      "away_cards": null,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760507/belgium-united-states",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021534",
+        "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16",
+        "https://www.nbcsports.com/soccer/live/usa-vs-belgium-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-july-6"
+      ]
+    }
+  ]
+}

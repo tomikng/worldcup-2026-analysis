@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-07",
+  "collected_at": "2026-07-07T11:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-094",
+      "h2h": {"home": 1.36, "draw": 4.70, "away": 10.00},
+      "totals": {"line": 2.5, "over": 2.08, "under": 1.81},
+      "btts": {"yes": 2.40, "no": 1.54},
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/argentina-v-egypt-35787218",
+        "https://www.foxsports.com/stories/soccer/2026-world-cup-round-16-odds",
+        "https://dknetwork.draftkings.com/2026/07/03/world-cup-2026-argentina-vs-egypt-opening-odds-2/",
+        "https://sports.yahoo.com/articles/argentina-vs-egypt-predictions-odds-100000298.html",
+        "https://www.espn.com/soccer/odds/_/gameId/760509"
+      ]
+    },
+    {
+      "match_id": "wc-095",
+      "h2h": {"home": 3.50, "draw": 3.10, "away": 2.25},
+      "totals": {"line": 2.5, "over": 2.30, "under": 1.61},
+      "btts": {"yes": 2.10, "no": 1.79},
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/switzerland-v-colombia-35787327",
+        "https://www.foxsports.com/stories/soccer/2026-world-cup-round-16-odds",
+        "https://www.espn.com/soccer/odds/_/gameId/760508",
+        "https://www.oddschecker.com/us/soccer/world-cup/switzerland-v-colombia",
+        "https://tips.gg/article/switzerland-vs-colombia-betting-odds/"
+      ]
+    }
+  ]
+}

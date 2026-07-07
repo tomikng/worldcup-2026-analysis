@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-094",
+  "date": "2026-07-07",
+  "home": "Argentina",
+  "away": "Egypt",
+  "kickoff_utc": "2026-07-07T16:00:00Z",
+  "stage": "ROUND_OF_16",
+  "group": null,
+  "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
+  "analysis": {
+    "summary": "Argentina enter as heavy favorites having topped Group J with a perfect 3-0-0 record (11 goals scored, 4 conceded), including Messi hat-tricks and a narrow 3-2 extra-time survival against Cape Verde in the Round of 32. Egypt reached the Round of 16 as Group G runners-up but required a penalty shootout to eliminate Australia after 1-1 AET, making them the only surviving side that has not won a knockout game inside 120 minutes. The quality gulf is substantial, but Egypt have proven resilient and dangerous through set pieces and Mohamed Salah's individual quality.",
+    "home_form": "Argentina won all three group-stage matches: 3-0 vs Algeria (Messi hat-trick, his 16th-17th WC goals), 2-0 vs Austria (Messi 17th WC goal), and 3-1 vs Jordan (Lo Celso, Lautaro pen, Messi) — recording 11 goals in the group stage at 3.67 per game. In the Round of 32, they survived Cape Verde 3-2 AET (Messi, Lautaro, Romero OG) in what was the tournament's most difficult test so far for the reigning champions. Messi has scored in all four tournament matches and holds the all-time World Cup scoring record at 20 goals.",
+    "away_form": "Egypt drew 1-1 with Belgium (Group G), beat New Zealand 3-1 (Egypt's first ever WC group-stage win), drew 1-1 with Iran, then eliminated Australia 4-2 on penalties after a 1-1 AET draw in the Round of 32. Egypt have been reliable from set pieces (Emam Ashour header vs Australia) but their attacking play relies heavily on Mohamed Salah and Omar Marmoush. Their penalty shootout victory over Australia was historic — Egypt's first ever World Cup knockout win — but it exposed fatigue concerns heading into this tie.",
+    "h2h": "Argentina and Egypt have met twice at senior level: Argentina won 6-0 in the 1928 Olympic semi-finals and 2-0 in a 2008 friendly in Cairo (Aguero, Burdisso). Argentina have never lost to Egypt. The limited two-game sample (both comfortable Argentina wins) is too small to draw tactical conclusions, so tournament-era form and squad quality are the primary drivers.",
+    "injuries_news": [
+      "Argentina: Nicolas Gonzalez (ankle sprain) is doubtful; Nicolas Tagliafico is available as cover at left back. Gonzalez's late-game impact role may be curtailed.",
+      "Egypt: Ahmed El Fotouh (hamstring) and Mohamed Abdelmonem (ankle) are out. Mohamed Salah is reported to have managed a hamstring concern throughout the Australia match and appeared reluctant to sprint at full speed during 120+ minutes; he is expected to start but may not be at full intensity.",
+      "Karim Hafez (strain) is listed in Egypt's predicted lineup despite a reported knock; his availability is uncertain."
+    ],
+    "key_factors": [
+      "Messi's record-breaking form: scoring in all four matches with 20 career WC goals, he remains the defining attacking threat for Argentina and Egypt will need to contain him without committing too many bodies forward.",
+      "Egypt's fatigue disadvantage: Egypt played 120 minutes and a penalty shootout vs Australia on July 3, the same round-of-32 date as Argentina vs Cape Verde — both teams have had 4 days rest, but extra time and penalties exact a greater physical toll on Egypt's smaller squad depth.",
+      "Salah's fitness: Egypt's creative engine is not at full speed. Limiting his effectiveness removes Egypt's primary transition weapon and reduces their xG substantially.",
+      "Argentina's resilience under pressure: the Cape Verde scare showed Argentina can suffer, but they found winners in ET, suggesting mental and physical resilience in knockout conditions.",
+      "Referee Francois Letexier (France): Euro 2024 final referee, averages ~4.0 yellow cards per game across his career — a firm but controlled style. High-pressure match could push cards toward or above average.",
+      "Venue: Mercedes-Benz Stadium (retractable petal roof, climate-controlled interior) mitigates July Atlanta heat — the controlled environment tends to suit technically superior teams rather than physically determined sides."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.84,
+      "draw": 0.00,
+      "away": 0.16
+    },
+    "predicted_score": "2-0",
+    "confidence": 0.68
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.55
+  },
+  "value_notes": "Market-implied Argentina win after ET (converting 3-way 90-min odds via ET split): approximately 0.836; model gives 0.84 — essentially in line, no exploitable edge on the h2h market. The primary value signal is totals over 2.5 goals: model assigns 0.55 (Argentina xG ~2.3 given 2.75 goals/game tournament average and Egypt's defensive exposure; Egypt xG ~0.7, total lambda ~3.0) versus market-implied 0.466 (1/2.04 normalized for overround of 1.052), yielding an edge of +0.084 — above the 0.05 threshold. Argentina has scored 11 goals in 4 matches; even Egypt conceding at 1.0 per game in the group stage suggests their defense will be breached multiple times here. BTTS: model estimates 0.40 (P(ARG scores) ~0.90, P(EGY scores) ~0.45 given Salah fitness concern vs Argentina defense) against market-implied 0.385 — edge of only +0.015, below threshold; no bet recommended on btts.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-argentina-survives-against-cape-verde-in-extra-time-to-advance-004721136.html",
+    "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match",
+    "https://www.intermiamicf.com/news/match-preview-messi-and-de-paul-s-argentina-takes-on-egypt-in-the-round-of-16-of-the-fifa-world-cup-2026tm",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/australia-egypt-match-report-highlights",
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-buzz",
+    "https://onefootball.com/en/news/who-is-francois-letexier-the-french-ref-for-argentina-v-egypt-in-last-16-43103920",
+    "https://www.statshub.com/referee/francois-letexier/785114",
+    "https://sports.yahoo.com/soccer/article/world-cup-round-of-16-bracket-full-schedule-matchups-and-how-each-team-qualified-164942403.html",
+    "https://www.espn.com/soccer/match/_/gameId/760483/argentina-jordan",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/head-to-head/argentina-vs-egypt-head-to-head-record-and-past-meetings_600711.html"
+  ],
+  "generated_at": "2026-07-07T10:45:00Z"
+}

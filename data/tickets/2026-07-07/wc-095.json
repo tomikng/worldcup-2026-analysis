@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-095",
+  "date": "2026-07-07",
+  "home": "Switzerland",
+  "away": "Colombia",
+  "kickoff_utc": "2026-07-07T20:00:00Z",
+  "stage": "ROUND_OF_16",
+  "group": null,
+  "venue": "BC Place, Vancouver, British Columbia",
+  "analysis": {
+    "summary": "Switzerland and Colombia meet in Vancouver in an evenly matched Round of 16 tie, both sides unbeaten through four matches with identical records of three wins and a draw. Colombia bring the tournament's best defensive record — one goal conceded and three consecutive clean sheets — backed by the individual brilliance of Luis Diaz, while Switzerland counter with the most productive attack of any side in their bracket (10 goals in four matches, led by Breel Embolo and Dan Ndoye). Colombia's captain James Rodriguez exited at half-time against Ghana under a fitness cloud and Jhon Cordoba is ruled out with a groin injury, partially offsetting Colombia's slight market edge. The tactical picture strongly favours a tight, low-scoring contest; Colombia are marginal favourites to advance but this fixture has the look of an extra-time affair.",
+    "home_form": "Switzerland topped Group B (Qatar, Bosnia-Herzegovina, Canada) with a 1-1 draw against Qatar (June 13), then won 4-1 over Bosnia-Herzegovina (June 18) and 2-1 over Canada (June 24), before defeating Algeria 2-0 in the Round of 32 (July 2). Overall at World Cup 2026: W3 D1 L0, GF 10 GA 3. Granit Xhaka captains a compact, high-pressing side managed by Murat Yakin. Embolo leads the line and scored against Algeria; Ndoye has been the standout winger. Doubts: Michel Aebischer, Johan Manzambi, Djibril Sow, and Ruben Vargas listed as questionable; Luca Jaquez confirmed out.",
+    "away_form": "Colombia topped Group K (Uzbekistan, DR Congo, Portugal) with wins over Uzbekistan and DR Congo, plus a goalless draw against Portugal on June 27 that sealed first place. They defeated Ghana 1-0 in the Round of 32 (July 4), with Jhon Arias scoring an early goal from a Luis Suarez cross. Overall at World Cup 2026: W3 D1 L0, GF approximately 5, GA 1 (three clean sheets). Under Nestor Lorenzo, Colombia are defensively disciplined with Jefferson Lerma and Richard Rios anchoring the midfield block. Luis Diaz (Bayern Munich) is the chief attacking threat on the left flank; Daniel Munoz contributed two goals from right back in the group stage.",
+    "h2h": "Switzerland and Colombia have met four times in senior international football. Colombia lead the all-time head-to-head with two wins to Switzerland's one and one draw. Their only World Cup encounter was at USA 1994 (Group A), where Colombia won. The most recent meeting was a 2007 friendly in Miami, where Colombia won 3-1. Switzerland's sole win came in the 1991 Miami Cup (3-2). Colombia have scored five goals across their last two wins against Switzerland.",
+    "injuries_news": [
+      "Colombia: Jhon Cordoba (groin injury, substituted in the 8th minute vs Ghana) — confirmed out.",
+      "Colombia: James Rodriguez (left at half-time vs Ghana, possible illness or knock) — fitness uncertain; if absent Colombia lose primary creative hub.",
+      "Switzerland: Luca Jaquez — confirmed out.",
+      "Switzerland: Michel Aebischer, Johan Manzambi, Djibril Sow, Ruben Vargas — all listed as questionable."
+    ],
+    "key_factors": [
+      "Colombia's defence has been the best at this tournament — one goal conceded, three clean sheets, and just 0.07 xG per shot against — which should blunt Switzerland's prolific attack.",
+      "James Rodriguez's fitness is the pivotal unknown: if he is limited or absent, Colombia lack a natural creator to unlock Switzerland's organized defensive block.",
+      "Jhon Cordoba's absence removes Colombia's aerial threat and target-man option; Luis Suarez or Jaminton Campaz would need to fill in up front.",
+      "Switzerland have been the highest scorers in their half of the bracket (10 goals in 4 matches) and the pace of Ndoye and Embolo could test Colombia on transitions.",
+      "BC Place in Vancouver has an artificial turf-like indoor surface on FieldTurf — both squads will have adapted, but Colombia's South American players may be less accustomed to it.",
+      "Match is likely to be low-scoring and could go to extra time given both teams' defensive solidity and the absence of clear goal-scoring superiority on either side."
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.44,
+      "draw": 0.00,
+      "away": 0.56
+    },
+    "predicted_score": "0-1",
+    "confidence": 0.62
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.39,
+    "totals_2.5_under": 0.61,
+    "btts_yes": 0.22,
+    "btts_no": 0.78
+  },
+  "value_notes": "Market 90-minute 1X2 odds (normalized, overround 1.053): Switzerland 27.2%, draw 30.7%, Colombia 42.2%. Converted to full knockout advancing probability — distributing the 30.7% draw share proportionally to the two teams' relative 90-min strengths — the market implies Colombia advance ~59%, Switzerland ~41%. My model gives Colombia 56%, Switzerland 44%, a +3pp tilt toward Switzerland driven by James Rodriguez's fitness doubt and Cordoba's confirmed absence vs. the market. Comparing model knockout probs against raw h2h decimal odds as the settlement basis (CLAUDE.md settles h2h in knockouts after ET): Switzerland apparent edge = 0.44 - (1/3.50) = 0.44 - 0.286 = +0.154; Colombia apparent edge = 0.56 - (1/2.25) = 0.56 - 0.444 = +0.116. CAUTION: both apparent edges are largely structural — the bookmaker odds quote a 90-minute 1X2 result (with draw as a real option), while CLAUDE.md h2h settlement covers the result after extra time. After properly accounting for ET redistribution, the genuine model vs. market signal is only ~+3pp in favour of Switzerland advancing, which is below the 0.05 threshold. No h2h selection carries a verified fundamental edge >= 0.05. Totals under 2.5: model 0.61 vs. market implied 1/1.61 = 0.621 — no edge (-0.011). Totals over 2.5: model 0.39 vs. market implied 1/2.30 = 0.435 — no edge (-0.045). No market selection meets the >= 0.05 genuine edge threshold for this fixture.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye",
+    "https://www.espn.com/soccer/story/_/id/49264513/colombia-ghana-fifa-world-cup-2026-round-32",
+    "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal",
+    "https://www.101greatgoals.com/football/world-cup-news/colombia-ghana-report-result-goals-james-rodriguez/",
+    "https://theanalyst.com/articles/switzerland-vs-algeria-stats-world-cup-2026",
+    "https://theanalyst.com/articles/colombia-vs-ghana-stats-world-cup-2026",
+    "https://www.sportsmole.co.uk/football/switzerland/head-to-head/switzerland-vs-colombia-head-to-head-record-and-past-meetings_600753.html",
+    "https://www.espn.com/soccer/story/_/id/49278663/fifa-world-cup-2026-switzerland-vs-colombia-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+    "https://www.squawka.com/us/news/world-cup/match-preview-switzerland-vs-colombia-07-07-26-world-cup-2026-round-of-16/",
+    "https://www.rotowire.com/soccer/article/switzerland-vs-colombia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-121310",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"
+  ],
+  "generated_at": "2026-07-07T11:00:00Z"
+}

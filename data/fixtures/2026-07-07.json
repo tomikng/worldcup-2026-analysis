@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-07",
+  "source": "web-research",
+  "fetched_at": "2026-07-07T07:05:32Z",
+  "matches": [
+    {
+      "match_id": "wc-094",
+      "kickoff_utc": "2026-07-07T16:00:00Z",
+      "stage": "ROUND_OF_16",
+      "group": null,
+      "home": "Argentina",
+      "away": "Egypt",
+      "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
+    },
+    {
+      "match_id": "wc-095",
+      "kickoff_utc": "2026-07-07T20:00:00Z",
+      "stage": "ROUND_OF_16",
+      "group": null,
+      "home": "Switzerland",
+      "away": "Colombia",
+      "venue": "BC Place, Vancouver, British Columbia"
+    }
+  ]
+}
