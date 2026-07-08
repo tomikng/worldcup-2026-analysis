@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.36,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 13.6,
+      "settled_at": "2026-07-08T07:09:24Z",
       "rationale": "Back Argentina to advance at strong value; book under-prices their ET win probability by over 10 points."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 2.08,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 10.4,
+      "settled_at": "2026-07-08T07:09:24Z",
       "rationale": "Over 2.5 goals carries a modest but genuine edge driven by Argentina's prolific attack against an Egypt side with limited defensive depth."
     },
     {
@@ -55,16 +55,16 @@
           "market": "h2h",
           "selection": "home",
           "line": null,
-          "odds": 3.50,
+          "odds": 3.5,
           "model_prob": 0.44,
           "edge": 0.154,
           "rationale": "Switzerland's post-ET win probability of 44% compares favorably against the book's 90-minute implied of 28.6% at 3.50; Colombia are missing Cordoba (groin) and James Rodriguez is a fitness doubt, meaningfully weakening their attack versus a Switzerland side that has scored 10 goals in four matches."
         }
       ],
-      "combined_odds": 3.50,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 3.5,
+      "status": "won",
+      "payout": 35.0,
+      "settled_at": "2026-07-08T07:09:24Z",
       "rationale": "Switzerland are underpriced at 3.50 for a knockout match that settles after ET; Colombia's key injury absences shift the balance toward the Swiss."
     },
     {
@@ -84,9 +84,9 @@
         }
       ],
       "combined_odds": 1.79,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 26.85,
+      "settled_at": "2026-07-08T07:09:24Z",
       "rationale": "Colombia's elite defense and the expected tight knockout structure make btts_no at 1.79 the highest-edge opportunity on today's card."
     },
     {
@@ -116,9 +116,9 @@
         }
       ],
       "combined_odds": 2.43,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 12.17,
+      "settled_at": "2026-07-08T07:09:24Z",
       "rationale": "Two-leg cross-match accumulator pairing the day's most probable outcome (Argentina advancing) with its strongest edge signal (Colombia's defense holding btts_no) at 2.43 combined odds."
     }
   ]
