@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-09",
+  "source": "web-research",
+  "fetched_at": "2026-07-09T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-096",
+      "kickoff_utc": "2026-07-09T20:00:00Z",
+      "stage": "QUARTER_FINAL",
+      "group": null,
+      "home": "France",
+      "away": "Morocco",
+      "venue": "Gillette Stadium, Foxborough, MA"
+    }
+  ]
+}
