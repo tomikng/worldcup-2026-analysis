@@ -1,0 +1,57 @@
+{
+  "match_id": "wc-096",
+  "date": "2026-07-09",
+  "home": "France",
+  "away": "Morocco",
+  "kickoff_utc": "2026-07-09T20:00:00Z",
+  "stage": "QUARTER_FINAL",
+  "group": null,
+  "venue": "Gillette Stadium, Foxborough, MA",
+  "analysis": {
+    "summary": "France and Morocco replay their 2022 World Cup semifinal, this time at the quarterfinal stage. France arrive as clear favorites on the back of a dominant tournament (5W, 14 goals, 2 conceded) with Kylian Mbappé leading the Golden Boot race with seven goals, while Morocco's electric attacking run was slightly dampened by Ismael Saibari's hamstring exit in the R16 win over Canada. The 2022 encounter suggested France's clinical counter-attacking edge over Morocco's possession-based approach, and a similar pattern is expected here on neutral American soil.",
+    "home_form": "France have won all five matches in this tournament, outscoring opponents 14-2. Victories over Senegal 3-1, Iraq 3-0, Norway 4-1, Sweden 3-0, and Paraguay 1-0 in the R16 show both prolific attack and a defensive organization that has kept two clean sheets and conceded just twice. Mbappé has 19 career World Cup goals. Predicted lineup (4-2-3-1): Maignan; Kounde, Upamecano, Saliba, Digne; Kone, Rabiot; Dembele, Olise, Barcola; Mbappe.",
+    "away_form": "Morocco finished second in Group C (drew Brazil 1-1, beat Scotland 1-0, beat Haiti 4-2), then demolished Canada 3-0 in the R16 through Ounahi (brace) and Rahimi. They rank 8th in the FIFA rankings and nine players return from Qatar 2022. Predicted lineup (4-2-3-1): Bounou; Hakimi, Diop, Riad, Mazraoui; El Aynaoui, Bouaddi; Diaz, Ounahi, El Khannouss; Rahimi.",
+    "injuries_news": [
+      "France: Aurelien Tchouameni (adductor) missed the Paraguay R16 game and is unlikely to start; Kone slots into the double-pivot alongside Rabiot.",
+      "France: Michael Olise and Manu Kone are each one yellow card from a potential semi-final suspension — Deschamps may manage their intensity.",
+      "Morocco: Ismael Saibari (hamstring) was forced off in the 22nd minute vs Canada and is ruled out; Soufiane Rahimi expected to start in his place.",
+      "Morocco: Chadi Riad missed the R16 through a minor injury but is expected to return to partner Aguerd at centre-back.",
+      "Referee: Facundo Tello (Argentina) — averaging 5.60 yellow cards per game at this World Cup, strict disciplinarian with 149 career red cards in 434 matches."
+    ],
+    "key_factors": [
+      "France's clinical counter-attacking style exploited Morocco's high line in 2022 (Theo Hernandez 5', Kolo Muani 79'); the same vulnerability exists with Hakimi bombing forward.",
+      "Mbappe's pace vs Morocco's back four is the central matchup; Diop and Riad (returning from injury) must contain him throughout.",
+      "Tchouameni's absence weakens France's defensive midfield shield; Kone and Rabiot must cover more ground and may leave gaps on the counter for El Khannouss.",
+      "Saibari's absence removes Morocco's most direct progressive threat; Ounahi and Rahimi must carry more creative load.",
+      "France's defensive record (2 goals conceded in 5 games) makes BTTS a low-probability event; Morocco have also been tighter defensively since the group stage (0 conceded vs Canada).",
+      "Revenge motivation for Morocco after the 2022 semifinal loss, but France's superior knockout experience (finalists in 2018 and 2022) is a psychological counterweight.",
+      "Referee Tello is a strict disciplinarian — potential for elevated card count if the physical battle intensifies, though no dedicated cards market is offered in today's odds."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.55, "draw": 0.25, "away": 0.20},
+    "predicted_score": "1-0",
+    "confidence": 0.67
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.40,
+    "totals_2.5_under": 0.60,
+    "btts_yes": 0.35,
+    "btts_no": 0.65
+  },
+  "value_notes": "Market-implied probabilities (normalized, overround removed): France 60.4%, Draw 25.0%, Morocco 14.6%. Model sits at France 55%, Draw 25%, Morocco 20%. The model sees France as marginally overpriced by the market (model -5.4pp vs implied), while Morocco is underpriced (+5.4pp), giving a raw edge of 0.046 on Morocco at 6.50 — just below the 0.05 threshold, so no value flag is triggered, but it is worth noting Morocco's ability to hold Brazil and demolish Canada. The strongest edges are in the goals markets: Under 2.5 goals — model 60% vs market-implied 53.5% (raw 1/1.87), edge +0.065, above the 0.05 threshold; BTTS No — model 65% vs market-implied 54.1% (raw 1/1.85), edge +0.109, well above threshold. Both edges are grounded in France's exceptional defensive record (2 goals conceded in 5 games), Morocco's clean sheet vs Canada, the tight nature of their 2022 encounter (2-0 with Morocco shut out), and the historical tendency for World Cup knockout matches to produce fewer goals. No value detected on France win (model -8.7pp vs implied) or on the draw.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups",
+    "https://www.aljazeera.com/sports/2026/7/8/france-vs-morocco-key-talking-points-mbappe-world-cup-quarterfinal-what-we-know",
+    "https://www.rotowire.com/soccer/article/france-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-quarterfinal-121621",
+    "https://www.moroccoworldnews.com/2026/07/327831/facundo-tello-to-referee-morocco-france-world-cup-quarterfinal/",
+    "https://www.squawka.com/en/news/world-cup/france-vs-morocco-referee-facundo-tello/",
+    "https://www.espn.com/soccer/story/_/id/49271617/fifa-world-cup-2026-stats-kylian-mbappe-joins-lionel-messi-france-150-brahim-diaz-africa-first",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-morocco-match-report-highlights",
+    "https://www.espn.com/soccer/match/_/gameId/633848/morocco-france",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/how-close-were-morocco-to-beating-france-at-qatar-2022",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://www.nbcsports.com/soccer/live/canada-vs-morocco-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup"
+  ],
+  "generated_at": "2026-07-09T14:30:00Z"
+}
