@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-09",
+  "collected_at": "2026-07-09T14:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-096",
+      "h2h": {
+        "home": 1.57,
+        "draw": 3.80,
+        "away": 6.50
+      },
+      "double_chance": {
+        "1x": 1.09,
+        "12": 1.25,
+        "x2": 2.38
+      },
+      "dnb": {
+        "home": 1.16,
+        "away": 4.40
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.96,
+        "under": 1.87
+      },
+      "btts": {
+        "yes": 1.93,
+        "no": 1.85
+      },
+      "corners": {
+        "line": 9.5,
+        "over": 1.87,
+        "under": 1.83
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/france-v-morocco-35790899",
+        "https://www.vegasinsider.com/soccer/france-morocco-odds-world-cup-2026/",
+        "https://www.cbssports.com/soccer/news/france-morocco-odds-prediction-line-time-2026-world-cup-quarterfinals-picks-best-bets/",
+        "https://www.espn.com/soccer/odds/_/gameId/760510",
+        "https://www.sportsline.com/insiders/france-vs-morocco-odds-lines-predictions-2026-world-cup-quarterfinal-picks-from-proven-soccer-expert/"
+      ]
+    }
+  ]
+}
