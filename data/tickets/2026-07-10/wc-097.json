@@ -1,0 +1,64 @@
+{
+  "match_id": "wc-097",
+  "date": "2026-07-10",
+  "home": "Spain",
+  "away": "Belgium",
+  "kickoff_utc": "2026-07-10T19:00:00Z",
+  "stage": "QUARTER_FINAL",
+  "group": null,
+  "venue": "SoFi Stadium, Inglewood, California, USA",
+  "analysis": {
+    "summary": "Spain enter this quarter-final as the dominant side of the 2026 World Cup — nine goals scored and none conceded across five matches, with clean-sheet wins over Austria (3-0) and Portugal (1-0) in the knockouts. Belgium have been more expansive and erratic, needing extra time to edge Senegal before demolishing the USA 4-1, but now face a critical blow with Amadou Onana ruled out for the rest of the tournament after suffering a torn ACL against the USA. Spain's historical dominance over Belgium (six wins in seven all-time meetings, 13-1 aggregate in the last five 21st-century clashes) reinforces their status as clear favourites, while Belgium's best hope rests on De Bruyne's creative return and a disciplined counter-attacking game to push the match into extra time.",
+    "home_form": "Spain have been the standout defensive unit of the 2026 World Cup, keeping five consecutive clean sheets: 0-0 vs Cape Verde (June 15), 4-0 vs Saudi Arabia (June 21, Yamal scored his first WC goal and Oyarzabal scored twice), 1-0 vs Uruguay (June 26), 3-0 vs Austria in the Round of 32 (July 2, Oyarzabal twice and Porro), and 1-0 vs Portugal in the Round of 16 (July 6, Merino as a second-half substitute with an injury-time header). Mikel Oyarzabal leads Spain with at least four tournament goals. Head coach Luis de la Fuente has an unchanged, fully fit squad, and the same XI is expected: Simon; Porro, Cubarsi, Laporte, Cucurella; Rodri, Pedri; Yamal, Olmo, Baena; Oyarzabal.",
+    "away_form": "Belgium topped Group G but with inconsistent results: 1-1 vs Egypt (June 15), 0-0 vs Iran (June 21), and a 5-1 rout of New Zealand (June 26, Trossard MOTM). In the Round of 32 on July 1, they trailed Senegal 1-0, fought back to 1-1 through the 86th minute and won 3-2 in extra time via Tielemans' late penalty. Against the USA on July 6 they won convincingly 4-1 — De Ketelaere scored twice — but lost Onana to an ACL tear in the 19th minute. Kevin De Bruyne was rested entirely for the USA match as a squad-management decision and is expected to start here. Belgium have scored 13 goals in five games but conceded four, showing defensive vulnerability under pressure.",
+    "h2h": "Spain lead the all-time head-to-head record against Belgium with six wins, one draw and no losses across seven meetings. The 21st-century record is emphatic: the last five encounters have all ended in Spanish victories, 13-1 on aggregate. The most recent clash was a 2-0 Spain win away in Brussels in September 2016. Belgium's sole competitive win over Spain was at Euro 1980 (2-1). The two nations have not previously met at a FIFA World Cup.",
+    "injuries_news": [
+      "Amadou Onana (Belgium, CM) - OUT for the remainder of the World Cup with a confirmed torn ACL in his right knee, suffered in the 19th minute of the USA match on July 6. Recovery timeline is 7-8 months.",
+      "Kevin De Bruyne (Belgium, AM) - AVAILABLE; was deliberately rested for the USA match and is fully expected to start against Spain.",
+      "Spain - No injuries or suspensions reported for any player. Full squad available, and an unchanged XI from the Portugal game is anticipated."
+    ],
+    "key_factors": [
+      "Spain's impenetrable defence (5 clean sheets, 0 goals conceded) is the defining tactical reality — Belgium must become the first team in this tournament to score against La Roja, against a back four of Cucurella, Cubarsi, Laporte and Porro shielded by Rodri.",
+      "Onana's ACL injury fundamentally changes Belgium's shape: without his press-triggering, the Tielemans-Vanaken double pivot sits deeper and more passively, which suits Spain's positional-play style perfectly and reduces Belgium's counter-attacking thrust.",
+      "Kevin De Bruyne's return adds elite late-game creativity and set-piece danger; if Belgium can keep the score level into extra time, his ability to unlock defences in tight spaces becomes a serious threat.",
+      "Lamine Yamal (17 dribbles completed in the tournament) and Dani Olmo provide Spain width to expose Belgium's centre-back pairing (Ngoy, Mechele), who lack top pace against dynamic wide play.",
+      "Historical H2H and psychological edge: Spain have beaten Belgium in all five 21st-century meetings 13-1 aggregate, and Belgium must overcome that record in a knockout fixture — historically this pattern heavily favours La Roja.",
+      "Venue and rest: SoFi Stadium is a neutral setting for both sides; both teams had four full days of recovery since their July 6 matches — no fatigue differential."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.53, "draw": 0.28, "away": 0.19},
+    "predicted_score": "2-0",
+    "confidence": 0.63
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.43,
+    "btts_yes": 0.40
+  },
+  "value_notes": "Market-implied probabilities (overround removed from h2h odds 1.63/3.90/5.25, overround 6.0%): Spain 90-min win 0.579, draw/ET 0.242, Belgium 90-min win 0.180; totals over 2.5 market-implied 0.520 (from 1.83/1.98); BTTS yes market-implied 0.545 (from 1.74/2.08). Model probabilities (note: knockout draw slot represents probability of match being level after 90 min and going to ET): Spain 0.530, draw/ET 0.280, Belgium 0.190; over 2.5 0.430; BTTS yes 0.400. H2H market: model is marginally below the market on Spain winning in 90 min (0.530 vs 0.579), a gap of -0.049 — just below the 0.05 threshold for a named edge; no actionable value identified on the h2h selection either way. Two markets show meaningful positive edge supporting the low-scoring game thesis: (1) Totals under 2.5 — model gives under 0.570 vs market-implied under 0.480, edge +0.090 (qualifies, threshold 0.05). (2) BTTS No — model gives no 0.600 vs market-implied no 0.455, edge +0.145 (qualifies, threshold 0.05). Both edges are grounded in Spain's extraordinary five-game clean-sheet run (0 goals conceded against Cape Verde, Saudi Arabia, Uruguay, Austria, and Portugal) and Belgium's weakened pressing structure following Onana's ACL injury, which the market appears to underweight relative to Belgium's attacking reputation in the tournament.",
+  "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760506/spain-portugal",
+    "https://sports.yahoo.com/soccer/article/cr7-out-spain-eliminates-portugal-1-0-world-cup-post-match-reaction--usmnt-vs-belgium-preview-233459623.html",
+    "https://www.espn.com/soccer/match/_/gameId/760507/belgium-united-states",
+    "https://www.espn.com/soccer/report/_/gameId/760507",
+    "https://www.foxsports.com/stories/soccer/spain-vs-belgium-2026-world-cup-everything-to-know",
+    "https://www.espn.com/soccer/story/_/id/49298508/belgium-amadou-onana-world-cup-suffering-acl-injury",
+    "https://www.washingtonpost.com/sports/soccer/2026/07/07/belgium-world-cup-onana-acl-injury/3f91d7f2-7a42-11f1-b194-f872dd4ec5aa_story.html",
+    "https://sports.yahoo.com/articles/belgium-receives-devastating-amadou-onana-161500870.html",
+    "https://bolavip.com/en/world-cup/spain-vs-belgium-head-to-head-record-in-world-cup-history",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/head-to-head/spain-vs-belgium-head-to-head-record-and-past-meetings--world-cup-2026_600890.html",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519",
+    "https://www.espn.com/soccer/match/_/gameId/760493/senegal-belgium",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://www.si.com/soccer/spain-predicted-lineup-vs-belgium-world-cup-quarterfinal-7-10-26",
+    "https://www.si.com/soccer/belgium-predicted-lineup-vs-spain-world-cup-quarterfinal-7-10-26",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-belgium-prediction-team-news-lineups_600878.html",
+    "https://www.rotowire.com/soccer/article/spain-vs-belgium-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-quarterfinal-121774",
+    "https://www.espn.com/soccer/story/_/id/49135958/spain-saudi-arabia-2026-world-cup-lamine-yamal-mikel-oyarzabal",
+    "https://www.espn.com/soccer/story/_/id/49251007/spain-austria-fifa-world-cup-2026-round-32-mikel-oyarzabal",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-road-so-far-oyarzabal"
+  ],
+  "generated_at": "2026-07-10T12:15:00Z"
+}
