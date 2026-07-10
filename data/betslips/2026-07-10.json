@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-10",
+  "slips": [
+    {
+      "slip_id": "2026-07-10-S1",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-097",
+          "market": "totals",
+          "selection": "under",
+          "line": 2.5,
+          "odds": 1.98,
+          "model_prob": 0.57,
+          "edge": 0.065,
+          "rationale": "Spain have kept five consecutive clean sheets (0 goals conceded all tournament) and Belgium's defensive structure is further weakened by Onana's ACL loss; model gives under 2.5 goals a 57% chance against a market-implied 50.5%."
+        }
+      ],
+      "combined_odds": 1.98,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Spain's defensive dominance and Belgium's diminished press without Onana make a low-scoring game the most likely outcome at positive edge."
+    },
+    {
+      "slip_id": "2026-07-10-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-097",
+          "market": "btts",
+          "selection": "no",
+          "line": null,
+          "odds": 2.08,
+          "model_prob": 0.60,
+          "edge": 0.119,
+          "rationale": "Spain have conceded zero goals in five World Cup matches and Belgium must bypass the tournament's best defence without Onana's pressing engine; model gives BTTS No a 60% chance versus the market's 48.1% implied probability."
+        }
+      ],
+      "combined_odds": 2.08,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Strongest edge on the card — Spain's clean-sheet streak is historically unprecedented in this tournament and Belgium's attacking threat is structurally reduced, making BTTS No the standout value play."
+    }
+  ]
+}
