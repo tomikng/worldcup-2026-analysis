@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-10",
+  "collected_at": "2026-07-10T09:15:00Z",
+  "matches": [
+    {
+      "match_id": "wc-097",
+      "h2h": {
+        "home": 1.63,
+        "draw": 3.90,
+        "away": 5.25
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.83,
+        "under": 1.98
+      },
+      "btts": {
+        "yes": 1.74,
+        "no": 2.08
+      },
+      "sources": [
+        "https://www.espn.com/soccer/odds/_/gameId/760511",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/spain-v-belgium-35797769",
+        "https://www.fanduel.com/research/spain-vs-belgium-prediction-picks-lineups-and-best-bets-tomorrow-world-cup-quarterfinal",
+        "https://www.si.com/betting/spain-vs-belgium-opening-odds-for-world-cup-quarterfinals-spain-heavily-favored-to-advance",
+        "https://www.covers.com/world-cup/spain-vs-belgium-prediction-picks-odds-friday-7-10-2026",
+        "https://www.rotowire.com/soccer/article/spain-vs-belgium-picks-tips-odds-best-bets-2026-world-cup-quarterfinal-121916"
+      ]
+    }
+  ]
+}

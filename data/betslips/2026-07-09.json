@@ -12,15 +12,15 @@
           "selection": "under",
           "line": 2.5,
           "odds": 1.87,
-          "model_prob": 0.60,
+          "model_prob": 0.6,
           "edge": 0.065,
           "rationale": "France have conceded just 2 goals in 5 matches and Morocco kept a clean sheet vs Canada; both defenses and the historical tightness of their 2022 semifinal (2-0) support fewer than 3 total goals at a model probability of 60% vs the book's 53.5% implied."
         }
       ],
       "combined_odds": 1.87,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 9.35,
+      "settled_at": "2026-07-10T07:19:26Z",
       "rationale": "Under 2.5 goals carries a 6.5-point edge grounded in France's tournament-best defensive record and Morocco's improved defensive discipline since the group stage."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 1.85,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 18.5,
+      "settled_at": "2026-07-10T07:19:26Z",
       "rationale": "BTTS No is the day's strongest single edge at 10.9 points, backed by France's elite defensive record and Morocco's tight organization replicating the 2022 pattern where Morocco failed to score against France."
     },
     {
@@ -56,7 +56,7 @@
           "selection": "under",
           "line": 2.5,
           "odds": 1.87,
-          "model_prob": 0.60,
+          "model_prob": 0.6,
           "edge": 0.065,
           "rationale": "France's defensive dominance and Morocco's controlled style point to a low-scoring affair; under 2.5 is the natural anchor for a goals-based parlay."
         },
@@ -72,9 +72,9 @@
         }
       ],
       "combined_odds": 3.46,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 17.3,
+      "settled_at": "2026-07-10T07:19:26Z",
       "rationale": "Single-match accumulator pairing the day's two qualifying edges into a low-scoring, one-team-scoring double at 3.46 combined odds; both legs rest on the same defensive foundation, making the combination internally coherent."
     }
   ]

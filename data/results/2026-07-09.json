@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-09",
+  "source": "web-research",
+  "fetched_at": "2026-07-10T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-096",
+      "home": "France",
+      "away": "Morocco",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 1,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 5,
+      "away_corners": 5,
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289289/400021536",
+        "https://www.espn.com/soccer/match/_/gameId/760510/morocco-france",
+        "https://sports.yahoo.com/articles/achraf-hakimi-3-other-morocco-182845772.html"
+      ]
+    }
+  ]
+}
