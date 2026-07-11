@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-11",
+  "collected_at": "2026-07-11T10:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-098",
+      "h2h": {
+        "home": 4.10,
+        "draw": 3.70,
+        "away": 1.87
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.70,
+        "under": 2.16
+      },
+      "btts": {
+        "yes": 1.58,
+        "no": 2.34
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/norway-v-england-35794315",
+        "https://www.si.com/betting/norway-vs-england-opening-odds-for-world-cup-quarterfinals-england-favored-to-advance",
+        "https://www.vegasinsider.com/soccer/norway-england-odds-world-cup-2026/"
+      ]
+    },
+    {
+      "match_id": "wc-099",
+      "h2h": {
+        "home": 1.69,
+        "draw": 3.55,
+        "away": 5.50
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.24,
+        "under": 1.67
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/argentina-v-switzerland-35800710",
+        "https://www.vegasinsider.com/soccer/argentina-switzerland-odds-world-cup-2026/",
+        "https://www.si.com/betting/argentina-vs-switzerland-opening-odds-for-world-cup-quarterfinals-can-argentina-reach-another-semifinal"
+      ]
+    }
+  ]
+}
