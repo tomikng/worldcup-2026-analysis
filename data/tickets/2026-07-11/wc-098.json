@@ -1,0 +1,60 @@
+{
+  "match_id": "wc-098",
+  "date": "2026-07-11",
+  "home": "Norway",
+  "away": "England",
+  "kickoff_utc": "2026-07-11T21:00:00Z",
+  "stage": "QUARTER_FINAL",
+  "group": null,
+  "venue": "Hard Rock Stadium, Miami Gardens, Florida, USA",
+  "analysis": {
+    "summary": "Norway face England in a quarter-final that pits the tournament's most prolific individual striker — Erling Haaland, 7 goals in 4 games at 39% conversion — against the best defensive record among the remaining sides (England have conceded just 5 goals in 5 games, 1.0 per match). Norway are historic quarter-finalists for the first time, having eliminated Brazil 2-1 in the Round of 16, while England won all five of their matches in regulation and overtime, including a dramatic 3-2 comeback against Mexico. England are heavily favoured but face real threat through Haaland and an exposed right-back channel caused by suspension and injury.",
+    "home_form": "Norway finished Group I runners-up behind France: W vs Iraq 4-1 (Boston, Jun 17), W vs Senegal 3-2 (New York, Jun 23), L vs France 1-4 (Boston, Jun 26). Knockout stage: W vs Côte d'Ivoire 2-1 (Dallas, Jun 30), W vs Brazil 2-1 (New York, Jul 5). Overall: 4W 1L, 12 scored, 9 conceded (2.4 scored / 1.8 conceded per game). Haaland has scored 7 of Norway's 12 goals (58% share) and netted in 14 consecutive international matches. Norway have not kept a single clean sheet across all five tournament games. A squad-wide sickness bug has been reported in Norway's camp in the days before this fixture.",
+    "away_form": "England topped Group L unbeaten: W vs Croatia 4-2 (Jun 17), D vs Ghana 0-0 (Jun 23), W vs Panama 2-0 (Jun 27). Knockout stage: W vs DR Congo 2-1 (Jul 1), W vs Mexico 3-2 (Jul 6). Overall: 4W 1D, 11 scored, 5 conceded (2.2 scored / 1.0 conceded per game; two clean sheets). Under Thomas Tuchel, England have shown tactical flexibility: high-possession (79% vs Ghana) but equally effective on the counter (33.2% possession yet won 3-2 vs Mexico). Jude Bellingham scored twice vs Mexico; Harry Kane has 3 tournament goals. England have the best defensive record of any remaining quarter-finalist.",
+    "h2h": "England hold the overall career advantage across all senior meetings. Historically England dominated early fixtures (6-0 in 1937 through multiple one-sided results to 1980). Norway's two competitive wins were both in World Cup qualifiers: 2-1 in 1981 and 2-0 in 1993. The last meeting was a friendly in September 2014, England winning 1-0. The two nations have never previously met at the World Cup, making this a first-ever competitive knockout encounter between them.",
+    "injuries_news": [
+      "England: Jarell Quansah suspended for two matches after receiving a red card (serious foul play) against Mexico — misses both QF and potential SF.",
+      "England: Reece James has not featured since the 0-0 draw with Ghana on June 23 due to a hamstring injury; his participation in this match is in serious doubt.",
+      "England: Jordan Henderson (wrist surgery following celebration injury vs Mexico) has been ruled out of the remainder of the tournament.",
+      "Norway: David Møller Wolfe was forced off against Brazil; fitness for this match is a concern but unconfirmed.",
+      "Norway: Multiple players reportedly affected by a sickness bug in the squad in the days leading up to kick-off (unconfirmed severity)."
+    ],
+    "key_factors": [
+      "Haaland threat vs England's CB pairing: Quansah's suspension forces Tuchel to rely on Stones and Guéhi as his centre-back pair. Haaland has a conversion rate of 39% on shots at WC 2026; containing his limited but deadly appearances in the box is the defining tactical challenge.",
+      "England's exposed right-back: With Quansah suspended and Reece James doubtful with hamstring trouble, England's right flank is vulnerable. Norway's wide players (including Andreas Schjelderup) may target this channel.",
+      "Norway's defensive fragility: Norway have conceded in every one of their five tournament matches and rank last among QF teams for goals conceded per game (1.8). England's multi-threat attack (Bellingham, Kane, Saka, Gordon) should create consistent opportunities.",
+      "Counter-attack vs possession: Norway will likely sit deep and funnel the ball to Haaland on the break. England under Tuchel have shown they can win both ways — through press-heavy possession and on the counter — but will be cautious about over-committing and leaving space for Haaland.",
+      "Miami July heat: Hard Rock Stadium in Miami in mid-July is extremely hot and humid. Fitness levels matter; Norway's reported squad illness could compound fatigue in the second half.",
+      "Norway one match fresher: Norway played their R16 on July 5 (6 days rest) vs England's July 6 R16 win (5 days rest). Marginal advantage to Norway on recovery."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.27, "draw": 0.00, "away": 0.73},
+    "predicted_score": "1-2",
+    "confidence": 0.65
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.63,
+    "btts_yes": 0.61
+  },
+  "value_notes": "The supplied h2h odds (home 4.10, draw 3.70, away 1.87) are standard 90-minute market lines. Normalising to remove the 4.9% overround yields: Norway 23.3%, Draw 25.7%, England 51.0%. Converting these to full knockout-match (after ET) probabilities — splitting the draw probability evenly between ET/pens outcomes (50/50 assumption) — implies Norway advances ~36%, England advances ~64%. My model places England at 73% to advance, a 9-point uplift over the converted market, exceeding the 0.05 value threshold. This is grounded in: (1) England's significantly superior defensive record (1.0 goals conceded/game vs Norway's 1.8, the worst of any QF side); (2) Norway's heavy reliance on Haaland (58% of their goals) making their attack one-dimensional and manageable if neutralised; (3) Norway's pre-match sickness disruption. Selection with edge ≥ 0.05: England to advance (away h2h). For totals_2.5_over, my model (63%) exceeds market implied (1/1.70 = 58.8%), edge ~4.2% — marginal, below 0.05 threshold. For btts_yes, market implied is 63.3% (1/1.58) vs my model 61% — no edge; market is marginally overweighting BTTS relative to my model.",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/49281972/fifa-world-cup-2026-stats-erling-haaland-7-lionel-messi-kylian-mbappe-cristiano-ronaldo-6-neymar-second-pele-jude-bellingham-first-diego-maradona",
+    "https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries",
+    "https://www.espn.com/soccer/story/_/id/48539270/england-route-2026-world-cup-final-road-knockouts-group-l-mexico-brazil-argentina-france-spain-portugal",
+    "https://www.espn.com/soccer/team/results/_/id/464/norway",
+    "https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red",
+    "https://sports.yahoo.com/articles/norway-reportedly-hit-sickness-ahead-165755089.html",
+    "https://sports.yahoo.com/articles/englands-competitive-record-against-norway-100000122.html",
+    "https://www.skysports.com/football/news/12016/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchel-s-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals",
+    "https://www.skysports.com/football/news/11095/13562351/world-cup-2026-norways-erling-haaland-will-go-down-as-footballs-greatest-goalscorer-says-jamie-carragher-ahead-of-showdown-with-englands-harry-kane",
+    "https://www.olympics.com/en/news/england-fifa-world-cup-2026-three-lions-results-scores-standings-full-list",
+    "https://www.si.com/soccer/norway-vs-england-complete-head-to-head-record-ahead-world-cup-clash-7-11-26",
+    "https://football-italia.net/impact-serie-a-players-norway-world-cup/",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/norway-v-england-35794315",
+    "https://www.si.com/betting/norway-vs-england-opening-odds-for-world-cup-quarterfinals-england-favored-to-advance",
+    "https://www.vegasinsider.com/soccer/norway-england-odds-world-cup-2026/"
+  ],
+  "generated_at": "2026-07-11T10:42:00Z"
+}
