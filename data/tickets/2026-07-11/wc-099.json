@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-099",
+  "date": "2026-07-11",
+  "home": "Argentina",
+  "away": "Switzerland",
+  "kickoff_utc": "2026-07-12T01:00:00Z",
+  "stage": "QUARTER_FINAL",
+  "group": null,
+  "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri, USA",
+  "analysis": {
+    "summary": "Defending champions Argentina, in exceptional form with Lionel Messi scoring eight World Cup 2026 goals, face a historic Switzerland side that qualified for their first quarter-final since 1954. Argentina beat Egypt 3-2 in a dramatic R16 comeback and have scored at least twice in every tournament match, while Switzerland ground out a 0-0 draw over 120 minutes against Colombia before winning on penalties. Switzerland are significantly weakened by the confirmed absence of breakout star Johan Manzambi (3 goals, 2 assists in tournament, knee injury) alongside Michel Aebischer and Luca Jaquez, and Xhaka, Zakaria and Muheim enter on yellow-card warnings.",
+    "home_form": "Argentina won all five World Cup 2026 matches: 3-0 Algeria (Messi hat-trick, group stage), 2-0 Austria (group), 3-1 Jordan (group), 3-2 Cape Verde AET (R32), 3-2 Egypt (R16 comeback from 2-0 down — Messi equaliser, Enzo Fernandez 92nd-minute winner). Messi leads the Golden Boot with 8 goals, is on a 9-match World Cup scoring streak, and has set the all-time World Cup goal-contribution record in knockout stages (14, surpassing Mbappe). Argentina are fully fit with no suspensions confirmed.",
+    "away_form": "Switzerland topped Group B: 1-1 Qatar, 4-1 Bosnia and Herzegovina, 2-1 Canada. Beat Algeria in the Round of 32 then overcame Colombia 4-3 on penalties after a goalless 120 minutes in the R16. Their run is their deepest at a World Cup since 1954. The team is organised around Granit Xhaka's midfield control (146 caps, 1 goal in tournament) and the attacking threat of Breel Embolo (2 goals) and Ruben Vargas and Dan Ndoye on the wings.",
+    "h2h": "Argentina have never lost to Switzerland across seven senior international meetings: W5 D2 L0, scoring 15 goals to Switzerland's 3. At World Cups specifically, Argentina won 2-0 in 1966 and 1-0 AET in the 2014 R16. Switzerland have failed to score in either World Cup encounter.",
+    "injuries_news": [
+      "Switzerland: Johan Manzambi (knee) confirmed out by coach Yakin — tournament's breakout star with 3 goals and 2 assists in 200 minutes",
+      "Switzerland: Michel Aebischer (injury) out",
+      "Switzerland: Luca Jaquez (injury) out",
+      "Switzerland: Granit Xhaka, Denis Zakaria and Miro Muheim each on a yellow-card caution and risk suspension if booked",
+      "Argentina: No confirmed injuries or suspensions; full squad available"
+    ],
+    "key_factors": [
+      "Messi form is exceptional — 8 goals, scoring streak of 9 consecutive World Cup matches, leads the Golden Boot race; Argentina's attack constructed around supplying him via Mac Allister and De Paul",
+      "Switzerland's Manzambi absence is significant — their top creator and scorer this tournament is gone, blunting the one attacking weapon most capable of exploiting Argentina's advancing full-backs",
+      "Switzerland will deploy a compact low-to-mid block (Xhaka and Freuler anchoring) to cut central lanes and look to spring counters through Ndoye and Vargas",
+      "Argentina showed vulnerability against Egypt (conceded 2, went behind 0-2) but demonstrated mental strength and a deep squad to recover; their defensive record (conceded 5 in 5) is manageable",
+      "Switzerland's yellow-card warnings for Xhaka, Zakaria and Muheim may force caution in the midfield battle, potentially reducing Switzerland's pressing intensity",
+      "Kansas City venue is at low altitude and July heat/humidity is manageable; both sides have played in the US already — no differential environmental factor",
+      "Knockout-stage settlement: this h2h market settles on the result after extra time; draw is not possible"
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.69, "draw": 0.00, "away": 0.31},
+    "predicted_score": "2-0",
+    "confidence": 0.70
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.46
+  },
+  "value_notes": "Market offers 3-way 90-minute h2h odds (home 1.69, draw 3.55, away 5.50). Our system settles knockout h2h on the result after extra time (draw cannot occur). Argentina home: model 0.69 vs book-implied 1/1.69 = 0.592, edge +0.098 (above the 0.05 threshold). Switzerland away: model 0.31 vs book-implied 1/5.50 = 0.182, edge +0.128 (above threshold). Both edges are structurally present because the draw implied probability (~0.267 at 3.55) is unavailable in knockout settlement and effectively redistributes to both sides; ticket-builder must select one side only and cannot bet both. Preferred selection is Argentina home at 1.69 given the higher probability (0.69) and a confirmed edge of +0.098; the Swiss away at 5.50 has a larger implied edge but lower absolute probability and carries meaningful upset risk with the unknown depth of Switzerland's counter-attack without Manzambi. Totals: model prices over 2.5 at 0.46 vs market implied 1/2.24 = 0.447 (normalized ~0.427), edge approximately +0.013, below the 0.05 threshold — no value flagged on totals.",
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/49300361/fifa-world-cup-2026-stats-lionel-messi-passes-kylian-mbappe-beats-diego-maradona-argentina-egypt-sets-multiple-records-switzerland-72-longest-ever-history",
+    "https://www.espn.com/soccer/story/_/id/49303740/world-cup-2026-today-blog-08-06-2026-live-updates-news-fixtures-schedule-results-argentina-narrowly-advance-world-cup-quarter-finals-thriller-egypt-3-2-switzerland-beat-colombia-penalties",
+    "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-switzerland-heads-to-the-quarterfinals-after-beating-colombia-on-penalty-kicks-225230435.html",
+    "https://www.cbssports.com/soccer/news/colombia-switzerland-live-updates-world-cup-2026-score-result/live/",
+    "https://sports.yahoo.com/articles/switzerland-faces-injury-blow-prepare-215132075.html",
+    "https://www.espn.com/soccer/story/_/id/49326340/switzerland-johan-manzambi-miss-argentina-world-cup-quarterfinal-clash-murat-yakin",
+    "https://sports.yahoo.com/articles/swiss-miss-manzambi-kc-switzerland-185855100.html",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/team-news/argentina-vs-switzerland-injury-suspension-list-predicted-xis--world-cup-2026_600955.html",
+    "https://www.si.com/soccer/argentina-vs-switzerland-complete-head-to-head-record-ahead-world-cup-clash-7-11-26",
+    "https://bolavip.com/en/world-cup/argentina-vs-switzerland-head-to-head-record-in-world-cup-history",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-switzerland-claims-group-b-over-canada-bosnia-and-herzegovina-moves-top-among-third-place-teams-205847839.html",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-group-b-switzerland-canada-live-updates",
+    "https://aninews.in/news/sports/football/fifa-world-cup-2026-switzerland-coach-yakin-confirms-manzambi-out-of-argentina-qf-clash20260711012623/",
+    "https://www.rotowire.com/soccer/article/argentina-vs-switzerland-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-quarterfinal-121924",
+    "https://www.si.com/soccer/argentina-vs-switzerland-world-cup-preview-predictions-lineups-7-11-26",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/argentina-v-switzerland-35800710",
+    "https://www.vegasinsider.com/soccer/argentina-switzerland-odds-world-cup-2026/",
+    "https://www.si.com/betting/argentina-vs-switzerland-opening-odds-for-world-cup-quarterfinals-can-argentina-reach-another-semifinal"
+  ],
+  "generated_at": "2026-07-11T14:30:00Z"
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-11",
+  "slips": [
+    {
+      "slip_id": "2026-07-11-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-098",
+          "market": "h2h",
+          "selection": "away",
+          "line": null,
+          "odds": 1.87,
+          "model_prob": 0.73,
+          "edge": 0.090,
+          "rationale": "England's 73% advance probability exceeds the knockout-adjusted market-implied ~64% (draw probability of ~25.7% redistributed evenly to both sides for ET settlement); England's best-in-QF defensive record (1.0 goals conceded/game vs Norway's 1.8), multi-threat attack against Norway's Haaland-dependent offence, and Norway's pre-match squad illness all support England reaching the semi-final."
+        }
+      ],
+      "combined_odds": 1.87,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "England genuine structural favourites; knockout-adjusted edge ~9% (model 73% vs market-implied advance ~64%) warrants a 10-unit single."
+    },
+    {
+      "slip_id": "2026-07-11-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-099",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 1.69,
+          "model_prob": 0.69,
+          "edge": 0.098,
+          "rationale": "Argentina's 69% advance probability versus the book-implied 59.2% at 1.69; Messi leads the Golden Boot with 8 goals and a 9-match World Cup scoring streak, Switzerland are critically weakened by Manzambi's knee injury (their top creator: 3 goals, 2 assists), and Argentina hold an unblemished 7-match H2H record (W5 D2, conceded only 3 goals) — including both prior World Cup meetings."
+        }
+      ],
+      "combined_odds": 1.69,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Argentina hold clear form and squad-depth advantages over a depleted Switzerland side; ~9.8% edge is confirmed after accounting for knockout draw-probability redistribution."
+    },
+    {
+      "slip_id": "2026-07-11-ACC",
+      "type": "accumulator",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-098",
+          "market": "h2h",
+          "selection": "away",
+          "line": null,
+          "odds": 1.87,
+          "model_prob": 0.73,
+          "edge": 0.090,
+          "rationale": "England's 73% advance probability exceeds the knockout-adjusted market-implied ~64%; defensive superiority, multi-threat attack, and Norway's squad illness support England advancing."
+        },
+        {
+          "match_id": "wc-099",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 1.69,
+          "model_prob": 0.69,
+          "edge": 0.098,
+          "rationale": "Argentina's 69% advance probability versus book-implied 59.2%; Messi's exceptional form and Switzerland's Manzambi-shaped attacking void underpin value at 1.69."
+        }
+      ],
+      "combined_odds": 3.16,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Both quarter-finals feature confirmed-edge favourites; pairing England and Argentina to advance yields 3.16 combined odds for a flat 5-unit accumulator stake."
+    }
+  ]
+}
