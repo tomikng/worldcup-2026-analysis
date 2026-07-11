@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-11",
+  "source": "web-research",
+  "fetched_at": "2026-07-11T07:10:00Z",
+  "matches": [
+    {
+      "match_id": "wc-098",
+      "kickoff_utc": "2026-07-11T21:00:00Z",
+      "stage": "QUARTER_FINAL",
+      "group": null,
+      "home": "Norway",
+      "away": "England",
+      "venue": "Hard Rock Stadium, Miami Gardens, Florida, USA"
+    },
+    {
+      "match_id": "wc-099",
+      "kickoff_utc": "2026-07-12T01:00:00Z",
+      "stage": "QUARTER_FINAL",
+      "group": null,
+      "home": "Argentina",
+      "away": "Switzerland",
+      "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri, USA"
+    }
+  ]
+}

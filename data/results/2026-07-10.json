@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-10",
+  "source": "web-research",
+  "fetched_at": "2026-07-11T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-097",
+      "home": "Spain",
+      "away": "Belgium",
+      "home_goals": 2,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": 2,
+      "away_cards": 2,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760511/belgium-spain",
+        "https://www.espn.com/soccer/story/_/id/49327290/spain-belgium-world-cup-quarterfinal-merino-semifinal-france",
+        "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289289/400021538",
+        "https://theanalyst.com/articles/spain-vs-belgium-stats-world-cup-2026-quarter-final"
+      ]
+    }
+  ]
+}
