@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-11",
+  "source": "web-research",
+  "fetched_at": "2026-07-12T12:05:00Z",
+  "matches": [
+    {
+      "match_id": "wc-098",
+      "home": "Norway",
+      "away": "England",
+      "home_goals": 1,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://sports.yahoo.com/soccer/live/world-cup-bracket-schedule-scores-results-live-updates-quarterfinals-203257966.html",
+        "https://sports.yahoo.com/soccer/article/2026-fifa-world-cup-daily-schedule-every-match-date-kickoff-time-and-venue-for-all-48-teams-234515087.html"
+      ]
+    },
+    {
+      "match_id": "wc-099",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "home_goals": 3,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "stats_sources": [
+        "https://sports.yahoo.com/soccer/live/world-cup-bracket-schedule-scores-results-live-updates-quarterfinals-203257966.html",
+        "https://www.visitkc.com/events/quarterfinal/"
+      ],
+      "notes": "Argentina won after extra time (aet)"
+    }
+  ]
+}

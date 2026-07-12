@@ -13,14 +13,14 @@
           "line": null,
           "odds": 1.87,
           "model_prob": 0.73,
-          "edge": 0.090,
+          "edge": 0.09,
           "rationale": "England's 73% advance probability exceeds the knockout-adjusted market-implied ~64% (draw probability of ~25.7% redistributed evenly to both sides for ET settlement); England's best-in-QF defensive record (1.0 goals conceded/game vs Norway's 1.8), multi-threat attack against Norway's Haaland-dependent offence, and Norway's pre-match squad illness all support England reaching the semi-final."
         }
       ],
       "combined_odds": 1.87,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 18.7,
+      "settled_at": "2026-07-12T07:11:06Z",
       "rationale": "England genuine structural favourites; knockout-adjusted edge ~9% (model 73% vs market-implied advance ~64%) warrants a 10-unit single."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 1.69,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 16.9,
+      "settled_at": "2026-07-12T07:11:06Z",
       "rationale": "Argentina hold clear form and squad-depth advantages over a depleted Switzerland side; ~9.8% edge is confirmed after accounting for knockout draw-probability redistribution."
     },
     {
@@ -57,7 +57,7 @@
           "line": null,
           "odds": 1.87,
           "model_prob": 0.73,
-          "edge": 0.090,
+          "edge": 0.09,
           "rationale": "England's 73% advance probability exceeds the knockout-adjusted market-implied ~64%; defensive superiority, multi-threat attack, and Norway's squad illness support England advancing."
         },
         {
@@ -72,9 +72,9 @@
         }
       ],
       "combined_odds": 3.16,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 15.8,
+      "settled_at": "2026-07-12T07:11:06Z",
       "rationale": "Both quarter-finals feature confirmed-edge favourites; pairing England and Argentina to advance yields 3.16 combined odds for a flat 5-unit accumulator stake."
     }
   ]
