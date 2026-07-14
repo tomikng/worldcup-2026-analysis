@@ -1,0 +1,63 @@
+{
+  "match_id": "wc-100",
+  "date": "2026-07-14",
+  "home": "France",
+  "away": "Spain",
+  "kickoff_utc": "2026-07-14T19:00:00Z",
+  "stage": "SEMI_FINAL",
+  "group": null,
+  "venue": "AT&T Stadium, Arlington, Texas, USA",
+  "analysis": {
+    "summary": "France and Spain meet in the first 2026 World Cup semi-final at AT&T Stadium in a heavyweight clash between the tournament's two most dominant sides. France (6W-0D-0L, 16 GF/2 GA) have been clinical and relentless, with Mbappe's eight-goal haul leading the Golden Boot race, while Spain (6W-0D-0L, 11 GF/1 GA) have been the most defensively airtight team in the tournament with five clean sheets and only one goal conceded across six matches. Spain's recent H2H dominance and superior defensive record give them a marginal edge, but France's explosive attack and five days' rest (vs Spain's four) keep the match extremely close.",
+    "home_form": "France are perfect in this tournament: 3-1 Senegal, 3-0 Iraq, 4-1 Norway (group), then 3-0 Sweden (R32), 1-0 Paraguay (R16), 2-0 Morocco (QF). They have kept three consecutive knockout clean sheets and scored 16 goals in six games (2.67/game). Kylian Mbappe has 8 goals and 3 assists; Michael Olise leads the tournament in assists. France have not trailed in any match in this competition. Mbappe suffered a minor ankle knock against Morocco but trained freely ahead of the semi-final. Aurelien Tchouameni has missed France's last two matches through injury and is a significant absentee in the holding midfield role.",
+    "away_form": "Spain are equally flawless: 0-0 Cape Verde, 4-0 Saudi Arabia, 1-0 Uruguay (group), 3-0 Austria (R32), 1-0 Portugal (R16), 2-1 Belgium (QF). Their defensive record is historic — Unai Simon surpassed Walter Zenga's 1990 World Cup record of 517 consecutive goalkeeping minutes before Belgium's equaliser. Five of six wins have been by a single goal and two were settled after the 85th minute. Mikel Merino's 88th-minute winner against Belgium is characteristic of their tournament: relentless, disciplined, and clutch. No injuries or suspensions reported by Luis de la Fuente.",
+    "h2h": "Spain lead the all-time H2H 18W-7D-13L across 38 meetings. In the last four competitive meetings Spain have won three. Critically, Spain eliminated France 2-1 in the Euro 2024 semi-final (Lamine Yamal, Dani Olmo overturned a Randal Kolo Muani opener) and won a nine-goal Nations League 2025 semi-final thriller 5-4. The most recent World Cup meeting was in 2006 (France won). Spain's recent template against France — patient possession, exploiting Yamal's directness — has proven effective.",
+    "injuries_news": [
+      "Mbappe (France): minor right ankle concern after being substituted in the 78th minute vs Morocco; trained fully on July 13 and expected to start",
+      "Tchouameni (France): missed last two matches (Paraguay R16 and Morocco QF) through unspecified injury; replaced in the pivot by Manu Koné alongside Rabiot; status unconfirmed for semi-final",
+      "Spain: no injuries or suspensions reported; full squad available per Luis de la Fuente pre-match"
+    ],
+    "key_factors": [
+      "Midfield battle: Spain's Rodri-Fabian Ruiz axis is the best in the tournament and particularly dangerous against France without Tchouameni — Koné and Rabiot lack the defensive depth to neutralise Spain's circulation at the base",
+      "Mbappe vs Spain's high line: Pau Cubarsi and Aymeric Laporte must manage Mbappe's runs behind the defensive line; any lapse could be fatal given Mbappe's form",
+      "Yamal vs Digne: Lamine Yamal cutting inside onto his left foot against Lucas Digne is the Spain attack's primary creative route and a key matchup to monitor",
+      "Spain's late-game composure: two of Spain's six wins have come after the 85th minute; they are tactically capable of enduring France's intensity and striking late, including in extra time",
+      "France's knockout defensive shape: Deschamps has set France up conservatively in the knockouts (three clean sheets), suggesting a counter-attacking approach that could produce a low-scoring match",
+      "Referee Ivan Barton (El Salvador): fourth WC 2026 match, previously officiated Turkey-Paraguay where he issued the tournament's first red card under the new mouth-covering rule; no detailed tournament yellow-card-per-game average found — cards market excluded",
+      "Venue: AT&T Stadium is effectively neutral for both sides with no home-crowd advantage for France; heat is mitigated by the indoor/climate-controlled stadium",
+      "Rest: France have had one extra rest day (5 days vs Spain's 4) — a minor tactical advantage in managing Mbappe's ankle"
+    ]
+  },
+  "prediction": {
+    "probs": {
+      "home": 0.48,
+      "draw": 0.00,
+      "away": 0.52
+    },
+    "predicted_score": "0-1",
+    "confidence": 0.60
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.38,
+    "btts_yes": 0.30
+  },
+  "value_notes": "Market h2h odds (home 2.35, draw 3.20, away 3.10) imply 90-min probabilities of France 40.1%, Draw 29.5%, Spain 30.4% after removing the 6.1% overround. Adjusting for a knockout tie (redistributing the draw probability across ET outcomes at ~50-50), the market implies France overall win ~54.9% and Spain overall win ~45.2%. My model assigns France 48% and Spain 52%, reflecting Spain's superior defensive record (1 GA vs France's 2), recent H2H dominance (won 3 of last 4 including Euro 2024 semi 2-1 and NL 2025 semi 5-4), and tactical midfield advantage amplified by Tchouameni's absence. This gives Spain (away, 3.10) an edge of ~0.07 above the 0.05 threshold — Spain h2h is the primary value selection. Totals: market implies over 2.5 at 50.8% (normalized from 1.88). My model estimates ~38% probability of over 2.5 goals, based on both teams' knockout-phase defensive records (France 0 GA in 3, Spain 0.33 GA in 3) and an expected combined total of approximately 2.0 goals using knockout-phase scoring rates. This gives under 2.5 an edge of ~0.12 — the largest edge in this match. No Polymarket data available today (API blocked). Btts_yes estimated at 0.30 given France's three consecutive knockout clean sheets; no btts odds available in the odds file to create a betslip leg.",
+  "sources": [
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d159556fdf-60d8385f463f-1000--spain-at-the-world-cup-2026-squad-fixtures-group-and-history/",
+    "https://www.aljazeera.com/sports/2026/7/12/france-spain-fifa-world-cup-semifinals-mbappe-yamal-prediction-stats-venue",
+    "https://www.aljazeera.com/sports/2026/7/13/france-spain-world-cup-semifinal-mbappe-yamal-predictions-kickoff",
+    "https://bleacherreport.com/articles/25452932-kylian-mbappe-gives-injury-update-after-frances-2026-fifa-world-cup-win-vs-morocco-quarterfinal",
+    "https://sports.yahoo.com/articles/world-cup-injury-tracker-neymar-093810239.html",
+    "https://ca.sports.yahoo.com/news/neither-france-nor-spain-trailed-172200831.html",
+    "https://www.skysports.com/football/news/12098/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
+    "https://www.sportsmole.co.uk/football/france/head-to-head/france-vs-spain-head-to-head-record-and-past-meetings_601120.html",
+    "https://khelnow.com/football/ivan-barton-referee-france-vs-spain-fifa-world-cup-2026",
+    "https://tribuna.com/en/news/2026-07-13-fifa-confirm-officiating-team-for-france-vs-spain-world-cup-semifinal/",
+    "https://sports.yahoo.com/articles/official-salvadoran-referee-ivan-barton-082000347.html",
+    "https://www.skysports.com/football/news/12098/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/france-v-spain-35811169",
+    "https://dknetwork.draftkings.com/2026/07/11/world-cup-2026-france-vs-spain-opening-odds/"
+  ],
+  "generated_at": "2026-07-14T10:15:00Z"
+}
