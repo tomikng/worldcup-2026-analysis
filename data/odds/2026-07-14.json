@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-14",
+  "collected_at": "2026-07-14T14:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-100",
+      "h2h": {
+        "home": 2.35,
+        "draw": 3.20,
+        "away": 3.10
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.88,
+        "under": 1.94
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/france-v-spain-35811169",
+        "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-which-nations-favored-reach-semifinals",
+        "https://dknetwork.draftkings.com/2026/07/11/world-cup-2026-france-vs-spain-opening-odds/",
+        "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-line-time-2026-world-cup-semifinal-picks/"
+      ]
+    }
+  ]
+}
