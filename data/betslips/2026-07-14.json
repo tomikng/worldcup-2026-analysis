@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-14",
+  "slips": [
+    {
+      "slip_id": "2026-07-14-S1",
+      "type": "single",
+      "stake": 5.0,
+      "legs": [
+        {
+          "match_id": "wc-100",
+          "market": "h2h",
+          "selection": "away",
+          "line": null,
+          "odds": 3.10,
+          "model_prob": 0.52,
+          "edge": 0.07,
+          "rationale": "Spain's historic defensive record (1 GA in 6 matches), H2H dominance over France (Euro 2024 semi 2-1, NL 2025 semi 5-4), and midfield control advantage amplified by Tchouameni's absence give Spain a model-estimated 52% chance to advance, vs the market-implied ~45% after redistributing the 90-min draw probability across ET outcomes."
+        }
+      ],
+      "combined_odds": 3.10,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Spain offer a 7-point market-adjusted edge to advance at 3.10 on superior defense, recent H2H dominance, and a tactical midfield edge sharpened by Tchouameni's absence."
+    },
+    {
+      "slip_id": "2026-07-14-S2",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-100",
+          "market": "totals",
+          "selection": "under",
+          "line": 2.5,
+          "odds": 1.94,
+          "model_prob": 0.62,
+          "edge": 0.105,
+          "rationale": "France have conceded 0 goals across three knockout matches and Spain only 1 (Belgium QF); both teams project to a combined ~2.0 goals in a high-stakes semi-final between elite defenses, giving under 2.5 a 62% model probability vs the market's implied 51.5%."
+        }
+      ],
+      "combined_odds": 1.94,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "Under 2.5 edges the market by 10.5 points at 1.94 as both teams' knockout-phase defensive records strongly point to a low-scoring match."
+    }
+  ]
+}
