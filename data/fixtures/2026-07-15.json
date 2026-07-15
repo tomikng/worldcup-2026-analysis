@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-15",
+  "source": "web-research",
+  "fetched_at": "2026-07-15T00:05:00Z",
+  "matches": [
+    {
+      "match_id": "wc-101",
+      "kickoff_utc": "2026-07-15T19:00:00Z",
+      "stage": "SEMI_FINAL",
+      "group": null,
+      "home": "England",
+      "away": "Argentina",
+      "venue": "Mercedes-Benz Stadium, Atlanta, Georgia, USA"
+    }
+  ]
+}

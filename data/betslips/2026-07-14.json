@@ -11,16 +11,16 @@
           "market": "h2h",
           "selection": "away",
           "line": null,
-          "odds": 3.10,
+          "odds": 3.1,
           "model_prob": 0.52,
           "edge": 0.07,
           "rationale": "Spain's historic defensive record (1 GA in 6 matches), H2H dominance over France (Euro 2024 semi 2-1, NL 2025 semi 5-4), and midfield control advantage amplified by Tchouameni's absence give Spain a model-estimated 52% chance to advance, vs the market-implied ~45% after redistributing the 90-min draw probability across ET outcomes."
         }
       ],
-      "combined_odds": 3.10,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 3.1,
+      "status": "won",
+      "payout": 15.5,
+      "settled_at": "2026-07-15T07:26:02Z",
       "rationale": "Spain offer a 7-point market-adjusted edge to advance at 3.10 on superior defense, recent H2H dominance, and a tactical midfield edge sharpened by Tchouameni's absence."
     },
     {
@@ -40,9 +40,9 @@
         }
       ],
       "combined_odds": 1.94,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 19.4,
+      "settled_at": "2026-07-15T07:26:02Z",
       "rationale": "Under 2.5 edges the market by 10.5 points at 1.94 as both teams' knockout-phase defensive records strongly point to a low-scoring match."
     }
   ]

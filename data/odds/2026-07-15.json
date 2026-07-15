@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-15",
+  "collected_at": "2026-07-15T13:45:00Z",
+  "matches": [
+    {
+      "match_id": "wc-101",
+      "h2h": {
+        "home": 2.75,
+        "draw": 2.85,
+        "away": 3.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 2.30,
+        "under": 1.63
+      },
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/england-v-argentina-35815366",
+        "https://news.bet365.com/en-gb/article/england-v-argentina-odds/2026071202044973322",
+        "https://dknetwork.draftkings.com/2026/07/12/world-cup-2026-argentina-vs-england-opening-odds-2/",
+        "https://sportsbook.draftkings.com/leagues/soccer/world-cup-2026"
+      ]
+    }
+  ]
+}
