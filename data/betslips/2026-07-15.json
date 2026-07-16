@@ -11,16 +11,16 @@
           "market": "h2h",
           "selection": "away",
           "line": null,
-          "odds": 3.00,
+          "odds": 3.0,
           "model_prob": 0.56,
           "edge": 0.227,
           "rationale": "Argentina's superior attacking output (17 goals vs England's 13, identical 6 conceded), Messi's historic eight-goal tournament form, and England's weakened centre-back pairing (Quansah suspended, Henderson absent) push Argentina's advancement probability to 0.56, well above the book's implied 0.333 on a 90-min price that must be settled on the ET result."
         }
       ],
-      "combined_odds": 3.00,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "combined_odds": 3.0,
+      "status": "won",
+      "payout": 45.0,
+      "settled_at": "2026-07-16T07:08:36Z",
       "rationale": "Argentina to advance at 3.00 offers a 22.7-point edge over the book's ET-equivalent implied probability; the only qualifying leg today after line-shopping eliminates England home as the lower-edge side of the same market."
     }
   ]

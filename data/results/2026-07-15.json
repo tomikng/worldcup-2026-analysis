@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-15",
+  "source": "web-research",
+  "fetched_at": "2026-07-16T00:10:00Z",
+  "matches": [
+    {
+      "match_id": "wc-101",
+      "home": "England",
+      "away": "Argentina",
+      "home_goals": 1,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "home_cards": 1,
+      "away_cards": 3,
+      "home_reds": 0,
+      "away_reds": 0,
+      "home_corners": 1,
+      "away_corners": 6,
+      "stats_sources": [
+        "https://www.espn.com/soccer/match/_/gameId/760515/argentina-england",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289290/400021540",
+        "https://theanalyst.com/articles/england-vs-argentina-stats-world-cup-2026",
+        "https://www.atlantanewsfirst.com/2026/07/15/world-cup-semifinal-sees-third-yellow-card/"
+      ]
+    }
+  ]
+}
