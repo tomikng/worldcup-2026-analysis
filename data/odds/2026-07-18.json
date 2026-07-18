@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-18",
+  "collected_at": "2026-07-18T10:30:00Z",
+  "matches": [
+    {
+      "match_id": "wc-103",
+      "h2h": {
+        "home": 1.91,
+        "draw": 3.80,
+        "away": 3.80
+      },
+      "dnb": {
+        "home": 1.44,
+        "away": 3.00
+      },
+      "totals": {
+        "line": 2.5,
+        "over": 1.40,
+        "under": 2.98
+      },
+      "btts": {
+        "yes": 1.34,
+        "no": 3.10
+      },
+      "correct_score": {
+        "2-1": 8.50,
+        "1-1": 8.50,
+        "2-2": 10.00,
+        "1-2": 12.00,
+        "1-0": 13.00
+      },
+      "sources": [
+        "https://www.fanduel.com/research/france-vs-england-third-place-prediction-picks-lineups-odds-and-best-bets-world-cup-2026",
+        "https://www.oddschecker.com/us/insight/soccer/20260718-france-vs-england-odds-how-to-bet-on-france-vs-england",
+        "https://dknetwork.draftkings.com/2026/07/15/world-cup-2026-france-vs-england-opening-odds/",
+        "https://www.oddsshark.com/soccer/world-cup/france-england-picks-odds-2026"
+      ]
+    }
+  ]
+}
