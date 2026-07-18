@@ -1,0 +1,54 @@
+{
+  "match_id": "wc-103",
+  "date": "2026-07-18",
+  "home": "France",
+  "away": "England",
+  "kickoff_utc": "2026-07-18T21:00:00Z",
+  "stage": "THIRD_PLACE",
+  "group": null,
+  "venue": "Hard Rock Stadium, Miami Gardens",
+  "analysis": {
+    "summary": "France and England meet in the World Cup 2026 bronze-medal match after losing their respective semifinals — France fell 0-2 to Spain and England was eliminated 1-2 by Argentina in stoppage time. Both sides are motivated to end the tournament on a high, with Kylian Mbappe tied on 8 goals with Lionel Messi in the Golden Boot race, giving him a massive personal incentive in what could also be Didier Deschamps' final match as France manager after 14 years. Third-place playoff matches historically average 3.8 goals per game and have gone over 2.5 goals in 16 of the last 20 editions, strongly supporting an open and entertaining finish.",
+    "home_form": "France were the tournament's most dominant side across six matches before the semifinal — winning all group games (Senegal 3-1, Iraq 3-0, Norway 4-1), then sweeping through the knockout rounds (Sweden 3-0, Paraguay 1-0, Morocco 2-0) before a flat 0-2 defeat to Spain. They scored 16 goals in 7 games (2.29/game) and conceded only 4, with five clean sheets in a row before Spain. William Saliba's back injury in the semifinal is the key concern heading into this match, with Maxence Lacroix set to replace him.",
+    "away_form": "England showed resilience and attacking intent across their run to the last four: they beat Croatia 4-2, drew 0-0 with Ghana, beat Panama 2-0 in the group stage, then beat DR Congo 2-1, Mexico 3-2, and Norway 2-1 (a.e.t.) before losing 1-2 to Argentina via a late stoppage-time header from substitute Lautaro Martinez. They scored 14 goals in 7 games (2.0/game) but conceded 8 — Kane and Bellingham accounted for the majority of goals. Reece James is a doubt after leaving the Argentina semi with a suspected muscular problem.",
+    "h2h": "France hold firm recent superiority over England in major tournaments. Their most recent competitive meeting was the 2022 World Cup quarterfinals, where France won 2-1 through Tchouameni's long-range opener and Giroud's header. In the last three competitive meetings across all competitions, France have won two and drawn one, with England yet to defeat France in a World Cup fixture.",
+    "injuries_news": [
+      "France: William Saliba (back) OUT — left the Spain semifinal in the 30th minute, Maxence Lacroix expected to start at centre-back.",
+      "France: Kylian Mbappe fit, started vs Spain and no new concerns reported; Aurelien Tchouameni completed the semifinal after earlier hamstring issue, fitness being monitored.",
+      "England: Jordan Henderson OUT — broken wrist suffered during the tournament, unavailable.",
+      "England: Reece James doubtful — forced off late vs Argentina with a suspected muscular problem.",
+      "England: Jarell Quansah available after completing suspension; Declan Rice fitness described as being managed."
+    ],
+    "key_factors": [
+      "Mbappe's Golden Boot push — at 8 goals, level with Messi (who plays in the final), Mbappe has every incentive to score; two goals would make him the outright all-time World Cup leading scorer and he cannot be rested.",
+      "Third-place playoff history strongly favours goals — 16 of last 20 World Cup bronze matches went over 2.5 goals (80%), averaging 3.8 goals per game across all 20 editions; neither team has reason to play conservatively.",
+      "France's tournament-long defensive superiority (4 conceded in 7 games) is weakened by Saliba's absence; England's attack (Kane, Bellingham, Saka, Gordon) is capable of exploiting a makeshift France backline.",
+      "France's overall quality and deeper squad (especially with Dembele, Olise, and Doue providing wide width alongside Mbappe) makes them marginal favourites even after their Spain defeat.",
+      "Potential end of an era for France — Deschamps' 14-year reign as manager, plus senior players such as Griezmann and Rabiot may be playing their final World Cup, adding emotional motivation."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.63, "draw": 0.00, "away": 0.37},
+    "predicted_score": "2-1",
+    "confidence": 0.65
+  },
+  "market_probs": {
+    "totals_2.5_over": 0.72,
+    "btts_yes": 0.68
+  },
+  "value_notes": "Market h2h odds (1.91/3.80/3.80) are structured as a 90-minute 3-way market (raw implied: France 52.4%, Draw 26.3%, England 26.3%). Per CLAUDE.md knockout-stage settlement rules, the h2h market settles on the result after extra time (draw impossible), so draw probability is redistributed to the two sides. Model full-match probabilities: France 0.63, England 0.37. France h2h win: model 0.63 vs market-implied raw 0.524, edge +0.106 (qualifies as value, >= 0.05). England h2h win: model 0.37 vs market-implied raw 0.263, edge +0.107 — but CLAUDE.md prohibits betting both sides on the same market; France home win is the preferred selection at higher absolute probability. Draw h2h: model 0.00 vs market 0.263, edge -0.263 — this bet cannot settle as won under knockout-stage rules, avoid. Totals 2.5 over: model 0.72 vs market-implied raw 1/1.40=0.714, edge +0.006 — marginal, no value. BTTS yes: model 0.68 vs market-implied raw 1/1.34=0.746, edge -0.066 — market overprices BTTS relative to this model; no value.",
+  "sources": [
+    "https://www.squawka.com/us/news/world-cup/match-preview-france-vs-england-07-18-26-world-cup-2026-third-place-play-off/",
+    "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff",
+    "https://www.espn.com/soccer/story/_/id/49369105/england-argentina-2026-fifa-world-cup-semifinal-final",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/france-vs-england-injury-suspension-list-predicted-xis_601298.html",
+    "https://www.sportsmole.co.uk/football/france/world-cup-2026/predicted-lineups/saliba-out-cherki-in-predicted-france-xi-vs-england_601255.html",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/france-suffers-an-unexpected-blow-that-brings-back-a-painful-scene-from-the-last-world-cup-2026-07-14",
+    "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026",
+    "https://theanalyst.com/articles/world-cup-third-place-play-off-stats",
+    "https://www.rotowire.com/soccer/article/france-vs-england-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-third-place-playoff-123027",
+    "https://sports.yahoo.com/articles/preview-france-vs-england-team-210500049.html"
+  ],
+  "generated_at": "2026-07-18T10:45:00Z"
+}

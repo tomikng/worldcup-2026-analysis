@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-18",
+  "slips": [
+    {
+      "slip_id": "2026-07-18-S1",
+      "type": "single",
+      "stake": 10.0,
+      "legs": [
+        {
+          "match_id": "wc-103",
+          "market": "h2h",
+          "selection": "home",
+          "line": null,
+          "odds": 1.91,
+          "model_prob": 0.63,
+          "edge": 0.106,
+          "rationale": "France are model favourites at 63% win probability in a knockout that cannot draw, yet the book prices them at only 52.4% implied — a +10.6pp edge that clears the 5pp threshold comfortably."
+        }
+      ],
+      "combined_odds": 1.91,
+      "status": "pending",
+      "payout": null,
+      "settled_at": null,
+      "rationale": "France h2h win carries genuine model edge in the third-place match; Mbappe's Golden Boot incentive and superior tournament-wide quality make them the clear selection at market-underpriced 1.91."
+    }
+  ]
+}
