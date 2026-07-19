@@ -1,0 +1,62 @@
+{
+  "match_id": "wc-104",
+  "date": "2026-07-19",
+  "home": "Spain",
+  "away": "Argentina",
+  "kickoff_utc": "2026-07-19T19:00:00Z",
+  "stage": "FINAL",
+  "group": null,
+  "venue": "MetLife Stadium, East Rutherford, New Jersey",
+  "analysis": {
+    "summary": "Spain and Argentina meet in the 2026 FIFA World Cup Final at MetLife Stadium, pitting the tournament's most defensively dominant side against its most prolific attack. Spain conceded just one goal across seven games en route to the final, controlling opponents through elite midfield possession (avg. 64%) and conceding only to Belgium in the quarterfinal. Argentina went unbeaten in all seven games with 18 goals scored, surviving successive knockout scares against Cape Verde, Egypt (comeback from 2-0 down), Switzerland (extra time), and England (2-1 from 0-1 behind in the 85th-92nd minutes). Both squads have four days of rest after their respective July 14-15 semifinals, and MetLife Stadium's sea-level conditions present no environmental edge to either side.",
+    "home_form": "Spain topped Group H: Cape Verde 0-0, Saudi Arabia 4-0, Uruguay 1-0. Knockout rounds: Austria beaten in the Round of 32 (Mikel Merino stoppage-time winner); clean sheet maintained through the Round of 16 (opponent unconfirmed from sources); Belgium edged 2-1 in the quarterfinal (Fabian Ruiz 30', Merino 88'; De Ketelaere 41' the sole goal conceded in the tournament); France dismantled 2-0 in the semifinal (Oyarzabal penalty 22', Porro 58'). Luis de la Fuente's 4-3-3 built on Rodri anchoring a midfield trio with Fabian Ruiz and Dani Olmo, with Lamine Yamal providing pace and directness on the right. Mikel Oyarzabal leads the tournament's scoring chart with 5 goals.",
+    "away_form": "Argentina swept Group J: Algeria 3-0 (Messi hat-trick, 17', 60', 76'), Austria 2-0 (Messi brace, breaking the all-time WC scoring record with 18 career goals), Jordan 3-1 (Messi scored again). Knockout rounds: Cape Verde beaten in the Round of 32; Egypt beaten 3-2 in the Round of 16 after trailing 0-2; Switzerland beaten in extra time via goals from Julian Alvarez and Lautaro Martinez in the QF; England stunned 2-1 in the semifinal after conceding first, with Enzo Fernandez levelling in the 85th minute and Lautaro Martinez heading home in the 90+2nd (both Messi assists). Messi has 8 goals and 10 KO-stage assists in the 2026 tournament. Lionel Scaloni's 4-3-3 centres around Messi as a free-role creator alongside Alvarez and Giuliano Simeone, with Mac Allister, Paredes, and Enzo Fernandez providing the engine in midfield.",
+    "h2h": "Spain and Argentina have met 14 times overall, each side winning 6 with 2 draws. In six competitive fixtures, each side has won 3 with no draws, averaging 4.0 total goals per match. Their only World Cup meeting was at the 1966 group stage — Argentina won 2-1. This is their first-ever World Cup knockout encounter.",
+    "injuries_news": [
+      "Spain — Yeremy Pino (Crystal Palace): ruled out for the entire tournament with a serious shoulder injury sustained in the group stage against Uruguay; no replacement called up.",
+      "Spain — Pedro Porro: marginal doubt with a muscular problem picked up in the semifinal against France; camp expects him to be fit to start.",
+      "Spain — Lamine Yamal: seen limping at the end of the semifinal but camp has raised no injury concerns; expected to start.",
+      "Spain — No suspensions entering the final.",
+      "Argentina — Cristian Romero: suffered muscular cramps after the Switzerland quarterfinal but played the full 90 minutes against England and is confirmed fit for the final.",
+      "Argentina — Leandro Paredes: substituted off at 64 minutes against England; no injury confirmed, expected to be available.",
+      "Argentina — No suspensions entering the final."
+    ],
+    "key_factors": [
+      "Spain's defensive record is historically elite: 1 goal conceded in 7 WC 2026 games; the Belgium goal in the QF is the only blemish across approximately 630 minutes of tournament football.",
+      "Argentina's late-game resilience: all four knockout wins were settled after the 75th minute, suggesting they can absorb Spain's possession and strike late — a genuine threat to even Spain's discipline.",
+      "Lionel Messi at 39: leading all-time WC scorer with 21 career goals, 8 goals and 10 KO-stage assists in 2026 alone; individually capable of deciding a match that Spain's system cannot fully neutralize.",
+      "Spain's midfield control: Rodri's ball-security, positional discipline, and counterpressing starve opponents of possession and transition opportunities — exactly the kind of midfield that could neutralize Messi's link-up play.",
+      "Referee Slavko Vincic (Slovenia): first Slovenian to referee a World Cup final; showed 7 yellows and 1 red in 3 WC 2026 matches (approx. 2.3 yellows/game); no penalties awarded in those games. Moderate card rate expected.",
+      "Tactical matchup: Spain win by controlling the ball and allowing Argentina no transitions; Argentina win by staying compact, being patient, and engineering moments of chaos through Messi — half of Argentina's tournament goals arrived after the 75th minute.",
+      "World Cup final precedent: Spain's only final was 2010 (1-0 Netherlands, clean sheet). Recent WC finals (2022, 2018, 2014) averaged 3.0 goals per 90-plus-ET, but defensive-specialist finals (2010, 2014 final after 90 min) finished 0-0 or 1-0 in regulation."
+    ]
+  },
+  "prediction": {
+    "probs": {"home": 0.58, "draw": 0.0, "away": 0.42},
+    "predicted_score": "1-0",
+    "confidence": 0.65
+  },
+  "market_probs": {
+    "btts_yes": 0.40,
+    "totals_2.5_over": 0.38
+  },
+  "value_notes": "Market-implied probabilities after removing overround (Spain 1.64, Argentina 2.36; total implied 1.034): Spain 59.0%, Argentina 41.0%. Model assigns Spain 58%, Argentina 42% — negligible divergence on the match-winner; no edge flagged on h2h in either direction. The primary divergence is BTTS: market implies BTTS yes at approximately 50.7% (normalized from 1.86/1.91 lines; raw implied 53.8%+52.4%=106.2% overround). Spain's exceptional defensive record — 1 goal conceded in 7 tournament games, clean sheets against Saudi Arabia, Uruguay, Austria, France, and their R16 opponent — makes BTTS yes closer to 40%, implying BTTS No (1.91) carries a model edge of approximately +0.076, meeting the ≥ 0.05 threshold. This is the only flagged value selection. Totals: model places over 2.5 at 38% vs market-implied 40.0% (normalized); the under 2.5 edge is approximately +0.020, below the 0.05 threshold and not flagged.",
+  "sources": [
+    "https://sports.yahoo.com/soccer/article/world-cup-final-bracket-spain-vs-argentina-matchup-schedule-and-path-to-the-championship-164942403.html",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-what-you-need-to-know-about-spain-vs-argentina-170149233.html",
+    "https://www.sportsmole.co.uk/football/spain/world-cup-2026/injuries-and-suspensions/yamal-porro-latest-spain-injury-suspension-list-vs-argentina_601315.html",
+    "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/injuries-and-suspensions/romero-paredes-latest-argentina-injury-suspension-list-for-world-cup-final_601316.html",
+    "https://sports.yahoo.com/soccer/live/england-vs-argentina-world-cup-2026-score-result-schedule-live-updates-150000908.html",
+    "https://www.espn.com/soccer/story/_/id/49369105/england-argentina-2026-fifa-world-cup-semifinal-final",
+    "https://www.espn.com/soccer/match/_/gameId/760514/spain-france",
+    "https://www.espn.com/soccer/match/_/gameId/760511/belgium-spain",
+    "https://inside.fifa.com/news/slavko-vincic-world-cup-2026-final-referee-spain-argentina",
+    "https://worldsoccertalk.com/world-cup/slavko-vincic-to-referee-2026-world-cup-final-his-record-with-lionel-messis-argentina-and-lamine-yamals-spain/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-path-of-the-argentine-national-team-to-the-fifa-world-cup-2026-final-2026-07-17",
+    "https://www.rte.ie/sport/world-cup-2026/2026/0628/1580709-world-cup-2026-jordan-v-argentina-algeria-v-austria/",
+    "https://worldsoccertalk.com/amp/world-cup/spains-defensive-wall-vs-argentinas-chaos-breaking-down-the-2026-world-cup-final-tactical-battle/",
+    "https://sportsbook.fanduel.com/soccer/fifa-world-cup/spain-v-argentina-35824699",
+    "https://dknetwork.draftkings.com/2026/07/15/world-cup-2026-spain-vs-argentina-opening-odds/"
+  ],
+  "generated_at": "2026-07-19T10:45:00Z"
+}

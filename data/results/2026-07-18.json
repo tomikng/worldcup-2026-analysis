@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-18",
+  "source": "web-research",
+  "fetched_at": "2026-07-19T00:20:00Z",
+  "matches": [
+    {
+      "match_id": "wc-103",
+      "home": "France",
+      "away": "England",
+      "home_goals": 4,
+      "away_goals": 6,
+      "status": "FINISHED",
+      "home_cards": null,
+      "away_cards": null,
+      "home_reds": null,
+      "away_reds": null,
+      "home_corners": null,
+      "away_corners": null,
+      "notes": "England led 4-0 at halftime (Rice, Konsa, Saka x2). France rallied to 4-4 before England pulled away to 6-4. Saka hat-trick (inc. penalty). Mbappe brace broke all-time World Cup scoring record (22 goals). Full 90 minutes, no extra time or shootout. Card and corner stats could not be verified from accessible sources.",
+      "stats_sources": [
+        "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final",
+        "https://www.cp24.com/news/sports/2026/07/18/england-takes-4-0-lead-over-france-at-halftime-of-world-cup-third-place-match/",
+        "https://www.101greatgoals.com/football/world-cup-news/england-vs-france-live-kylian-mbappe-rice-konsa-saka-goals/",
+        "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-saka-hat-trick-overcomes-mbappe-brace-as-england-clinch-bronze-with-6-4-win-over-france20260719045512",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289291/400021542"
+      ]
+    }
+  ]
+}

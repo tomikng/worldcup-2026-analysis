@@ -1,0 +1,18 @@
+{
+  "date": "2026-07-19",
+  "collected_at": "2026-07-19T00:35:00Z",
+  "matches": [
+    {
+      "match_id": "wc-104",
+      "h2h": {"home": 1.64, "away": 2.36},
+      "totals": {"line": 2.5, "over": 2.38, "under": 1.59},
+      "btts": {"yes": 1.86, "no": 1.91},
+      "sources": [
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/spain-v-argentina-35824699",
+        "https://dknetwork.draftkings.com/2026/07/15/world-cup-2026-spain-vs-argentina-opening-odds/",
+        "https://www.foxsports.com/stories/soccer/spain-vs-argentina-odds-spain-favored-over-world-cup-final",
+        "https://www.nbcsports.com/soccer/world-cup/news/2026-world-cup-final-argentina-vs-spain-prediction-odds-trends-and-best-bet"
+      ]
+    }
+  ]
+}

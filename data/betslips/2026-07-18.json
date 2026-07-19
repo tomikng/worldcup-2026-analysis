@@ -18,9 +18,9 @@
         }
       ],
       "combined_odds": 1.91,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "lost",
+      "payout": 0.0,
+      "settled_at": "2026-07-19T07:12:13Z",
       "rationale": "France h2h win carries genuine model edge in the third-place match; Mbappe's Golden Boot incentive and superior tournament-wide quality make them the clear selection at market-underpriced 1.91."
     }
   ]
