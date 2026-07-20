@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-19",
+  "source": "web-research",
+  "fetched_at": "2026-07-20T06:00:00Z",
+  "matches": [
+    {
+      "match_id": "wc-104",
+      "home": "Spain",
+      "away": "Argentina",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "home_cards": 0,
+      "away_cards": 4,
+      "home_reds": 0,
+      "away_reds": 1,
+      "home_corners": 9,
+      "away_corners": 4,
+      "notes": "Spain won 1-0 after extra time. Ferran Torres scored in 106'. Enzo Fernandez (Argentina) sent off in 90+2' (second yellow card, red). No penalty shootout. Argentina played all 30 minutes of extra time with 10 men. Leandro Paredes received a post-match red card for sparking a brawl.",
+      "stats_sources": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289292/400021543",
+        "https://www.espn.com/soccer/match/_/gameId/760517/argentina-spain",
+        "https://sports.yahoo.com/soccer/live/spain-argentina-world-cup-2026-score-result-schedule-live-updates-130000682.html",
+        "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+        "https://www.espn.com/soccer/story/_/id/49403084/2026-world-cup-final-spain-argentina-score-ferran-torres"
+      ]
+    }
+  ]
+}

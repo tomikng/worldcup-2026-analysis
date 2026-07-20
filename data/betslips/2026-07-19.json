@@ -12,15 +12,15 @@
           "selection": "no",
           "line": null,
           "odds": 1.91,
-          "model_prob": 0.60,
+          "model_prob": 0.6,
           "edge": 0.076,
           "rationale": "Spain's tournament-best defensive record (1 goal conceded in 7 games, 5 clean sheets) makes it unlikely Argentina score; model places BTTS No at 60% against a book-implied 52.4% at 1.91."
         }
       ],
       "combined_odds": 1.91,
-      "status": "pending",
-      "payout": null,
-      "settled_at": null,
+      "status": "won",
+      "payout": 9.55,
+      "settled_at": "2026-07-20T07:09:59Z",
       "rationale": "Spain's elite defence suppresses Argentina's scoring chances enough to give BTTS No a +0.076 edge at 1.91 — the only qualifying leg on today's card."
     }
   ]
